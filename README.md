@@ -76,7 +76,9 @@ new Test.Unit.Runner({
 
 # Similarity Analysis
 
-- [moss](http://theory.stanford.edu/~aiken/moss/)
-- [CloneDR](http://www.semanticdesigns.com/Products/Clone/)
-- [Sonar](http://docs.codehaus.org/display/SONAR/JavaScript+Plugin)
-- [Same](http://sourceforge.net/projects/same/) Language Agnostic
+- [moss](http://theory.stanford.edu/~aiken/moss/) (Web Service)
+- [CloneDR](http://www.semanticdesigns.com/Products/Clone/) (Not Free - 500$) 
+- [Same](http://sourceforge.net/projects/same/) (Line based - for Text - not PL)
+- [JCCD](http://jccd.sourceforge.net/) API - may be able to adapt it to javascript.
+- [Simian] (http://www.harukizaemon.com/simian/features.html) 
+- [CPD] (http://pmd.svn.sourceforge.net/viewvc/pmd/trunk/pmd/src/main/java/net/sourceforge/pmd/lang/ecmascript/) - maybe - only basic support.
