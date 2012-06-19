@@ -82,3 +82,4 @@ new Test.Unit.Runner({
 - [JCCD](http://jccd.sourceforge.net/) API - may be able to adapt it to javascript.
 - [Simian] (http://www.harukizaemon.com/simian/features.html) 
 - [CPD] (http://pmd.svn.sourceforge.net/viewvc/pmd/trunk/pmd/src/main/java/net/sourceforge/pmd/lang/ecmascript/) - maybe - only basic support.
+- [tctoolkit](http://code.google.com/p/tctoolkit/) - small project (inactive) uses pygments
