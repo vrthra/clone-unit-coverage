@@ -2,7 +2,7 @@
 
 [wiki](http://en.wikipedia.org/wiki/List_of_unit_testing_frameworks#JavaScript)
 
-- JSUnit [JQuery](http://docs.jquery.com/QUnit)
+- JSUnit [JQuery](http://jsunit.net/)
 
 ````Javascript
 test("a basic test example", function() {
@@ -17,7 +17,8 @@ Uses browser to execute and show results.
 
 Needs Firefox
 
-- QUnit
+- [QUnit](http://docs.jquery.com/QUnit)
+  JsChillicat
 - Mocha
 - [YUI Test](http://developer.yahoo.com/yui/yuitest/)
 - JSSpec
@@ -64,6 +65,18 @@ new Test.Unit.Runner({
 
 # Coverage toosl JS
 
+- [JSCoverage](http://siliconforks.com/jscoverage/)
+- [ScriptCover](http://code.google.com/p/script-cover/)
+  Chrome Extension
+- [JesCov](http://jescov.olabini.com/)
+- [coveraje](http://coveraje.github.com/)
+- Sonar
+- [Saga](http://timurstrekalov.github.com/saga/)
+- [JsTestDriverCoverage](http://code.google.com/p/js-test-driver/wiki/CodeCoverage)
 
-Contains review of state of art.
+# Similarity Analysis
 
+- [moss](http://theory.stanford.edu/~aiken/moss/)
+- [CloneDR](http://www.semanticdesigns.com/Products/Clone/)
+- [Sonar](http://docs.codehaus.org/display/SONAR/JavaScript+Plugin)
+- [Same](http://sourceforge.net/projects/same/) Language Agnostic
