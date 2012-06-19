@@ -1,4 +1,4 @@
-# Unit Test Frameworks for JS
+## Unit Test Frameworks for JS
 
 [wiki](http://en.wikipedia.org/wiki/List_of_unit_testing_frameworks#JavaScript)
 
@@ -54,16 +54,7 @@ new Test.Unit.Runner({
 ````
 - [BusterJS](http://busterjs.org/docs/overview/)
 
-## Caveats
-
-- Dont know how to unit test UI stuff.
-- Things that use a browser to run and show tests are harder to use.
-- Unit of unittesting is functions. It is not entirely clear how to extract them because
-  it seems that functions are also used as modules.
-- We need to figure out what portion of a library is actually concerned with testing.
-  So as to make a matrix of which functions have a good coverage over a given function.
-
-# Coverage toosl JS
+## Coverage toosl JS
 
 - [JSCoverage](http://siliconforks.com/jscoverage/)
 - [ScriptCover](http://code.google.com/p/script-cover/)
@@ -74,7 +65,7 @@ new Test.Unit.Runner({
 - [Saga](http://timurstrekalov.github.com/saga/)
 - [JsTestDriverCoverage](http://code.google.com/p/js-test-driver/wiki/CodeCoverage)
 
-# Similarity Analysis
+## Similarity Analysis
 
 - [moss](http://theory.stanford.edu/~aiken/moss/) (Web Service)
 - [CloneDR](http://www.semanticdesigns.com/Products/Clone/) (Not Free - 500$) 
@@ -83,3 +74,18 @@ new Test.Unit.Runner({
 - [Simian] (http://www.harukizaemon.com/simian/features.html) 
 - [CPD] (http://pmd.svn.sourceforge.net/viewvc/pmd/trunk/pmd/src/main/java/net/sourceforge/pmd/lang/ecmascript/) - maybe - only basic support.
 - [tctoolkit](http://code.google.com/p/tctoolkit/) - small project (inactive) uses pygments
+
+
+## Observations
+
+- Things that use a browser to run and show tests are harder to use for our purpose.
+  - Unit is functions in JS unlike Java. It is not entirely clear how to extract them because
+    it seems that functions are also used as modules.
+- We need to figure out what portion of a library is actually concerned with testing.
+    So as to make a matrix of which functions have a good coverage over a given function.
+- Every one seems to be writing their own unit test frameworks,
+    - At least 20 different Unit-test frameworks that get a mention in programming language sites.
+    - Library specific unit tests (dojo/YUI/JQuery) that are not reusable elsewhere without
+      modification.
+
+
