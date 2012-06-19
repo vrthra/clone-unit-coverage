@@ -1,4 +1,5 @@
-js-unit-coverage
+Unit Test Frameworks and Coverage for JavaScript
 ================
 
-Paper
+Contains review of state of art.
+
