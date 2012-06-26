@@ -54,7 +54,7 @@ new Test.Unit.Runner({
 ````
 - [BusterJS](http://busterjs.org/docs/overview/)
 
-## Coverage toosl JS
+## Coverage tools JS
 
 - [JSCoverage](http://siliconforks.com/jscoverage/)
 - [ScriptCover](http://code.google.com/p/script-cover/)
