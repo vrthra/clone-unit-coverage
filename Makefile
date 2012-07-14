@@ -1,8 +1,15 @@
+simian=./simian/bin/simian-2.3.33.jar
+
+default:
+	@echo "  " cp js-to-test.js check
+	@echo "  " make check-\<js-to-test\>.js
+
 run-all:
-	(cd ../src; java -jar simian/bin/simian-2.3.33.jar  **/*.js) | echo $(FILE) # ./simian.rb $(FILE)
+	find src -name \*.js > args.lst #|xargs java -jar $(simian)
+#| ./simian.rb $(file)
 
 # target = $@ source = $^
-check-%.js: %.js
-	mkdir ../src/tst
-	cp $^ ../src/tst
-	$(MAKE) run-all FILE=$^
+%.js: check/%.js
+	@rm -rf src/tst; mkdir src/tst
+	@cp $^ src/tst
+	@$(MAKE) run-all file=$@

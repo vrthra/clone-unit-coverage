@@ -1,0 +1,28 @@
+#!/usr/bin/ruby
+require 'rubygems'
+require 'ffi'
+require 'fileutils'
+
+module Exec
+  extend FFI::Library
+  ffi_lib FFI::Library::LIBC
+  attach_function :execvp, [:string, :pointer], :int        
+end
+
+lst = STDIN.readlines.map{|l| l.chomp}
+
+strptrs = []
+
+ARGV.each do |l|
+   strptrs << FFI::MemoryPointer.from_string(l)
+end
+
+strptrs += lst.map{|l| FFI::MemoryPointer.from_string(l)}
+strptrs << nil
+
+argv = FFI::MemoryPointer.new(:pointer, strptrs.length)
+  strptrs.each_with_index do |p, i|
+  argv[i].put_pointer(0,  p)
+end
+
+Exec.execvp(ARGV[0], argv)

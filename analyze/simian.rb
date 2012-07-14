@@ -1,8 +1,14 @@
 #!/usr/bin/ruby
 # vim: set expandtab ts=2 sw=2:
 
+$file = ARGV[0]
+
 def processdup(c)
- puts c
+   c.each do |l|
+     if l[:file] =~ /$file/
+        p c
+     end
+   end
 end
 
 collect = []
@@ -21,4 +27,4 @@ STDIN.readlines.each do |l|
   end
 end
 processdup(collect)
-puts others
+#puts others
