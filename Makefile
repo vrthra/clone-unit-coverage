@@ -1,15 +1,20 @@
 simian=./simian/bin/simian-2.3.33.jar
 
+check=check
+
+ls = $(shell ls src)
+
 default:
 	@echo "  " cp js-to-test.js check
-	@echo "  " make check-\<js-to-test\>.js
+	@echo "  " make \<js-to-test\>.js
 
 run-all:
-	find src -name \*.js > args.lst #|xargs java -jar $(simian)
-#| ./simian.rb $(file)
+	find src -name \*.js |./xa java -jar $(simian)| ./analyze/simian.rb $(file)
+
+run-once:
+	find src/$(src) $(file) -name \*.js |./xa java -jar $(simian)| ./analyze/simian.rb $(file)
 
 # target = $@ source = $^
 %.js: check/%.js
-	@rm -rf src/tst; mkdir src/tst
-	@cp $^ src/tst
-	@$(MAKE) run-all file=$@
+	for i in $(ls); do echo $i; $(MAKE) run-once file=$^ src=$$i; done
+	#@$(MAKE) run-all file=$@

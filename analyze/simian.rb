@@ -4,10 +4,19 @@
 $file = ARGV[0]
 
 def processdup(c)
+   has=false;
+   count = 0
    c.each do |l|
-     if l[:file] =~ /$file/
-        p c
+     if l[:file].include?($file)
+        has = true
+     else
+        count += l[:count]
      end
+   end
+   if has
+      c.each do |l|
+        puts "#{l[:file]} similarity #{l[:count]}" unless l[:file].include?($file)
+      end
    end
 end
 
@@ -27,4 +36,3 @@ STDIN.readlines.each do |l|
   end
 end
 processdup(collect)
-#puts others
