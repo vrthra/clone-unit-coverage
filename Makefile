@@ -13,14 +13,15 @@ default:
 	@echo "  " cp js-to-test.js check
 	@echo "  " make \<js-to-test\>.js
 
-run-all:
-	find src -name \*.js |./xa java -jar $(simian)| tee run.log
 
 run-once:
 	find src/$(src) $(file) -name \*.js |./xa java -jar $(simian)| ./analyze/simian.rb $(file)
 
 run-pmd:
-	java -Xss10m -Xmx1024m -cp $(pmdjars) $(pmdrunner) --files src --language ecmascript --minimum-tokens 100
+	java -Xss10m -Xmx1548m -cp $(pmdjars) $(pmdrunner) --files src --language ecmascript --minimum-tokens 100 | tee run.pmd.log
+
+run-simian:
+	find src -name \*.js |./xa java -jar $(simian)| tee run.simian.log
 
 # target = $@ source = $^
 %.js: check/%.js

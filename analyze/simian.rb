@@ -1,23 +1,14 @@
 #!/usr/bin/ruby
 # vim: set expandtab ts=2 sw=2:
+require 'analyze/clonelib'
 
 $file = ARGV[0]
-
-def processdup(c)
-   has=false;
-   count = 0
-   c.each do |l|
-     if l[:file].include?($file)
-        has = true
-     else
-        count += l[:count]
-     end
-   end
-   if has
-      c.each do |l|
-        puts "#{l[:file]} similarity #{l[:count]}" unless l[:file].include?($file)
-      end
-   end
+$all = false
+case $file
+when /-all/
+ $all = true
+else
+ $all = false
 end
 
 collect = []
