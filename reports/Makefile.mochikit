@@ -1,0 +1,17 @@
+include common.mk
+
+tstls = $(shell cd $(base)/src/mochikit/tests; ls test_*.html)
+
+
+run-report: $(tstls)
+	echo $(tstls)
+
+test_%.html:
+	mkdir -p mochikit.results
+	echo "$@---------------------------" >> $(base)/log/saga.log
+	$(sagacmd) -b $(base)/src/mochikit/ -i tests/$@ \
+               -o mochikit.results -s PER_TEST -n '.*test.*js$$' 2>&1 \
+               >> $(base)/log/saga.log
+	$(base)/bin/analyze/saga.rb mochikit.results/tests/$@-report.html |\
+               tee -a $(base)/log/mochikit-report.log
+

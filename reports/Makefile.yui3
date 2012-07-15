@@ -1,0 +1,17 @@
+# -b ~/research/yui3/src -i 'test/tests/*-tests.html' -o /var/www/reports -s PER_TEST $*
+include common.mk
+
+tstls = $(shell cd $(base)/src/yui3/src/test/tests; ls *-tests.html)
+
+
+run-report: $(tstls)
+	echo $(tstls)
+
+%-tests.html:
+	mkdir -p yui3.results
+	echo "$@---------------------------" >> $(base)/log/saga.log
+	$(sagacmd) -b $(base)/src/yui3/src -i test/tests/$@ \
+               -o yui3.results -s PER_TEST -n '.*test.*js$$' 2>&1 \
+               >> $(base)/log/saga.log
+	$(base)/bin/analyze/saga.rb yui3.results/test/tests/$@-report.html |\
+               tee -a $(base)/log/yui3-report.log

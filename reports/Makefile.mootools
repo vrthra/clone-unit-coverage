@@ -1,0 +1,18 @@
+include common.mk
+
+tstls = $(shell cd $(base)/src/mootools/more; ls Tests/Specs/index.html)
+
+
+run-report: $(tstls)
+	echo $(tstls)
+
+#~/research/mootools/more -i 'Tests/Specs/index.html' -o /var/www/reports -s PER_TEST -n 'Tests/.*/.*\.js' $*
+
+%.html:
+	mkdir -p mootools.results
+	echo "$@---------------------------" >> $(base)/log/saga.log
+	$(sagacmd) -b $(base)/src/mootools/more/ -i $@ \
+               -o mootools.results -s PER_TEST -n '.*test.*js$$' 2>&1 \
+               >> $(base)/log/saga.log
+	$(base)/bin/analyze/saga.rb mootools.results/$@-report.html |\
+               tee -a $(base)/log/mootools-report.log
