@@ -12,13 +12,13 @@ default:
 
 
 run-once:
-	find src/$(src) $(file) -name \*.js |./xa java -jar $(simian)| ./analyze/simian.rb $(file)
+	find src/$(src) $(file) -name \*.js |./bin/xa java -jar $(simian)| ./analyze/simian.rb $(file)
 
 run-pmd:
 	java -Xss10m -Xmx1548m -cp $(pmdjars) $(pmdrunner) --files src --language ecmascript --minimum-tokens 100 | tee run.pmd.log
 
 run-simian:
-	find src -name \*.js |./xa java -jar $(simian)| tee run.simian.log
+	find src -name \*.js |./bin/xa java -jar $(simian)| tee run.simian.log
 
 reports = $(shell cd reports; ls Makefile.*)
 run-report: $(reports)

@@ -1,8 +1,3 @@
-runner: ../src/dojo-release-1.7.3-src/util/doh/_parseURLargs.js 17/68
-runner: ../src/dojo-release-1.7.3-src/dojo/dojo.js 346/742
-runner: ../src/dojo-release-1.7.3-src/util/doh/_parseURLargs.js 17/68
-runner: ../src/dojo-release-1.7.3-src/dojo/dojo.js 346/742
-runner: ../src/dojo-release-1.7.3-src/util/doh/_parseURLargs.js 17/68
-runner: ../src/dojo-release-1.7.3-src/dojo/dojo.js 346/742
+
 runner: ../src/dojo-release-1.7.3-src/util/doh/_parseURLargs.js 18/69
 runner: ../src/dojo-release-1.7.3-src/dojo/dojo.js 346/742

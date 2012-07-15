@@ -1,3 +1,4 @@
+
 SpecRunner: ../src/brackets/src/command/Menus.js 1/304
 SpecRunner: ../src/brackets/src/document/DocumentManager.js 1/310
 SpecRunner: ../src/brackets/src/editor/CodeHintManager.js 1/135

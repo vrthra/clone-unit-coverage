@@ -2,7 +2,7 @@
 ajax-test: ../src/jquery/dist/jquery.js 1035/3338
 attributes-test: ../src/jquery/dist/jquery.js 1316/3338
 callback-test: ../src/jquery/dist/jquery.js 655/3338
-core-test: ../src/jquery/dist/jquery.js 1276/3338
+core-test: ../src/jquery/dist/jquery.js 1227/3338
 css-test: ../src/jquery/dist/jquery.js 1103/3338
 data-test: ../src/jquery/dist/jquery.js 1045/3338
 deferred-test: ../src/jquery/dist/jquery.js 670/3338
