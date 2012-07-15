@@ -1,6 +1,6 @@
 #!/usr/bin/ruby
 # vim: set expandtab ts=2 sw=2:
-require 'analyze/clonelib'
+require 'lib/clonelib'
 
 $file = ARGV[0]
 $all = false
