@@ -1,0 +1,5 @@
+test: ../src/bootstrap-tour/deps/jquery.js 1178/3402
+test: ../src/bootstrap-tour/deps/bootstrap-tooltip.js 49/91
+test: ../src/bootstrap-tour/bootstrap-tour.js 99/122
+test: ../src/bootstrap-tour/deps/bootstrap-popover.js 23/23
+test: ../src/bootstrap-tour/deps/jquery.cookie.js 17/17

@@ -1,0 +1,21 @@
+
+ajax-test: ../src/jquery/dist/jquery.js 1035/3338
+attributes-test: ../src/jquery/dist/jquery.js 1316/3338
+callback-test: ../src/jquery/dist/jquery.js 655/3338
+core-test: ../src/jquery/dist/jquery.js 1276/3338
+css-test: ../src/jquery/dist/jquery.js 1103/3338
+data-test: ../src/jquery/dist/jquery.js 1045/3338
+deferred-test: ../src/jquery/dist/jquery.js 670/3338
+deprecated-test: ../src/jquery/dist/jquery.js 588/3338
+dimensions-test: ../src/jquery/dist/jquery.js 971/3338
+effects-test: ../src/jquery/dist/jquery.js 1057/3338
+event-test: ../src/jquery/dist/jquery.js 1381/3338
+exports-test: ../src/jquery/dist/jquery.js 630/3338
+manipulation-test: ../src/jquery/dist/jquery.js 1646/3338
+offset-test: ../src/jquery/dist/jquery.js 746/3338
+queue-test: ../src/jquery/dist/jquery.js 848/3338
+selector2-test: ../src/jquery/dist/jquery.js 932/3338
+selector-test: ../src/jquery/dist/jquery.js 1059/3338
+support-test: ../src/jquery/dist/jquery.js 763/3338
+traversing-test: ../src/jquery/dist/jquery.js 1184/3338
+utilities-test: ../src/jquery/dist/jquery.js 631/3338
