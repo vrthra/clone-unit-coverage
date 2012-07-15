@@ -1,0 +1,16 @@
+include common.mk
+
+tstls = $(shell cd $(base)/src/Modernizr/test; ls *.html)
+
+
+run-report: $(tstls)
+	echo $(tstls)
+
+%.html:
+	mkdir -p Modernizr.results
+	echo "$@---------------------------" >> $(base)/log/saga.log
+	$(sagacmd) -b $(base)/src/Modernizr/ -i test/$@ \
+               -o Modernizr.results -s PER_TEST -n '.*test.*js$$' 2>&1 \
+               >> $(base)/log/saga.log
+	$(base)/bin/analyze/saga.rb Modernizr.results/test/$@-report.html |\
+               tee -a $(base)/log/Modernizr-report.log

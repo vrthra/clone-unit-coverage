@@ -1,0 +1,16 @@
+include common.mk
+
+tstls = $(shell cd $(base)/src/SlickGrid/tests; ls */index.html)
+
+
+run-report: $(tstls)
+	echo $(tstls)
+
+%.html:
+	mkdir -p SlickGrid.results
+	echo "$@---------------------------" >> $(base)/log/saga.log
+	$(sagacmd) -b $(base)/src/SlickGrid/tests -i $@ \
+               -o SlickGrid.results -s PER_TEST -n '.*test.*js$$' 2>&1 \
+               |tee -a $(base)/log/saga.log
+	$(base)/bin/analyze/saga.rb SlickGrid.results/$@-report.html |\
+               tee -a $(base)/log/SlickGrid-report.log

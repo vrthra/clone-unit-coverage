@@ -1,0 +1,20 @@
+include common.mk
+
+tstls = $(shell cd $(base)/src/jQuery-File-Upload/test; ls *.html)
+
+
+run-report: $(tstls)
+	echo $(tstls)
+
+%.html:
+	mkdir -p jQuery-File-Upload.results
+	echo "$@---------------------------" >> $(base)/log/saga.log
+	$(sagacmd) -b $(base)/src/jQuery-File-Upload/test -i $@ \
+               -o jQuery-File-Upload.results -s PER_TEST -n '.*test.*js$$' 2>&1 \
+               >> $(base)/log/saga.log
+	$(base)/bin/analyze/saga.rb jQuery-File-Upload.results/$@-report.html |\
+               tee -a $(base)/log/jQuery-File-Upload-report.log
+
+help:
+	echo
+

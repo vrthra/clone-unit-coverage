@@ -1,0 +1,21 @@
+include common.mk
+
+tstls = $(shell cd $(base)/src/deck.js/test; ls test.*.html)
+
+
+run-report: $(tstls)
+	echo $(tstls)
+
+%.html:
+	mkdir -p deck.js.results
+	echo "$@---------------------------" >> $(base)/log/saga.log
+	$(sagacmd) -b $(base)/src/deck.js/test -i $@ \
+               -o deck.js.results -s PER_TEST -n '.*test.*js$$' 2>&1 \
+               |tee -a $(base)/log/saga.log
+	$(base)/bin/analyze/saga.rb deck.js.results/$@-report.html |\
+               tee -a $(base)/log/deck.js-report.log
+
+help:
+	echo "requires adding new spec files under deck.js/test/test.spec.*"
+
+

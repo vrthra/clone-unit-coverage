@@ -1,0 +1,20 @@
+include common.mk
+
+tstls = $(shell cd $(base)/src/history.js/tests; ls *.html)
+
+
+run-report: $(tstls)
+	echo $(tstls)
+
+%.html:
+	mkdir -p history.js.results
+	echo "$@---------------------------" >> $(base)/log/saga.log
+	$(sagacmd) -b $(base)/src/history.js/tests -i $@ \
+               -o history.js.results -s PER_TEST -n '.*test.*js$$' 2>&1 \
+               >> $(base)/log/saga.log
+	$(base)/bin/analyze/saga.rb history.js.results/$@-report.html |\
+               tee -a $(base)/log/history.js-report.log
+
+help:
+	echo
+

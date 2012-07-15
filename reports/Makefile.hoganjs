@@ -1,0 +1,19 @@
+include common.mk
+
+tstls = $(shell cd $(base)/src/hogan.js/test; ls *.html)
+
+
+run-report: $(tstls)
+	echo $(tstls)
+
+%.html:
+	mkdir -p hogan.js.results
+	echo "$@---------------------------" >> $(base)/log/saga.log
+	$(sagacmd) -b $(base)/src/hogan.js/ -i test/$@ \
+               -o hogan.js.results -s PER_TEST -n '.*test.*js$$' 2>&1 \
+               |tee -a $(base)/log/saga.log
+	$(base)/bin/analyze/saga.rb hogan.js.results/test/$@-report.html |\
+               tee -a $(base)/log/hogan.js-report.log
+
+help:
+	echo requres submodule init and update

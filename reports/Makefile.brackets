@@ -1,0 +1,16 @@
+include common.mk
+
+tstls = $(shell cd $(base)/src/brackets/test; ls *.html)
+
+
+run-report: $(tstls)
+	echo $(tstls)
+
+%.html:
+	mkdir -p brackets.results
+	echo "$@---------------------------" >> $(base)/log/saga.log
+	$(sagacmd) -b $(base)/src/brackets/ -i test/$@ \
+               -o brackets.results -s PER_TEST -n '.*test.*js$$' 2>&1 \
+               >> $(base)/log/saga.log
+	$(base)/bin/analyze/saga.rb brackets.results/test/$@-report.html |\
+               tee -a $(base)/log/brackets-report.log

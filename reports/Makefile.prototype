@@ -1,0 +1,22 @@
+include common.mk
+
+#tstls = $(shell cd $(base)/src/prototype/test; ls *.html)
+tstls = $(shell cd $(base)/src/prototype/test/unit/tmp; ls *_test.html)
+
+
+run-report: $(tstls)
+	echo $(tstls)
+
+%.html:
+	mkdir -p prototype.results
+	echo "$@---------------------------" >> $(base)/log/saga.log
+	$(sagacmd) -b $(base)/src/prototype/test/unit -i tmp/$@ \
+               -o prototype.results -s PER_TEST -n '.*test.*js$$' 2>&1 \
+               |tee -a $(base)/log/saga.log
+	$(base)/bin/analyze/saga.rb prototype.results/tmp/$@-report.html |\
+               tee -a $(base)/log/prototype-report.log
+
+help:
+	echo "requires rake test BROWSERS=firefox TESTS=ajax,string"
+
+

@@ -1,0 +1,16 @@
+include common.mk
+
+tstls = $(shell cd $(base)/src/zepto/test; ls *.html)
+
+
+run-report: $(tstls)
+	echo $(tstls)
+
+%.html:
+	mkdir -p zepto.results
+	echo "$@---------------------------" >> $(base)/log/saga.log
+	$(sagacmd) -b $(base)/src/zepto/ -i test/$@ \
+               -o zepto.results -s PER_TEST -n '.*test.*js$$' 2>&1 \
+               >> $(base)/log/saga.log
+	$(base)/bin/analyze/saga.rb zepto.results/test/$@-report.html |\
+               tee -a $(base)/log/zepto-report.log

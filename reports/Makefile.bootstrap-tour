@@ -1,0 +1,16 @@
+include common.mk
+
+tstls = test.html
+
+
+run-report: $(tstls)
+	echo $(tstls)
+
+%.html:
+	mkdir -p bootstrap-tour.results
+	echo "$@---------------------------" >> $(base)/log/saga.log
+	$(sagacmd) -b $(base)/src/bootstrap-tour/ -i $@ \
+               -o bootstrap-tour.results -s PER_TEST -n '.*test.*js$$' 2>&1 \
+               >> $(base)/log/saga.log
+	$(base)/bin/analyze/saga.rb bootstrap-tour.results/$@-report.html |\
+               tee -a $(base)/log/bootstrap-tour-report.log

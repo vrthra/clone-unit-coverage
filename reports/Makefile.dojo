@@ -1,0 +1,24 @@
+#http://localhost/dojo-release-1.7.3-src/util/doh/runner.html?testModule=dojo.tests.i18n
+#java -cp ../saga-cli/target/classes:saga-core/target/classes:../saga-cli-1.0.10/saga-cli-1.0.10-jar-with-dependencies.jar com.github.timurstrekalov.saga.cli.Main \
+     -b ~/research/dojo-release-1.7.3-src/ \
+     -i 'util/doh/runner.html' \
+     -o /var/www/reports -s PER_TEST $*
+
+#/home/rahul/research/dojo-release-1.7.3-src/util/doh/runner.html
+
+include common.mk
+
+tstls = $(shell cd $(base)/src/dojo-release-1.7.3-src/util/doh/; ls runner.html)
+
+run-report: $(tstls)
+	echo $(tstls)
+
+runner.html:
+	mkdir -p dojo.results
+	echo "$@---------------------------" >> $(base)/log/saga.log
+	$(sagacmd) -b $(base)/src/dojo-release-1.7.3-src -i util/doh/$@ \
+               -o dojo.results -s PER_TEST -n '.*test.*js$$' 2>&1
+	$(base)/bin/analyze/saga.rb dojo.results/util/doh/$@-report.html |\
+               tee -a $(base)/log/dojo-report.log
+
+#>> $(base)/log/saga.log

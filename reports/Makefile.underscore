@@ -1,0 +1,16 @@
+include common.mk
+
+tstls = $(shell cd $(base)/src/underscore/test; ls *.html)
+
+
+run-report: $(tstls)
+	echo $(tstls)
+
+%.html:
+	mkdir -p underscore.results
+	echo "$@---------------------------" >> $(base)/log/saga.log
+	$(sagacmd) -b $(base)/src/underscore/ -i test/$@ \
+               -o underscore.results -s PER_TEST -n '.*test.*js$$' 2>&1 \
+               >> $(base)/log/saga.log
+	$(base)/bin/analyze/saga.rb underscore.results/test/$@-report.html |\
+               tee -a $(base)/log/underscore-report.log

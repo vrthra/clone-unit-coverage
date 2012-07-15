@@ -1,0 +1,16 @@
+include common.mk
+
+tstls = $(shell cd $(base)/src/headjs/tests; ls *.html)
+
+
+run-report: $(tstls)
+	echo $(tstls)
+
+%.html:
+	mkdir -p headjs.results
+	echo "$@---------------------------" >> $(base)/log/saga.log
+	$(sagacmd) -b $(base)/src/headjs/ -i tests/$@ \
+               -o headjs.results -s PER_TEST -n '.*test.*js$$' 2>&1 \
+               >> $(base)/log/saga.log
+	$(base)/bin/analyze/saga.rb headjs.results/tests/$@-report.html |\
+               tee -a $(base)/log/headjs-report.log

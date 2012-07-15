@@ -1,0 +1,21 @@
+include common.mk
+
+tstls = $(shell cd $(base)/src/keymaster; ls test.html)
+
+
+run-report: $(tstls)
+	echo $(tstls)
+
+%.html:
+	mkdir -p keymaster.results
+	echo "$@---------------------------" >> $(base)/log/saga.log
+	$(sagacmd) -b $(base)/src/keymaster/ -i $@ \
+               -o keymaster.results -s PER_TEST -n '.*test.*js$$' 2>&1 \
+               |tee -a $(base)/log/saga.log
+	$(base)/bin/analyze/saga.rb keymaster.results/$@-report.html |\
+               tee -a $(base)/log/keymaster-report.log
+
+help:
+	echo "requires adding new spec files under keymaster/test/test.spec.*"
+
+
