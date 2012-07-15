@@ -1,0 +1,17 @@
+sagacli=$(base)/tools/saga/saga-cli
+sagacore=$(base)/tools/saga/saga-cli
+sagalib=$(base)/tools/saga
+sagacp=$(sagacli)/target/classes:$(sagacore)/target/classes:$(sagalib)/saga-cli-1.0.10-jar-with-dependencies.jar
+sagacmd=java -cp $(sagacp) com.github.timurstrekalov.saga.cli.Main
+
+tstls = $(shell cd $(base)/src/jquery/test; ls *-test.html)
+
+
+run-report: $(tstls).report
+	echo $(tstls)
+
+%-test.html:
+	@mkdir -p jquery.results
+	@echo "$@---------------------------" >> $(base)/log/saga.log
+	@$(sagacmd) -b $(base)/src/jquery/ -i test/$@ -o jquery.results -s PER_TEST -n '.*test.*js$$' 2>&1 >> saga.log
+	@$(base)/bin/analyze/saga.rb jquery.results/test/$@-report.html | tee -a $(base)/log/jquery-report.log
