@@ -20,7 +20,7 @@ pmdrunner=net.sourceforge.pmd.cpd.CPD
 #    -reportDuplicateText[+|-]    Prints the duplicate text in reports
 #    -threshold=COUNT             Matches will contain at least the specified number of lines
 
-T=5
+T=10
 simopts= -reportDuplicateText \
          -threshold=$(T) \
          -ignoreCharacters \
@@ -33,7 +33,7 @@ simopts= -reportDuplicateText \
          -ignoreSubtypeNames \
          -ignoreVariableNames 
 
-
+java=java -Xss16m -Xmx1700m 
 
 ls = $(shell ls src)
 
@@ -42,7 +42,7 @@ default:
 	@echo "  " make \<js-to-test\>.js
 
 log/run.pmd.log: 
-	java -Xss10m -Xmx1548m -cp $(pmdjars) $(pmdrunner) \
+	$(java) -cp $(pmdjars) $(pmdrunner) \
              --files src --language ecmascript --minimum-tokens $(T) > log/run.pmd.log
 log/run.simian.log: 
 	find src -name \*.js |./bin/xa java -jar $(simian) $(simopts) > log/run.simian.log
@@ -78,18 +78,19 @@ run-once-simian:
              | tee -a log/simian-$(target).log
 
 run-once-pmd:
-	rm -rf src/match; mkdir -p src/match
+	rm -rf src/$(src)/_match; mkdir -p src/$(src)/_match
 	cp check/$(target) src/match/$(target)
-	java -Xss10m -Xmx1548m -cp $(pmdjars) $(pmdrunner) \
-             --files src --language ecmascript --minimum-tokens $(T) \
+	$(java) -cp $(pmdjars) $(pmdrunner) \
+             --files src/$(src) --language ecmascript --minimum-tokens $(T) \
              | tee -a log/pmd-$(target)-original.log \
-             | ./bin/analyze/pmd.rb src/match/$(target) \
+             | ./bin/analyze/pmd.rb src/$(src)/_match/$(target) \
              | tee -a log/pmd-$(target).log
-	rm -rf src/match
+	rm -rf src/$(src)/_match
 
 # target = $@ source = $^
+type=pmd
 %.js: check/%.js
-	echo > log/simian-$@.log
-	echo > log/simian-$@-original.log
-	for i in $(ls); do echo $i; $(MAKE) run-once-pmd file=$^ target=$@ src=$$i; done
+	echo > log/$(type)-$@.log
+	echo > log/$(type)-$@-original.log
+	for i in $(ls); do echo $i; $(MAKE) run-once-$(type) file=$^ target=$@ src=$$i; done
 
