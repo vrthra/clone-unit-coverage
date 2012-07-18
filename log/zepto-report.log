@@ -2,11 +2,11 @@
 ajax: ../src/zepto/src/polyfill.js 3/20
 ajax: ../src/zepto/src/zepto.js 128/272
 ajax: ../src/zepto/src/event.js 77/129
-ajax: ../src/zepto/test/fixtures/jsonp.js?callback=jsonp3&timestamp=1342383923324&param1=val1&param2=val2 3/4
+ajax: ../src/zepto/test/fixtures/jsonp.js?callback=jsonp3&timestamp=1342412672712&param1=val1&param2=val2 3/4
 ajax: ../src/zepto/vendor/evidence.js 487/588
 ajax: ../src/zepto/src/ajax.js 137/139
-ajax: ../src/zepto/test/fixtures/jsonp.js?callback=jsonp1&timestamp=1342383923080 4/4
-ajax: ../src/zepto/test/fixtures/jsonp.js?timestamp=1342383933968&callback=jsonp4 4/4
+ajax: ../src/zepto/test/fixtures/jsonp.js?callback=jsonp1&timestamp=1342412672441 4/4
+ajax: ../src/zepto/test/fixtures/jsonp.js?timestamp=1342412683378&callback=jsonp4 4/4
 assets_functional: ../src/zepto/src/polyfill.js 3/20
 assets_functional: ../src/zepto/src/zepto.js 74/272
 data: ../src/zepto/src/zepto.js 100/272

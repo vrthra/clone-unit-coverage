@@ -1,5 +1,5 @@
 
-perf-compare: http:/code.jquery.com/jquery.js 697/3447
+perf-compare: http:/code.jquery.com/jquery.js 744/3447
 perf-compare: ../src/jsrender/jsrender.js 182/331
 unit-tests-no-jquery: http:/code.jquery.com/jquery.js 599/3447
 unit-tests-no-jquery: ../src/jsrender/jsrender.js 297/331

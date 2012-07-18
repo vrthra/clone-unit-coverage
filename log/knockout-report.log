@@ -4,9 +4,9 @@ runner: ../src/knockout/spec/editDetectionBehaviors.js 3/138
 runner: ../src/knockout/spec/jsonPostingBehaviors.js 1/26
 runner: ../src/knockout/spec/lib/json2.js 11/89
 runner: ../src/knockout/src/templating/jquery.tmpl/jqueryTmplTemplateEngine.js 15/41
-runner: ../src/knockout/spec/templatingBehaviors.js 150/392
+runner: ../src/knockout/spec/templatingBehaviors.js 155/392
 runner: ../src/knockout/src/templating/templateSources.js 20/37
-runner: ../src/knockout/spec/lib/JSSpec.js 521/861
+runner: ../src/knockout/spec/lib/JSSpec.js 522/861
 runner: ../src/knockout/src/utils.js 158/263
 runner: ../src/knockout/src/subscribables/extenders.js 13/19
 runner: ../src/knockout/src/utils.domManipulation.js 25/36

@@ -87,6 +87,16 @@ run-once-pmd:
              | tee -a log/pmd-$(target).log
 	rm -rf src/$(src)/_match
 
+run-once-clonedigger:
+	(pwd=`pwd`; cd tools/clonedigger/clonedigger/; \
+	find $${pwd} -name \*.js > file.lst; \
+	./clonedigger.py --file-list=./file.lst -o $${pwd}/log/clonedigger.html --language js )
+
+run-once-tctoolkit:
+	(pwd=`pwd`; cd tools/tctoolkit/TCToolkit-0.5.7/tctoolkit; \
+	python cdd.py -f $${pwd}/log/tctoolkit.out ~/research/clone-unit-coverage/src )
+
+
 # target = $@ source = $^
 type=pmd
 %.js: check/%.js
