@@ -104,3 +104,12 @@ type=pmd
 	echo > log/$(type)-$@-original.log
 	for i in $(ls); do echo $i; $(MAKE) run-once-$(type) file=$^ target=$@ src=$$i; done
 
+%.similar : check/%.js
+	echo > log/text-similar-$*.log
+	num=`find src -name \*.js | grep -v test | wc -l`
+	find src -name \*.js | grep -v test | while read a; \
+	do \
+	    echo $^ $$a `./bin/text_similarity.pl --type Text::Similarity::Overlaps $^ $$a` ; \
+	done | tee log/text-similar-$*.log | nl | sed -e "s/^/$${num}:/g"
+
+
