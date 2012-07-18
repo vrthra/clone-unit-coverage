@@ -106,10 +106,9 @@ type=pmd
 
 %.similar : check/%.js
 	echo > log/text-similar-$*.log
-	num=`find src -name \*.js | grep -v test | wc -l`
 	find src -name \*.js | grep -v test | while read a; \
 	do \
-	    echo $^ $$a `./bin/text_similarity.pl --type Text::Similarity::Overlaps $^ $$a` ; \
-	done | tee log/text-similar-$*.log | nl | sed -e "s/^/$${num}:/g"
+	    echo `./bin/text_similarity.pl --type Text::Similarity::Overlaps $^ $$a` $$a; \
+	done | tee log/text-similar-$*.log | nl
 
 
