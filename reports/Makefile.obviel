@@ -1,0 +1,16 @@
+include common.mk
+
+tstls = $(shell cd $(base)/src/obviel/src/test; ls test-*.html)
+
+
+run-report: $(tstls)
+	echo $(tstls)
+
+%.html:
+	mkdir -p obviel.results
+	echo "$@---------------------------" >> $(base)/log/saga.log
+	$(sagacmd) -b $(base)/src/obviel/src -i test/$@ \
+               -o obviel.results -s PER_TEST -n '.*test.*js$$' 2>&1 \
+               >> $(base)/log/saga.log
+	$(base)/bin/analyze/saga.rb obviel.results/test/$@-report.html |\
+               tee -a $(base)/log/obviel-report.log

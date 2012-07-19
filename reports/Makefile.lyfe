@@ -1,0 +1,16 @@
+include common.mk
+
+tstls = $(shell cd $(base)/src/lyfe/; ls *.html)
+
+
+run-report: $(tstls)
+	echo $(tstls)
+
+%.html:
+	mkdir -p lyfe.results
+	echo "$@---------------------------" >> $(base)/log/saga.log
+	$(sagacmd) -b $(base)/src/lyfe/ -i $@ \
+               -o lyfe.results -s PER_TEST -n '.*test.*js$$' 2>&1 \
+               >> $(base)/log/saga.log
+	$(base)/bin/analyze/saga.rb lyfe.results/$@-report.html |\
+               tee -a $(base)/log/lyfe-report.log

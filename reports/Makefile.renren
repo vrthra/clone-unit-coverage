@@ -1,0 +1,16 @@
+include common.mk
+
+tstls = $(shell cd $(base)/src/renren-api-javascript-sdk/test; ls *.html)
+
+
+run-report: $(tstls)
+	echo $(tstls)
+
+%.html:
+	mkdir -p renren-api-javascript-sdk.results
+	echo "$@---------------------------" >> $(base)/log/saga.log
+	$(sagacmd) -b $(base)/src/renren-api-javascript-sdk/ -i test/$@ \
+               -o renren-api-javascript-sdk.results -s PER_TEST -n '.*test.*js$$' 2>&1 \
+               >> $(base)/log/saga.log
+	$(base)/bin/analyze/saga.rb renren-api-javascript-sdk.results/test/$@-report.html |\
+               tee -a $(base)/log/renren-api-javascript-sdk-report.log

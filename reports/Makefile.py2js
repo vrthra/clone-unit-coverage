@@ -1,0 +1,16 @@
+include common.mk
+
+tstls = $(shell cd $(base)/src/py2js/tests; ls *.html)
+
+
+run-report: $(tstls)
+	echo $(tstls)
+
+%.html:
+	mkdir -p py2js.results
+	echo "$@---------------------------" >> $(base)/log/saga.log
+	$(sagacmd) -b $(base)/src/py2js/ -i tests/$@ \
+               -o py2js.results -s PER_TEST -n '.*test.*js$$' 2>&1 \
+               >> $(base)/log/saga.log
+	$(base)/bin/analyze/saga.rb py2js.results/tests/$@-report.html |\
+               tee -a $(base)/log/py2js-report.log
