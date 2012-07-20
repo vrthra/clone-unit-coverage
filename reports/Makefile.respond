@@ -1,0 +1,16 @@
+include common.mk
+
+tstls = $(shell cd $(base)/src/Respond/test; ls *.html)
+
+
+run-report: $(tstls)
+	echo $(tstls)
+
+%.html:
+	mkdir -p Respond.results
+	echo "$@---------------------------" >> $(base)/log/saga.log
+	$(sagacmd) -b $(base)/src/Respond/ -i test/$@ \
+               -o Respond.results -s PER_TEST -n '.*test.*js$$' 2>&1 \
+               >> $(base)/log/saga.log
+	$(base)/bin/analyze/saga.rb Respond.results/test/$@-report.html |\
+               tee -a $(base)/log/Respond-report.log

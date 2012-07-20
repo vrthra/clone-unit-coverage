@@ -1,0 +1,16 @@
+include common.mk
+
+tstls = $(shell cd $(base)/src/html2canvas/tests; ls *.html)
+
+
+run-report: $(tstls)
+	echo $(tstls)
+
+%.html:
+	mkdir -p html2canvas.results
+	echo "$@---------------------------" >> $(base)/log/saga.log
+	$(sagacmd) -b $(base)/src/html2canvas/ -i tests/$@ \
+               -o html2canvas.results -s PER_TEST -n '.*test.*js$$' 2>&1 \
+               >> $(base)/log/saga.log
+	$(base)/bin/analyze/saga.rb html2canvas.results/tests/$@-report.html |\
+               tee -a $(base)/log/html2canvas-report.log

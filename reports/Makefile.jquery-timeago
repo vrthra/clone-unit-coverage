@@ -1,0 +1,16 @@
+include common.mk
+
+tstls = $(shell cd $(base)/src/jquery-timeago/test; ls *.html)
+
+
+run-report: $(tstls)
+	echo $(tstls)
+
+%.html:
+	mkdir -p jquery-timeago.results
+	echo "$@---------------------------" >> $(base)/log/saga.log
+	$(sagacmd) -b $(base)/src/jquery-timeago/ -i test/$@ \
+               -o jquery-timeago.results -s PER_TEST -n '.*test.*js$$' 2>&1 \
+               >> $(base)/log/saga.log
+	$(base)/bin/analyze/saga.rb jquery-timeago.results/test/$@-report.html |\
+               tee -a $(base)/log/jquery-timeago-report.log

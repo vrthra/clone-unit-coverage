@@ -1,0 +1,16 @@
+include common.mk
+
+tstls = $(shell cd $(base)/src/jquery-hive/test; ls *.html)
+
+
+run-report: $(tstls)
+	echo $(tstls)
+
+%.html:
+	mkdir -p jquery-hive.results
+	echo "$@---------------------------" >> $(base)/log/saga.log
+	$(sagacmd) -b $(base)/src/jquery-hive/ -i test/$@ \
+               -o jquery-hive.results -s PER_TEST -n '.*test.*js$$' 2>&1 \
+               >> $(base)/log/saga.log
+	$(base)/bin/analyze/saga.rb jquery-hive.results/test/$@-report.html |\
+               tee -a $(base)/log/jquery-hive-report.log

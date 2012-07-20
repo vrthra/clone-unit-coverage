@@ -1,0 +1,16 @@
+include common.mk
+
+tstls = $(shell cd $(base)/src/jquip/test; ls *.html)
+
+
+run-report: $(tstls)
+	echo $(tstls)
+
+%.html:
+	mkdir -p jquip.results
+	echo "$@---------------------------" >> $(base)/log/saga.log
+	$(sagacmd) -b $(base)/src/jquip/ -i test/$@ \
+               -o jquip.results -s PER_TEST -n '.*test.*js$$' 2>&1 \
+               >> $(base)/log/saga.log
+	$(base)/bin/analyze/saga.rb jquip.results/test/$@-report.html |\
+               tee -a $(base)/log/jquip-report.log

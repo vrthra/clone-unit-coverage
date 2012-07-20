@@ -1,0 +1,16 @@
+include common.mk
+
+tstls = $(shell cd $(base)/src/fullcalendar/tests; ls *.html)
+
+
+run-report: $(tstls)
+	echo $(tstls)
+
+%.html:
+	mkdir -p fullcalendar.results
+	echo "$@---------------------------" >> $(base)/log/saga.log
+	$(sagacmd) -b $(base)/src/fullcalendar/ -i tests/$@ \
+               -o fullcalendar.results -s PER_TEST -n '.*test.*js$$' 2>&1 \
+               |tee -a $(base)/log/saga.log
+	$(base)/bin/analyze/saga.rb fullcalendar.results/tests/$@-report.html |\
+               tee -a $(base)/log/fullcalendar-report.log

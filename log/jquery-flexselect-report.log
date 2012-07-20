@@ -1,0 +1,4 @@
+test: ../src/jquery-flexselect/liquidmetal.js 9/57
+test: ../src/jquery-flexselect/jquery.flexselect.js 78/151
+test: http:/ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.min.js 126/152
+test: script in file:/home/rahul/research/clone-unit-coverage/src/jquery-flexselect/test.html from (-1, -1) to (-1, -1) 1/1

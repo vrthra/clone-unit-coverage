@@ -1,0 +1,16 @@
+include common.mk
+
+tstls = $(shell cd $(base)/src/jquery-tmpl/tests; ls *.html)
+
+
+run-report: $(tstls)
+	echo $(tstls)
+
+%.html:
+	mkdir -p jquery-tmpl.results
+	echo "$@---------------------------" >> $(base)/log/saga.log
+	$(sagacmd) -b $(base)/src/jquery-tmpl/ -i tests/$@ \
+               -o jquery-tmpl.results -s PER_TEST -n '.*test.*js$$' 2>&1 \
+               >> $(base)/log/saga.log
+	$(base)/bin/analyze/saga.rb jquery-tmpl.results/tests/$@-report.html |\
+               tee -a $(base)/log/jquery-tmpl-report.log

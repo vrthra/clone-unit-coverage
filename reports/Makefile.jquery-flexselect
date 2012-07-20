@@ -1,0 +1,16 @@
+include common.mk
+
+tstls = $(shell cd $(base)/src/jquery-flexselect/; ls test.html)
+
+
+run-report: $(tstls)
+	echo $(tstls)
+
+%.html:
+	mkdir -p jquery-flexselect.results
+	echo "$@---------------------------" >> $(base)/log/saga.log
+	$(sagacmd) -b $(base)/src/jquery-flexselect/ -i $@ \
+               -o jquery-flexselect.results -s PER_TEST -n '.*test.*js$$' 2>&1 \
+               >> $(base)/log/saga.log
+	$(base)/bin/analyze/saga.rb jquery-flexselect.results/$@-report.html |\
+               tee -a $(base)/log/jquery-flexselect-report.log

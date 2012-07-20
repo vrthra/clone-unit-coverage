@@ -1,0 +1,16 @@
+include common.mk
+
+tstls = $(shell cd $(base)/src/tinymce/tests; ls *.html)
+
+
+run-report: $(tstls)
+	echo $(tstls)
+
+%.html:
+	mkdir -p tinymce.results
+	echo "$@---------------------------" >> $(base)/log/saga.log
+	$(sagacmd) -b $(base)/src/tinymce/ -i tests/$@ \
+               -o tinymce.results -s PER_TEST -n '.*test.*js$$' 2>&1 \
+               >> $(base)/log/saga.log
+	$(base)/bin/analyze/saga.rb tinymce.results/tests/$@-report.html |\
+               tee -a $(base)/log/tinymce-report.log

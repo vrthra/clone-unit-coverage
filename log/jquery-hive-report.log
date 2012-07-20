@@ -1,0 +1,5 @@
+jquery.hive: http:/code.jquery.com/jquery.js 600/3447
+jquery.hive: ../src/jquery-hive/jquery.hive.js 20/79
+jquery.hive: ../src/jquery-hive/qunit/qunit.js 241/573
+jquery.hive.pollen: ../src/jquery-hive/jquery.hive.pollen.js 230/329
+jquery.hive.pollen: ../src/jquery-hive/qunit/qunit.js 424/573

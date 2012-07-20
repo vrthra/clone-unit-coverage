@@ -1,0 +1,16 @@
+include common.mk
+
+tstls = $(shell cd $(base)/src/CodeMirror2/test; ls *.html)
+
+
+run-report: $(tstls)
+	echo $(tstls)
+
+%.html:
+	mkdir -p CodeMirror2.results
+	echo "$@---------------------------" >> $(base)/log/saga.log
+	$(sagacmd) -b $(base)/src/CodeMirror2/ -i test/$@ \
+               -o CodeMirror2.results -s PER_TEST -n '.*test.*js$$' 2>&1 \
+               >> $(base)/log/saga.log
+	$(base)/bin/analyze/saga.rb CodeMirror2.results/test/$@-report.html |\
+               tee -a $(base)/log/CodeMirror2-report.log

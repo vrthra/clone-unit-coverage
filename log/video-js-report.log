@@ -1,0 +1,10 @@
+test: ../src/video-js/src/tracks.js 14/233
+test: ../src/video-js/src/controls.js 27/218
+test: ../src/video-js/src/json.js 5/26
+test: ../src/video-js/src/tech.js 41/205
+test: ../src/video-js/src/player.js 80/327
+test: ../src/video-js/src/lib.js 40/136
+test: ../src/video-js/src/component.js 29/96
+test: ../src/video-js/src/events.js 47/108
+test: ../src/video-js/src/setup.js 10/20
+test: ../src/video-js/src/core.js 10/17

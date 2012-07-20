@@ -1,0 +1,6 @@
+index: ../src/yepnope.js/prefixes/yepnope.preload.js 1/3
+index: ../src/yepnope.js/prefixes/yepnope.ie-prefix.js 12/24
+index: ../src/yepnope.js/yepnope.js 133/188
+index: ../src/yepnope.js/filters/yepnope.pathfilter.js 7/9
+preload: https:/ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js 83/152
+preload: script in file:/home/rahul/research/clone-unit-coverage/src/yepnope.js/tests/preload.html from (-1, -1) to (-1, -1) 1/1
