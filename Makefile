@@ -59,6 +59,10 @@ dup-simian: log/run.simian.log
 	echo "This finds duplications across projects"
 	cat log/run.simian.log | ./bin/analyze/simian.rb -all
 
+dup-tctoolkit: log/run.tctoolkit.log
+	echo "This finds duplications across projects"
+	cat log/run.tctoolkit.log | ./bin/analyze/tctoolkit.rb -all
+
 reports = $(shell cd reports; ls Makefile.*)
 run-report: $(reports)
 Makefile.%:
