@@ -33,7 +33,7 @@ simopts= -reportDuplicateText \
          -ignoreSubtypeNames \
          -ignoreVariableNames 
 
-java=java -Xss16m -Xmx1700m 
+java=java -Xss24m -Xmx1700m 
 
 ls = $(shell ls src)
 

@@ -1,0 +1,23 @@
+include common.mk
+
+comp=yui_toolbar
+
+tstls = $(shell cd $(base)/src/${comp}/; ls *.html)
+
+
+run-report: $(tstls)
+	echo $(tstls)
+
+%.html:
+	mkdir -p $(comp).results
+	echo "$@---------------------------" >> $(base)/log/saga.log
+	$(sagacmd) -b $(base)/src/$(comp)/ -i $@ \
+               -o $(comp).results -s PER_TEST -n '.*test.*js$$' 2>&1 \
+               |tee -a $(base)/log/saga.log
+	$(base)/bin/analyze/saga.rb $(comp).results/$@-report.html |\
+               tee -a $(base)/log/$(comp)-report.log
+
+help:
+	echo "requires rake test BROWSERS=firefox TESTS=ajax,string"
+
+
