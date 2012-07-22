@@ -1,0 +1,6 @@
+test-no-mustache: ../src/ICanHaz.js/ICanHaz-no-mustache.js 34/41
+test-no-mustache: ../src/ICanHaz.js/ICanHaz-no-mustache.js 34/41
+test-zepto: ../src/ICanHaz.js/ICanHaz.js 117/216
+test-no-mustache: ../src/ICanHaz.js/ICanHaz-no-mustache.js 34/41
+test-zepto: ../src/ICanHaz.js/ICanHaz.js 117/216
+test: ../src/ICanHaz.js/ICanHaz.js 117/216

@@ -1,0 +1,5 @@
+test: ../src/Backbone.localStorage/backbone.localStorage.js 49/51
+test: https:/ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js 1/1
+test: ../src/Backbone.localStorage/backbone.localStorage.js 49/51
+test: https:/ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js 1/1
+test2: ../src/Backbone.localStorage/backbone.localStorage.js 42/51

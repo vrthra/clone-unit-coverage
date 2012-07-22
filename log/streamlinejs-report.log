@@ -1,0 +1,263 @@
+eval-test: ../src/streamlinejs/lib/callbacks/builtins.js 31/181
+eval-test: ../src/streamlinejs/lib/util/future.js 29/49
+eval-test: ../src/streamlinejs/lib/callbacks/runtime.js 97/129
+eval-test: ../src/streamlinejs/lib/callbacks/require-stub.js 11/12
+eval-test: ../src/streamlinejs/lib/callbacks/builtins.js 31/181
+eval-test: ../src/streamlinejs/lib/util/future.js 29/49
+eval-test: ../src/streamlinejs/lib/callbacks/runtime.js 97/129
+eval-test: ../src/streamlinejs/lib/callbacks/require-stub.js 11/12
+flows-test: ../src/streamlinejs/lib/callbacks/runtime.js 63/129
+flows-test: ../src/streamlinejs/lib/util/future.js 29/49
+flows-test: ../src/streamlinejs/lib/callbacks/require-stub.js 11/12
+flows-test: ../src/streamlinejs/lib/util/flows.js 57/60
+flows-test: ../src/streamlinejs/lib/callbacks/builtins.js 174/181
+flows-test: script in file:/home/rahul/research/clone-unit-coverage/src/streamlinejs/test/common/callbacks/flows-test.html from (-1, -1) to (-1, -1) 1/1
+eval-test: ../src/streamlinejs/lib/callbacks/builtins.js 31/181
+eval-test: ../src/streamlinejs/lib/util/future.js 29/49
+eval-test: ../src/streamlinejs/lib/callbacks/runtime.js 97/129
+eval-test: ../src/streamlinejs/lib/callbacks/require-stub.js 11/12
+flows-test: ../src/streamlinejs/lib/callbacks/runtime.js 63/129
+flows-test: ../src/streamlinejs/lib/util/future.js 29/49
+flows-test: ../src/streamlinejs/lib/callbacks/require-stub.js 11/12
+flows-test: ../src/streamlinejs/lib/util/flows.js 57/60
+flows-test: ../src/streamlinejs/lib/callbacks/builtins.js 174/181
+flows-test: script in file:/home/rahul/research/clone-unit-coverage/src/streamlinejs/test/common/callbacks/flows-test.html from (-1, -1) to (-1, -1) 1/1
+futures-test: ../src/streamlinejs/lib/callbacks/builtins.js 31/181
+futures-test: ../src/streamlinejs/lib/util/flows.js 21/60
+futures-test: ../src/streamlinejs/lib/callbacks/runtime.js 76/129
+futures-test: ../src/streamlinejs/lib/callbacks/require-stub.js 11/12
+futures-test: ../src/streamlinejs/lib/util/future.js 47/49
+futures-test: script in file:/home/rahul/research/clone-unit-coverage/src/streamlinejs/test/common/callbacks/futures-test.html from (-1, -1) to (-1, -1) 1/1
+eval-test: ../src/streamlinejs/lib/callbacks/builtins.js 31/181
+eval-test: ../src/streamlinejs/lib/util/future.js 29/49
+eval-test: ../src/streamlinejs/lib/callbacks/runtime.js 97/129
+eval-test: ../src/streamlinejs/lib/callbacks/require-stub.js 11/12
+flows-test: ../src/streamlinejs/lib/callbacks/runtime.js 63/129
+flows-test: ../src/streamlinejs/lib/util/future.js 29/49
+flows-test: ../src/streamlinejs/lib/callbacks/require-stub.js 11/12
+flows-test: ../src/streamlinejs/lib/util/flows.js 57/60
+flows-test: ../src/streamlinejs/lib/callbacks/builtins.js 174/181
+flows-test: script in file:/home/rahul/research/clone-unit-coverage/src/streamlinejs/test/common/callbacks/flows-test.html from (-1, -1) to (-1, -1) 1/1
+futures-test: ../src/streamlinejs/lib/callbacks/builtins.js 31/181
+futures-test: ../src/streamlinejs/lib/util/flows.js 21/60
+futures-test: ../src/streamlinejs/lib/callbacks/runtime.js 76/129
+futures-test: ../src/streamlinejs/lib/callbacks/require-stub.js 11/12
+futures-test: ../src/streamlinejs/lib/util/future.js 47/49
+futures-test: script in file:/home/rahul/research/clone-unit-coverage/src/streamlinejs/test/common/callbacks/futures-test.html from (-1, -1) to (-1, -1) 1/1
+stack-test: ../src/streamlinejs/lib/callbacks/builtins.js 31/181
+stack-test: ../src/streamlinejs/lib/util/flows.js 21/60
+stack-test: ../src/streamlinejs/lib/util/future.js 29/49
+stack-test: ../src/streamlinejs/lib/callbacks/runtime.js 97/129
+stack-test: ../src/streamlinejs/lib/callbacks/require-stub.js 11/12
+stack-test: script in file:/home/rahul/research/clone-unit-coverage/src/streamlinejs/test/common/callbacks/stack-test.html from (-1, -1) to (-1, -1) 1/1
+eval-test: ../src/streamlinejs/lib/callbacks/builtins.js 31/181
+eval-test: ../src/streamlinejs/lib/util/future.js 29/49
+eval-test: ../src/streamlinejs/lib/callbacks/runtime.js 97/129
+eval-test: ../src/streamlinejs/lib/callbacks/require-stub.js 11/12
+flows-test: ../src/streamlinejs/lib/callbacks/runtime.js 63/129
+flows-test: ../src/streamlinejs/lib/util/future.js 29/49
+flows-test: ../src/streamlinejs/lib/callbacks/require-stub.js 11/12
+flows-test: ../src/streamlinejs/lib/util/flows.js 57/60
+flows-test: ../src/streamlinejs/lib/callbacks/builtins.js 174/181
+flows-test: script in file:/home/rahul/research/clone-unit-coverage/src/streamlinejs/test/common/callbacks/flows-test.html from (-1, -1) to (-1, -1) 1/1
+futures-test: ../src/streamlinejs/lib/callbacks/builtins.js 31/181
+futures-test: ../src/streamlinejs/lib/util/flows.js 21/60
+futures-test: ../src/streamlinejs/lib/callbacks/runtime.js 76/129
+futures-test: ../src/streamlinejs/lib/callbacks/require-stub.js 11/12
+futures-test: ../src/streamlinejs/lib/util/future.js 47/49
+futures-test: script in file:/home/rahul/research/clone-unit-coverage/src/streamlinejs/test/common/callbacks/futures-test.html from (-1, -1) to (-1, -1) 1/1
+stack-test: ../src/streamlinejs/lib/callbacks/builtins.js 31/181
+stack-test: ../src/streamlinejs/lib/util/flows.js 21/60
+stack-test: ../src/streamlinejs/lib/util/future.js 29/49
+stack-test: ../src/streamlinejs/lib/callbacks/runtime.js 97/129
+stack-test: ../src/streamlinejs/lib/callbacks/require-stub.js 11/12
+stack-test: script in file:/home/rahul/research/clone-unit-coverage/src/streamlinejs/test/common/callbacks/stack-test.html from (-1, -1) to (-1, -1) 1/1
+eval-test: ../src/streamlinejs/lib/util/future.js 3/49
+eval-test: ../src/streamlinejs/lib/generators/require-stub.js 11/14
+eval-test: ../src/streamlinejs/lib/callbacks/builtins.js 31/181
+eval-test: ../src/streamlinejs/lib/util/future.js 29/49
+eval-test: ../src/streamlinejs/lib/callbacks/runtime.js 97/129
+eval-test: ../src/streamlinejs/lib/callbacks/require-stub.js 11/12
+flows-test: ../src/streamlinejs/lib/callbacks/runtime.js 63/129
+flows-test: ../src/streamlinejs/lib/util/future.js 29/49
+flows-test: ../src/streamlinejs/lib/callbacks/require-stub.js 11/12
+flows-test: ../src/streamlinejs/lib/util/flows.js 57/60
+flows-test: ../src/streamlinejs/lib/callbacks/builtins.js 174/181
+flows-test: script in file:/home/rahul/research/clone-unit-coverage/src/streamlinejs/test/common/callbacks/flows-test.html from (-1, -1) to (-1, -1) 1/1
+futures-test: ../src/streamlinejs/lib/callbacks/builtins.js 31/181
+futures-test: ../src/streamlinejs/lib/util/flows.js 21/60
+futures-test: ../src/streamlinejs/lib/callbacks/runtime.js 76/129
+futures-test: ../src/streamlinejs/lib/callbacks/require-stub.js 11/12
+futures-test: ../src/streamlinejs/lib/util/future.js 47/49
+futures-test: script in file:/home/rahul/research/clone-unit-coverage/src/streamlinejs/test/common/callbacks/futures-test.html from (-1, -1) to (-1, -1) 1/1
+stack-test: ../src/streamlinejs/lib/callbacks/builtins.js 31/181
+stack-test: ../src/streamlinejs/lib/util/flows.js 21/60
+stack-test: ../src/streamlinejs/lib/util/future.js 29/49
+stack-test: ../src/streamlinejs/lib/callbacks/runtime.js 97/129
+stack-test: ../src/streamlinejs/lib/callbacks/require-stub.js 11/12
+stack-test: script in file:/home/rahul/research/clone-unit-coverage/src/streamlinejs/test/common/callbacks/stack-test.html from (-1, -1) to (-1, -1) 1/1
+eval-test: ../src/streamlinejs/lib/util/future.js 3/49
+eval-test: ../src/streamlinejs/lib/generators/require-stub.js 11/14
+flows-test: ../src/streamlinejs/lib/util/flows.js 3/60
+flows-test: ../src/streamlinejs/lib/util/future.js 3/49
+flows-test: ../src/streamlinejs/lib/generators/require-stub.js 11/14
+flows-test: script in file:/home/rahul/research/clone-unit-coverage/src/streamlinejs/test/common/generators/flows-test.html from (-1, -1) to (-1, -1) 1/1
+eval-test: ../src/streamlinejs/lib/callbacks/builtins.js 31/181
+eval-test: ../src/streamlinejs/lib/util/future.js 29/49
+eval-test: ../src/streamlinejs/lib/callbacks/runtime.js 97/129
+eval-test: ../src/streamlinejs/lib/callbacks/require-stub.js 11/12
+flows-test: ../src/streamlinejs/lib/callbacks/runtime.js 63/129
+flows-test: ../src/streamlinejs/lib/util/future.js 29/49
+flows-test: ../src/streamlinejs/lib/callbacks/require-stub.js 11/12
+flows-test: ../src/streamlinejs/lib/util/flows.js 57/60
+flows-test: ../src/streamlinejs/lib/callbacks/builtins.js 174/181
+flows-test: script in file:/home/rahul/research/clone-unit-coverage/src/streamlinejs/test/common/callbacks/flows-test.html from (-1, -1) to (-1, -1) 1/1
+futures-test: ../src/streamlinejs/lib/callbacks/builtins.js 31/181
+futures-test: ../src/streamlinejs/lib/util/flows.js 21/60
+futures-test: ../src/streamlinejs/lib/callbacks/runtime.js 76/129
+futures-test: ../src/streamlinejs/lib/callbacks/require-stub.js 11/12
+futures-test: ../src/streamlinejs/lib/util/future.js 47/49
+futures-test: script in file:/home/rahul/research/clone-unit-coverage/src/streamlinejs/test/common/callbacks/futures-test.html from (-1, -1) to (-1, -1) 1/1
+stack-test: ../src/streamlinejs/lib/callbacks/builtins.js 31/181
+stack-test: ../src/streamlinejs/lib/util/flows.js 21/60
+stack-test: ../src/streamlinejs/lib/util/future.js 29/49
+stack-test: ../src/streamlinejs/lib/callbacks/runtime.js 97/129
+stack-test: ../src/streamlinejs/lib/callbacks/require-stub.js 11/12
+stack-test: script in file:/home/rahul/research/clone-unit-coverage/src/streamlinejs/test/common/callbacks/stack-test.html from (-1, -1) to (-1, -1) 1/1
+eval-test: ../src/streamlinejs/lib/util/future.js 3/49
+eval-test: ../src/streamlinejs/lib/generators/require-stub.js 11/14
+flows-test: ../src/streamlinejs/lib/util/flows.js 3/60
+flows-test: ../src/streamlinejs/lib/util/future.js 3/49
+flows-test: ../src/streamlinejs/lib/generators/require-stub.js 11/14
+flows-test: script in file:/home/rahul/research/clone-unit-coverage/src/streamlinejs/test/common/generators/flows-test.html from (-1, -1) to (-1, -1) 1/1
+futures-test: ../src/streamlinejs/lib/util/flows.js 3/60
+futures-test: ../src/streamlinejs/lib/util/future.js 3/49
+futures-test: ../src/streamlinejs/lib/generators/require-stub.js 11/14
+futures-test: script in file:/home/rahul/research/clone-unit-coverage/src/streamlinejs/test/common/generators/futures-test.html from (-1, -1) to (-1, -1) 1/1
+eval-test: ../src/streamlinejs/lib/callbacks/builtins.js 31/181
+eval-test: ../src/streamlinejs/lib/util/future.js 29/49
+eval-test: ../src/streamlinejs/lib/callbacks/runtime.js 97/129
+eval-test: ../src/streamlinejs/lib/callbacks/require-stub.js 11/12
+flows-test: ../src/streamlinejs/lib/callbacks/runtime.js 63/129
+flows-test: ../src/streamlinejs/lib/util/future.js 29/49
+flows-test: ../src/streamlinejs/lib/callbacks/require-stub.js 11/12
+flows-test: ../src/streamlinejs/lib/util/flows.js 57/60
+flows-test: ../src/streamlinejs/lib/callbacks/builtins.js 174/181
+flows-test: script in file:/home/rahul/research/clone-unit-coverage/src/streamlinejs/test/common/callbacks/flows-test.html from (-1, -1) to (-1, -1) 1/1
+futures-test: ../src/streamlinejs/lib/callbacks/builtins.js 31/181
+futures-test: ../src/streamlinejs/lib/util/flows.js 21/60
+futures-test: ../src/streamlinejs/lib/callbacks/runtime.js 76/129
+futures-test: ../src/streamlinejs/lib/callbacks/require-stub.js 11/12
+futures-test: ../src/streamlinejs/lib/util/future.js 47/49
+futures-test: script in file:/home/rahul/research/clone-unit-coverage/src/streamlinejs/test/common/callbacks/futures-test.html from (-1, -1) to (-1, -1) 1/1
+stack-test: ../src/streamlinejs/lib/callbacks/builtins.js 31/181
+stack-test: ../src/streamlinejs/lib/util/flows.js 21/60
+stack-test: ../src/streamlinejs/lib/util/future.js 29/49
+stack-test: ../src/streamlinejs/lib/callbacks/runtime.js 97/129
+stack-test: ../src/streamlinejs/lib/callbacks/require-stub.js 11/12
+stack-test: script in file:/home/rahul/research/clone-unit-coverage/src/streamlinejs/test/common/callbacks/stack-test.html from (-1, -1) to (-1, -1) 1/1
+eval-test: ../src/streamlinejs/lib/util/future.js 3/49
+eval-test: ../src/streamlinejs/lib/generators/require-stub.js 11/14
+flows-test: ../src/streamlinejs/lib/util/flows.js 3/60
+flows-test: ../src/streamlinejs/lib/util/future.js 3/49
+flows-test: ../src/streamlinejs/lib/generators/require-stub.js 11/14
+flows-test: script in file:/home/rahul/research/clone-unit-coverage/src/streamlinejs/test/common/generators/flows-test.html from (-1, -1) to (-1, -1) 1/1
+futures-test: ../src/streamlinejs/lib/util/flows.js 3/60
+futures-test: ../src/streamlinejs/lib/util/future.js 3/49
+futures-test: ../src/streamlinejs/lib/generators/require-stub.js 11/14
+futures-test: script in file:/home/rahul/research/clone-unit-coverage/src/streamlinejs/test/common/generators/futures-test.html from (-1, -1) to (-1, -1) 1/1
+stack-test: ../src/streamlinejs/lib/util/flows.js 3/60
+stack-test: ../src/streamlinejs/lib/util/future.js 3/49
+stack-test: ../src/streamlinejs/lib/generators/require-stub.js 11/14
+stack-test: script in file:/home/rahul/research/clone-unit-coverage/src/streamlinejs/test/common/generators/stack-test.html from (-1, -1) to (-1, -1) 1/1
+eval-test: ../src/streamlinejs/lib/callbacks/builtins.js 31/181
+eval-test: ../src/streamlinejs/lib/util/future.js 29/49
+eval-test: ../src/streamlinejs/lib/callbacks/runtime.js 97/129
+eval-test: ../src/streamlinejs/lib/callbacks/require-stub.js 11/12
+flows-test: ../src/streamlinejs/lib/callbacks/runtime.js 63/129
+flows-test: ../src/streamlinejs/lib/util/future.js 29/49
+flows-test: ../src/streamlinejs/lib/callbacks/require-stub.js 11/12
+flows-test: ../src/streamlinejs/lib/util/flows.js 57/60
+flows-test: ../src/streamlinejs/lib/callbacks/builtins.js 174/181
+flows-test: script in file:/home/rahul/research/clone-unit-coverage/src/streamlinejs/test/common/callbacks/flows-test.html from (-1, -1) to (-1, -1) 1/1
+futures-test: ../src/streamlinejs/lib/callbacks/builtins.js 31/181
+futures-test: ../src/streamlinejs/lib/util/flows.js 21/60
+futures-test: ../src/streamlinejs/lib/callbacks/runtime.js 76/129
+futures-test: ../src/streamlinejs/lib/callbacks/require-stub.js 11/12
+futures-test: ../src/streamlinejs/lib/util/future.js 47/49
+futures-test: script in file:/home/rahul/research/clone-unit-coverage/src/streamlinejs/test/common/callbacks/futures-test.html from (-1, -1) to (-1, -1) 1/1
+stack-test: ../src/streamlinejs/lib/callbacks/builtins.js 31/181
+stack-test: ../src/streamlinejs/lib/util/flows.js 21/60
+stack-test: ../src/streamlinejs/lib/util/future.js 29/49
+stack-test: ../src/streamlinejs/lib/callbacks/runtime.js 97/129
+stack-test: ../src/streamlinejs/lib/callbacks/require-stub.js 11/12
+stack-test: script in file:/home/rahul/research/clone-unit-coverage/src/streamlinejs/test/common/callbacks/stack-test.html from (-1, -1) to (-1, -1) 1/1
+eval-test: ../src/streamlinejs/lib/util/future.js 3/49
+eval-test: ../src/streamlinejs/lib/generators/require-stub.js 11/14
+flows-test: ../src/streamlinejs/lib/util/flows.js 3/60
+flows-test: ../src/streamlinejs/lib/util/future.js 3/49
+flows-test: ../src/streamlinejs/lib/generators/require-stub.js 11/14
+flows-test: script in file:/home/rahul/research/clone-unit-coverage/src/streamlinejs/test/common/generators/flows-test.html from (-1, -1) to (-1, -1) 1/1
+futures-test: ../src/streamlinejs/lib/util/flows.js 3/60
+futures-test: ../src/streamlinejs/lib/util/future.js 3/49
+futures-test: ../src/streamlinejs/lib/generators/require-stub.js 11/14
+futures-test: script in file:/home/rahul/research/clone-unit-coverage/src/streamlinejs/test/common/generators/futures-test.html from (-1, -1) to (-1, -1) 1/1
+stack-test: ../src/streamlinejs/lib/util/flows.js 3/60
+stack-test: ../src/streamlinejs/lib/util/future.js 3/49
+stack-test: ../src/streamlinejs/lib/generators/require-stub.js 11/14
+stack-test: script in file:/home/rahul/research/clone-unit-coverage/src/streamlinejs/test/common/generators/stack-test.html from (-1, -1) to (-1, -1) 1/1
+stack-test: ../src/streamlinejs/lib/callbacks/builtins.js 1/181
+stack-test: ../src/streamlinejs/lib/callbacks/runtime.js 3/129
+stack-test: ../src/streamlinejs/lib/util/flows.js 3/60
+stack-test: ../src/streamlinejs/lib/callbacks/require-stub.js 11/12
+stack-test: script in file:/home/rahul/research/clone-unit-coverage/src/streamlinejs/test/common/stack-test.html from (-1, -1) to (-1, -1) 1/1
+eval-test: ../src/streamlinejs/lib/callbacks/builtins.js 31/181
+eval-test: ../src/streamlinejs/lib/util/future.js 29/49
+eval-test: ../src/streamlinejs/lib/callbacks/runtime.js 97/129
+eval-test: ../src/streamlinejs/lib/callbacks/require-stub.js 11/12
+flows-test: ../src/streamlinejs/lib/callbacks/runtime.js 63/129
+flows-test: ../src/streamlinejs/lib/util/future.js 29/49
+flows-test: ../src/streamlinejs/lib/callbacks/require-stub.js 11/12
+flows-test: ../src/streamlinejs/lib/util/flows.js 57/60
+flows-test: ../src/streamlinejs/lib/callbacks/builtins.js 174/181
+flows-test: script in file:/home/rahul/research/clone-unit-coverage/src/streamlinejs/test/common/callbacks/flows-test.html from (-1, -1) to (-1, -1) 1/1
+futures-test: ../src/streamlinejs/lib/callbacks/builtins.js 31/181
+futures-test: ../src/streamlinejs/lib/util/flows.js 21/60
+futures-test: ../src/streamlinejs/lib/callbacks/runtime.js 76/129
+futures-test: ../src/streamlinejs/lib/callbacks/require-stub.js 11/12
+futures-test: ../src/streamlinejs/lib/util/future.js 47/49
+futures-test: script in file:/home/rahul/research/clone-unit-coverage/src/streamlinejs/test/common/callbacks/futures-test.html from (-1, -1) to (-1, -1) 1/1
+stack-test: ../src/streamlinejs/lib/callbacks/builtins.js 31/181
+stack-test: ../src/streamlinejs/lib/util/flows.js 21/60
+stack-test: ../src/streamlinejs/lib/util/future.js 29/49
+stack-test: ../src/streamlinejs/lib/callbacks/runtime.js 97/129
+stack-test: ../src/streamlinejs/lib/callbacks/require-stub.js 11/12
+stack-test: script in file:/home/rahul/research/clone-unit-coverage/src/streamlinejs/test/common/callbacks/stack-test.html from (-1, -1) to (-1, -1) 1/1
+eval-test: ../src/streamlinejs/lib/util/future.js 3/49
+eval-test: ../src/streamlinejs/lib/generators/require-stub.js 11/14
+flows-test: ../src/streamlinejs/lib/util/flows.js 3/60
+flows-test: ../src/streamlinejs/lib/util/future.js 3/49
+flows-test: ../src/streamlinejs/lib/generators/require-stub.js 11/14
+flows-test: script in file:/home/rahul/research/clone-unit-coverage/src/streamlinejs/test/common/generators/flows-test.html from (-1, -1) to (-1, -1) 1/1
+futures-test: ../src/streamlinejs/lib/util/flows.js 3/60
+futures-test: ../src/streamlinejs/lib/util/future.js 3/49
+futures-test: ../src/streamlinejs/lib/generators/require-stub.js 11/14
+futures-test: script in file:/home/rahul/research/clone-unit-coverage/src/streamlinejs/test/common/generators/futures-test.html from (-1, -1) to (-1, -1) 1/1
+stack-test: ../src/streamlinejs/lib/util/flows.js 3/60
+stack-test: ../src/streamlinejs/lib/util/future.js 3/49
+stack-test: ../src/streamlinejs/lib/generators/require-stub.js 11/14
+stack-test: script in file:/home/rahul/research/clone-unit-coverage/src/streamlinejs/test/common/generators/stack-test.html from (-1, -1) to (-1, -1) 1/1
+stack-test: ../src/streamlinejs/lib/callbacks/builtins.js 1/181
+stack-test: ../src/streamlinejs/lib/callbacks/runtime.js 3/129
+stack-test: ../src/streamlinejs/lib/util/flows.js 3/60
+stack-test: ../src/streamlinejs/lib/callbacks/require-stub.js 11/12
+stack-test: script in file:/home/rahul/research/clone-unit-coverage/src/streamlinejs/test/common/stack-test.html from (-1, -1) to (-1, -1) 1/1
+transform-test: ../src/streamlinejs/deps/narcissus/lib/jsdecomp.js 2/268
+transform-test: ../src/streamlinejs/deps/narcissus/lib/jsparse.js 4/787
+transform-test: ../src/streamlinejs/lib/callbacks/format.js 3/317
+transform-test: ../src/streamlinejs/lib/callbacks/transform.js 5/674
+transform-test: ../src/streamlinejs/deps/narcissus/lib/jslex.js 3/244
+transform-test: ../src/streamlinejs/lib/callbacks/runtime.js 3/129
+transform-test: ../src/streamlinejs/deps/narcissus/lib/jsdefs.js 43/103
+transform-test: ../src/streamlinejs/lib/callbacks/require-stub.js 11/12
+transform-test: script in file:/home/rahul/research/clone-unit-coverage/src/streamlinejs/test/common/transform-test.html from (-1, -1) to (-1, -1) 1/1

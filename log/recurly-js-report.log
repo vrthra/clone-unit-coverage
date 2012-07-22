@@ -1,0 +1,3 @@
+all: ../src/recurly-js/lib/jquery-1.7.1.js 740/3402
+all: ../src/recurly-js/build/recurly.js 282/895
+all: http:/code.jquery.com/qunit/git/qunit.js 535/779

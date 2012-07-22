@@ -1,0 +1,15 @@
+distribution: ../src/backbone-forms/distribution/backbone-forms.min.js 1/1
+distribution: ../src/backbone-forms/distribution/editors/jquery-ui.min.js 1/1
+distribution: ../src/backbone-forms/distribution/editors/list.min.js 1/1
+distribution: ../src/backbone-forms/distribution/backbone-forms.min.js 1/1
+distribution: ../src/backbone-forms/distribution/editors/jquery-ui.min.js 1/1
+distribution: ../src/backbone-forms/distribution/editors/list.min.js 1/1
+index: ../src/backbone-forms/src/editors/list.js 5/132
+index: ../src/backbone-forms/src/editors/jquery-ui.js 6/122
+index: ../src/backbone-forms/src/editors.js 181/261
+index: ../src/backbone-forms/src/form.js 83/91
+index: ../src/backbone-forms/src/field.js 51/51
+index: ../src/backbone-forms/src/helpers.js 59/59
+index: ../src/backbone-forms/src/setup.js 3/3
+index: ../src/backbone-forms/src/templates/default.js 1/1
+index: ../src/backbone-forms/src/validators.js 32/32

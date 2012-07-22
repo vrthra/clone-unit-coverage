@@ -1,0 +1,3 @@
+TestRunner: http:/yui.yahooapis.com/combo?3.0.0/build/json/json-min.js 1/1
+TestRunner: http:/yui.yahooapis.com/combo?3.0.0/build/loader/loader-min.js 3/3
+TestRunner: http:/yui.yahooapis.com/combo?3.0.0/build/yui/yui-min.js 3/3

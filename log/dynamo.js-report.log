@@ -1,0 +1,2 @@
+test: ../src/dynamo.js/dynamo.js 34/35
+test: http:/ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js 3/3

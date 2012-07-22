@@ -1,0 +1,6 @@
+test-jquery: ../src/jwerty/jwerty.js 26/99
+test-jquery: ../src/jwerty/jwerty.js 26/99
+test-no-jquery-or-zepto: ../src/jwerty/jwerty.js 26/99
+test-jquery: ../src/jwerty/jwerty.js 26/99
+test-no-jquery-or-zepto: ../src/jwerty/jwerty.js 26/99
+test-zepto: ../src/jwerty/jwerty.js 26/99

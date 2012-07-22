@@ -1,0 +1,12 @@
+core: ../src/simplecart-js/simpleCart.js 234/690
+core: https:/raw.github.com/jquery/qunit/master/qunit/qunit.js 406/779
+core: ../src/simplecart-js/simpleCart.js 234/690
+core: https:/raw.github.com/jquery/qunit/master/qunit/qunit.js 406/779
+core.min: https:/raw.github.com/jquery/qunit/master/qunit/qunit.js 407/779
+core.min: ../src/simplecart-js/simpleCart.min.js 31/50
+core: ../src/simplecart-js/simpleCart.js 234/690
+core: https:/raw.github.com/jquery/qunit/master/qunit/qunit.js 406/779
+core.min: https:/raw.github.com/jquery/qunit/master/qunit/qunit.js 407/779
+core.min: ../src/simplecart-js/simpleCart.min.js 31/50
+index: http:/swarm.simplecartjs.com/js/inject.js 9/153
+index: ../src/simplecart-js/simpleCart.js 391/690

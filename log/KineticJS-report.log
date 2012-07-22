@@ -1,0 +1,10 @@
+functionalTests: ../src/KineticJS/dist/kinetic-core.js 86/2047
+functionalTests: ../src/KineticJS/dist/kinetic-core.js 86/2047
+manualTests: ../src/KineticJS/dist/kinetic-core.js 86/2047
+functionalTests: ../src/KineticJS/dist/kinetic-core.js 86/2047
+manualTests: ../src/KineticJS/dist/kinetic-core.js 86/2047
+performanceTests: ../src/KineticJS/dist/kinetic-core.js 86/2047
+functionalTests: ../src/KineticJS/dist/kinetic-core.js 86/2047
+manualTests: ../src/KineticJS/dist/kinetic-core.js 86/2047
+performanceTests: ../src/KineticJS/dist/kinetic-core.js 86/2047
+unitTests: ../src/KineticJS/dist/kinetic-core.js 86/2047

@@ -1,0 +1,15 @@
+sinon: ../src/Sinon.JS/lib/sinon/mock.js 22/184
+sinon: ../src/Sinon.JS/lib/sinon/util/fake_server.js 13/93
+sinon: ../src/Sinon.JS/lib/sinon/util/fake_xml_http_request.js 31/209
+sinon: ../src/Sinon.JS/lib/sinon/sandbox.js 9/53
+sinon: ../src/Sinon.JS/lib/sinon.js 26/151
+sinon: ../src/Sinon.JS/lib/sinon/stub.js 27/154
+sinon: ../src/Sinon.JS/lib/sinon/spy.js 48/265
+sinon: ../src/Sinon.JS/lib/sinon/util/fake_timers.js 28/154
+sinon: ../src/Sinon.JS/lib/sinon/collection.js 12/63
+sinon: ../src/Sinon.JS/lib/sinon/util/fake_server_with_clock.js 8/35
+sinon: ../src/Sinon.JS/lib/sinon/util/event.js 7/27
+sinon: ../src/Sinon.JS/lib/sinon/match.js 47/139
+sinon: ../src/Sinon.JS/lib/sinon/assert.js 37/87
+sinon: ../src/Sinon.JS/lib/sinon/util/timers_ie.js 10/10
+sinon: ../src/Sinon.JS/lib/sinon/util/xhr_ie.js 2/2

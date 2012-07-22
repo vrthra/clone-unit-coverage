@@ -1,0 +1,6 @@
+test: ../src/livequery/jquery.livequery.js 60/85
+test: script in file:/home/rahul/research/clone-unit-coverage/src/livequery/test/test.html from (-1, -1) to (-1, -1) 1/1
+test: ../src/livequery/jquery.livequery.js 60/85
+test: script in file:/home/rahul/research/clone-unit-coverage/src/livequery/test/test.html from (-1, -1) to (-1, -1) 1/1
+test2: ../src/livequery/jquery.livequery.js 60/85
+test2: script in file:/home/rahul/research/clone-unit-coverage/src/livequery/test/test2.html from (-1, -1) to (-1, -1) 1/1

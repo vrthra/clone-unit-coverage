@@ -1,0 +1,4 @@
+runner: ../src/accounting.js/accounting.js 62/90
+runner: ../src/accounting.js/accounting.js 62/90
+test: ../src/accounting.js/accounting.js 75/90
+test: script in file:/home/rahul/research/clone-unit-coverage/src/accounting.js/tests/qunit/test.html from (-1, -1) to (-1, -1) 1/1

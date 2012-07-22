@@ -1,0 +1,128 @@
+tasks: http:/code.jquery.com/jquery-1.4.2.min.js 76/139
+tasks: script in file:/home/rahul/research/clone-unit-coverage/src/persistencejs/test/browser/tasks.html from (-1, -1) to (-1, -1) 1/1
+tasks: http:/code.jquery.com/jquery-1.4.2.min.js 76/139
+tasks: script in file:/home/rahul/research/clone-unit-coverage/src/persistencejs/test/browser/tasks.html from (-1, -1) to (-1, -1) 1/1
+test.jquery-persistence: http:/code.jquery.com/jquery-1.4.3.min.js 80/149
+test.jquery-persistence: script in file:/home/rahul/research/clone-unit-coverage/src/persistencejs/test/browser/test.jquery-persistence.html from (-1, -1) to (-1, -1) 1/1
+tasks: http:/code.jquery.com/jquery-1.4.2.min.js 76/139
+tasks: script in file:/home/rahul/research/clone-unit-coverage/src/persistencejs/test/browser/tasks.html from (-1, -1) to (-1, -1) 1/1
+test.jquery-persistence: http:/code.jquery.com/jquery-1.4.3.min.js 80/149
+test.jquery-persistence: script in file:/home/rahul/research/clone-unit-coverage/src/persistencejs/test/browser/test.jquery-persistence.html from (-1, -1) to (-1, -1) 1/1
+test.migrations: ../src/persistencejs/lib/persistence.js 2/1216
+test.migrations: ../src/persistencejs/lib/persistence.store.sql.js 4/499
+test.migrations: ../src/persistencejs/lib/persistence.migrations.js 28/149
+test.migrations: ../src/persistencejs/lib/persistence.store.websql.js 30/117
+test.migrations: script in file:/home/rahul/research/clone-unit-coverage/src/persistencejs/test/browser/test.migrations.html from (-1, -1) to (-1, -1) 1/1
+tasks: http:/code.jquery.com/jquery-1.4.2.min.js 76/139
+tasks: script in file:/home/rahul/research/clone-unit-coverage/src/persistencejs/test/browser/tasks.html from (-1, -1) to (-1, -1) 1/1
+test.jquery-persistence: http:/code.jquery.com/jquery-1.4.3.min.js 80/149
+test.jquery-persistence: script in file:/home/rahul/research/clone-unit-coverage/src/persistencejs/test/browser/test.jquery-persistence.html from (-1, -1) to (-1, -1) 1/1
+test.migrations: ../src/persistencejs/lib/persistence.js 2/1216
+test.migrations: ../src/persistencejs/lib/persistence.store.sql.js 4/499
+test.migrations: ../src/persistencejs/lib/persistence.migrations.js 28/149
+test.migrations: ../src/persistencejs/lib/persistence.store.websql.js 30/117
+test.migrations: script in file:/home/rahul/research/clone-unit-coverage/src/persistencejs/test/browser/test.migrations.html from (-1, -1) to (-1, -1) 1/1
+test.mixin: ../src/persistencejs/lib/persistence.js 2/1216
+test.mixin: ../src/persistencejs/lib/persistence.store.sql.js 4/499
+test.mixin: ../src/persistencejs/lib/persistence.store.memory.js 8/118
+test.mixin: ../src/persistencejs/lib/persistence.store.websql.js 30/117
+test.mixin: script in file:/home/rahul/research/clone-unit-coverage/src/persistencejs/test/browser/test.mixin.html from (-1, -1) to (-1, -1) 1/1
+tasks: http:/code.jquery.com/jquery-1.4.2.min.js 76/139
+tasks: script in file:/home/rahul/research/clone-unit-coverage/src/persistencejs/test/browser/tasks.html from (-1, -1) to (-1, -1) 1/1
+test.jquery-persistence: http:/code.jquery.com/jquery-1.4.3.min.js 80/149
+test.jquery-persistence: script in file:/home/rahul/research/clone-unit-coverage/src/persistencejs/test/browser/test.jquery-persistence.html from (-1, -1) to (-1, -1) 1/1
+test.migrations: ../src/persistencejs/lib/persistence.js 2/1216
+test.migrations: ../src/persistencejs/lib/persistence.store.sql.js 4/499
+test.migrations: ../src/persistencejs/lib/persistence.migrations.js 28/149
+test.migrations: ../src/persistencejs/lib/persistence.store.websql.js 30/117
+test.migrations: script in file:/home/rahul/research/clone-unit-coverage/src/persistencejs/test/browser/test.migrations.html from (-1, -1) to (-1, -1) 1/1
+test.mixin: ../src/persistencejs/lib/persistence.js 2/1216
+test.mixin: ../src/persistencejs/lib/persistence.store.sql.js 4/499
+test.mixin: ../src/persistencejs/lib/persistence.store.memory.js 8/118
+test.mixin: ../src/persistencejs/lib/persistence.store.websql.js 30/117
+test.mixin: script in file:/home/rahul/research/clone-unit-coverage/src/persistencejs/test/browser/test.mixin.html from (-1, -1) to (-1, -1) 1/1
+test.persistence: ../src/persistencejs/lib/persistence.js 2/1216
+test.persistence: ../src/persistencejs/lib/persistence.store.sql.js 4/499
+test.persistence: ../src/persistencejs/lib/persistence.store.memory.js 8/118
+test.persistence: ../src/persistencejs/lib/persistence.store.websql.js 30/117
+test.persistence: script in file:/home/rahul/research/clone-unit-coverage/src/persistencejs/test/browser/test.persistence.html from (-1, -1) to (-1, -1) 1/1
+tasks: http:/code.jquery.com/jquery-1.4.2.min.js 76/139
+tasks: script in file:/home/rahul/research/clone-unit-coverage/src/persistencejs/test/browser/tasks.html from (-1, -1) to (-1, -1) 1/1
+test.jquery-persistence: http:/code.jquery.com/jquery-1.4.3.min.js 80/149
+test.jquery-persistence: script in file:/home/rahul/research/clone-unit-coverage/src/persistencejs/test/browser/test.jquery-persistence.html from (-1, -1) to (-1, -1) 1/1
+test.migrations: ../src/persistencejs/lib/persistence.js 2/1216
+test.migrations: ../src/persistencejs/lib/persistence.store.sql.js 4/499
+test.migrations: ../src/persistencejs/lib/persistence.migrations.js 28/149
+test.migrations: ../src/persistencejs/lib/persistence.store.websql.js 30/117
+test.migrations: script in file:/home/rahul/research/clone-unit-coverage/src/persistencejs/test/browser/test.migrations.html from (-1, -1) to (-1, -1) 1/1
+test.mixin: ../src/persistencejs/lib/persistence.js 2/1216
+test.mixin: ../src/persistencejs/lib/persistence.store.sql.js 4/499
+test.mixin: ../src/persistencejs/lib/persistence.store.memory.js 8/118
+test.mixin: ../src/persistencejs/lib/persistence.store.websql.js 30/117
+test.mixin: script in file:/home/rahul/research/clone-unit-coverage/src/persistencejs/test/browser/test.mixin.html from (-1, -1) to (-1, -1) 1/1
+test.persistence: ../src/persistencejs/lib/persistence.js 2/1216
+test.persistence: ../src/persistencejs/lib/persistence.store.sql.js 4/499
+test.persistence: ../src/persistencejs/lib/persistence.store.memory.js 8/118
+test.persistence: ../src/persistencejs/lib/persistence.store.websql.js 30/117
+test.persistence: script in file:/home/rahul/research/clone-unit-coverage/src/persistencejs/test/browser/test.persistence.html from (-1, -1) to (-1, -1) 1/1
+test.search: ../src/persistencejs/lib/persistence.js 2/1216
+test.search: ../src/persistencejs/lib/persistence.store.sql.js 4/499
+test.search: ../src/persistencejs/lib/persistence.search.js 6/150
+test.search: ../src/persistencejs/lib/persistence.store.websql.js 30/117
+test.search: script in file:/home/rahul/research/clone-unit-coverage/src/persistencejs/test/browser/test.search.html from (-1, -1) to (-1, -1) 1/1
+tasks: http:/code.jquery.com/jquery-1.4.2.min.js 76/139
+tasks: script in file:/home/rahul/research/clone-unit-coverage/src/persistencejs/test/browser/tasks.html from (-1, -1) to (-1, -1) 1/1
+test.jquery-persistence: http:/code.jquery.com/jquery-1.4.3.min.js 80/149
+test.jquery-persistence: script in file:/home/rahul/research/clone-unit-coverage/src/persistencejs/test/browser/test.jquery-persistence.html from (-1, -1) to (-1, -1) 1/1
+test.migrations: ../src/persistencejs/lib/persistence.js 2/1216
+test.migrations: ../src/persistencejs/lib/persistence.store.sql.js 4/499
+test.migrations: ../src/persistencejs/lib/persistence.migrations.js 28/149
+test.migrations: ../src/persistencejs/lib/persistence.store.websql.js 30/117
+test.migrations: script in file:/home/rahul/research/clone-unit-coverage/src/persistencejs/test/browser/test.migrations.html from (-1, -1) to (-1, -1) 1/1
+test.mixin: ../src/persistencejs/lib/persistence.js 2/1216
+test.mixin: ../src/persistencejs/lib/persistence.store.sql.js 4/499
+test.mixin: ../src/persistencejs/lib/persistence.store.memory.js 8/118
+test.mixin: ../src/persistencejs/lib/persistence.store.websql.js 30/117
+test.mixin: script in file:/home/rahul/research/clone-unit-coverage/src/persistencejs/test/browser/test.mixin.html from (-1, -1) to (-1, -1) 1/1
+test.persistence: ../src/persistencejs/lib/persistence.js 2/1216
+test.persistence: ../src/persistencejs/lib/persistence.store.sql.js 4/499
+test.persistence: ../src/persistencejs/lib/persistence.store.memory.js 8/118
+test.persistence: ../src/persistencejs/lib/persistence.store.websql.js 30/117
+test.persistence: script in file:/home/rahul/research/clone-unit-coverage/src/persistencejs/test/browser/test.persistence.html from (-1, -1) to (-1, -1) 1/1
+test.search: ../src/persistencejs/lib/persistence.js 2/1216
+test.search: ../src/persistencejs/lib/persistence.store.sql.js 4/499
+test.search: ../src/persistencejs/lib/persistence.search.js 6/150
+test.search: ../src/persistencejs/lib/persistence.store.websql.js 30/117
+test.search: script in file:/home/rahul/research/clone-unit-coverage/src/persistencejs/test/browser/test.search.html from (-1, -1) to (-1, -1) 1/1
+test.sync: script in file:/home/rahul/research/clone-unit-coverage/src/persistencejs/test/browser/test.sync.html from (-1, -1) to (-1, -1) 1/1
+tasks: http:/code.jquery.com/jquery-1.4.2.min.js 76/139
+tasks: script in file:/home/rahul/research/clone-unit-coverage/src/persistencejs/test/browser/tasks.html from (-1, -1) to (-1, -1) 1/1
+test.jquery-persistence: http:/code.jquery.com/jquery-1.4.3.min.js 80/149
+test.jquery-persistence: script in file:/home/rahul/research/clone-unit-coverage/src/persistencejs/test/browser/test.jquery-persistence.html from (-1, -1) to (-1, -1) 1/1
+test.migrations: ../src/persistencejs/lib/persistence.js 2/1216
+test.migrations: ../src/persistencejs/lib/persistence.store.sql.js 4/499
+test.migrations: ../src/persistencejs/lib/persistence.migrations.js 28/149
+test.migrations: ../src/persistencejs/lib/persistence.store.websql.js 30/117
+test.migrations: script in file:/home/rahul/research/clone-unit-coverage/src/persistencejs/test/browser/test.migrations.html from (-1, -1) to (-1, -1) 1/1
+test.mixin: ../src/persistencejs/lib/persistence.js 2/1216
+test.mixin: ../src/persistencejs/lib/persistence.store.sql.js 4/499
+test.mixin: ../src/persistencejs/lib/persistence.store.memory.js 8/118
+test.mixin: ../src/persistencejs/lib/persistence.store.websql.js 30/117
+test.mixin: script in file:/home/rahul/research/clone-unit-coverage/src/persistencejs/test/browser/test.mixin.html from (-1, -1) to (-1, -1) 1/1
+test.persistence: ../src/persistencejs/lib/persistence.js 2/1216
+test.persistence: ../src/persistencejs/lib/persistence.store.sql.js 4/499
+test.persistence: ../src/persistencejs/lib/persistence.store.memory.js 8/118
+test.persistence: ../src/persistencejs/lib/persistence.store.websql.js 30/117
+test.persistence: script in file:/home/rahul/research/clone-unit-coverage/src/persistencejs/test/browser/test.persistence.html from (-1, -1) to (-1, -1) 1/1
+test.search: ../src/persistencejs/lib/persistence.js 2/1216
+test.search: ../src/persistencejs/lib/persistence.store.sql.js 4/499
+test.search: ../src/persistencejs/lib/persistence.search.js 6/150
+test.search: ../src/persistencejs/lib/persistence.store.websql.js 30/117
+test.search: script in file:/home/rahul/research/clone-unit-coverage/src/persistencejs/test/browser/test.search.html from (-1, -1) to (-1, -1) 1/1
+test.sync: script in file:/home/rahul/research/clone-unit-coverage/src/persistencejs/test/browser/test.sync.html from (-1, -1) to (-1, -1) 1/1
+test.uki-persistence: ../src/persistencejs/lib/persistence.js 2/1216
+test.uki-persistence: ../src/persistencejs/lib/persistence.store.sql.js 4/499
+test.uki-persistence: ../src/persistencejs/lib/persistence.store.memory.js 8/118
+test.uki-persistence: ../src/persistencejs/lib/persistence.store.websql.js 30/117
+test.uki-persistence: http:/static.ukijs.org/pkg/0.3.5/uki.js 183/229
+test.uki-persistence: script in file:/home/rahul/research/clone-unit-coverage/src/persistencejs/test/browser/test.uki-persistence.html from (-1, -1) to (-1, -1) 1/1

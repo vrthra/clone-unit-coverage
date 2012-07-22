@@ -1,0 +1,3 @@
+test: http:/github.com/jquery/qunit/raw/master/qunit/qunit.js 317/779
+test: http:/ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js 77/139
+test: script in file:/home/rahul/research/clone-unit-coverage/src/jQuery-Collapse/test/test.html from (-1, -1) to (-1, -1) 1/1

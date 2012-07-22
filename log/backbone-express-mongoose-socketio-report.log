@@ -1,0 +1,17 @@
+tests: ../src/backbone-express-mongoose-socketio/public/js/libs/jquery-1.4.2.js 504/2470
+tests: ../src/backbone-express-mongoose-socketio/public/js/profiling/config.js 5/15
+tests: ../src/backbone-express-mongoose-socketio/public/js/plugins.js 5/11
+tests: http:/www.google-analytics.com/ga.js 51/60
+tests: ../src/backbone-express-mongoose-socketio/public/js/libs/modernizr-1.6.min.js 16/18
+tests: ../src/backbone-express-mongoose-socketio/public/js/profiling/yahoo-profiling.min.js 16/16
+tests: script in file:/home/rahul/research/clone-unit-coverage/src/backbone-express-mongoose-socketio/public/demo/tests.html from (-1, -1) to (-1, -1) 1/1
+tests: ../src/backbone-express-mongoose-socketio/public/js/libs/jquery-1.4.2.js 504/2470
+tests: ../src/backbone-express-mongoose-socketio/public/js/profiling/config.js 5/15
+tests: ../src/backbone-express-mongoose-socketio/public/js/plugins.js 5/11
+tests: http:/www.google-analytics.com/ga.js 51/60
+tests: ../src/backbone-express-mongoose-socketio/public/js/libs/modernizr-1.6.min.js 16/18
+tests: ../src/backbone-express-mongoose-socketio/public/js/profiling/yahoo-profiling.min.js 16/16
+tests: script in file:/home/rahul/research/clone-unit-coverage/src/backbone-express-mongoose-socketio/public/demo/tests.html from (-1, -1) to (-1, -1) 1/1
+index: http:/ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js 84/139
+index: ../src/backbone-express-mongoose-socketio/public/js/plugins.js 8/11
+index: script in file:/home/rahul/research/clone-unit-coverage/src/backbone-express-mongoose-socketio/public/test/index.html from (-1, -1) to (-1, -1) 1/1

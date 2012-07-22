@@ -1,0 +1,9 @@
+index: ../src/jQuery-Plugins/cross-domain-ajax/jquery.xdomainajax.js 16/18
+index: http:/query.yahooapis.com/v1/public/yql?callback=jsonp1342983926839&_=1342983927228&q=select+*+from+html+where+url%3D%22http%3A%2F%2Fgoogle.com%22+and+xpath%3D%22*%22&format=xml 1/1
+index: script in file:/home/rahul/research/clone-unit-coverage/src/jQuery-Plugins/cross-domain-ajax/test/1.3.2/index.html from (-1, -1) to (-1, -1) 1/1
+index: ../src/jQuery-Plugins/cross-domain-ajax/jquery.xdomainajax.js 16/18
+index: http:/query.yahooapis.com/v1/public/yql?callback=jsonp1342983926839&_=1342983927228&q=select+*+from+html+where+url%3D%22http%3A%2F%2Fgoogle.com%22+and+xpath%3D%22*%22&format=xml 1/1
+index: script in file:/home/rahul/research/clone-unit-coverage/src/jQuery-Plugins/cross-domain-ajax/test/1.3.2/index.html from (-1, -1) to (-1, -1) 1/1
+index: ../src/jQuery-Plugins/cross-domain-ajax/jquery.xdomainajax.js 16/18
+index: http:/query.yahooapis.com/v1/public/yql?callback=jsonp1342983938380&q=select+*+from+html+where+url%3D%22http%3A%2F%2Fgoogle.com%22+and+xpath%3D%22*%22&format=xml 1/1
+index: script in file:/home/rahul/research/clone-unit-coverage/src/jQuery-Plugins/cross-domain-ajax/test/1.4a2/index.html from (-1, -1) to (-1, -1) 1/1

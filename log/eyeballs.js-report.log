@@ -1,0 +1,449 @@
+test_binding: ../src/eyeballs.js/src/modules/o_O.model.js 28/97
+test_binding: ../src/eyeballs.js/dist/jquery/jquery-1.4.2.min.js 78/139
+test_binding: ../src/eyeballs.js/src/o_O.js 34/57
+test_binding: script in file:/home/rahul/research/clone-unit-coverage/src/eyeballs.js/test/unit/test_binding.html from (-1, -1) to (-1, -1) 1/1
+test_binding: ../src/eyeballs.js/src/modules/o_O.model.js 28/97
+test_binding: ../src/eyeballs.js/dist/jquery/jquery-1.4.2.min.js 78/139
+test_binding: ../src/eyeballs.js/src/o_O.js 34/57
+test_binding: script in file:/home/rahul/research/clone-unit-coverage/src/eyeballs.js/test/unit/test_binding.html from (-1, -1) to (-1, -1) 1/1
+test_controller: ../src/eyeballs.js/src/o_O.js 24/57
+test_controller: ../src/eyeballs.js/dist/jquery/jquery-1.4.2.min.js 101/139
+test_controller: ../src/eyeballs.js/src/drivers/jquery/modules/o_O.controller.js 26/27
+test_controller: script in file:/home/rahul/research/clone-unit-coverage/src/eyeballs.js/test/unit/test_controller.html from (-1, -1) to (-1, -1) 1/1
+test_binding: ../src/eyeballs.js/src/modules/o_O.model.js 28/97
+test_binding: ../src/eyeballs.js/dist/jquery/jquery-1.4.2.min.js 78/139
+test_binding: ../src/eyeballs.js/src/o_O.js 34/57
+test_binding: script in file:/home/rahul/research/clone-unit-coverage/src/eyeballs.js/test/unit/test_binding.html from (-1, -1) to (-1, -1) 1/1
+test_controller: ../src/eyeballs.js/src/o_O.js 24/57
+test_controller: ../src/eyeballs.js/dist/jquery/jquery-1.4.2.min.js 101/139
+test_controller: ../src/eyeballs.js/src/drivers/jquery/modules/o_O.controller.js 26/27
+test_controller: script in file:/home/rahul/research/clone-unit-coverage/src/eyeballs.js/test/unit/test_controller.html from (-1, -1) to (-1, -1) 1/1
+test_dom: ../src/eyeballs.js/src/drivers/jquery/modules/o_O.controller.js 1/27
+test_dom: ../src/eyeballs.js/src/modules/o_O.validations.js 7/26
+test_dom: ../src/eyeballs.js/src/drivers/jquery/modules/o_O.support.js 13/46
+test_dom: ../src/eyeballs.js/src/o_O.js 34/57
+test_dom: ../src/eyeballs.js/dist/jquery/jquery-1.4.2.min.js 89/139
+test_dom: ../src/eyeballs.js/src/modules/o_O.model.js 67/97
+test_dom: ../src/eyeballs.js/src/drivers/jquery/adapters/o_O.dom.js 19/19
+test_dom: script in file:/home/rahul/research/clone-unit-coverage/src/eyeballs.js/test/unit/test_dom.html from (-1, -1) to (-1, -1) 1/1
+test_binding: ../src/eyeballs.js/src/modules/o_O.model.js 28/97
+test_binding: ../src/eyeballs.js/dist/jquery/jquery-1.4.2.min.js 78/139
+test_binding: ../src/eyeballs.js/src/o_O.js 34/57
+test_binding: script in file:/home/rahul/research/clone-unit-coverage/src/eyeballs.js/test/unit/test_binding.html from (-1, -1) to (-1, -1) 1/1
+test_controller: ../src/eyeballs.js/src/o_O.js 24/57
+test_controller: ../src/eyeballs.js/dist/jquery/jquery-1.4.2.min.js 101/139
+test_controller: ../src/eyeballs.js/src/drivers/jquery/modules/o_O.controller.js 26/27
+test_controller: script in file:/home/rahul/research/clone-unit-coverage/src/eyeballs.js/test/unit/test_controller.html from (-1, -1) to (-1, -1) 1/1
+test_dom: ../src/eyeballs.js/src/drivers/jquery/modules/o_O.controller.js 1/27
+test_dom: ../src/eyeballs.js/src/modules/o_O.validations.js 7/26
+test_dom: ../src/eyeballs.js/src/drivers/jquery/modules/o_O.support.js 13/46
+test_dom: ../src/eyeballs.js/src/o_O.js 34/57
+test_dom: ../src/eyeballs.js/dist/jquery/jquery-1.4.2.min.js 89/139
+test_dom: ../src/eyeballs.js/src/modules/o_O.model.js 67/97
+test_dom: ../src/eyeballs.js/src/drivers/jquery/adapters/o_O.dom.js 19/19
+test_dom: script in file:/home/rahul/research/clone-unit-coverage/src/eyeballs.js/test/unit/test_dom.html from (-1, -1) to (-1, -1) 1/1
+test_dom_with_callbacks: ../src/eyeballs.js/src/drivers/jquery/modules/o_O.controller.js 1/27
+test_dom_with_callbacks: ../src/eyeballs.js/src/drivers/jquery/modules/o_O.support.js 8/46
+test_dom_with_callbacks: ../src/eyeballs.js/src/drivers/jquery/adapters/o_O.dom.js 7/19
+test_dom_with_callbacks: ../src/eyeballs.js/dist/jquery/jquery-1.4.2.min.js 87/139
+test_dom_with_callbacks: ../src/eyeballs.js/src/o_O.js 36/57
+test_dom_with_callbacks: ../src/eyeballs.js/src/modules/o_O.model.js 65/97
+test_dom_with_callbacks: ../src/eyeballs.js/src/modules/o_O.validations.js 18/26
+test_dom_with_callbacks: script in file:/home/rahul/research/clone-unit-coverage/src/eyeballs.js/test/unit/test_dom_with_callbacks.html from (-1, -1) to (-1, -1) 1/1
+test_binding: ../src/eyeballs.js/src/modules/o_O.model.js 28/97
+test_binding: ../src/eyeballs.js/dist/jquery/jquery-1.4.2.min.js 78/139
+test_binding: ../src/eyeballs.js/src/o_O.js 34/57
+test_binding: script in file:/home/rahul/research/clone-unit-coverage/src/eyeballs.js/test/unit/test_binding.html from (-1, -1) to (-1, -1) 1/1
+test_controller: ../src/eyeballs.js/src/o_O.js 24/57
+test_controller: ../src/eyeballs.js/dist/jquery/jquery-1.4.2.min.js 101/139
+test_controller: ../src/eyeballs.js/src/drivers/jquery/modules/o_O.controller.js 26/27
+test_controller: script in file:/home/rahul/research/clone-unit-coverage/src/eyeballs.js/test/unit/test_controller.html from (-1, -1) to (-1, -1) 1/1
+test_dom: ../src/eyeballs.js/src/drivers/jquery/modules/o_O.controller.js 1/27
+test_dom: ../src/eyeballs.js/src/modules/o_O.validations.js 7/26
+test_dom: ../src/eyeballs.js/src/drivers/jquery/modules/o_O.support.js 13/46
+test_dom: ../src/eyeballs.js/src/o_O.js 34/57
+test_dom: ../src/eyeballs.js/dist/jquery/jquery-1.4.2.min.js 89/139
+test_dom: ../src/eyeballs.js/src/modules/o_O.model.js 67/97
+test_dom: ../src/eyeballs.js/src/drivers/jquery/adapters/o_O.dom.js 19/19
+test_dom: script in file:/home/rahul/research/clone-unit-coverage/src/eyeballs.js/test/unit/test_dom.html from (-1, -1) to (-1, -1) 1/1
+test_dom_with_callbacks: ../src/eyeballs.js/src/drivers/jquery/modules/o_O.controller.js 1/27
+test_dom_with_callbacks: ../src/eyeballs.js/src/drivers/jquery/modules/o_O.support.js 8/46
+test_dom_with_callbacks: ../src/eyeballs.js/src/drivers/jquery/adapters/o_O.dom.js 7/19
+test_dom_with_callbacks: ../src/eyeballs.js/dist/jquery/jquery-1.4.2.min.js 87/139
+test_dom_with_callbacks: ../src/eyeballs.js/src/o_O.js 36/57
+test_dom_with_callbacks: ../src/eyeballs.js/src/modules/o_O.model.js 65/97
+test_dom_with_callbacks: ../src/eyeballs.js/src/modules/o_O.validations.js 18/26
+test_dom_with_callbacks: script in file:/home/rahul/research/clone-unit-coverage/src/eyeballs.js/test/unit/test_dom_with_callbacks.html from (-1, -1) to (-1, -1) 1/1
+test_localstorage: ../src/eyeballs.js/src/drivers/jquery/modules/o_O.controller.js 1/27
+test_localstorage: ../src/eyeballs.js/src/drivers/jquery/modules/o_O.support.js 8/46
+test_localstorage: ../src/eyeballs.js/src/modules/o_O.validations.js 7/26
+test_localstorage: ../src/eyeballs.js/dist/jquery/jquery-1.4.2.min.js 81/139
+test_localstorage: ../src/eyeballs.js/src/o_O.js 34/57
+test_localstorage: ../src/eyeballs.js/src/modules/o_O.model.js 67/97
+test_localstorage: ../src/eyeballs.js/src/adapters/o_O.localstorage.js 28/28
+test_localstorage: script in file:/home/rahul/research/clone-unit-coverage/src/eyeballs.js/test/unit/test_localstorage.html from (-1, -1) to (-1, -1) 1/1
+test_binding: ../src/eyeballs.js/src/modules/o_O.model.js 28/97
+test_binding: ../src/eyeballs.js/dist/jquery/jquery-1.4.2.min.js 78/139
+test_binding: ../src/eyeballs.js/src/o_O.js 34/57
+test_binding: script in file:/home/rahul/research/clone-unit-coverage/src/eyeballs.js/test/unit/test_binding.html from (-1, -1) to (-1, -1) 1/1
+test_controller: ../src/eyeballs.js/src/o_O.js 24/57
+test_controller: ../src/eyeballs.js/dist/jquery/jquery-1.4.2.min.js 101/139
+test_controller: ../src/eyeballs.js/src/drivers/jquery/modules/o_O.controller.js 26/27
+test_controller: script in file:/home/rahul/research/clone-unit-coverage/src/eyeballs.js/test/unit/test_controller.html from (-1, -1) to (-1, -1) 1/1
+test_dom: ../src/eyeballs.js/src/drivers/jquery/modules/o_O.controller.js 1/27
+test_dom: ../src/eyeballs.js/src/modules/o_O.validations.js 7/26
+test_dom: ../src/eyeballs.js/src/drivers/jquery/modules/o_O.support.js 13/46
+test_dom: ../src/eyeballs.js/src/o_O.js 34/57
+test_dom: ../src/eyeballs.js/dist/jquery/jquery-1.4.2.min.js 89/139
+test_dom: ../src/eyeballs.js/src/modules/o_O.model.js 67/97
+test_dom: ../src/eyeballs.js/src/drivers/jquery/adapters/o_O.dom.js 19/19
+test_dom: script in file:/home/rahul/research/clone-unit-coverage/src/eyeballs.js/test/unit/test_dom.html from (-1, -1) to (-1, -1) 1/1
+test_dom_with_callbacks: ../src/eyeballs.js/src/drivers/jquery/modules/o_O.controller.js 1/27
+test_dom_with_callbacks: ../src/eyeballs.js/src/drivers/jquery/modules/o_O.support.js 8/46
+test_dom_with_callbacks: ../src/eyeballs.js/src/drivers/jquery/adapters/o_O.dom.js 7/19
+test_dom_with_callbacks: ../src/eyeballs.js/dist/jquery/jquery-1.4.2.min.js 87/139
+test_dom_with_callbacks: ../src/eyeballs.js/src/o_O.js 36/57
+test_dom_with_callbacks: ../src/eyeballs.js/src/modules/o_O.model.js 65/97
+test_dom_with_callbacks: ../src/eyeballs.js/src/modules/o_O.validations.js 18/26
+test_dom_with_callbacks: script in file:/home/rahul/research/clone-unit-coverage/src/eyeballs.js/test/unit/test_dom_with_callbacks.html from (-1, -1) to (-1, -1) 1/1
+test_localstorage: ../src/eyeballs.js/src/drivers/jquery/modules/o_O.controller.js 1/27
+test_localstorage: ../src/eyeballs.js/src/drivers/jquery/modules/o_O.support.js 8/46
+test_localstorage: ../src/eyeballs.js/src/modules/o_O.validations.js 7/26
+test_localstorage: ../src/eyeballs.js/dist/jquery/jquery-1.4.2.min.js 81/139
+test_localstorage: ../src/eyeballs.js/src/o_O.js 34/57
+test_localstorage: ../src/eyeballs.js/src/modules/o_O.model.js 67/97
+test_localstorage: ../src/eyeballs.js/src/adapters/o_O.localstorage.js 28/28
+test_localstorage: script in file:/home/rahul/research/clone-unit-coverage/src/eyeballs.js/test/unit/test_localstorage.html from (-1, -1) to (-1, -1) 1/1
+test_model: ../src/eyeballs.js/src/drivers/jquery/modules/o_O.controller.js 1/27
+test_model: ../src/eyeballs.js/src/drivers/jquery/modules/o_O.support.js 13/46
+test_model: ../src/eyeballs.js/src/drivers/jquery/adapters/o_O.dom.js 11/19
+test_model: ../src/eyeballs.js/dist/jquery/jquery-1.4.2.min.js 87/139
+test_model: ../src/eyeballs.js/src/o_O.js 37/57
+test_model: ../src/eyeballs.js/src/modules/o_O.model.js 78/97
+test_model: ../src/eyeballs.js/src/modules/o_O.validations.js 22/26
+test_model: script in file:/home/rahul/research/clone-unit-coverage/src/eyeballs.js/test/unit/test_model.html from (-1, -1) to (-1, -1) 1/1
+test_binding: ../src/eyeballs.js/src/modules/o_O.model.js 28/97
+test_binding: ../src/eyeballs.js/dist/jquery/jquery-1.4.2.min.js 78/139
+test_binding: ../src/eyeballs.js/src/o_O.js 34/57
+test_binding: script in file:/home/rahul/research/clone-unit-coverage/src/eyeballs.js/test/unit/test_binding.html from (-1, -1) to (-1, -1) 1/1
+test_controller: ../src/eyeballs.js/src/o_O.js 24/57
+test_controller: ../src/eyeballs.js/dist/jquery/jquery-1.4.2.min.js 101/139
+test_controller: ../src/eyeballs.js/src/drivers/jquery/modules/o_O.controller.js 26/27
+test_controller: script in file:/home/rahul/research/clone-unit-coverage/src/eyeballs.js/test/unit/test_controller.html from (-1, -1) to (-1, -1) 1/1
+test_dom: ../src/eyeballs.js/src/drivers/jquery/modules/o_O.controller.js 1/27
+test_dom: ../src/eyeballs.js/src/modules/o_O.validations.js 7/26
+test_dom: ../src/eyeballs.js/src/drivers/jquery/modules/o_O.support.js 13/46
+test_dom: ../src/eyeballs.js/src/o_O.js 34/57
+test_dom: ../src/eyeballs.js/dist/jquery/jquery-1.4.2.min.js 89/139
+test_dom: ../src/eyeballs.js/src/modules/o_O.model.js 67/97
+test_dom: ../src/eyeballs.js/src/drivers/jquery/adapters/o_O.dom.js 19/19
+test_dom: script in file:/home/rahul/research/clone-unit-coverage/src/eyeballs.js/test/unit/test_dom.html from (-1, -1) to (-1, -1) 1/1
+test_dom_with_callbacks: ../src/eyeballs.js/src/drivers/jquery/modules/o_O.controller.js 1/27
+test_dom_with_callbacks: ../src/eyeballs.js/src/drivers/jquery/modules/o_O.support.js 8/46
+test_dom_with_callbacks: ../src/eyeballs.js/src/drivers/jquery/adapters/o_O.dom.js 7/19
+test_dom_with_callbacks: ../src/eyeballs.js/dist/jquery/jquery-1.4.2.min.js 87/139
+test_dom_with_callbacks: ../src/eyeballs.js/src/o_O.js 36/57
+test_dom_with_callbacks: ../src/eyeballs.js/src/modules/o_O.model.js 65/97
+test_dom_with_callbacks: ../src/eyeballs.js/src/modules/o_O.validations.js 18/26
+test_dom_with_callbacks: script in file:/home/rahul/research/clone-unit-coverage/src/eyeballs.js/test/unit/test_dom_with_callbacks.html from (-1, -1) to (-1, -1) 1/1
+test_localstorage: ../src/eyeballs.js/src/drivers/jquery/modules/o_O.controller.js 1/27
+test_localstorage: ../src/eyeballs.js/src/drivers/jquery/modules/o_O.support.js 8/46
+test_localstorage: ../src/eyeballs.js/src/modules/o_O.validations.js 7/26
+test_localstorage: ../src/eyeballs.js/dist/jquery/jquery-1.4.2.min.js 81/139
+test_localstorage: ../src/eyeballs.js/src/o_O.js 34/57
+test_localstorage: ../src/eyeballs.js/src/modules/o_O.model.js 67/97
+test_localstorage: ../src/eyeballs.js/src/adapters/o_O.localstorage.js 28/28
+test_localstorage: script in file:/home/rahul/research/clone-unit-coverage/src/eyeballs.js/test/unit/test_localstorage.html from (-1, -1) to (-1, -1) 1/1
+test_model: ../src/eyeballs.js/src/drivers/jquery/modules/o_O.controller.js 1/27
+test_model: ../src/eyeballs.js/src/drivers/jquery/modules/o_O.support.js 13/46
+test_model: ../src/eyeballs.js/src/drivers/jquery/adapters/o_O.dom.js 11/19
+test_model: ../src/eyeballs.js/dist/jquery/jquery-1.4.2.min.js 87/139
+test_model: ../src/eyeballs.js/src/o_O.js 37/57
+test_model: ../src/eyeballs.js/src/modules/o_O.model.js 78/97
+test_model: ../src/eyeballs.js/src/modules/o_O.validations.js 22/26
+test_model: script in file:/home/rahul/research/clone-unit-coverage/src/eyeballs.js/test/unit/test_model.html from (-1, -1) to (-1, -1) 1/1
+test_model_with_callbacks: ../src/eyeballs.js/src/drivers/jquery/modules/o_O.controller.js 1/27
+test_model_with_callbacks: ../src/eyeballs.js/src/drivers/jquery/modules/o_O.support.js 11/46
+test_model_with_callbacks: ../src/eyeballs.js/dist/jquery/jquery-1.4.2.min.js 87/139
+test_model_with_callbacks: ../src/eyeballs.js/src/o_O.js 36/57
+test_model_with_callbacks: ../src/eyeballs.js/src/modules/o_O.validations.js 18/26
+test_model_with_callbacks: ../src/eyeballs.js/src/modules/o_O.model.js 78/97
+test_model_with_callbacks: ../src/eyeballs.js/src/drivers/jquery/adapters/o_O.dom.js 18/19
+test_model_with_callbacks: script in file:/home/rahul/research/clone-unit-coverage/src/eyeballs.js/test/unit/test_model_with_callbacks.html from (-1, -1) to (-1, -1) 1/1
+test_binding: ../src/eyeballs.js/src/modules/o_O.model.js 28/97
+test_binding: ../src/eyeballs.js/dist/jquery/jquery-1.4.2.min.js 78/139
+test_binding: ../src/eyeballs.js/src/o_O.js 34/57
+test_binding: script in file:/home/rahul/research/clone-unit-coverage/src/eyeballs.js/test/unit/test_binding.html from (-1, -1) to (-1, -1) 1/1
+test_controller: ../src/eyeballs.js/src/o_O.js 24/57
+test_controller: ../src/eyeballs.js/dist/jquery/jquery-1.4.2.min.js 101/139
+test_controller: ../src/eyeballs.js/src/drivers/jquery/modules/o_O.controller.js 26/27
+test_controller: script in file:/home/rahul/research/clone-unit-coverage/src/eyeballs.js/test/unit/test_controller.html from (-1, -1) to (-1, -1) 1/1
+test_dom: ../src/eyeballs.js/src/drivers/jquery/modules/o_O.controller.js 1/27
+test_dom: ../src/eyeballs.js/src/modules/o_O.validations.js 7/26
+test_dom: ../src/eyeballs.js/src/drivers/jquery/modules/o_O.support.js 13/46
+test_dom: ../src/eyeballs.js/src/o_O.js 34/57
+test_dom: ../src/eyeballs.js/dist/jquery/jquery-1.4.2.min.js 89/139
+test_dom: ../src/eyeballs.js/src/modules/o_O.model.js 67/97
+test_dom: ../src/eyeballs.js/src/drivers/jquery/adapters/o_O.dom.js 19/19
+test_dom: script in file:/home/rahul/research/clone-unit-coverage/src/eyeballs.js/test/unit/test_dom.html from (-1, -1) to (-1, -1) 1/1
+test_dom_with_callbacks: ../src/eyeballs.js/src/drivers/jquery/modules/o_O.controller.js 1/27
+test_dom_with_callbacks: ../src/eyeballs.js/src/drivers/jquery/modules/o_O.support.js 8/46
+test_dom_with_callbacks: ../src/eyeballs.js/src/drivers/jquery/adapters/o_O.dom.js 7/19
+test_dom_with_callbacks: ../src/eyeballs.js/dist/jquery/jquery-1.4.2.min.js 87/139
+test_dom_with_callbacks: ../src/eyeballs.js/src/o_O.js 36/57
+test_dom_with_callbacks: ../src/eyeballs.js/src/modules/o_O.model.js 65/97
+test_dom_with_callbacks: ../src/eyeballs.js/src/modules/o_O.validations.js 18/26
+test_dom_with_callbacks: script in file:/home/rahul/research/clone-unit-coverage/src/eyeballs.js/test/unit/test_dom_with_callbacks.html from (-1, -1) to (-1, -1) 1/1
+test_localstorage: ../src/eyeballs.js/src/drivers/jquery/modules/o_O.controller.js 1/27
+test_localstorage: ../src/eyeballs.js/src/drivers/jquery/modules/o_O.support.js 8/46
+test_localstorage: ../src/eyeballs.js/src/modules/o_O.validations.js 7/26
+test_localstorage: ../src/eyeballs.js/dist/jquery/jquery-1.4.2.min.js 81/139
+test_localstorage: ../src/eyeballs.js/src/o_O.js 34/57
+test_localstorage: ../src/eyeballs.js/src/modules/o_O.model.js 67/97
+test_localstorage: ../src/eyeballs.js/src/adapters/o_O.localstorage.js 28/28
+test_localstorage: script in file:/home/rahul/research/clone-unit-coverage/src/eyeballs.js/test/unit/test_localstorage.html from (-1, -1) to (-1, -1) 1/1
+test_model: ../src/eyeballs.js/src/drivers/jquery/modules/o_O.controller.js 1/27
+test_model: ../src/eyeballs.js/src/drivers/jquery/modules/o_O.support.js 13/46
+test_model: ../src/eyeballs.js/src/drivers/jquery/adapters/o_O.dom.js 11/19
+test_model: ../src/eyeballs.js/dist/jquery/jquery-1.4.2.min.js 87/139
+test_model: ../src/eyeballs.js/src/o_O.js 37/57
+test_model: ../src/eyeballs.js/src/modules/o_O.model.js 78/97
+test_model: ../src/eyeballs.js/src/modules/o_O.validations.js 22/26
+test_model: script in file:/home/rahul/research/clone-unit-coverage/src/eyeballs.js/test/unit/test_model.html from (-1, -1) to (-1, -1) 1/1
+test_model_with_callbacks: ../src/eyeballs.js/src/drivers/jquery/modules/o_O.controller.js 1/27
+test_model_with_callbacks: ../src/eyeballs.js/src/drivers/jquery/modules/o_O.support.js 11/46
+test_model_with_callbacks: ../src/eyeballs.js/dist/jquery/jquery-1.4.2.min.js 87/139
+test_model_with_callbacks: ../src/eyeballs.js/src/o_O.js 36/57
+test_model_with_callbacks: ../src/eyeballs.js/src/modules/o_O.validations.js 18/26
+test_model_with_callbacks: ../src/eyeballs.js/src/modules/o_O.model.js 78/97
+test_model_with_callbacks: ../src/eyeballs.js/src/drivers/jquery/adapters/o_O.dom.js 18/19
+test_model_with_callbacks: script in file:/home/rahul/research/clone-unit-coverage/src/eyeballs.js/test/unit/test_model_with_callbacks.html from (-1, -1) to (-1, -1) 1/1
+test_params: ../src/eyeballs.js/src/modules/o_O.validations.js 1/26
+test_params: ../src/eyeballs.js/src/drivers/jquery/adapters/o_O.dom.js 1/19
+test_params: ../src/eyeballs.js/src/modules/o_O.model.js 21/97
+test_params: ../src/eyeballs.js/src/drivers/jquery/modules/o_O.support.js 17/46
+test_params: ../src/eyeballs.js/src/o_O.js 33/57
+test_params: ../src/eyeballs.js/dist/jquery/jquery-1.4.2.min.js 94/139
+test_params: ../src/eyeballs.js/src/drivers/jquery/modules/o_O.controller.js 24/27
+test_params: ../src/eyeballs.js/dist/jquery/jquery.ba-bbq.min.js 2/2
+test_params: script in file:/home/rahul/research/clone-unit-coverage/src/eyeballs.js/test/unit/test_params.html from (-1, -1) to (-1, -1) 1/1
+test_binding: ../src/eyeballs.js/src/modules/o_O.model.js 28/97
+test_binding: ../src/eyeballs.js/dist/jquery/jquery-1.4.2.min.js 78/139
+test_binding: ../src/eyeballs.js/src/o_O.js 34/57
+test_binding: script in file:/home/rahul/research/clone-unit-coverage/src/eyeballs.js/test/unit/test_binding.html from (-1, -1) to (-1, -1) 1/1
+test_controller: ../src/eyeballs.js/src/o_O.js 24/57
+test_controller: ../src/eyeballs.js/dist/jquery/jquery-1.4.2.min.js 101/139
+test_controller: ../src/eyeballs.js/src/drivers/jquery/modules/o_O.controller.js 26/27
+test_controller: script in file:/home/rahul/research/clone-unit-coverage/src/eyeballs.js/test/unit/test_controller.html from (-1, -1) to (-1, -1) 1/1
+test_dom: ../src/eyeballs.js/src/drivers/jquery/modules/o_O.controller.js 1/27
+test_dom: ../src/eyeballs.js/src/modules/o_O.validations.js 7/26
+test_dom: ../src/eyeballs.js/src/drivers/jquery/modules/o_O.support.js 13/46
+test_dom: ../src/eyeballs.js/src/o_O.js 34/57
+test_dom: ../src/eyeballs.js/dist/jquery/jquery-1.4.2.min.js 89/139
+test_dom: ../src/eyeballs.js/src/modules/o_O.model.js 67/97
+test_dom: ../src/eyeballs.js/src/drivers/jquery/adapters/o_O.dom.js 19/19
+test_dom: script in file:/home/rahul/research/clone-unit-coverage/src/eyeballs.js/test/unit/test_dom.html from (-1, -1) to (-1, -1) 1/1
+test_dom_with_callbacks: ../src/eyeballs.js/src/drivers/jquery/modules/o_O.controller.js 1/27
+test_dom_with_callbacks: ../src/eyeballs.js/src/drivers/jquery/modules/o_O.support.js 8/46
+test_dom_with_callbacks: ../src/eyeballs.js/src/drivers/jquery/adapters/o_O.dom.js 7/19
+test_dom_with_callbacks: ../src/eyeballs.js/dist/jquery/jquery-1.4.2.min.js 87/139
+test_dom_with_callbacks: ../src/eyeballs.js/src/o_O.js 36/57
+test_dom_with_callbacks: ../src/eyeballs.js/src/modules/o_O.model.js 65/97
+test_dom_with_callbacks: ../src/eyeballs.js/src/modules/o_O.validations.js 18/26
+test_dom_with_callbacks: script in file:/home/rahul/research/clone-unit-coverage/src/eyeballs.js/test/unit/test_dom_with_callbacks.html from (-1, -1) to (-1, -1) 1/1
+test_localstorage: ../src/eyeballs.js/src/drivers/jquery/modules/o_O.controller.js 1/27
+test_localstorage: ../src/eyeballs.js/src/drivers/jquery/modules/o_O.support.js 8/46
+test_localstorage: ../src/eyeballs.js/src/modules/o_O.validations.js 7/26
+test_localstorage: ../src/eyeballs.js/dist/jquery/jquery-1.4.2.min.js 81/139
+test_localstorage: ../src/eyeballs.js/src/o_O.js 34/57
+test_localstorage: ../src/eyeballs.js/src/modules/o_O.model.js 67/97
+test_localstorage: ../src/eyeballs.js/src/adapters/o_O.localstorage.js 28/28
+test_localstorage: script in file:/home/rahul/research/clone-unit-coverage/src/eyeballs.js/test/unit/test_localstorage.html from (-1, -1) to (-1, -1) 1/1
+test_model: ../src/eyeballs.js/src/drivers/jquery/modules/o_O.controller.js 1/27
+test_model: ../src/eyeballs.js/src/drivers/jquery/modules/o_O.support.js 13/46
+test_model: ../src/eyeballs.js/src/drivers/jquery/adapters/o_O.dom.js 11/19
+test_model: ../src/eyeballs.js/dist/jquery/jquery-1.4.2.min.js 87/139
+test_model: ../src/eyeballs.js/src/o_O.js 37/57
+test_model: ../src/eyeballs.js/src/modules/o_O.model.js 78/97
+test_model: ../src/eyeballs.js/src/modules/o_O.validations.js 22/26
+test_model: script in file:/home/rahul/research/clone-unit-coverage/src/eyeballs.js/test/unit/test_model.html from (-1, -1) to (-1, -1) 1/1
+test_model_with_callbacks: ../src/eyeballs.js/src/drivers/jquery/modules/o_O.controller.js 1/27
+test_model_with_callbacks: ../src/eyeballs.js/src/drivers/jquery/modules/o_O.support.js 11/46
+test_model_with_callbacks: ../src/eyeballs.js/dist/jquery/jquery-1.4.2.min.js 87/139
+test_model_with_callbacks: ../src/eyeballs.js/src/o_O.js 36/57
+test_model_with_callbacks: ../src/eyeballs.js/src/modules/o_O.validations.js 18/26
+test_model_with_callbacks: ../src/eyeballs.js/src/modules/o_O.model.js 78/97
+test_model_with_callbacks: ../src/eyeballs.js/src/drivers/jquery/adapters/o_O.dom.js 18/19
+test_model_with_callbacks: script in file:/home/rahul/research/clone-unit-coverage/src/eyeballs.js/test/unit/test_model_with_callbacks.html from (-1, -1) to (-1, -1) 1/1
+test_params: ../src/eyeballs.js/src/modules/o_O.validations.js 1/26
+test_params: ../src/eyeballs.js/src/drivers/jquery/adapters/o_O.dom.js 1/19
+test_params: ../src/eyeballs.js/src/modules/o_O.model.js 21/97
+test_params: ../src/eyeballs.js/src/drivers/jquery/modules/o_O.support.js 17/46
+test_params: ../src/eyeballs.js/src/o_O.js 33/57
+test_params: ../src/eyeballs.js/dist/jquery/jquery-1.4.2.min.js 94/139
+test_params: ../src/eyeballs.js/src/drivers/jquery/modules/o_O.controller.js 24/27
+test_params: ../src/eyeballs.js/dist/jquery/jquery.ba-bbq.min.js 2/2
+test_params: script in file:/home/rahul/research/clone-unit-coverage/src/eyeballs.js/test/unit/test_params.html from (-1, -1) to (-1, -1) 1/1
+test_rest: ../src/eyeballs.js/src/drivers/jquery/modules/o_O.controller.js 1/27
+test_rest: ../src/eyeballs.js/src/drivers/jquery/modules/o_O.support.js 8/46
+test_rest: ../src/eyeballs.js/src/drivers/jquery/adapters/o_O.rest.js 18/70
+test_rest: ../src/eyeballs.js/src/modules/o_O.validations.js 7/26
+test_rest: ../src/eyeballs.js/src/modules/o_O.model.js 47/97
+test_rest: ../src/eyeballs.js/src/o_O.js 34/57
+test_rest: ../src/eyeballs.js/dist/jquery/jquery-1.4.2.min.js 89/139
+test_rest: script in file:/home/rahul/research/clone-unit-coverage/src/eyeballs.js/test/unit/test_rest.html from (-1, -1) to (-1, -1) 1/1
+test_binding: ../src/eyeballs.js/src/modules/o_O.model.js 28/97
+test_binding: ../src/eyeballs.js/dist/jquery/jquery-1.4.2.min.js 78/139
+test_binding: ../src/eyeballs.js/src/o_O.js 34/57
+test_binding: script in file:/home/rahul/research/clone-unit-coverage/src/eyeballs.js/test/unit/test_binding.html from (-1, -1) to (-1, -1) 1/1
+test_controller: ../src/eyeballs.js/src/o_O.js 24/57
+test_controller: ../src/eyeballs.js/dist/jquery/jquery-1.4.2.min.js 101/139
+test_controller: ../src/eyeballs.js/src/drivers/jquery/modules/o_O.controller.js 26/27
+test_controller: script in file:/home/rahul/research/clone-unit-coverage/src/eyeballs.js/test/unit/test_controller.html from (-1, -1) to (-1, -1) 1/1
+test_dom: ../src/eyeballs.js/src/drivers/jquery/modules/o_O.controller.js 1/27
+test_dom: ../src/eyeballs.js/src/modules/o_O.validations.js 7/26
+test_dom: ../src/eyeballs.js/src/drivers/jquery/modules/o_O.support.js 13/46
+test_dom: ../src/eyeballs.js/src/o_O.js 34/57
+test_dom: ../src/eyeballs.js/dist/jquery/jquery-1.4.2.min.js 89/139
+test_dom: ../src/eyeballs.js/src/modules/o_O.model.js 67/97
+test_dom: ../src/eyeballs.js/src/drivers/jquery/adapters/o_O.dom.js 19/19
+test_dom: script in file:/home/rahul/research/clone-unit-coverage/src/eyeballs.js/test/unit/test_dom.html from (-1, -1) to (-1, -1) 1/1
+test_dom_with_callbacks: ../src/eyeballs.js/src/drivers/jquery/modules/o_O.controller.js 1/27
+test_dom_with_callbacks: ../src/eyeballs.js/src/drivers/jquery/modules/o_O.support.js 8/46
+test_dom_with_callbacks: ../src/eyeballs.js/src/drivers/jquery/adapters/o_O.dom.js 7/19
+test_dom_with_callbacks: ../src/eyeballs.js/dist/jquery/jquery-1.4.2.min.js 87/139
+test_dom_with_callbacks: ../src/eyeballs.js/src/o_O.js 36/57
+test_dom_with_callbacks: ../src/eyeballs.js/src/modules/o_O.model.js 65/97
+test_dom_with_callbacks: ../src/eyeballs.js/src/modules/o_O.validations.js 18/26
+test_dom_with_callbacks: script in file:/home/rahul/research/clone-unit-coverage/src/eyeballs.js/test/unit/test_dom_with_callbacks.html from (-1, -1) to (-1, -1) 1/1
+test_localstorage: ../src/eyeballs.js/src/drivers/jquery/modules/o_O.controller.js 1/27
+test_localstorage: ../src/eyeballs.js/src/drivers/jquery/modules/o_O.support.js 8/46
+test_localstorage: ../src/eyeballs.js/src/modules/o_O.validations.js 7/26
+test_localstorage: ../src/eyeballs.js/dist/jquery/jquery-1.4.2.min.js 81/139
+test_localstorage: ../src/eyeballs.js/src/o_O.js 34/57
+test_localstorage: ../src/eyeballs.js/src/modules/o_O.model.js 67/97
+test_localstorage: ../src/eyeballs.js/src/adapters/o_O.localstorage.js 28/28
+test_localstorage: script in file:/home/rahul/research/clone-unit-coverage/src/eyeballs.js/test/unit/test_localstorage.html from (-1, -1) to (-1, -1) 1/1
+test_model: ../src/eyeballs.js/src/drivers/jquery/modules/o_O.controller.js 1/27
+test_model: ../src/eyeballs.js/src/drivers/jquery/modules/o_O.support.js 13/46
+test_model: ../src/eyeballs.js/src/drivers/jquery/adapters/o_O.dom.js 11/19
+test_model: ../src/eyeballs.js/dist/jquery/jquery-1.4.2.min.js 87/139
+test_model: ../src/eyeballs.js/src/o_O.js 37/57
+test_model: ../src/eyeballs.js/src/modules/o_O.model.js 78/97
+test_model: ../src/eyeballs.js/src/modules/o_O.validations.js 22/26
+test_model: script in file:/home/rahul/research/clone-unit-coverage/src/eyeballs.js/test/unit/test_model.html from (-1, -1) to (-1, -1) 1/1
+test_model_with_callbacks: ../src/eyeballs.js/src/drivers/jquery/modules/o_O.controller.js 1/27
+test_model_with_callbacks: ../src/eyeballs.js/src/drivers/jquery/modules/o_O.support.js 11/46
+test_model_with_callbacks: ../src/eyeballs.js/dist/jquery/jquery-1.4.2.min.js 87/139
+test_model_with_callbacks: ../src/eyeballs.js/src/o_O.js 36/57
+test_model_with_callbacks: ../src/eyeballs.js/src/modules/o_O.validations.js 18/26
+test_model_with_callbacks: ../src/eyeballs.js/src/modules/o_O.model.js 78/97
+test_model_with_callbacks: ../src/eyeballs.js/src/drivers/jquery/adapters/o_O.dom.js 18/19
+test_model_with_callbacks: script in file:/home/rahul/research/clone-unit-coverage/src/eyeballs.js/test/unit/test_model_with_callbacks.html from (-1, -1) to (-1, -1) 1/1
+test_params: ../src/eyeballs.js/src/modules/o_O.validations.js 1/26
+test_params: ../src/eyeballs.js/src/drivers/jquery/adapters/o_O.dom.js 1/19
+test_params: ../src/eyeballs.js/src/modules/o_O.model.js 21/97
+test_params: ../src/eyeballs.js/src/drivers/jquery/modules/o_O.support.js 17/46
+test_params: ../src/eyeballs.js/src/o_O.js 33/57
+test_params: ../src/eyeballs.js/dist/jquery/jquery-1.4.2.min.js 94/139
+test_params: ../src/eyeballs.js/src/drivers/jquery/modules/o_O.controller.js 24/27
+test_params: ../src/eyeballs.js/dist/jquery/jquery.ba-bbq.min.js 2/2
+test_params: script in file:/home/rahul/research/clone-unit-coverage/src/eyeballs.js/test/unit/test_params.html from (-1, -1) to (-1, -1) 1/1
+test_rest: ../src/eyeballs.js/src/drivers/jquery/modules/o_O.controller.js 1/27
+test_rest: ../src/eyeballs.js/src/drivers/jquery/modules/o_O.support.js 8/46
+test_rest: ../src/eyeballs.js/src/drivers/jquery/adapters/o_O.rest.js 18/70
+test_rest: ../src/eyeballs.js/src/modules/o_O.validations.js 7/26
+test_rest: ../src/eyeballs.js/src/modules/o_O.model.js 47/97
+test_rest: ../src/eyeballs.js/src/o_O.js 34/57
+test_rest: ../src/eyeballs.js/dist/jquery/jquery-1.4.2.min.js 89/139
+test_rest: script in file:/home/rahul/research/clone-unit-coverage/src/eyeballs.js/test/unit/test_rest.html from (-1, -1) to (-1, -1) 1/1
+test_rest_global_config: ../src/eyeballs.js/src/drivers/jquery/modules/o_O.controller.js 1/27
+test_rest_global_config: ../src/eyeballs.js/src/drivers/jquery/modules/o_O.support.js 8/46
+test_rest_global_config: ../src/eyeballs.js/src/modules/o_O.validations.js 7/26
+test_rest_global_config: ../src/eyeballs.js/src/drivers/jquery/adapters/o_O.rest.js 23/70
+test_rest_global_config: ../src/eyeballs.js/src/modules/o_O.model.js 48/97
+test_rest_global_config: ../src/eyeballs.js/src/o_O.js 34/57
+test_rest_global_config: ../src/eyeballs.js/dist/jquery/jquery-1.4.2.min.js 89/139
+test_rest_global_config: script in file:/home/rahul/research/clone-unit-coverage/src/eyeballs.js/test/unit/test_rest_global_config.html from (-1, -1) to (-1, -1) 1/1
+test_binding: ../src/eyeballs.js/src/modules/o_O.model.js 28/97
+test_binding: ../src/eyeballs.js/dist/jquery/jquery-1.4.2.min.js 78/139
+test_binding: ../src/eyeballs.js/src/o_O.js 34/57
+test_binding: script in file:/home/rahul/research/clone-unit-coverage/src/eyeballs.js/test/unit/test_binding.html from (-1, -1) to (-1, -1) 1/1
+test_controller: ../src/eyeballs.js/src/o_O.js 24/57
+test_controller: ../src/eyeballs.js/dist/jquery/jquery-1.4.2.min.js 101/139
+test_controller: ../src/eyeballs.js/src/drivers/jquery/modules/o_O.controller.js 26/27
+test_controller: script in file:/home/rahul/research/clone-unit-coverage/src/eyeballs.js/test/unit/test_controller.html from (-1, -1) to (-1, -1) 1/1
+test_dom: ../src/eyeballs.js/src/drivers/jquery/modules/o_O.controller.js 1/27
+test_dom: ../src/eyeballs.js/src/modules/o_O.validations.js 7/26
+test_dom: ../src/eyeballs.js/src/drivers/jquery/modules/o_O.support.js 13/46
+test_dom: ../src/eyeballs.js/src/o_O.js 34/57
+test_dom: ../src/eyeballs.js/dist/jquery/jquery-1.4.2.min.js 89/139
+test_dom: ../src/eyeballs.js/src/modules/o_O.model.js 67/97
+test_dom: ../src/eyeballs.js/src/drivers/jquery/adapters/o_O.dom.js 19/19
+test_dom: script in file:/home/rahul/research/clone-unit-coverage/src/eyeballs.js/test/unit/test_dom.html from (-1, -1) to (-1, -1) 1/1
+test_dom_with_callbacks: ../src/eyeballs.js/src/drivers/jquery/modules/o_O.controller.js 1/27
+test_dom_with_callbacks: ../src/eyeballs.js/src/drivers/jquery/modules/o_O.support.js 8/46
+test_dom_with_callbacks: ../src/eyeballs.js/src/drivers/jquery/adapters/o_O.dom.js 7/19
+test_dom_with_callbacks: ../src/eyeballs.js/dist/jquery/jquery-1.4.2.min.js 87/139
+test_dom_with_callbacks: ../src/eyeballs.js/src/o_O.js 36/57
+test_dom_with_callbacks: ../src/eyeballs.js/src/modules/o_O.model.js 65/97
+test_dom_with_callbacks: ../src/eyeballs.js/src/modules/o_O.validations.js 18/26
+test_dom_with_callbacks: script in file:/home/rahul/research/clone-unit-coverage/src/eyeballs.js/test/unit/test_dom_with_callbacks.html from (-1, -1) to (-1, -1) 1/1
+test_localstorage: ../src/eyeballs.js/src/drivers/jquery/modules/o_O.controller.js 1/27
+test_localstorage: ../src/eyeballs.js/src/drivers/jquery/modules/o_O.support.js 8/46
+test_localstorage: ../src/eyeballs.js/src/modules/o_O.validations.js 7/26
+test_localstorage: ../src/eyeballs.js/dist/jquery/jquery-1.4.2.min.js 81/139
+test_localstorage: ../src/eyeballs.js/src/o_O.js 34/57
+test_localstorage: ../src/eyeballs.js/src/modules/o_O.model.js 67/97
+test_localstorage: ../src/eyeballs.js/src/adapters/o_O.localstorage.js 28/28
+test_localstorage: script in file:/home/rahul/research/clone-unit-coverage/src/eyeballs.js/test/unit/test_localstorage.html from (-1, -1) to (-1, -1) 1/1
+test_model: ../src/eyeballs.js/src/drivers/jquery/modules/o_O.controller.js 1/27
+test_model: ../src/eyeballs.js/src/drivers/jquery/modules/o_O.support.js 13/46
+test_model: ../src/eyeballs.js/src/drivers/jquery/adapters/o_O.dom.js 11/19
+test_model: ../src/eyeballs.js/dist/jquery/jquery-1.4.2.min.js 87/139
+test_model: ../src/eyeballs.js/src/o_O.js 37/57
+test_model: ../src/eyeballs.js/src/modules/o_O.model.js 78/97
+test_model: ../src/eyeballs.js/src/modules/o_O.validations.js 22/26
+test_model: script in file:/home/rahul/research/clone-unit-coverage/src/eyeballs.js/test/unit/test_model.html from (-1, -1) to (-1, -1) 1/1
+test_model_with_callbacks: ../src/eyeballs.js/src/drivers/jquery/modules/o_O.controller.js 1/27
+test_model_with_callbacks: ../src/eyeballs.js/src/drivers/jquery/modules/o_O.support.js 11/46
+test_model_with_callbacks: ../src/eyeballs.js/dist/jquery/jquery-1.4.2.min.js 87/139
+test_model_with_callbacks: ../src/eyeballs.js/src/o_O.js 36/57
+test_model_with_callbacks: ../src/eyeballs.js/src/modules/o_O.validations.js 18/26
+test_model_with_callbacks: ../src/eyeballs.js/src/modules/o_O.model.js 78/97
+test_model_with_callbacks: ../src/eyeballs.js/src/drivers/jquery/adapters/o_O.dom.js 18/19
+test_model_with_callbacks: script in file:/home/rahul/research/clone-unit-coverage/src/eyeballs.js/test/unit/test_model_with_callbacks.html from (-1, -1) to (-1, -1) 1/1
+test_params: ../src/eyeballs.js/src/modules/o_O.validations.js 1/26
+test_params: ../src/eyeballs.js/src/drivers/jquery/adapters/o_O.dom.js 1/19
+test_params: ../src/eyeballs.js/src/modules/o_O.model.js 21/97
+test_params: ../src/eyeballs.js/src/drivers/jquery/modules/o_O.support.js 17/46
+test_params: ../src/eyeballs.js/src/o_O.js 33/57
+test_params: ../src/eyeballs.js/dist/jquery/jquery-1.4.2.min.js 94/139
+test_params: ../src/eyeballs.js/src/drivers/jquery/modules/o_O.controller.js 24/27
+test_params: ../src/eyeballs.js/dist/jquery/jquery.ba-bbq.min.js 2/2
+test_params: script in file:/home/rahul/research/clone-unit-coverage/src/eyeballs.js/test/unit/test_params.html from (-1, -1) to (-1, -1) 1/1
+test_rest: ../src/eyeballs.js/src/drivers/jquery/modules/o_O.controller.js 1/27
+test_rest: ../src/eyeballs.js/src/drivers/jquery/modules/o_O.support.js 8/46
+test_rest: ../src/eyeballs.js/src/drivers/jquery/adapters/o_O.rest.js 18/70
+test_rest: ../src/eyeballs.js/src/modules/o_O.validations.js 7/26
+test_rest: ../src/eyeballs.js/src/modules/o_O.model.js 47/97
+test_rest: ../src/eyeballs.js/src/o_O.js 34/57
+test_rest: ../src/eyeballs.js/dist/jquery/jquery-1.4.2.min.js 89/139
+test_rest: script in file:/home/rahul/research/clone-unit-coverage/src/eyeballs.js/test/unit/test_rest.html from (-1, -1) to (-1, -1) 1/1
+test_rest_global_config: ../src/eyeballs.js/src/drivers/jquery/modules/o_O.controller.js 1/27
+test_rest_global_config: ../src/eyeballs.js/src/drivers/jquery/modules/o_O.support.js 8/46
+test_rest_global_config: ../src/eyeballs.js/src/modules/o_O.validations.js 7/26
+test_rest_global_config: ../src/eyeballs.js/src/drivers/jquery/adapters/o_O.rest.js 23/70
+test_rest_global_config: ../src/eyeballs.js/src/modules/o_O.model.js 48/97
+test_rest_global_config: ../src/eyeballs.js/src/o_O.js 34/57
+test_rest_global_config: ../src/eyeballs.js/dist/jquery/jquery-1.4.2.min.js 89/139
+test_rest_global_config: script in file:/home/rahul/research/clone-unit-coverage/src/eyeballs.js/test/unit/test_rest_global_config.html from (-1, -1) to (-1, -1) 1/1
+test_routing: ../src/eyeballs.js/src/modules/o_O.model.js 1/97
+test_routing: ../src/eyeballs.js/src/modules/o_O.validations.js 1/26
+test_routing: ../src/eyeballs.js/src/drivers/jquery/adapters/o_O.dom.js 1/19
+test_routing: ../src/eyeballs.js/src/drivers/jquery/modules/o_O.support.js 8/46
+test_routing: ../src/eyeballs.js/src/drivers/jquery/modules/o_O.controller.js 7/27
+test_routing: ../src/eyeballs.js/src/o_O.js 26/57
+test_routing: ../src/eyeballs.js/dist/jquery/jquery-1.4.2.min.js 94/139
+test_routing: ../src/eyeballs.js/src/drivers/jquery/modules/o_O.routes.js 50/68
+test_routing: script in file:/home/rahul/research/clone-unit-coverage/src/eyeballs.js/test/unit/test_routing.html from (-1, -1) to (-1, -1) 1/1

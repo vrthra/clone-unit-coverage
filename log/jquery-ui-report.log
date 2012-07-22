@@ -1,0 +1,4 @@
+selectmenu: ../src/jquery-ui/ui/jquery.ui.core.js 1/101
+selectmenu: ../src/jquery-ui/ui/jquery.ui.selectmenu.js 1/347
+selectmenu: ../src/jquery-ui/ui/jquery.ui.widget.js 1/101
+selectmenu: ../src/jquery-ui/external/qunit.js 125/640

@@ -1,0 +1,18 @@
+test: ../src/underscore.string/lib/underscore.string.js 239/260
+test: script in file:/home/rahul/research/clone-unit-coverage/src/underscore.string/test/test.html from (-1, -1) to (-1, -1) 1/1
+test: ../src/underscore.string/lib/underscore.string.js 239/260
+test: script in file:/home/rahul/research/clone-unit-coverage/src/underscore.string/test/test.html from (-1, -1) to (-1, -1) 1/1
+test_standalone: ../src/underscore.string/lib/underscore.string.js 35/260
+test_standalone: script in file:/home/rahul/research/clone-unit-coverage/src/underscore.string/test/test_standalone.html from (-1, -1) to (-1, -1) 1/1
+test: ../src/underscore.string/lib/underscore.string.js 239/260
+test: script in file:/home/rahul/research/clone-unit-coverage/src/underscore.string/test/test.html from (-1, -1) to (-1, -1) 1/1
+test_standalone: ../src/underscore.string/lib/underscore.string.js 35/260
+test_standalone: script in file:/home/rahul/research/clone-unit-coverage/src/underscore.string/test/test_standalone.html from (-1, -1) to (-1, -1) 1/1
+temp_tests: script in file:/home/rahul/research/clone-unit-coverage/src/underscore.string/test/test_underscore/temp_tests.html from (-1, -1) to (-1, -1) 1/1
+test: ../src/underscore.string/lib/underscore.string.js 239/260
+test: script in file:/home/rahul/research/clone-unit-coverage/src/underscore.string/test/test.html from (-1, -1) to (-1, -1) 1/1
+test_standalone: ../src/underscore.string/lib/underscore.string.js 35/260
+test_standalone: script in file:/home/rahul/research/clone-unit-coverage/src/underscore.string/test/test_standalone.html from (-1, -1) to (-1, -1) 1/1
+temp_tests: script in file:/home/rahul/research/clone-unit-coverage/src/underscore.string/test/test_underscore/temp_tests.html from (-1, -1) to (-1, -1) 1/1
+test: ../src/underscore.string/lib/underscore.string.js 35/260
+test: script in file:/home/rahul/research/clone-unit-coverage/src/underscore.string/test/test_underscore/test.html from (-1, -1) to (-1, -1) 1/1

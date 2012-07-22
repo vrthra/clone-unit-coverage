@@ -1,0 +1,11 @@
+SpecRunner: ../src/mindmaps/src/js/libs/events.js 35/108
+SpecRunner: ../src/mindmaps/src/js/Util.js 41/107
+SpecRunner: ../src/mindmaps/src/js/Command.js 54/137
+SpecRunner: ../src/mindmaps/src/js/CommandRegistry.js 16/23
+SpecRunner: ../src/mindmaps/src/js/Document.js 36/47
+SpecRunner: ../src/mindmaps/src/js/Storage.js 34/43
+SpecRunner: ../src/mindmaps/src/js/Node.js 96/106
+SpecRunner: ../src/mindmaps/src/js/Point.js 11/12
+SpecRunner: ../src/mindmaps/src/js/MindMap.js 39/40
+SpecRunner: ../src/mindmaps/src/js/UndoManager.js 90/92
+SpecRunner: ../src/mindmaps/src/js/NodeMap.js 25/25

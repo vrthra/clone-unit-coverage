@@ -1,0 +1,13 @@
+index-build: ../src/QuoJS/release/QuoJS.js 21/21
+index-build: ../src/QuoJS/release/QuoJS.js 21/21
+index: ../src/QuoJS/src/build/quo.query.js 23/68
+index: ../src/QuoJS/src/build/quo.events.gestures.js 30/84
+index: ../src/QuoJS/src/build/quo.ajax.js 45/112
+index: ../src/QuoJS/src/build/quo.events.manager.js 45/99
+index: ../src/QuoJS/src/build/quo.element.js 17/36
+index: ../src/QuoJS/src/build/quo.core.js 42/83
+index: ../src/QuoJS/src/build/quo.style.js 17/31
+index: ../src/QuoJS/src/build/quo.output.js 23/36
+index: ../src/QuoJS/src/build/quo.js 20/28
+index: ../src/QuoJS/src/build/quo.events.js 19/24
+index: ../src/QuoJS/src/build/quo.environment.js 36/40

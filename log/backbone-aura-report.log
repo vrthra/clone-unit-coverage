@@ -1,0 +1,8 @@
+SpecRunner: ../src/backbone-aura/src/aura/lib/dom.js 0/0
+SpecRunner: ../src/backbone-aura/src/aura/lib/jquery/jquery.js 561/3447
+SpecRunner: ../src/backbone-aura/src/extensions/backbone/lib/localstorage.js 7/35
+SpecRunner: ../src/backbone-aura/src/aura/mediator.js 24/93
+SpecRunner: ../src/backbone-aura/src/extensions/backbone/lib/backbone.js 12/32
+SpecRunner: ../src/backbone-aura/src/aura/lib/underscore.js 23/25
+SpecRunner: ../src/backbone-aura/src/extensions/backbone/lib/require.js 28/30
+SpecRunner: ../src/backbone-aura/src/extensions/backbone/mediator.js 5/5

@@ -1,0 +1,6 @@
+test2: ../src/redmine_backlogs/assets/javascripts/jquery/jquery.jqplot/jquery.jqplot.js 1/3946
+test2: ../src/redmine_backlogs/assets/javascripts/jquery/jquery.jqplot/plugins/jqplot.cursor.js 1/624
+test2: ../src/redmine_backlogs/assets/javascripts/jquery/jquery.jqplot/plugins/jqplot.dateAxisRenderer.js 1/183
+test2: ../src/redmine_backlogs/assets/javascripts/jquery/jquery.jqplot/plugins/jqplot.highlighter.js 1/191
+test2: ../src/redmine_backlogs/assets/javascripts/jquery/jquery.jqplot/plugins/jqplot.logAxisRenderer.js 1/225
+test2: ../src/redmine_backlogs/assets/javascripts/jquery/jquery.jqplot/jquery.js 94/3302

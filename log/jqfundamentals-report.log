@@ -1,0 +1,14 @@
+testing-jasmine: ../src/jqfundamentals/exercises/libs/jasmine/jasmine.js 319/1005
+testing-jasmine: ../src/jqfundamentals/exercises/libs/jasmine/jasmine-html.js 44/97
+testing-jasmine: ../src/jqfundamentals/exercises/libs/jasmine/jasmine.js 319/1005
+testing-jasmine: ../src/jqfundamentals/exercises/libs/jasmine/jasmine-html.js 44/97
+testing-qunit: ../src/jqfundamentals/exercises/libs/jquery-1.5.1.js 460/3081
+testing-qunit: ../src/jqfundamentals/exercises/libs/qunit/qunit.js 102/478
+testing-jasmine: ../src/jqfundamentals/exercises/libs/jasmine/jasmine.js 319/1005
+testing-jasmine: ../src/jqfundamentals/exercises/libs/jasmine/jasmine-html.js 44/97
+testing-qunit: ../src/jqfundamentals/exercises/libs/jquery-1.5.1.js 460/3081
+testing-qunit: ../src/jqfundamentals/exercises/libs/qunit/qunit.js 102/478
+test: ../src/jqfundamentals/exercises/libs/jquery-1.5.1.js 979/3081
+test: ../src/jqfundamentals/exercises/libs/jasmine/jasmine.js 513/1005
+test: ../src/jqfundamentals/exercises/libs/jasmine/jasmine-html.js 76/97
+test: ../src/jqfundamentals/solutions/portlet.js 15/15

@@ -1,0 +1,13 @@
+misc_lights_test: ../src/three.js/examples/js/Stats.js 1/6
+misc_lights_test: ../src/three.js/build/Three.js 289/678
+misc_lights_test: ../src/three.js/examples/js/Stats.js 1/6
+misc_lights_test: ../src/three.js/build/Three.js 289/678
+misc_ubiquity_test: ../src/three.js/examples/js/Stats.js 1/6
+misc_ubiquity_test: ../src/three.js/build/Three.js 291/678
+misc_ubiquity_test: ../src/three.js/examples/obj/Qrcode.js 1440/1440
+misc_lights_test: ../src/three.js/examples/js/Stats.js 1/6
+misc_lights_test: ../src/three.js/build/Three.js 289/678
+misc_ubiquity_test: ../src/three.js/examples/js/Stats.js 1/6
+misc_ubiquity_test: ../src/three.js/build/Three.js 291/678
+misc_ubiquity_test: ../src/three.js/examples/obj/Qrcode.js 1440/1440
+webgl_test_memory: ../src/three.js/build/Three.js 291/678

@@ -1,0 +1,12 @@
+conformance: ../src/twitter-text-js/lib/jquery-1.4.2.js 341/2470
+conformance: ../src/twitter-text-js/lib/qunit.js 91/572
+conformance: ../src/twitter-text-js/twitter-text.js 241/623
+conformance: script in file:/home/rahul/research/clone-unit-coverage/src/twitter-text-js/test/conformance.html from (-1, -1) to (-1, -1) 1/1
+conformance: ../src/twitter-text-js/lib/jquery-1.4.2.js 341/2470
+conformance: ../src/twitter-text-js/lib/qunit.js 91/572
+conformance: ../src/twitter-text-js/twitter-text.js 241/623
+conformance: script in file:/home/rahul/research/clone-unit-coverage/src/twitter-text-js/test/conformance.html from (-1, -1) to (-1, -1) 1/1
+test: ../src/twitter-text-js/lib/jquery-1.4.2.js 423/2470
+test: ../src/twitter-text-js/twitter-text.js 257/623
+test: ../src/twitter-text-js/lib/qunit.js 280/572
+test: script in file:/home/rahul/research/clone-unit-coverage/src/twitter-text-js/test/test.html from (-1, -1) to (-1, -1) 1/1

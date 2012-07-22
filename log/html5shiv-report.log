@@ -1,0 +1,13 @@
+iframed-tests: ../src/html5shiv/src/html5shiv-printshiv.js 55/153
+area-basic: ../src/html5shiv/src/html5shiv-printshiv.js 55/153
+html5shiv: http:/ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.js 796/3335
+html5shiv: ../src/html5shiv/src/html5shiv-printshiv.js 55/153
+iframe.1-1: ../src/html5shiv/src/html5shiv-printshiv.js 55/153
+iframe.1-2: ../src/html5shiv/src/html5shiv-printshiv.js 55/153
+iframe.1: ../src/html5shiv/src/html5shiv-printshiv.js 55/153
+index: ../src/html5shiv/src/html5shiv-printshiv.js 55/153
+index: ../src/html5shiv/src/html5shiv-printshiv.js 55/153
+mixed-test: ../src/html5shiv/src/html5shiv-printshiv.js 55/153
+object-test: ../src/html5shiv/src/html5shiv.js 41/85
+perf.1: ../src/html5shiv/src/html5shiv-printshiv.js 55/153
+perf.2: ../src/html5shiv/src/html5shiv-printshiv.js 55/153

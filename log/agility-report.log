@@ -1,0 +1,12 @@
+core_only: http:/ajax.cdnjs.com/ajax/libs/json2/20110223/json2.js 13/91
+core_only: http:/ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js 3/3
+core_only: http:/ajax.cdnjs.com/ajax/libs/json2/20110223/json2.js 13/91
+core_only: http:/ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js 3/3
+index: http:/ajax.cdnjs.com/ajax/libs/json2/20110223/json2.js 13/91
+index: http:/ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js 3/3
+core_only: http:/ajax.cdnjs.com/ajax/libs/json2/20110223/json2.js 13/91
+core_only: http:/ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js 3/3
+index: http:/ajax.cdnjs.com/ajax/libs/json2/20110223/json2.js 13/91
+index: http:/ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js 3/3
+playground: http:/ajax.cdnjs.com/ajax/libs/json2/20110223/json2.js 13/91
+playground: http:/ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js 3/3

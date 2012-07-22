@@ -1,0 +1,17 @@
+runTests: ../src/has.js/detect/features.js 69/81
+runTests: ../src/has.js/has.js 44/51
+runTests: ../src/has.js/detect/css.js 70/79
+runTests: ../src/has.js/detect/dom.js 82/93
+runTests: ../src/has.js/detect/events.js 37/41
+runTests: ../src/has.js/detect/bugs.js 206/220
+runTests: ../src/has.js/detect/form.js 77/78
+runTests: ../src/has.js/detect/array.js 24/24
+runTests: ../src/has.js/detect/audio.js 14/14
+runTests: ../src/has.js/detect/dates.js 8/8
+runTests: ../src/has.js/detect/function.js 7/7
+runTests: ../src/has.js/detect/graphics.js 27/27
+runTests: ../src/has.js/detect/json.js 10/10
+runTests: ../src/has.js/detect/object.js 37/37
+runTests: ../src/has.js/detect/script.js 7/7
+runTests: ../src/has.js/detect/strings.js 3/3
+runTests: ../src/has.js/detect/video.js 12/12

@@ -1,0 +1,1 @@
+test-full: ../src/emscripten/third_party/lzma.js/lzma-full.js 1/10

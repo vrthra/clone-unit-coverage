@@ -1,0 +1,10 @@
+conformance_tests: ../src/JSONSelect/src/jsonselect.js 32/308
+conformance_tests: ../src/JSONSelect/src/jsonselect.js 32/308
+lex_test: ../src/JSONSelect/src/jsonselect.js 32/308
+conformance_tests: ../src/JSONSelect/src/jsonselect.js 32/308
+lex_test: ../src/JSONSelect/src/jsonselect.js 32/308
+match_test: ../src/JSONSelect/src/jsonselect.js 32/308
+conformance_tests: ../src/JSONSelect/src/jsonselect.js 32/308
+lex_test: ../src/JSONSelect/src/jsonselect.js 32/308
+match_test: ../src/JSONSelect/src/jsonselect.js 32/308
+parse_test: ../src/JSONSelect/src/jsonselect.js 32/308

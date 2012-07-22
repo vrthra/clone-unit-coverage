@@ -1,0 +1,15 @@
+test: ../src/ice/lib/rangy-1.2/rangy-cssclassapplier.js 1/354
+test: ../src/ice/lib/rangy-1.2/rangy-serializer.js 1/179
+test: ../src/ice/lib/rangy-1.2/rangy-selectionsaverestore.js 1/100
+test: ../src/ice/src/ice.js 21/634
+test: ../src/ice/lib/rangy-1.2/rangy-core.js 73/1565
+test: ../src/ice/src/selection.js 10/206
+test: ../src/ice/src/bookmark.js 5/91
+test: ../src/ice/src/plugins/IceSmartQuotesPlugin/IceSmartQuotesPlugin.js 7/74
+test: ../src/ice/src/plugins/IceCopyPastePlugin/IceCopyPastePlugin.js 31/258
+test: ../src/ice/src/plugins/IceEmdashPlugin/IceEmdashPlugin.js 6/33
+test: ../src/ice/src/dom.js 125/550
+test: ../src/ice/src/icePluginManager.js 40/150
+test: ../src/ice/src/icePlugin.js 5/11
+test: ../src/ice/src/plugins/IceAddTitlePlugin/IceAddTitlePlugin.js 7/8
+test: https:/ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js 3/3

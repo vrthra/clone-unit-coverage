@@ -1,0 +1,14 @@
+index: ../src/js-model/src/null_persistence.js 3/5
+index: ../src/js-model/src/collection.js 65/70
+index: ../src/js-model/src/model_errors.js 17/18
+index: ../src/js-model/src/model_local_storage.js 45/47
+index: ../src/js-model/src/model_rest.js 67/68
+index: ../src/js-model/src/event_emitter.js 27/27
+index: ../src/js-model/src/indexer.js 21/21
+index: ../src/js-model/src/model.js 9/9
+index: ../src/js-model/src/model_class_methods.js 13/13
+index: ../src/js-model/src/model_model.js 62/62
+index: ../src/js-model/src/model_uid.js 4/4
+index: ../src/js-model/src/model_utils.js 14/14
+index: ../src/js-model/src/model_version.js 1/1
+index: script in file:/home/rahul/research/clone-unit-coverage/src/js-model/test/index.html from (-1, -1) to (-1, -1) 1/1

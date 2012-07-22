@@ -1,0 +1,11 @@
+perf: ../src/pouchdb/src/pouch.js 6/35
+perf: ../src/pouchdb/src/pouch.js 6/35
+test: ../src/pouchdb/src/deps/uuid.js 8/173
+test: ../src/pouchdb/src/adapters/pouch.idb.js 24/459
+test: ../src/pouchdb/src/pouch.replicate.js 4/58
+test: ../src/pouchdb/src/pouch.collate.js 6/46
+test: ../src/pouchdb/src/adapters/pouch.http.js 53/207
+test: ../src/pouchdb/src/pouch.utils.js 29/111
+test: ../src/pouchdb/src/pouch.js 27/35
+test: ../src/pouchdb/src/deps/jquery-1.7.1.min.js 3/3
+test: ../src/pouchdb/src/pouch.merge.js 68/68
