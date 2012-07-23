@@ -1,0 +1,3 @@
+test: ../src/jquery.path/jquery.path.js 45/49
+test: http:/ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js 2/2
+test: script in file:/home/rahul/research/clone-unit-coverage/src/jquery.path/test/test.html from (-1, -1) to (-1, -1) 1/1

@@ -1,0 +1,166 @@
+SpecRunner: ../src/jquery.entwine/vendor/jasmine-dom/jasmine-dom-fixtures.js 13/79
+SpecRunner: ../src/jquery.entwine/vendor/jasmine/jasmine-html.js 100/310
+SpecRunner: ../src/jquery.entwine/src/jquery.entwine.events.js 39/113
+SpecRunner: ../src/jquery.entwine/vendor/jquery-1.7.2.js 1276/3447
+SpecRunner: ../src/jquery.entwine/vendor/jasmine-dom/jasmine-dom-matchers.js 37/85
+SpecRunner: ../src/jquery.entwine/vendor/jasmine/jasmine.js 630/1058
+SpecRunner: ../src/jquery.entwine/src/jquery.selector.affectedby.js 15/25
+SpecRunner: ../src/jquery.entwine/vendor/jquery.selector/jquery.selector.matches.js 73/116
+SpecRunner: ../src/jquery.entwine/src/jquery.entwine.properties.js 26/37
+SpecRunner: ../src/jquery.entwine/vendor/jquery.selector/jquery.class.js 28/40
+SpecRunner: ../src/jquery.entwine/src/jquery.entwine.js 116/151
+SpecRunner: ../src/jquery.entwine/src/domevents/jquery.entwine.domevents.addrem.js 60/73
+SpecRunner: ../src/jquery.entwine/vendor/jquery.selector/jquery.selector.js 62/75
+SpecRunner: ../src/jquery.entwine/src/jquery.entwine.addrem.js 26/28
+SpecRunner: ../src/jquery.entwine/src/domevents/jquery.entwine.domevents.maybechanged.js 55/59
+SpecRunner: ../src/jquery.entwine/src/jquery.entwine.ctors.js 90/94
+SpecRunner: Form action 1/1
+SpecRunner: ../src/jquery.entwine/src/jquery.entwine.eventcapture.js 60/60
+SpecRunner: ../src/jquery.entwine/vendor/jasmine-dom/jasmine-dom-fixtures.js 13/79
+SpecRunner: ../src/jquery.entwine/vendor/jasmine/jasmine-html.js 100/310
+SpecRunner: ../src/jquery.entwine/src/jquery.entwine.events.js 39/113
+SpecRunner: ../src/jquery.entwine/vendor/jquery-1.7.2.js 1276/3447
+SpecRunner: ../src/jquery.entwine/vendor/jasmine-dom/jasmine-dom-matchers.js 37/85
+SpecRunner: ../src/jquery.entwine/vendor/jasmine/jasmine.js 630/1058
+SpecRunner: ../src/jquery.entwine/src/jquery.selector.affectedby.js 15/25
+SpecRunner: ../src/jquery.entwine/vendor/jquery.selector/jquery.selector.matches.js 73/116
+SpecRunner: ../src/jquery.entwine/src/jquery.entwine.properties.js 26/37
+SpecRunner: ../src/jquery.entwine/vendor/jquery.selector/jquery.class.js 28/40
+SpecRunner: ../src/jquery.entwine/src/jquery.entwine.js 116/151
+SpecRunner: ../src/jquery.entwine/src/domevents/jquery.entwine.domevents.addrem.js 60/73
+SpecRunner: ../src/jquery.entwine/vendor/jquery.selector/jquery.selector.js 62/75
+SpecRunner: ../src/jquery.entwine/src/jquery.entwine.addrem.js 26/28
+SpecRunner: ../src/jquery.entwine/src/domevents/jquery.entwine.domevents.maybechanged.js 55/59
+SpecRunner: ../src/jquery.entwine/src/jquery.entwine.ctors.js 90/94
+SpecRunner: Form action 1/1
+SpecRunner: ../src/jquery.entwine/src/jquery.entwine.eventcapture.js 60/60
+SpecRunner: ../src/jquery.entwine/vendor/jasmine-dom/jasmine-dom-fixtures.js 13/79
+SpecRunner: ../src/jquery.entwine/vendor/jasmine/jasmine-html.js 100/310
+SpecRunner: ../src/jquery.entwine/src/jquery.entwine.events.js 39/113
+SpecRunner: ../src/jquery.entwine/vendor/jquery-1.7.2.js 1276/3447
+SpecRunner: ../src/jquery.entwine/vendor/jasmine-dom/jasmine-dom-matchers.js 37/85
+SpecRunner: ../src/jquery.entwine/vendor/jasmine/jasmine.js 630/1058
+SpecRunner: ../src/jquery.entwine/src/jquery.selector.affectedby.js 15/25
+SpecRunner: ../src/jquery.entwine/vendor/jquery.selector/jquery.selector.matches.js 73/116
+SpecRunner: ../src/jquery.entwine/src/jquery.entwine.properties.js 26/37
+SpecRunner: ../src/jquery.entwine/vendor/jquery.selector/jquery.class.js 28/40
+SpecRunner: ../src/jquery.entwine/src/jquery.entwine.js 116/151
+SpecRunner: ../src/jquery.entwine/src/domevents/jquery.entwine.domevents.addrem.js 60/73
+SpecRunner: ../src/jquery.entwine/vendor/jquery.selector/jquery.selector.js 62/75
+SpecRunner: ../src/jquery.entwine/src/jquery.entwine.addrem.js 26/28
+SpecRunner: ../src/jquery.entwine/src/domevents/jquery.entwine.domevents.maybechanged.js 55/59
+SpecRunner: ../src/jquery.entwine/src/jquery.entwine.ctors.js 90/94
+SpecRunner: Form action 1/1
+SpecRunner: ../src/jquery.entwine/src/jquery.entwine.eventcapture.js 60/60
+spec.dom: http:/ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js 2/2
+spec.dom: script in file:/home/rahul/research/clone-unit-coverage/src/jquery.entwine/vendor/jspec/spec/spec.dom.html from (-1, -1) to (-1, -1) 1/1
+SpecRunner: ../src/jquery.entwine/vendor/jasmine-dom/jasmine-dom-fixtures.js 13/79
+SpecRunner: ../src/jquery.entwine/vendor/jasmine/jasmine-html.js 100/310
+SpecRunner: ../src/jquery.entwine/src/jquery.entwine.events.js 39/113
+SpecRunner: ../src/jquery.entwine/vendor/jquery-1.7.2.js 1276/3447
+SpecRunner: ../src/jquery.entwine/vendor/jasmine-dom/jasmine-dom-matchers.js 37/85
+SpecRunner: ../src/jquery.entwine/vendor/jasmine/jasmine.js 630/1058
+SpecRunner: ../src/jquery.entwine/src/jquery.selector.affectedby.js 15/25
+SpecRunner: ../src/jquery.entwine/vendor/jquery.selector/jquery.selector.matches.js 73/116
+SpecRunner: ../src/jquery.entwine/src/jquery.entwine.properties.js 26/37
+SpecRunner: ../src/jquery.entwine/vendor/jquery.selector/jquery.class.js 28/40
+SpecRunner: ../src/jquery.entwine/src/jquery.entwine.js 116/151
+SpecRunner: ../src/jquery.entwine/src/domevents/jquery.entwine.domevents.addrem.js 60/73
+SpecRunner: ../src/jquery.entwine/vendor/jquery.selector/jquery.selector.js 62/75
+SpecRunner: ../src/jquery.entwine/src/jquery.entwine.addrem.js 26/28
+SpecRunner: ../src/jquery.entwine/src/domevents/jquery.entwine.domevents.maybechanged.js 55/59
+SpecRunner: ../src/jquery.entwine/src/jquery.entwine.ctors.js 90/94
+SpecRunner: Form action 1/1
+SpecRunner: ../src/jquery.entwine/src/jquery.entwine.eventcapture.js 60/60
+spec.dom: http:/ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js 2/2
+spec.dom: script in file:/home/rahul/research/clone-unit-coverage/src/jquery.entwine/vendor/jspec/spec/spec.dom.html from (-1, -1) to (-1, -1) 1/1
+spec.server: http:/ajax.googleapis.com/ajax/libs/jquery/1.3.1/jquery.min.js 2/2
+spec.server: script in file:/home/rahul/research/clone-unit-coverage/src/jquery.entwine/vendor/jspec/spec/spec.server.html from (-1, -1) to (-1, -1) 1/1
+SpecRunner: ../src/jquery.entwine/vendor/jasmine-dom/jasmine-dom-fixtures.js 13/79
+SpecRunner: ../src/jquery.entwine/vendor/jasmine/jasmine-html.js 100/310
+SpecRunner: ../src/jquery.entwine/src/jquery.entwine.events.js 39/113
+SpecRunner: ../src/jquery.entwine/vendor/jquery-1.7.2.js 1276/3447
+SpecRunner: ../src/jquery.entwine/vendor/jasmine-dom/jasmine-dom-matchers.js 37/85
+SpecRunner: ../src/jquery.entwine/vendor/jasmine/jasmine.js 630/1058
+SpecRunner: ../src/jquery.entwine/src/jquery.selector.affectedby.js 15/25
+SpecRunner: ../src/jquery.entwine/vendor/jquery.selector/jquery.selector.matches.js 73/116
+SpecRunner: ../src/jquery.entwine/src/jquery.entwine.properties.js 26/37
+SpecRunner: ../src/jquery.entwine/vendor/jquery.selector/jquery.class.js 28/40
+SpecRunner: ../src/jquery.entwine/src/jquery.entwine.js 116/151
+SpecRunner: ../src/jquery.entwine/src/domevents/jquery.entwine.domevents.addrem.js 60/73
+SpecRunner: ../src/jquery.entwine/vendor/jquery.selector/jquery.selector.js 62/75
+SpecRunner: ../src/jquery.entwine/src/jquery.entwine.addrem.js 26/28
+SpecRunner: ../src/jquery.entwine/src/domevents/jquery.entwine.domevents.maybechanged.js 55/59
+SpecRunner: ../src/jquery.entwine/src/jquery.entwine.ctors.js 90/94
+SpecRunner: Form action 1/1
+SpecRunner: ../src/jquery.entwine/src/jquery.entwine.eventcapture.js 60/60
+spec.dom: http:/ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js 2/2
+spec.dom: script in file:/home/rahul/research/clone-unit-coverage/src/jquery.entwine/vendor/jspec/spec/spec.dom.html from (-1, -1) to (-1, -1) 1/1
+spec.server: http:/ajax.googleapis.com/ajax/libs/jquery/1.3.1/jquery.min.js 2/2
+spec.server: script in file:/home/rahul/research/clone-unit-coverage/src/jquery.entwine/vendor/jspec/spec/spec.server.html from (-1, -1) to (-1, -1) 1/1
+SpecRunner: ../src/jquery.entwine/vendor/jasmine-dom/jasmine-dom-fixtures.js 13/79
+SpecRunner: ../src/jquery.entwine/vendor/jasmine/jasmine-html.js 100/310
+SpecRunner: ../src/jquery.entwine/src/jquery.entwine.events.js 39/113
+SpecRunner: ../src/jquery.entwine/vendor/jquery-1.7.2.js 1276/3447
+SpecRunner: ../src/jquery.entwine/vendor/jasmine-dom/jasmine-dom-matchers.js 37/85
+SpecRunner: ../src/jquery.entwine/vendor/jasmine/jasmine.js 630/1058
+SpecRunner: ../src/jquery.entwine/src/jquery.selector.affectedby.js 15/25
+SpecRunner: ../src/jquery.entwine/vendor/jquery.selector/jquery.selector.matches.js 73/116
+SpecRunner: ../src/jquery.entwine/src/jquery.entwine.properties.js 26/37
+SpecRunner: ../src/jquery.entwine/vendor/jquery.selector/jquery.class.js 28/40
+SpecRunner: ../src/jquery.entwine/src/jquery.entwine.js 116/151
+SpecRunner: ../src/jquery.entwine/src/domevents/jquery.entwine.domevents.addrem.js 60/73
+SpecRunner: ../src/jquery.entwine/vendor/jquery.selector/jquery.selector.js 62/75
+SpecRunner: ../src/jquery.entwine/src/jquery.entwine.addrem.js 26/28
+SpecRunner: ../src/jquery.entwine/src/domevents/jquery.entwine.domevents.maybechanged.js 55/59
+SpecRunner: ../src/jquery.entwine/src/jquery.entwine.ctors.js 90/94
+SpecRunner: Form action 1/1
+SpecRunner: ../src/jquery.entwine/src/jquery.entwine.eventcapture.js 60/60
+spec.dom: http:/ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js 2/2
+spec.dom: script in file:/home/rahul/research/clone-unit-coverage/src/jquery.entwine/vendor/jspec/spec/spec.dom.html from (-1, -1) to (-1, -1) 1/1
+spec.server: http:/ajax.googleapis.com/ajax/libs/jquery/1.3.1/jquery.min.js 2/2
+spec.server: script in file:/home/rahul/research/clone-unit-coverage/src/jquery.entwine/vendor/jspec/spec/spec.server.html from (-1, -1) to (-1, -1) 1/1
+SpecRunner: ../src/jquery.entwine/vendor/jasmine-dom/jasmine-dom-fixtures.js 13/79
+SpecRunner: ../src/jquery.entwine/vendor/jasmine/jasmine-html.js 100/310
+SpecRunner: ../src/jquery.entwine/src/jquery.entwine.events.js 39/113
+SpecRunner: ../src/jquery.entwine/vendor/jquery-1.7.2.js 1276/3447
+SpecRunner: ../src/jquery.entwine/vendor/jasmine-dom/jasmine-dom-matchers.js 37/85
+SpecRunner: ../src/jquery.entwine/vendor/jasmine/jasmine.js 630/1058
+SpecRunner: ../src/jquery.entwine/src/jquery.selector.affectedby.js 15/25
+SpecRunner: ../src/jquery.entwine/vendor/jquery.selector/jquery.selector.matches.js 73/116
+SpecRunner: ../src/jquery.entwine/src/jquery.entwine.properties.js 26/37
+SpecRunner: ../src/jquery.entwine/vendor/jquery.selector/jquery.class.js 28/40
+SpecRunner: ../src/jquery.entwine/src/jquery.entwine.js 116/151
+SpecRunner: ../src/jquery.entwine/src/domevents/jquery.entwine.domevents.addrem.js 60/73
+SpecRunner: ../src/jquery.entwine/vendor/jquery.selector/jquery.selector.js 62/75
+SpecRunner: ../src/jquery.entwine/src/jquery.entwine.addrem.js 26/28
+SpecRunner: ../src/jquery.entwine/src/domevents/jquery.entwine.domevents.maybechanged.js 55/59
+SpecRunner: ../src/jquery.entwine/src/jquery.entwine.ctors.js 90/94
+SpecRunner: Form action 1/1
+SpecRunner: ../src/jquery.entwine/src/jquery.entwine.eventcapture.js 60/60
+spec.dom: http:/ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js 2/2
+spec.dom: script in file:/home/rahul/research/clone-unit-coverage/src/jquery.entwine/vendor/jspec/spec/spec.dom.html from (-1, -1) to (-1, -1) 1/1
+spec.server: http:/ajax.googleapis.com/ajax/libs/jquery/1.3.1/jquery.min.js 2/2
+spec.server: script in file:/home/rahul/research/clone-unit-coverage/src/jquery.entwine/vendor/jspec/spec/spec.server.html from (-1, -1) to (-1, -1) 1/1
+SpecRunner: ../src/jquery.entwine/vendor/jasmine-dom/jasmine-dom-fixtures.js 13/79
+SpecRunner: ../src/jquery.entwine/vendor/jasmine/jasmine-html.js 100/310
+SpecRunner: ../src/jquery.entwine/src/jquery.entwine.events.js 39/113
+SpecRunner: ../src/jquery.entwine/vendor/jquery-1.7.2.js 1276/3447
+SpecRunner: ../src/jquery.entwine/vendor/jasmine-dom/jasmine-dom-matchers.js 37/85
+SpecRunner: ../src/jquery.entwine/vendor/jasmine/jasmine.js 630/1058
+SpecRunner: ../src/jquery.entwine/src/jquery.selector.affectedby.js 15/25
+SpecRunner: ../src/jquery.entwine/vendor/jquery.selector/jquery.selector.matches.js 73/116
+SpecRunner: ../src/jquery.entwine/src/jquery.entwine.properties.js 26/37
+SpecRunner: ../src/jquery.entwine/vendor/jquery.selector/jquery.class.js 28/40
+SpecRunner: ../src/jquery.entwine/src/jquery.entwine.js 116/151
+SpecRunner: ../src/jquery.entwine/src/domevents/jquery.entwine.domevents.addrem.js 60/73
+SpecRunner: ../src/jquery.entwine/vendor/jquery.selector/jquery.selector.js 62/75
+SpecRunner: ../src/jquery.entwine/src/jquery.entwine.addrem.js 26/28
+SpecRunner: ../src/jquery.entwine/src/domevents/jquery.entwine.domevents.maybechanged.js 55/59
+SpecRunner: ../src/jquery.entwine/src/jquery.entwine.ctors.js 90/94
+SpecRunner: Form action 1/1
+SpecRunner: ../src/jquery.entwine/src/jquery.entwine.eventcapture.js 60/60
+spec.dom: http:/ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js 2/2
+spec.dom: script in file:/home/rahul/research/clone-unit-coverage/src/jquery.entwine/vendor/jspec/spec/spec.dom.html from (-1, -1) to (-1, -1) 1/1
+spec.server: http:/ajax.googleapis.com/ajax/libs/jquery/1.3.1/jquery.min.js 2/2
+spec.server: script in file:/home/rahul/research/clone-unit-coverage/src/jquery.entwine/vendor/jspec/spec/spec.server.html from (-1, -1) to (-1, -1) 1/1

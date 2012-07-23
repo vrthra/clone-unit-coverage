@@ -1,0 +1,4 @@
+index: ../src/FlyJSONP/flyjsonp.js 102/110
+index: http:/query.yahooapis.com/v1/public/yql?q=select%20*%20from%20jsonpost%20where%20url%3D%22http%3A%2F%2Finvalidurl%22%20and%20postdata%3D%22data%3Dhello%22&format=json&env=store%3A%2F%2Fdatatables.org%2Falltableswithkeys&callback=flyjsonp_06DB9B89EBDB484E9322559D54BB2AD7 1/1
+index: http:/query.yahooapis.com/v1/public/yql?q=select%20*%20from%20jsonpost%20where%20url%3D%22http%3A%2F%2Fwww.tumblr.com%2Fapi%2Fwrite%22%20and%20postdata%3D%22email%3Dyou-email-address%26password%3Dyour-password%26type%3Dregular%26title%3DTest%20FlyJSONP%26body%3DTesting%20it%20out%22&format=json&env=store%3A%2F%2Fdatatables.org%2Falltableswithkeys&callback=flyjsonp_DC6C2DA15B8D47448572EF0FE45EE41E 1/1
+index: http:/storify.com/xdamman.json?callback=flyjsonp_81EFD8DBDE794766AE9A1ED38D7B6E1F 1/1

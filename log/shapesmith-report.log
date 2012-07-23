@@ -1,0 +1,9 @@
+SpecRunner: ../src/shapesmith/static/js/src/Command.js 2/59
+SpecRunner: ../src/shapesmith/static/js/lib/backbone.js 51/530
+SpecRunner: ../src/shapesmith/static/js/src/workplane.js 17/157
+SpecRunner: ../src/shapesmith/static/js/lib/jasmine-1.0.2/jasmine.js 547/1005
+SpecRunner: ../src/shapesmith/static/js/src/GeomNode.js 66/98
+SpecRunner: ../src/shapesmith/static/js/lib/jasmine-1.0.2/jasmine-html.js 76/97
+SpecRunner: ../src/shapesmith/static/js/src/GeomDocument.js 55/66
+SpecRunner: ../src/shapesmith/static/js/lib/underscore-min.js 23/24
+SpecRunner: ../src/shapesmith/static/js/src/Stack.js 12/12

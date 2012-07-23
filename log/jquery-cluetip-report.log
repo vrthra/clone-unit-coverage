@@ -1,0 +1,29 @@
+test-demo: ../src/jquery-cluetip/demo/demo.js 3/31
+test-demo: http:/ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js 98/152
+test-demo: script in file:/home/rahul/research/clone-unit-coverage/src/jquery-cluetip/demo/test-demo.html from (-1, -1) to (-1, -1) 1/1
+test-demo: ../src/jquery-cluetip/demo/demo.js 3/31
+test-demo: http:/ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js 98/152
+test-demo: script in file:/home/rahul/research/clone-unit-coverage/src/jquery-cluetip/demo/test-demo.html from (-1, -1) to (-1, -1) 1/1
+demo: ../src/jquery-cluetip/lib/themeswitchertool.js 2/68
+demo: ../src/jquery-cluetip/jquery.cluetip.js 77/329
+demo: ../src/jquery-cluetip/lib/jquery.hoverIntent.js 10/34
+demo: ../src/jquery-cluetip/lib/jquery.bgiframe.min.js 2/3
+demo: http:/ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js 3/3
+test-demo: ../src/jquery-cluetip/demo/demo.js 3/31
+test-demo: http:/ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js 98/152
+test-demo: script in file:/home/rahul/research/clone-unit-coverage/src/jquery-cluetip/demo/test-demo.html from (-1, -1) to (-1, -1) 1/1
+demo: ../src/jquery-cluetip/lib/themeswitchertool.js 2/68
+demo: ../src/jquery-cluetip/jquery.cluetip.js 77/329
+demo: ../src/jquery-cluetip/lib/jquery.hoverIntent.js 10/34
+demo: ../src/jquery-cluetip/lib/jquery.bgiframe.min.js 2/3
+demo: http:/ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js 3/3
+test-demo: ../src/jquery-cluetip/demo/demo.js 3/31
+test-demo: http:/ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js 98/152
+test-demo: script in file:/home/rahul/research/clone-unit-coverage/src/jquery-cluetip/demo/test-demo.html from (-1, -1) to (-1, -1) 1/1
+demo: ../src/jquery-cluetip/lib/themeswitchertool.js 2/68
+demo: ../src/jquery-cluetip/jquery.cluetip.js 77/329
+demo: ../src/jquery-cluetip/lib/jquery.hoverIntent.js 10/34
+demo: ../src/jquery-cluetip/lib/jquery.bgiframe.min.js 2/3
+demo: http:/ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js 3/3
+index: ../src/jquery-cluetip/lib/jquery.js 1496/3335
+index: ../src/jquery-cluetip/jquery.cluetip.js 191/329

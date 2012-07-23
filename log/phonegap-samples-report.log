@@ -1,0 +1,6 @@
+runner: ../src/phonegap-samples/phonegap-start/assets/js/lawnchair/adaptors/WebkitSQLiteAdaptor.js 2/80
+runner: ../src/phonegap-samples/phonegap-start/assets/js/lawnchair/adaptors/LawnchairAdaptorHelpers.js 2/22
+runner: ../src/phonegap-samples/phonegap-start/assets/js/lawnchair/adaptors/DOMStorageAdaptor.js 9/53
+runner: ../src/phonegap-samples/phonegap-start/assets/js/dsl.js 3/17
+runner: ../src/phonegap-samples/phonegap-start/assets/js/xui.js 84/392
+runner: ../src/phonegap-samples/phonegap-start/assets/js/lawnchair/Lawnchair.js 6/21

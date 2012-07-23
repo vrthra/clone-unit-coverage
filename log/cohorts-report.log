@@ -1,0 +1,9 @@
+test: ../src/cohorts/lib/cohorts.js 116/181
+test: http:/www.google-analytics.com/ga.js 51/60
+test: script in file:/home/rahul/research/clone-unit-coverage/src/cohorts/test/test.html from (-1, -1) to (-1, -1) 1/1
+test: ../src/cohorts/lib/cohorts.js 116/181
+test: http:/www.google-analytics.com/ga.js 51/60
+test: script in file:/home/rahul/research/clone-unit-coverage/src/cohorts/test/test.html from (-1, -1) to (-1, -1) 1/1
+test_storageAdapter: ../src/cohorts/lib/cohorts.js 109/181
+test_storageAdapter: http:/www.google-analytics.com/ga.js 51/60
+test_storageAdapter: script in file:/home/rahul/research/clone-unit-coverage/src/cohorts/test/test_storageAdapter.html from (-1, -1) to (-1, -1) 1/1

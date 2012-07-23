@@ -1,0 +1,303 @@
+browser: ../src/Tangram-base/src/import.js 13/74
+browser: ../src/Tangram-base/src/import.js 13/74
+browser_quirk: ../src/Tangram-base/src/import.js 13/74
+browser: ../src/Tangram-base/src/import.js 13/74
+browser_quirk: ../src/Tangram-base/src/import.js 13/74
+drag-option-autostop: ../src/Tangram-base/src/import.php?f=baidu.browser,baidu.browser.ie,baidu.dom,baidu.dom._g,baidu.dom.g,baidu.dom._styleFixer,baidu.dom._styleFilter,baidu.dom._styleFilter.filter 0/0
+drag-option-autostop: ../src/Tangram-base/src/import.php?f=baidu.event.preventDefault,baidu.object,baidu.object.extend,baidu.page,baidu.page.getScrollLeft,baidu.page.getScrollTop,baidu.page.getMousePosition,baidu.dom.drag,baidu.dom.draggable,baidu.dom.setStyle 0/0
+drag-option-autostop: ../src/Tangram-base/src/import.php?f=baidu.string,baidu.string.toCamelCase,baidu.dom.getStyle,baidu.event,baidu.event._listeners,baidu.event.on,baidu.event.un,baidu.swf.create 0/0
+drag-option-autostop: script in file:/home/rahul/research/clone-unit-coverage/src/Tangram-base/test/baidu/dom/drag/drag-option-autostop.html from (-1, -1) to (-1, -1) 1/1
+browser: ../src/Tangram-base/src/import.js 13/74
+browser_quirk: ../src/Tangram-base/src/import.js 13/74
+drag-option-autostop: ../src/Tangram-base/src/import.php?f=baidu.browser,baidu.browser.ie,baidu.dom,baidu.dom._g,baidu.dom.g,baidu.dom._styleFixer,baidu.dom._styleFilter,baidu.dom._styleFilter.filter 0/0
+drag-option-autostop: ../src/Tangram-base/src/import.php?f=baidu.event.preventDefault,baidu.object,baidu.object.extend,baidu.page,baidu.page.getScrollLeft,baidu.page.getScrollTop,baidu.page.getMousePosition,baidu.dom.drag,baidu.dom.draggable,baidu.dom.setStyle 0/0
+drag-option-autostop: ../src/Tangram-base/src/import.php?f=baidu.string,baidu.string.toCamelCase,baidu.dom.getStyle,baidu.event,baidu.event._listeners,baidu.event.on,baidu.event.un,baidu.swf.create 0/0
+drag-option-autostop: script in file:/home/rahul/research/clone-unit-coverage/src/Tangram-base/test/baidu/dom/drag/drag-option-autostop.html from (-1, -1) to (-1, -1) 1/1
+drag-option-no-autostop: ../src/Tangram-base/src/import.php?f=baidu.browser,baidu.browser.ie,baidu.dom,baidu.dom._g,baidu.dom.g,baidu.dom._styleFixer,baidu.dom._styleFilter,baidu.dom._styleFilter.filter 0/0
+drag-option-no-autostop: ../src/Tangram-base/src/import.php?f=baidu.event.preventDefault,baidu.object,baidu.object.extend,baidu.page,baidu.page.getScrollLeft,baidu.page.getScrollTop,baidu.page.getMousePosition,baidu.dom.drag,baidu.dom.draggable,baidu.dom.setStyle 0/0
+drag-option-no-autostop: ../src/Tangram-base/src/import.php?f=baidu.string,baidu.string.toCamelCase,baidu.dom.getStyle,baidu.event,baidu.event._listeners,baidu.event.on,baidu.event.un 0/0
+drag-option-no-autostop: script in file:/home/rahul/research/clone-unit-coverage/src/Tangram-base/test/baidu/dom/drag/drag-option-no-autostop.html from (-1, -1) to (-1, -1) 1/1
+browser: ../src/Tangram-base/src/import.js 13/74
+browser_quirk: ../src/Tangram-base/src/import.js 13/74
+drag-option-autostop: ../src/Tangram-base/src/import.php?f=baidu.browser,baidu.browser.ie,baidu.dom,baidu.dom._g,baidu.dom.g,baidu.dom._styleFixer,baidu.dom._styleFilter,baidu.dom._styleFilter.filter 0/0
+drag-option-autostop: ../src/Tangram-base/src/import.php?f=baidu.event.preventDefault,baidu.object,baidu.object.extend,baidu.page,baidu.page.getScrollLeft,baidu.page.getScrollTop,baidu.page.getMousePosition,baidu.dom.drag,baidu.dom.draggable,baidu.dom.setStyle 0/0
+drag-option-autostop: ../src/Tangram-base/src/import.php?f=baidu.string,baidu.string.toCamelCase,baidu.dom.getStyle,baidu.event,baidu.event._listeners,baidu.event.on,baidu.event.un,baidu.swf.create 0/0
+drag-option-autostop: script in file:/home/rahul/research/clone-unit-coverage/src/Tangram-base/test/baidu/dom/drag/drag-option-autostop.html from (-1, -1) to (-1, -1) 1/1
+drag-option-no-autostop: ../src/Tangram-base/src/import.php?f=baidu.browser,baidu.browser.ie,baidu.dom,baidu.dom._g,baidu.dom.g,baidu.dom._styleFixer,baidu.dom._styleFilter,baidu.dom._styleFilter.filter 0/0
+drag-option-no-autostop: ../src/Tangram-base/src/import.php?f=baidu.event.preventDefault,baidu.object,baidu.object.extend,baidu.page,baidu.page.getScrollLeft,baidu.page.getScrollTop,baidu.page.getMousePosition,baidu.dom.drag,baidu.dom.draggable,baidu.dom.setStyle 0/0
+drag-option-no-autostop: ../src/Tangram-base/src/import.php?f=baidu.string,baidu.string.toCamelCase,baidu.dom.getStyle,baidu.event,baidu.event._listeners,baidu.event.on,baidu.event.un 0/0
+drag-option-no-autostop: script in file:/home/rahul/research/clone-unit-coverage/src/Tangram-base/test/baidu/dom/drag/drag-option-no-autostop.html from (-1, -1) to (-1, -1) 1/1
+browser: ../src/Tangram-base/src/import.js 13/74
+browser_quirk: ../src/Tangram-base/src/import.js 13/74
+drag-option-autostop: ../src/Tangram-base/src/import.php?f=baidu.browser,baidu.browser.ie,baidu.dom,baidu.dom._g,baidu.dom.g,baidu.dom._styleFixer,baidu.dom._styleFilter,baidu.dom._styleFilter.filter 0/0
+drag-option-autostop: ../src/Tangram-base/src/import.php?f=baidu.event.preventDefault,baidu.object,baidu.object.extend,baidu.page,baidu.page.getScrollLeft,baidu.page.getScrollTop,baidu.page.getMousePosition,baidu.dom.drag,baidu.dom.draggable,baidu.dom.setStyle 0/0
+drag-option-autostop: ../src/Tangram-base/src/import.php?f=baidu.string,baidu.string.toCamelCase,baidu.dom.getStyle,baidu.event,baidu.event._listeners,baidu.event.on,baidu.event.un,baidu.swf.create 0/0
+drag-option-autostop: script in file:/home/rahul/research/clone-unit-coverage/src/Tangram-base/test/baidu/dom/drag/drag-option-autostop.html from (-1, -1) to (-1, -1) 1/1
+drag-option-no-autostop: ../src/Tangram-base/src/import.php?f=baidu.browser,baidu.browser.ie,baidu.dom,baidu.dom._g,baidu.dom.g,baidu.dom._styleFixer,baidu.dom._styleFilter,baidu.dom._styleFilter.filter 0/0
+drag-option-no-autostop: ../src/Tangram-base/src/import.php?f=baidu.event.preventDefault,baidu.object,baidu.object.extend,baidu.page,baidu.page.getScrollLeft,baidu.page.getScrollTop,baidu.page.getMousePosition,baidu.dom.drag,baidu.dom.draggable,baidu.dom.setStyle 0/0
+drag-option-no-autostop: ../src/Tangram-base/src/import.php?f=baidu.string,baidu.string.toCamelCase,baidu.dom.getStyle,baidu.event,baidu.event._listeners,baidu.event.on,baidu.event.un 0/0
+drag-option-no-autostop: script in file:/home/rahul/research/clone-unit-coverage/src/Tangram-base/test/baidu/dom/drag/drag-option-no-autostop.html from (-1, -1) to (-1, -1) 1/1
+browser: ../src/Tangram-base/src/import.js 13/74
+browser_quirk: ../src/Tangram-base/src/import.js 13/74
+drag-option-autostop: ../src/Tangram-base/src/import.php?f=baidu.browser,baidu.browser.ie,baidu.dom,baidu.dom._g,baidu.dom.g,baidu.dom._styleFixer,baidu.dom._styleFilter,baidu.dom._styleFilter.filter 0/0
+drag-option-autostop: ../src/Tangram-base/src/import.php?f=baidu.event.preventDefault,baidu.object,baidu.object.extend,baidu.page,baidu.page.getScrollLeft,baidu.page.getScrollTop,baidu.page.getMousePosition,baidu.dom.drag,baidu.dom.draggable,baidu.dom.setStyle 0/0
+drag-option-autostop: ../src/Tangram-base/src/import.php?f=baidu.string,baidu.string.toCamelCase,baidu.dom.getStyle,baidu.event,baidu.event._listeners,baidu.event.on,baidu.event.un,baidu.swf.create 0/0
+drag-option-autostop: script in file:/home/rahul/research/clone-unit-coverage/src/Tangram-base/test/baidu/dom/drag/drag-option-autostop.html from (-1, -1) to (-1, -1) 1/1
+drag-option-no-autostop: ../src/Tangram-base/src/import.php?f=baidu.browser,baidu.browser.ie,baidu.dom,baidu.dom._g,baidu.dom.g,baidu.dom._styleFixer,baidu.dom._styleFilter,baidu.dom._styleFilter.filter 0/0
+drag-option-no-autostop: ../src/Tangram-base/src/import.php?f=baidu.event.preventDefault,baidu.object,baidu.object.extend,baidu.page,baidu.page.getScrollLeft,baidu.page.getScrollTop,baidu.page.getMousePosition,baidu.dom.drag,baidu.dom.draggable,baidu.dom.setStyle 0/0
+drag-option-no-autostop: ../src/Tangram-base/src/import.php?f=baidu.string,baidu.string.toCamelCase,baidu.dom.getStyle,baidu.event,baidu.event._listeners,baidu.event.on,baidu.event.un 0/0
+drag-option-no-autostop: script in file:/home/rahul/research/clone-unit-coverage/src/Tangram-base/test/baidu/dom/drag/drag-option-no-autostop.html from (-1, -1) to (-1, -1) 1/1
+browser: ../src/Tangram-base/src/import.js 13/74
+browser_quirk: ../src/Tangram-base/src/import.js 13/74
+drag-option-autostop: ../src/Tangram-base/src/import.php?f=baidu.browser,baidu.browser.ie,baidu.dom,baidu.dom._g,baidu.dom.g,baidu.dom._styleFixer,baidu.dom._styleFilter,baidu.dom._styleFilter.filter 0/0
+drag-option-autostop: ../src/Tangram-base/src/import.php?f=baidu.event.preventDefault,baidu.object,baidu.object.extend,baidu.page,baidu.page.getScrollLeft,baidu.page.getScrollTop,baidu.page.getMousePosition,baidu.dom.drag,baidu.dom.draggable,baidu.dom.setStyle 0/0
+drag-option-autostop: ../src/Tangram-base/src/import.php?f=baidu.string,baidu.string.toCamelCase,baidu.dom.getStyle,baidu.event,baidu.event._listeners,baidu.event.on,baidu.event.un,baidu.swf.create 0/0
+drag-option-autostop: script in file:/home/rahul/research/clone-unit-coverage/src/Tangram-base/test/baidu/dom/drag/drag-option-autostop.html from (-1, -1) to (-1, -1) 1/1
+drag-option-no-autostop: ../src/Tangram-base/src/import.php?f=baidu.browser,baidu.browser.ie,baidu.dom,baidu.dom._g,baidu.dom.g,baidu.dom._styleFixer,baidu.dom._styleFilter,baidu.dom._styleFilter.filter 0/0
+drag-option-no-autostop: ../src/Tangram-base/src/import.php?f=baidu.event.preventDefault,baidu.object,baidu.object.extend,baidu.page,baidu.page.getScrollLeft,baidu.page.getScrollTop,baidu.page.getMousePosition,baidu.dom.drag,baidu.dom.draggable,baidu.dom.setStyle 0/0
+drag-option-no-autostop: ../src/Tangram-base/src/import.php?f=baidu.string,baidu.string.toCamelCase,baidu.dom.getStyle,baidu.event,baidu.event._listeners,baidu.event.on,baidu.event.un 0/0
+drag-option-no-autostop: script in file:/home/rahul/research/clone-unit-coverage/src/Tangram-base/test/baidu/dom/drag/drag-option-no-autostop.html from (-1, -1) to (-1, -1) 1/1
+browser: ../src/Tangram-base/src/import.js 13/74
+browser_quirk: ../src/Tangram-base/src/import.js 13/74
+drag-option-autostop: ../src/Tangram-base/src/import.php?f=baidu.browser,baidu.browser.ie,baidu.dom,baidu.dom._g,baidu.dom.g,baidu.dom._styleFixer,baidu.dom._styleFilter,baidu.dom._styleFilter.filter 0/0
+drag-option-autostop: ../src/Tangram-base/src/import.php?f=baidu.event.preventDefault,baidu.object,baidu.object.extend,baidu.page,baidu.page.getScrollLeft,baidu.page.getScrollTop,baidu.page.getMousePosition,baidu.dom.drag,baidu.dom.draggable,baidu.dom.setStyle 0/0
+drag-option-autostop: ../src/Tangram-base/src/import.php?f=baidu.string,baidu.string.toCamelCase,baidu.dom.getStyle,baidu.event,baidu.event._listeners,baidu.event.on,baidu.event.un,baidu.swf.create 0/0
+drag-option-autostop: script in file:/home/rahul/research/clone-unit-coverage/src/Tangram-base/test/baidu/dom/drag/drag-option-autostop.html from (-1, -1) to (-1, -1) 1/1
+drag-option-no-autostop: ../src/Tangram-base/src/import.php?f=baidu.browser,baidu.browser.ie,baidu.dom,baidu.dom._g,baidu.dom.g,baidu.dom._styleFixer,baidu.dom._styleFilter,baidu.dom._styleFilter.filter 0/0
+drag-option-no-autostop: ../src/Tangram-base/src/import.php?f=baidu.event.preventDefault,baidu.object,baidu.object.extend,baidu.page,baidu.page.getScrollLeft,baidu.page.getScrollTop,baidu.page.getMousePosition,baidu.dom.drag,baidu.dom.draggable,baidu.dom.setStyle 0/0
+drag-option-no-autostop: ../src/Tangram-base/src/import.php?f=baidu.string,baidu.string.toCamelCase,baidu.dom.getStyle,baidu.event,baidu.event._listeners,baidu.event.on,baidu.event.un 0/0
+drag-option-no-autostop: script in file:/home/rahul/research/clone-unit-coverage/src/Tangram-base/test/baidu/dom/drag/drag-option-no-autostop.html from (-1, -1) to (-1, -1) 1/1
+browser: ../src/Tangram-base/src/import.js 13/74
+browser_quirk: ../src/Tangram-base/src/import.js 13/74
+drag-option-autostop: ../src/Tangram-base/src/import.php?f=baidu.browser,baidu.browser.ie,baidu.dom,baidu.dom._g,baidu.dom.g,baidu.dom._styleFixer,baidu.dom._styleFilter,baidu.dom._styleFilter.filter 0/0
+drag-option-autostop: ../src/Tangram-base/src/import.php?f=baidu.event.preventDefault,baidu.object,baidu.object.extend,baidu.page,baidu.page.getScrollLeft,baidu.page.getScrollTop,baidu.page.getMousePosition,baidu.dom.drag,baidu.dom.draggable,baidu.dom.setStyle 0/0
+drag-option-autostop: ../src/Tangram-base/src/import.php?f=baidu.string,baidu.string.toCamelCase,baidu.dom.getStyle,baidu.event,baidu.event._listeners,baidu.event.on,baidu.event.un,baidu.swf.create 0/0
+drag-option-autostop: script in file:/home/rahul/research/clone-unit-coverage/src/Tangram-base/test/baidu/dom/drag/drag-option-autostop.html from (-1, -1) to (-1, -1) 1/1
+drag-option-no-autostop: ../src/Tangram-base/src/import.php?f=baidu.browser,baidu.browser.ie,baidu.dom,baidu.dom._g,baidu.dom.g,baidu.dom._styleFixer,baidu.dom._styleFilter,baidu.dom._styleFilter.filter 0/0
+drag-option-no-autostop: ../src/Tangram-base/src/import.php?f=baidu.event.preventDefault,baidu.object,baidu.object.extend,baidu.page,baidu.page.getScrollLeft,baidu.page.getScrollTop,baidu.page.getMousePosition,baidu.dom.drag,baidu.dom.draggable,baidu.dom.setStyle 0/0
+drag-option-no-autostop: ../src/Tangram-base/src/import.php?f=baidu.string,baidu.string.toCamelCase,baidu.dom.getStyle,baidu.event,baidu.event._listeners,baidu.event.on,baidu.event.un 0/0
+drag-option-no-autostop: script in file:/home/rahul/research/clone-unit-coverage/src/Tangram-base/test/baidu/dom/drag/drag-option-no-autostop.html from (-1, -1) to (-1, -1) 1/1
+browser: ../src/Tangram-base/src/import.js 13/74
+browser_quirk: ../src/Tangram-base/src/import.js 13/74
+drag-option-autostop: ../src/Tangram-base/src/import.php?f=baidu.browser,baidu.browser.ie,baidu.dom,baidu.dom._g,baidu.dom.g,baidu.dom._styleFixer,baidu.dom._styleFilter,baidu.dom._styleFilter.filter 0/0
+drag-option-autostop: ../src/Tangram-base/src/import.php?f=baidu.event.preventDefault,baidu.object,baidu.object.extend,baidu.page,baidu.page.getScrollLeft,baidu.page.getScrollTop,baidu.page.getMousePosition,baidu.dom.drag,baidu.dom.draggable,baidu.dom.setStyle 0/0
+drag-option-autostop: ../src/Tangram-base/src/import.php?f=baidu.string,baidu.string.toCamelCase,baidu.dom.getStyle,baidu.event,baidu.event._listeners,baidu.event.on,baidu.event.un,baidu.swf.create 0/0
+drag-option-autostop: script in file:/home/rahul/research/clone-unit-coverage/src/Tangram-base/test/baidu/dom/drag/drag-option-autostop.html from (-1, -1) to (-1, -1) 1/1
+drag-option-no-autostop: ../src/Tangram-base/src/import.php?f=baidu.browser,baidu.browser.ie,baidu.dom,baidu.dom._g,baidu.dom.g,baidu.dom._styleFixer,baidu.dom._styleFilter,baidu.dom._styleFilter.filter 0/0
+drag-option-no-autostop: ../src/Tangram-base/src/import.php?f=baidu.event.preventDefault,baidu.object,baidu.object.extend,baidu.page,baidu.page.getScrollLeft,baidu.page.getScrollTop,baidu.page.getMousePosition,baidu.dom.drag,baidu.dom.draggable,baidu.dom.setStyle 0/0
+drag-option-no-autostop: ../src/Tangram-base/src/import.php?f=baidu.string,baidu.string.toCamelCase,baidu.dom.getStyle,baidu.event,baidu.event._listeners,baidu.event.on,baidu.event.un 0/0
+drag-option-no-autostop: script in file:/home/rahul/research/clone-unit-coverage/src/Tangram-base/test/baidu/dom/drag/drag-option-no-autostop.html from (-1, -1) to (-1, -1) 1/1
+browser: ../src/Tangram-base/src/import.js 13/74
+browser_quirk: ../src/Tangram-base/src/import.js 13/74
+drag-option-autostop: ../src/Tangram-base/src/import.php?f=baidu.browser,baidu.browser.ie,baidu.dom,baidu.dom._g,baidu.dom.g,baidu.dom._styleFixer,baidu.dom._styleFilter,baidu.dom._styleFilter.filter 0/0
+drag-option-autostop: ../src/Tangram-base/src/import.php?f=baidu.event.preventDefault,baidu.object,baidu.object.extend,baidu.page,baidu.page.getScrollLeft,baidu.page.getScrollTop,baidu.page.getMousePosition,baidu.dom.drag,baidu.dom.draggable,baidu.dom.setStyle 0/0
+drag-option-autostop: ../src/Tangram-base/src/import.php?f=baidu.string,baidu.string.toCamelCase,baidu.dom.getStyle,baidu.event,baidu.event._listeners,baidu.event.on,baidu.event.un,baidu.swf.create 0/0
+drag-option-autostop: script in file:/home/rahul/research/clone-unit-coverage/src/Tangram-base/test/baidu/dom/drag/drag-option-autostop.html from (-1, -1) to (-1, -1) 1/1
+drag-option-no-autostop: ../src/Tangram-base/src/import.php?f=baidu.browser,baidu.browser.ie,baidu.dom,baidu.dom._g,baidu.dom.g,baidu.dom._styleFixer,baidu.dom._styleFilter,baidu.dom._styleFilter.filter 0/0
+drag-option-no-autostop: ../src/Tangram-base/src/import.php?f=baidu.event.preventDefault,baidu.object,baidu.object.extend,baidu.page,baidu.page.getScrollLeft,baidu.page.getScrollTop,baidu.page.getMousePosition,baidu.dom.drag,baidu.dom.draggable,baidu.dom.setStyle 0/0
+drag-option-no-autostop: ../src/Tangram-base/src/import.php?f=baidu.string,baidu.string.toCamelCase,baidu.dom.getStyle,baidu.event,baidu.event._listeners,baidu.event.on,baidu.event.un 0/0
+drag-option-no-autostop: script in file:/home/rahul/research/clone-unit-coverage/src/Tangram-base/test/baidu/dom/drag/drag-option-no-autostop.html from (-1, -1) to (-1, -1) 1/1
+browser: ../src/Tangram-base/src/import.js 13/74
+browser_quirk: ../src/Tangram-base/src/import.js 13/74
+drag-option-autostop: ../src/Tangram-base/src/import.php?f=baidu.browser,baidu.browser.ie,baidu.dom,baidu.dom._g,baidu.dom.g,baidu.dom._styleFixer,baidu.dom._styleFilter,baidu.dom._styleFilter.filter 0/0
+drag-option-autostop: ../src/Tangram-base/src/import.php?f=baidu.event.preventDefault,baidu.object,baidu.object.extend,baidu.page,baidu.page.getScrollLeft,baidu.page.getScrollTop,baidu.page.getMousePosition,baidu.dom.drag,baidu.dom.draggable,baidu.dom.setStyle 0/0
+drag-option-autostop: ../src/Tangram-base/src/import.php?f=baidu.string,baidu.string.toCamelCase,baidu.dom.getStyle,baidu.event,baidu.event._listeners,baidu.event.on,baidu.event.un,baidu.swf.create 0/0
+drag-option-autostop: script in file:/home/rahul/research/clone-unit-coverage/src/Tangram-base/test/baidu/dom/drag/drag-option-autostop.html from (-1, -1) to (-1, -1) 1/1
+drag-option-no-autostop: ../src/Tangram-base/src/import.php?f=baidu.browser,baidu.browser.ie,baidu.dom,baidu.dom._g,baidu.dom.g,baidu.dom._styleFixer,baidu.dom._styleFilter,baidu.dom._styleFilter.filter 0/0
+drag-option-no-autostop: ../src/Tangram-base/src/import.php?f=baidu.event.preventDefault,baidu.object,baidu.object.extend,baidu.page,baidu.page.getScrollLeft,baidu.page.getScrollTop,baidu.page.getMousePosition,baidu.dom.drag,baidu.dom.draggable,baidu.dom.setStyle 0/0
+drag-option-no-autostop: ../src/Tangram-base/src/import.php?f=baidu.string,baidu.string.toCamelCase,baidu.dom.getStyle,baidu.event,baidu.event._listeners,baidu.event.on,baidu.event.un 0/0
+drag-option-no-autostop: script in file:/home/rahul/research/clone-unit-coverage/src/Tangram-base/test/baidu/dom/drag/drag-option-no-autostop.html from (-1, -1) to (-1, -1) 1/1
+browser: ../src/Tangram-base/src/import.js 13/74
+browser_quirk: ../src/Tangram-base/src/import.js 13/74
+drag-option-autostop: ../src/Tangram-base/src/import.php?f=baidu.browser,baidu.browser.ie,baidu.dom,baidu.dom._g,baidu.dom.g,baidu.dom._styleFixer,baidu.dom._styleFilter,baidu.dom._styleFilter.filter 0/0
+drag-option-autostop: ../src/Tangram-base/src/import.php?f=baidu.event.preventDefault,baidu.object,baidu.object.extend,baidu.page,baidu.page.getScrollLeft,baidu.page.getScrollTop,baidu.page.getMousePosition,baidu.dom.drag,baidu.dom.draggable,baidu.dom.setStyle 0/0
+drag-option-autostop: ../src/Tangram-base/src/import.php?f=baidu.string,baidu.string.toCamelCase,baidu.dom.getStyle,baidu.event,baidu.event._listeners,baidu.event.on,baidu.event.un,baidu.swf.create 0/0
+drag-option-autostop: script in file:/home/rahul/research/clone-unit-coverage/src/Tangram-base/test/baidu/dom/drag/drag-option-autostop.html from (-1, -1) to (-1, -1) 1/1
+drag-option-no-autostop: ../src/Tangram-base/src/import.php?f=baidu.browser,baidu.browser.ie,baidu.dom,baidu.dom._g,baidu.dom.g,baidu.dom._styleFixer,baidu.dom._styleFilter,baidu.dom._styleFilter.filter 0/0
+drag-option-no-autostop: ../src/Tangram-base/src/import.php?f=baidu.event.preventDefault,baidu.object,baidu.object.extend,baidu.page,baidu.page.getScrollLeft,baidu.page.getScrollTop,baidu.page.getMousePosition,baidu.dom.drag,baidu.dom.draggable,baidu.dom.setStyle 0/0
+drag-option-no-autostop: ../src/Tangram-base/src/import.php?f=baidu.string,baidu.string.toCamelCase,baidu.dom.getStyle,baidu.event,baidu.event._listeners,baidu.event.on,baidu.event.un 0/0
+drag-option-no-autostop: script in file:/home/rahul/research/clone-unit-coverage/src/Tangram-base/test/baidu/dom/drag/drag-option-no-autostop.html from (-1, -1) to (-1, -1) 1/1
+browser: ../src/Tangram-base/src/import.js 13/74
+browser_quirk: ../src/Tangram-base/src/import.js 13/74
+drag-option-autostop: ../src/Tangram-base/src/import.php?f=baidu.browser,baidu.browser.ie,baidu.dom,baidu.dom._g,baidu.dom.g,baidu.dom._styleFixer,baidu.dom._styleFilter,baidu.dom._styleFilter.filter 0/0
+drag-option-autostop: ../src/Tangram-base/src/import.php?f=baidu.event.preventDefault,baidu.object,baidu.object.extend,baidu.page,baidu.page.getScrollLeft,baidu.page.getScrollTop,baidu.page.getMousePosition,baidu.dom.drag,baidu.dom.draggable,baidu.dom.setStyle 0/0
+drag-option-autostop: ../src/Tangram-base/src/import.php?f=baidu.string,baidu.string.toCamelCase,baidu.dom.getStyle,baidu.event,baidu.event._listeners,baidu.event.on,baidu.event.un,baidu.swf.create 0/0
+drag-option-autostop: script in file:/home/rahul/research/clone-unit-coverage/src/Tangram-base/test/baidu/dom/drag/drag-option-autostop.html from (-1, -1) to (-1, -1) 1/1
+drag-option-no-autostop: ../src/Tangram-base/src/import.php?f=baidu.browser,baidu.browser.ie,baidu.dom,baidu.dom._g,baidu.dom.g,baidu.dom._styleFixer,baidu.dom._styleFilter,baidu.dom._styleFilter.filter 0/0
+drag-option-no-autostop: ../src/Tangram-base/src/import.php?f=baidu.event.preventDefault,baidu.object,baidu.object.extend,baidu.page,baidu.page.getScrollLeft,baidu.page.getScrollTop,baidu.page.getMousePosition,baidu.dom.drag,baidu.dom.draggable,baidu.dom.setStyle 0/0
+drag-option-no-autostop: ../src/Tangram-base/src/import.php?f=baidu.string,baidu.string.toCamelCase,baidu.dom.getStyle,baidu.event,baidu.event._listeners,baidu.event.on,baidu.event.un 0/0
+drag-option-no-autostop: script in file:/home/rahul/research/clone-unit-coverage/src/Tangram-base/test/baidu/dom/drag/drag-option-no-autostop.html from (-1, -1) to (-1, -1) 1/1
+browser: ../src/Tangram-base/src/import.js 13/74
+browser_quirk: ../src/Tangram-base/src/import.js 13/74
+drag-option-autostop: ../src/Tangram-base/src/import.php?f=baidu.browser,baidu.browser.ie,baidu.dom,baidu.dom._g,baidu.dom.g,baidu.dom._styleFixer,baidu.dom._styleFilter,baidu.dom._styleFilter.filter 0/0
+drag-option-autostop: ../src/Tangram-base/src/import.php?f=baidu.event.preventDefault,baidu.object,baidu.object.extend,baidu.page,baidu.page.getScrollLeft,baidu.page.getScrollTop,baidu.page.getMousePosition,baidu.dom.drag,baidu.dom.draggable,baidu.dom.setStyle 0/0
+drag-option-autostop: ../src/Tangram-base/src/import.php?f=baidu.string,baidu.string.toCamelCase,baidu.dom.getStyle,baidu.event,baidu.event._listeners,baidu.event.on,baidu.event.un,baidu.swf.create 0/0
+drag-option-autostop: script in file:/home/rahul/research/clone-unit-coverage/src/Tangram-base/test/baidu/dom/drag/drag-option-autostop.html from (-1, -1) to (-1, -1) 1/1
+drag-option-no-autostop: ../src/Tangram-base/src/import.php?f=baidu.browser,baidu.browser.ie,baidu.dom,baidu.dom._g,baidu.dom.g,baidu.dom._styleFixer,baidu.dom._styleFilter,baidu.dom._styleFilter.filter 0/0
+drag-option-no-autostop: ../src/Tangram-base/src/import.php?f=baidu.event.preventDefault,baidu.object,baidu.object.extend,baidu.page,baidu.page.getScrollLeft,baidu.page.getScrollTop,baidu.page.getMousePosition,baidu.dom.drag,baidu.dom.draggable,baidu.dom.setStyle 0/0
+drag-option-no-autostop: ../src/Tangram-base/src/import.php?f=baidu.string,baidu.string.toCamelCase,baidu.dom.getStyle,baidu.event,baidu.event._listeners,baidu.event.on,baidu.event.un 0/0
+drag-option-no-autostop: script in file:/home/rahul/research/clone-unit-coverage/src/Tangram-base/test/baidu/dom/drag/drag-option-no-autostop.html from (-1, -1) to (-1, -1) 1/1
+browser: ../src/Tangram-base/src/import.js 13/74
+browser_quirk: ../src/Tangram-base/src/import.js 13/74
+drag-option-autostop: ../src/Tangram-base/src/import.php?f=baidu.browser,baidu.browser.ie,baidu.dom,baidu.dom._g,baidu.dom.g,baidu.dom._styleFixer,baidu.dom._styleFilter,baidu.dom._styleFilter.filter 0/0
+drag-option-autostop: ../src/Tangram-base/src/import.php?f=baidu.event.preventDefault,baidu.object,baidu.object.extend,baidu.page,baidu.page.getScrollLeft,baidu.page.getScrollTop,baidu.page.getMousePosition,baidu.dom.drag,baidu.dom.draggable,baidu.dom.setStyle 0/0
+drag-option-autostop: ../src/Tangram-base/src/import.php?f=baidu.string,baidu.string.toCamelCase,baidu.dom.getStyle,baidu.event,baidu.event._listeners,baidu.event.on,baidu.event.un,baidu.swf.create 0/0
+drag-option-autostop: script in file:/home/rahul/research/clone-unit-coverage/src/Tangram-base/test/baidu/dom/drag/drag-option-autostop.html from (-1, -1) to (-1, -1) 1/1
+drag-option-no-autostop: ../src/Tangram-base/src/import.php?f=baidu.browser,baidu.browser.ie,baidu.dom,baidu.dom._g,baidu.dom.g,baidu.dom._styleFixer,baidu.dom._styleFilter,baidu.dom._styleFilter.filter 0/0
+drag-option-no-autostop: ../src/Tangram-base/src/import.php?f=baidu.event.preventDefault,baidu.object,baidu.object.extend,baidu.page,baidu.page.getScrollLeft,baidu.page.getScrollTop,baidu.page.getMousePosition,baidu.dom.drag,baidu.dom.draggable,baidu.dom.setStyle 0/0
+drag-option-no-autostop: ../src/Tangram-base/src/import.php?f=baidu.string,baidu.string.toCamelCase,baidu.dom.getStyle,baidu.event,baidu.event._listeners,baidu.event.on,baidu.event.un 0/0
+drag-option-no-autostop: script in file:/home/rahul/research/clone-unit-coverage/src/Tangram-base/test/baidu/dom/drag/drag-option-no-autostop.html from (-1, -1) to (-1, -1) 1/1
+browser: ../src/Tangram-base/src/import.js 13/74
+browser_quirk: ../src/Tangram-base/src/import.js 13/74
+drag-option-autostop: ../src/Tangram-base/src/import.php?f=baidu.browser,baidu.browser.ie,baidu.dom,baidu.dom._g,baidu.dom.g,baidu.dom._styleFixer,baidu.dom._styleFilter,baidu.dom._styleFilter.filter 0/0
+drag-option-autostop: ../src/Tangram-base/src/import.php?f=baidu.event.preventDefault,baidu.object,baidu.object.extend,baidu.page,baidu.page.getScrollLeft,baidu.page.getScrollTop,baidu.page.getMousePosition,baidu.dom.drag,baidu.dom.draggable,baidu.dom.setStyle 0/0
+drag-option-autostop: ../src/Tangram-base/src/import.php?f=baidu.string,baidu.string.toCamelCase,baidu.dom.getStyle,baidu.event,baidu.event._listeners,baidu.event.on,baidu.event.un,baidu.swf.create 0/0
+drag-option-autostop: script in file:/home/rahul/research/clone-unit-coverage/src/Tangram-base/test/baidu/dom/drag/drag-option-autostop.html from (-1, -1) to (-1, -1) 1/1
+drag-option-no-autostop: ../src/Tangram-base/src/import.php?f=baidu.browser,baidu.browser.ie,baidu.dom,baidu.dom._g,baidu.dom.g,baidu.dom._styleFixer,baidu.dom._styleFilter,baidu.dom._styleFilter.filter 0/0
+drag-option-no-autostop: ../src/Tangram-base/src/import.php?f=baidu.event.preventDefault,baidu.object,baidu.object.extend,baidu.page,baidu.page.getScrollLeft,baidu.page.getScrollTop,baidu.page.getMousePosition,baidu.dom.drag,baidu.dom.draggable,baidu.dom.setStyle 0/0
+drag-option-no-autostop: ../src/Tangram-base/src/import.php?f=baidu.string,baidu.string.toCamelCase,baidu.dom.getStyle,baidu.event,baidu.event._listeners,baidu.event.on,baidu.event.un 0/0
+drag-option-no-autostop: script in file:/home/rahul/research/clone-unit-coverage/src/Tangram-base/test/baidu/dom/drag/drag-option-no-autostop.html from (-1, -1) to (-1, -1) 1/1
+browser: ../src/Tangram-base/src/import.js 13/74
+browser_quirk: ../src/Tangram-base/src/import.js 13/74
+drag-option-autostop: ../src/Tangram-base/src/import.php?f=baidu.browser,baidu.browser.ie,baidu.dom,baidu.dom._g,baidu.dom.g,baidu.dom._styleFixer,baidu.dom._styleFilter,baidu.dom._styleFilter.filter 0/0
+drag-option-autostop: ../src/Tangram-base/src/import.php?f=baidu.event.preventDefault,baidu.object,baidu.object.extend,baidu.page,baidu.page.getScrollLeft,baidu.page.getScrollTop,baidu.page.getMousePosition,baidu.dom.drag,baidu.dom.draggable,baidu.dom.setStyle 0/0
+drag-option-autostop: ../src/Tangram-base/src/import.php?f=baidu.string,baidu.string.toCamelCase,baidu.dom.getStyle,baidu.event,baidu.event._listeners,baidu.event.on,baidu.event.un,baidu.swf.create 0/0
+drag-option-autostop: script in file:/home/rahul/research/clone-unit-coverage/src/Tangram-base/test/baidu/dom/drag/drag-option-autostop.html from (-1, -1) to (-1, -1) 1/1
+drag-option-no-autostop: ../src/Tangram-base/src/import.php?f=baidu.browser,baidu.browser.ie,baidu.dom,baidu.dom._g,baidu.dom.g,baidu.dom._styleFixer,baidu.dom._styleFilter,baidu.dom._styleFilter.filter 0/0
+drag-option-no-autostop: ../src/Tangram-base/src/import.php?f=baidu.event.preventDefault,baidu.object,baidu.object.extend,baidu.page,baidu.page.getScrollLeft,baidu.page.getScrollTop,baidu.page.getMousePosition,baidu.dom.drag,baidu.dom.draggable,baidu.dom.setStyle 0/0
+drag-option-no-autostop: ../src/Tangram-base/src/import.php?f=baidu.string,baidu.string.toCamelCase,baidu.dom.getStyle,baidu.event,baidu.event._listeners,baidu.event.on,baidu.event.un 0/0
+drag-option-no-autostop: script in file:/home/rahul/research/clone-unit-coverage/src/Tangram-base/test/baidu/dom/drag/drag-option-no-autostop.html from (-1, -1) to (-1, -1) 1/1
+browser: ../src/Tangram-base/src/import.js 13/74
+browser_quirk: ../src/Tangram-base/src/import.js 13/74
+drag-option-autostop: ../src/Tangram-base/src/import.php?f=baidu.browser,baidu.browser.ie,baidu.dom,baidu.dom._g,baidu.dom.g,baidu.dom._styleFixer,baidu.dom._styleFilter,baidu.dom._styleFilter.filter 0/0
+drag-option-autostop: ../src/Tangram-base/src/import.php?f=baidu.event.preventDefault,baidu.object,baidu.object.extend,baidu.page,baidu.page.getScrollLeft,baidu.page.getScrollTop,baidu.page.getMousePosition,baidu.dom.drag,baidu.dom.draggable,baidu.dom.setStyle 0/0
+drag-option-autostop: ../src/Tangram-base/src/import.php?f=baidu.string,baidu.string.toCamelCase,baidu.dom.getStyle,baidu.event,baidu.event._listeners,baidu.event.on,baidu.event.un,baidu.swf.create 0/0
+drag-option-autostop: script in file:/home/rahul/research/clone-unit-coverage/src/Tangram-base/test/baidu/dom/drag/drag-option-autostop.html from (-1, -1) to (-1, -1) 1/1
+drag-option-no-autostop: ../src/Tangram-base/src/import.php?f=baidu.browser,baidu.browser.ie,baidu.dom,baidu.dom._g,baidu.dom.g,baidu.dom._styleFixer,baidu.dom._styleFilter,baidu.dom._styleFilter.filter 0/0
+drag-option-no-autostop: ../src/Tangram-base/src/import.php?f=baidu.event.preventDefault,baidu.object,baidu.object.extend,baidu.page,baidu.page.getScrollLeft,baidu.page.getScrollTop,baidu.page.getMousePosition,baidu.dom.drag,baidu.dom.draggable,baidu.dom.setStyle 0/0
+drag-option-no-autostop: ../src/Tangram-base/src/import.php?f=baidu.string,baidu.string.toCamelCase,baidu.dom.getStyle,baidu.event,baidu.event._listeners,baidu.event.on,baidu.event.un 0/0
+drag-option-no-autostop: script in file:/home/rahul/research/clone-unit-coverage/src/Tangram-base/test/baidu/dom/drag/drag-option-no-autostop.html from (-1, -1) to (-1, -1) 1/1
+browser: ../src/Tangram-base/src/import.js 13/74
+browser_quirk: ../src/Tangram-base/src/import.js 13/74
+drag-option-autostop: ../src/Tangram-base/src/import.php?f=baidu.browser,baidu.browser.ie,baidu.dom,baidu.dom._g,baidu.dom.g,baidu.dom._styleFixer,baidu.dom._styleFilter,baidu.dom._styleFilter.filter 0/0
+drag-option-autostop: ../src/Tangram-base/src/import.php?f=baidu.event.preventDefault,baidu.object,baidu.object.extend,baidu.page,baidu.page.getScrollLeft,baidu.page.getScrollTop,baidu.page.getMousePosition,baidu.dom.drag,baidu.dom.draggable,baidu.dom.setStyle 0/0
+drag-option-autostop: ../src/Tangram-base/src/import.php?f=baidu.string,baidu.string.toCamelCase,baidu.dom.getStyle,baidu.event,baidu.event._listeners,baidu.event.on,baidu.event.un,baidu.swf.create 0/0
+drag-option-autostop: script in file:/home/rahul/research/clone-unit-coverage/src/Tangram-base/test/baidu/dom/drag/drag-option-autostop.html from (-1, -1) to (-1, -1) 1/1
+drag-option-no-autostop: ../src/Tangram-base/src/import.php?f=baidu.browser,baidu.browser.ie,baidu.dom,baidu.dom._g,baidu.dom.g,baidu.dom._styleFixer,baidu.dom._styleFilter,baidu.dom._styleFilter.filter 0/0
+drag-option-no-autostop: ../src/Tangram-base/src/import.php?f=baidu.event.preventDefault,baidu.object,baidu.object.extend,baidu.page,baidu.page.getScrollLeft,baidu.page.getScrollTop,baidu.page.getMousePosition,baidu.dom.drag,baidu.dom.draggable,baidu.dom.setStyle 0/0
+drag-option-no-autostop: ../src/Tangram-base/src/import.php?f=baidu.string,baidu.string.toCamelCase,baidu.dom.getStyle,baidu.event,baidu.event._listeners,baidu.event.on,baidu.event.un 0/0
+drag-option-no-autostop: script in file:/home/rahul/research/clone-unit-coverage/src/Tangram-base/test/baidu/dom/drag/drag-option-no-autostop.html from (-1, -1) to (-1, -1) 1/1
+browser: ../src/Tangram-base/src/import.js 13/74
+browser_quirk: ../src/Tangram-base/src/import.js 13/74
+drag-option-autostop: ../src/Tangram-base/src/import.php?f=baidu.browser,baidu.browser.ie,baidu.dom,baidu.dom._g,baidu.dom.g,baidu.dom._styleFixer,baidu.dom._styleFilter,baidu.dom._styleFilter.filter 0/0
+drag-option-autostop: ../src/Tangram-base/src/import.php?f=baidu.event.preventDefault,baidu.object,baidu.object.extend,baidu.page,baidu.page.getScrollLeft,baidu.page.getScrollTop,baidu.page.getMousePosition,baidu.dom.drag,baidu.dom.draggable,baidu.dom.setStyle 0/0
+drag-option-autostop: ../src/Tangram-base/src/import.php?f=baidu.string,baidu.string.toCamelCase,baidu.dom.getStyle,baidu.event,baidu.event._listeners,baidu.event.on,baidu.event.un,baidu.swf.create 0/0
+drag-option-autostop: script in file:/home/rahul/research/clone-unit-coverage/src/Tangram-base/test/baidu/dom/drag/drag-option-autostop.html from (-1, -1) to (-1, -1) 1/1
+drag-option-no-autostop: ../src/Tangram-base/src/import.php?f=baidu.browser,baidu.browser.ie,baidu.dom,baidu.dom._g,baidu.dom.g,baidu.dom._styleFixer,baidu.dom._styleFilter,baidu.dom._styleFilter.filter 0/0
+drag-option-no-autostop: ../src/Tangram-base/src/import.php?f=baidu.event.preventDefault,baidu.object,baidu.object.extend,baidu.page,baidu.page.getScrollLeft,baidu.page.getScrollTop,baidu.page.getMousePosition,baidu.dom.drag,baidu.dom.draggable,baidu.dom.setStyle 0/0
+drag-option-no-autostop: ../src/Tangram-base/src/import.php?f=baidu.string,baidu.string.toCamelCase,baidu.dom.getStyle,baidu.event,baidu.event._listeners,baidu.event.on,baidu.event.un 0/0
+drag-option-no-autostop: script in file:/home/rahul/research/clone-unit-coverage/src/Tangram-base/test/baidu/dom/drag/drag-option-no-autostop.html from (-1, -1) to (-1, -1) 1/1
+sio: ../src/Tangram-base/src/import.js 13/74
+browser: ../src/Tangram-base/src/import.js 13/74
+browser_quirk: ../src/Tangram-base/src/import.js 13/74
+drag-option-autostop: ../src/Tangram-base/src/import.php?f=baidu.browser,baidu.browser.ie,baidu.dom,baidu.dom._g,baidu.dom.g,baidu.dom._styleFixer,baidu.dom._styleFilter,baidu.dom._styleFilter.filter 0/0
+drag-option-autostop: ../src/Tangram-base/src/import.php?f=baidu.event.preventDefault,baidu.object,baidu.object.extend,baidu.page,baidu.page.getScrollLeft,baidu.page.getScrollTop,baidu.page.getMousePosition,baidu.dom.drag,baidu.dom.draggable,baidu.dom.setStyle 0/0
+drag-option-autostop: ../src/Tangram-base/src/import.php?f=baidu.string,baidu.string.toCamelCase,baidu.dom.getStyle,baidu.event,baidu.event._listeners,baidu.event.on,baidu.event.un,baidu.swf.create 0/0
+drag-option-autostop: script in file:/home/rahul/research/clone-unit-coverage/src/Tangram-base/test/baidu/dom/drag/drag-option-autostop.html from (-1, -1) to (-1, -1) 1/1
+drag-option-no-autostop: ../src/Tangram-base/src/import.php?f=baidu.browser,baidu.browser.ie,baidu.dom,baidu.dom._g,baidu.dom.g,baidu.dom._styleFixer,baidu.dom._styleFilter,baidu.dom._styleFilter.filter 0/0
+drag-option-no-autostop: ../src/Tangram-base/src/import.php?f=baidu.event.preventDefault,baidu.object,baidu.object.extend,baidu.page,baidu.page.getScrollLeft,baidu.page.getScrollTop,baidu.page.getMousePosition,baidu.dom.drag,baidu.dom.draggable,baidu.dom.setStyle 0/0
+drag-option-no-autostop: ../src/Tangram-base/src/import.php?f=baidu.string,baidu.string.toCamelCase,baidu.dom.getStyle,baidu.event,baidu.event._listeners,baidu.event.on,baidu.event.un 0/0
+drag-option-no-autostop: script in file:/home/rahul/research/clone-unit-coverage/src/Tangram-base/test/baidu/dom/drag/drag-option-no-autostop.html from (-1, -1) to (-1, -1) 1/1
+sio: ../src/Tangram-base/src/import.js 13/74
+string: ../src/Tangram-base/src/import.js 13/74
+browser: ../src/Tangram-base/src/import.js 13/74
+browser_quirk: ../src/Tangram-base/src/import.js 13/74
+drag-option-autostop: ../src/Tangram-base/src/import.php?f=baidu.browser,baidu.browser.ie,baidu.dom,baidu.dom._g,baidu.dom.g,baidu.dom._styleFixer,baidu.dom._styleFilter,baidu.dom._styleFilter.filter 0/0
+drag-option-autostop: ../src/Tangram-base/src/import.php?f=baidu.event.preventDefault,baidu.object,baidu.object.extend,baidu.page,baidu.page.getScrollLeft,baidu.page.getScrollTop,baidu.page.getMousePosition,baidu.dom.drag,baidu.dom.draggable,baidu.dom.setStyle 0/0
+drag-option-autostop: ../src/Tangram-base/src/import.php?f=baidu.string,baidu.string.toCamelCase,baidu.dom.getStyle,baidu.event,baidu.event._listeners,baidu.event.on,baidu.event.un,baidu.swf.create 0/0
+drag-option-autostop: script in file:/home/rahul/research/clone-unit-coverage/src/Tangram-base/test/baidu/dom/drag/drag-option-autostop.html from (-1, -1) to (-1, -1) 1/1
+drag-option-no-autostop: ../src/Tangram-base/src/import.php?f=baidu.browser,baidu.browser.ie,baidu.dom,baidu.dom._g,baidu.dom.g,baidu.dom._styleFixer,baidu.dom._styleFilter,baidu.dom._styleFilter.filter 0/0
+drag-option-no-autostop: ../src/Tangram-base/src/import.php?f=baidu.event.preventDefault,baidu.object,baidu.object.extend,baidu.page,baidu.page.getScrollLeft,baidu.page.getScrollTop,baidu.page.getMousePosition,baidu.dom.drag,baidu.dom.draggable,baidu.dom.setStyle 0/0
+drag-option-no-autostop: ../src/Tangram-base/src/import.php?f=baidu.string,baidu.string.toCamelCase,baidu.dom.getStyle,baidu.event,baidu.event._listeners,baidu.event.on,baidu.event.un 0/0
+drag-option-no-autostop: script in file:/home/rahul/research/clone-unit-coverage/src/Tangram-base/test/baidu/dom/drag/drag-option-no-autostop.html from (-1, -1) to (-1, -1) 1/1
+sio: ../src/Tangram-base/src/import.js 13/74
+string: ../src/Tangram-base/src/import.js 13/74
+swf: ../src/Tangram-base/src/import.js 13/74
+browser: ../src/Tangram-base/src/import.js 13/74
+browser_quirk: ../src/Tangram-base/src/import.js 13/74
+drag-option-autostop: ../src/Tangram-base/src/import.php?f=baidu.browser,baidu.browser.ie,baidu.dom,baidu.dom._g,baidu.dom.g,baidu.dom._styleFixer,baidu.dom._styleFilter,baidu.dom._styleFilter.filter 0/0
+drag-option-autostop: ../src/Tangram-base/src/import.php?f=baidu.event.preventDefault,baidu.object,baidu.object.extend,baidu.page,baidu.page.getScrollLeft,baidu.page.getScrollTop,baidu.page.getMousePosition,baidu.dom.drag,baidu.dom.draggable,baidu.dom.setStyle 0/0
+drag-option-autostop: ../src/Tangram-base/src/import.php?f=baidu.string,baidu.string.toCamelCase,baidu.dom.getStyle,baidu.event,baidu.event._listeners,baidu.event.on,baidu.event.un,baidu.swf.create 0/0
+drag-option-autostop: script in file:/home/rahul/research/clone-unit-coverage/src/Tangram-base/test/baidu/dom/drag/drag-option-autostop.html from (-1, -1) to (-1, -1) 1/1
+drag-option-no-autostop: ../src/Tangram-base/src/import.php?f=baidu.browser,baidu.browser.ie,baidu.dom,baidu.dom._g,baidu.dom.g,baidu.dom._styleFixer,baidu.dom._styleFilter,baidu.dom._styleFilter.filter 0/0
+drag-option-no-autostop: ../src/Tangram-base/src/import.php?f=baidu.event.preventDefault,baidu.object,baidu.object.extend,baidu.page,baidu.page.getScrollLeft,baidu.page.getScrollTop,baidu.page.getMousePosition,baidu.dom.drag,baidu.dom.draggable,baidu.dom.setStyle 0/0
+drag-option-no-autostop: ../src/Tangram-base/src/import.php?f=baidu.string,baidu.string.toCamelCase,baidu.dom.getStyle,baidu.event,baidu.event._listeners,baidu.event.on,baidu.event.un 0/0
+drag-option-no-autostop: script in file:/home/rahul/research/clone-unit-coverage/src/Tangram-base/test/baidu/dom/drag/drag-option-no-autostop.html from (-1, -1) to (-1, -1) 1/1
+sio: ../src/Tangram-base/src/import.js 13/74
+string: ../src/Tangram-base/src/import.js 13/74
+swf: ../src/Tangram-base/src/import.js 13/74
+browser: ../src/Tangram-base/src/import.js 13/74
+browser_quirk: ../src/Tangram-base/src/import.js 13/74
+drag-option-autostop: ../src/Tangram-base/src/import.php?f=baidu.browser,baidu.browser.ie,baidu.dom,baidu.dom._g,baidu.dom.g,baidu.dom._styleFixer,baidu.dom._styleFilter,baidu.dom._styleFilter.filter 0/0
+drag-option-autostop: ../src/Tangram-base/src/import.php?f=baidu.event.preventDefault,baidu.object,baidu.object.extend,baidu.page,baidu.page.getScrollLeft,baidu.page.getScrollTop,baidu.page.getMousePosition,baidu.dom.drag,baidu.dom.draggable,baidu.dom.setStyle 0/0
+drag-option-autostop: ../src/Tangram-base/src/import.php?f=baidu.string,baidu.string.toCamelCase,baidu.dom.getStyle,baidu.event,baidu.event._listeners,baidu.event.on,baidu.event.un,baidu.swf.create 0/0
+drag-option-autostop: script in file:/home/rahul/research/clone-unit-coverage/src/Tangram-base/test/baidu/dom/drag/drag-option-autostop.html from (-1, -1) to (-1, -1) 1/1
+drag-option-no-autostop: ../src/Tangram-base/src/import.php?f=baidu.browser,baidu.browser.ie,baidu.dom,baidu.dom._g,baidu.dom.g,baidu.dom._styleFixer,baidu.dom._styleFilter,baidu.dom._styleFilter.filter 0/0
+drag-option-no-autostop: ../src/Tangram-base/src/import.php?f=baidu.event.preventDefault,baidu.object,baidu.object.extend,baidu.page,baidu.page.getScrollLeft,baidu.page.getScrollTop,baidu.page.getMousePosition,baidu.dom.drag,baidu.dom.draggable,baidu.dom.setStyle 0/0
+drag-option-no-autostop: ../src/Tangram-base/src/import.php?f=baidu.string,baidu.string.toCamelCase,baidu.dom.getStyle,baidu.event,baidu.event._listeners,baidu.event.on,baidu.event.un 0/0
+drag-option-no-autostop: script in file:/home/rahul/research/clone-unit-coverage/src/Tangram-base/test/baidu/dom/drag/drag-option-no-autostop.html from (-1, -1) to (-1, -1) 1/1
+sio: ../src/Tangram-base/src/import.js 13/74
+string: ../src/Tangram-base/src/import.js 13/74
+swf: ../src/Tangram-base/src/import.js 13/74
+browser: ../src/Tangram-base/src/import.js 13/74
+browser_quirk: ../src/Tangram-base/src/import.js 13/74
+drag-option-autostop: ../src/Tangram-base/src/import.php?f=baidu.browser,baidu.browser.ie,baidu.dom,baidu.dom._g,baidu.dom.g,baidu.dom._styleFixer,baidu.dom._styleFilter,baidu.dom._styleFilter.filter 0/0
+drag-option-autostop: ../src/Tangram-base/src/import.php?f=baidu.event.preventDefault,baidu.object,baidu.object.extend,baidu.page,baidu.page.getScrollLeft,baidu.page.getScrollTop,baidu.page.getMousePosition,baidu.dom.drag,baidu.dom.draggable,baidu.dom.setStyle 0/0
+drag-option-autostop: ../src/Tangram-base/src/import.php?f=baidu.string,baidu.string.toCamelCase,baidu.dom.getStyle,baidu.event,baidu.event._listeners,baidu.event.on,baidu.event.un,baidu.swf.create 0/0
+drag-option-autostop: script in file:/home/rahul/research/clone-unit-coverage/src/Tangram-base/test/baidu/dom/drag/drag-option-autostop.html from (-1, -1) to (-1, -1) 1/1
+drag-option-no-autostop: ../src/Tangram-base/src/import.php?f=baidu.browser,baidu.browser.ie,baidu.dom,baidu.dom._g,baidu.dom.g,baidu.dom._styleFixer,baidu.dom._styleFilter,baidu.dom._styleFilter.filter 0/0
+drag-option-no-autostop: ../src/Tangram-base/src/import.php?f=baidu.event.preventDefault,baidu.object,baidu.object.extend,baidu.page,baidu.page.getScrollLeft,baidu.page.getScrollTop,baidu.page.getMousePosition,baidu.dom.drag,baidu.dom.draggable,baidu.dom.setStyle 0/0
+drag-option-no-autostop: ../src/Tangram-base/src/import.php?f=baidu.string,baidu.string.toCamelCase,baidu.dom.getStyle,baidu.event,baidu.event._listeners,baidu.event.on,baidu.event.un 0/0
+drag-option-no-autostop: script in file:/home/rahul/research/clone-unit-coverage/src/Tangram-base/test/baidu/dom/drag/drag-option-no-autostop.html from (-1, -1) to (-1, -1) 1/1
+sio: ../src/Tangram-base/src/import.js 13/74
+string: ../src/Tangram-base/src/import.js 13/74
+swf: ../src/Tangram-base/src/import.js 13/74
+browser: ../src/Tangram-base/src/import.js 13/74
+browser_quirk: ../src/Tangram-base/src/import.js 13/74
+drag-option-autostop: ../src/Tangram-base/src/import.php?f=baidu.browser,baidu.browser.ie,baidu.dom,baidu.dom._g,baidu.dom.g,baidu.dom._styleFixer,baidu.dom._styleFilter,baidu.dom._styleFilter.filter 0/0
+drag-option-autostop: ../src/Tangram-base/src/import.php?f=baidu.event.preventDefault,baidu.object,baidu.object.extend,baidu.page,baidu.page.getScrollLeft,baidu.page.getScrollTop,baidu.page.getMousePosition,baidu.dom.drag,baidu.dom.draggable,baidu.dom.setStyle 0/0
+drag-option-autostop: ../src/Tangram-base/src/import.php?f=baidu.string,baidu.string.toCamelCase,baidu.dom.getStyle,baidu.event,baidu.event._listeners,baidu.event.on,baidu.event.un,baidu.swf.create 0/0
+drag-option-autostop: script in file:/home/rahul/research/clone-unit-coverage/src/Tangram-base/test/baidu/dom/drag/drag-option-autostop.html from (-1, -1) to (-1, -1) 1/1
+drag-option-no-autostop: ../src/Tangram-base/src/import.php?f=baidu.browser,baidu.browser.ie,baidu.dom,baidu.dom._g,baidu.dom.g,baidu.dom._styleFixer,baidu.dom._styleFilter,baidu.dom._styleFilter.filter 0/0
+drag-option-no-autostop: ../src/Tangram-base/src/import.php?f=baidu.event.preventDefault,baidu.object,baidu.object.extend,baidu.page,baidu.page.getScrollLeft,baidu.page.getScrollTop,baidu.page.getMousePosition,baidu.dom.drag,baidu.dom.draggable,baidu.dom.setStyle 0/0
+drag-option-no-autostop: ../src/Tangram-base/src/import.php?f=baidu.string,baidu.string.toCamelCase,baidu.dom.getStyle,baidu.event,baidu.event._listeners,baidu.event.on,baidu.event.un 0/0
+drag-option-no-autostop: script in file:/home/rahul/research/clone-unit-coverage/src/Tangram-base/test/baidu/dom/drag/drag-option-no-autostop.html from (-1, -1) to (-1, -1) 1/1
+sio: ../src/Tangram-base/src/import.js 13/74
+string: ../src/Tangram-base/src/import.js 13/74
+swf: ../src/Tangram-base/src/import.js 13/74
+browser: ../src/Tangram-base/src/import.js 13/74
+browser_quirk: ../src/Tangram-base/src/import.js 13/74
+drag-option-autostop: ../src/Tangram-base/src/import.php?f=baidu.browser,baidu.browser.ie,baidu.dom,baidu.dom._g,baidu.dom.g,baidu.dom._styleFixer,baidu.dom._styleFilter,baidu.dom._styleFilter.filter 0/0
+drag-option-autostop: ../src/Tangram-base/src/import.php?f=baidu.event.preventDefault,baidu.object,baidu.object.extend,baidu.page,baidu.page.getScrollLeft,baidu.page.getScrollTop,baidu.page.getMousePosition,baidu.dom.drag,baidu.dom.draggable,baidu.dom.setStyle 0/0
+drag-option-autostop: ../src/Tangram-base/src/import.php?f=baidu.string,baidu.string.toCamelCase,baidu.dom.getStyle,baidu.event,baidu.event._listeners,baidu.event.on,baidu.event.un,baidu.swf.create 0/0
+drag-option-autostop: script in file:/home/rahul/research/clone-unit-coverage/src/Tangram-base/test/baidu/dom/drag/drag-option-autostop.html from (-1, -1) to (-1, -1) 1/1
+drag-option-no-autostop: ../src/Tangram-base/src/import.php?f=baidu.browser,baidu.browser.ie,baidu.dom,baidu.dom._g,baidu.dom.g,baidu.dom._styleFixer,baidu.dom._styleFilter,baidu.dom._styleFilter.filter 0/0
+drag-option-no-autostop: ../src/Tangram-base/src/import.php?f=baidu.event.preventDefault,baidu.object,baidu.object.extend,baidu.page,baidu.page.getScrollLeft,baidu.page.getScrollTop,baidu.page.getMousePosition,baidu.dom.drag,baidu.dom.draggable,baidu.dom.setStyle 0/0
+drag-option-no-autostop: ../src/Tangram-base/src/import.php?f=baidu.string,baidu.string.toCamelCase,baidu.dom.getStyle,baidu.event,baidu.event._listeners,baidu.event.on,baidu.event.un 0/0
+drag-option-no-autostop: script in file:/home/rahul/research/clone-unit-coverage/src/Tangram-base/test/baidu/dom/drag/drag-option-no-autostop.html from (-1, -1) to (-1, -1) 1/1
+sio: ../src/Tangram-base/src/import.js 13/74
+string: ../src/Tangram-base/src/import.js 13/74
+swf: ../src/Tangram-base/src/import.js 13/74
+browser: ../src/Tangram-base/src/import.js 13/74
+browser_quirk: ../src/Tangram-base/src/import.js 13/74
+drag-option-autostop: ../src/Tangram-base/src/import.php?f=baidu.browser,baidu.browser.ie,baidu.dom,baidu.dom._g,baidu.dom.g,baidu.dom._styleFixer,baidu.dom._styleFilter,baidu.dom._styleFilter.filter 0/0
+drag-option-autostop: ../src/Tangram-base/src/import.php?f=baidu.event.preventDefault,baidu.object,baidu.object.extend,baidu.page,baidu.page.getScrollLeft,baidu.page.getScrollTop,baidu.page.getMousePosition,baidu.dom.drag,baidu.dom.draggable,baidu.dom.setStyle 0/0
+drag-option-autostop: ../src/Tangram-base/src/import.php?f=baidu.string,baidu.string.toCamelCase,baidu.dom.getStyle,baidu.event,baidu.event._listeners,baidu.event.on,baidu.event.un,baidu.swf.create 0/0
+drag-option-autostop: script in file:/home/rahul/research/clone-unit-coverage/src/Tangram-base/test/baidu/dom/drag/drag-option-autostop.html from (-1, -1) to (-1, -1) 1/1
+drag-option-no-autostop: ../src/Tangram-base/src/import.php?f=baidu.browser,baidu.browser.ie,baidu.dom,baidu.dom._g,baidu.dom.g,baidu.dom._styleFixer,baidu.dom._styleFilter,baidu.dom._styleFilter.filter 0/0
+drag-option-no-autostop: ../src/Tangram-base/src/import.php?f=baidu.event.preventDefault,baidu.object,baidu.object.extend,baidu.page,baidu.page.getScrollLeft,baidu.page.getScrollTop,baidu.page.getMousePosition,baidu.dom.drag,baidu.dom.draggable,baidu.dom.setStyle 0/0
+drag-option-no-autostop: ../src/Tangram-base/src/import.php?f=baidu.string,baidu.string.toCamelCase,baidu.dom.getStyle,baidu.event,baidu.event._listeners,baidu.event.on,baidu.event.un 0/0
+drag-option-no-autostop: script in file:/home/rahul/research/clone-unit-coverage/src/Tangram-base/test/baidu/dom/drag/drag-option-no-autostop.html from (-1, -1) to (-1, -1) 1/1
+sio: ../src/Tangram-base/src/import.js 13/74
+string: ../src/Tangram-base/src/import.js 13/74
+swf: ../src/Tangram-base/src/import.js 13/74

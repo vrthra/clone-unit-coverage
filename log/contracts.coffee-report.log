@@ -1,0 +1,7 @@
+test: ../src/contracts.coffee/lib/contracts/contracts.js 9/844
+test: ../src/contracts.coffee/lib/contracts/contracts.js 9/844
+test: ../src/contracts.coffee/extras/coffee-script.js 1/1
+test: ../src/contracts.coffee/lib/contracts/contracts.js 9/844
+test: ../src/contracts.coffee/extras/coffee-script.js 1/1
+test: ../src/contracts.coffee/lib/contracts/contracts.js 9/844
+test: ../src/contracts.coffee/extras/coffee-script.js 1/1

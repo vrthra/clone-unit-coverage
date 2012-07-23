@@ -1,0 +1,12 @@
+tests: ../src/appengine-boilerplate/app/static_dev/js/script.js 0/0
+tests: ../src/appengine-boilerplate/app/static_dev/js/plugins.js 3/9
+tests: ../src/appengine-boilerplate/app/static_dev/js/libs/jquery-1.6.2.min.js 3/3
+tests: ../src/appengine-boilerplate/app/static_dev/js/libs/modernizr-2.0.6.min.js 1/1
+tests: ../src/appengine-boilerplate/app/static_dev/js/script.js 0/0
+tests: ../src/appengine-boilerplate/app/static_dev/js/plugins.js 3/9
+tests: ../src/appengine-boilerplate/app/static_dev/js/libs/jquery-1.6.2.min.js 3/3
+tests: ../src/appengine-boilerplate/app/static_dev/js/libs/modernizr-2.0.6.min.js 1/1
+index: ../src/appengine-boilerplate/app/static_dev/js/script.js 0/0
+index: ../src/appengine-boilerplate/app/static_dev/js/libs/modernizr-2.0.6.min.js 1/1
+index: ../src/appengine-boilerplate/app/static_dev/js/plugins.js 9/9
+index: http:/ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js 3/3

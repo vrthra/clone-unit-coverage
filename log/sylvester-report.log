@@ -1,0 +1,16 @@
+browser: ../src/sylvester/test/specs/line_spec.js?1343005163026 26/66
+browser: ../src/sylvester/test/specs/matrix_spec.js?1343005163015 64/159
+browser: ../src/sylvester/test/specs/line_segment_spec.js?1343005163027 29/70
+browser: ../src/sylvester/test/specs/vector_spec.js?1343005163013 50/118
+browser: ../src/sylvester/test/specs/plane_spec.js?1343005163037 23/51
+browser: ../src/sylvester/node_modules/jsclass/min/loader.js 1/1
+browser: ../src/sylvester/node_modules/jsclass/min/comparable.js?1343005159768 1/1
+browser: ../src/sylvester/node_modules/jsclass/min/console.js?1343005160390 1/1
+browser: ../src/sylvester/node_modules/jsclass/min/core.js?1343005159132 1/1
+browser: ../src/sylvester/node_modules/jsclass/min/dom.js?1343005159766 1/1
+browser: ../src/sylvester/node_modules/jsclass/min/enumerable.js?1343005159764 1/1
+browser: ../src/sylvester/node_modules/jsclass/min/hash.js?1343005161941 1/1
+browser: ../src/sylvester/node_modules/jsclass/min/observable.js?1343005159770 1/1
+browser: ../src/sylvester/node_modules/jsclass/min/set.js?1343005160392 1/1
+browser: ../src/sylvester/node_modules/jsclass/min/stack_trace.js?1343005162082 1/1
+browser: ../src/sylvester/node_modules/jsclass/min/test.js?1343005162142 1/1

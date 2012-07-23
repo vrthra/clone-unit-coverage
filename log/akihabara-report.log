@@ -1,0 +1,11 @@
+runner: ../src/akihabara/src/plugins/shmup.js 1/210
+runner: ../src/akihabara/src/plugins/topview.js 1/254
+runner: ../src/akihabara/src/toys.js 1/437
+runner: ../src/akihabara/src/gbox.js 10/689
+runner: ../src/akihabara/src/tools.js 1/68
+runner: ../src/akihabara/src/plugins/platformer.js 2/93
+runner: ../src/akihabara/src/trigo.js 1/11
+runner: ../src/akihabara/src/debug.js 11/105
+runner: ../src/akihabara/src/helpers.js 5/35
+runner: ../src/akihabara/src/akihabara.js 17/85
+runner: ../src/akihabara/src/devices.js 48/65

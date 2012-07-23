@@ -1,0 +1,5 @@
+api: ../src/twitterlib/twitterlib.js 33/326
+api: ../src/twitterlib/twitterlib.js 33/326
+simple: ../src/twitterlib/twitterlib.js 94/326
+simple: http:/api.twitter.com/1/statuses/user_timeline.json?screen_name=rem&count=15&page=1&include_rts=false&include_entities=true&callback=twitterlib1343002151621 1/1
+simple: http:/api.twitter.com/1/statuses/user_timeline.json?screen_name=rem&count=15&page=2&include_rts=false&include_entities=true&callback=twitterlib1343002151622 1/1

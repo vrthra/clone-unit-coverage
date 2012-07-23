@@ -1,0 +1,15 @@
+index: ../src/jaws/src/viewport.js 4/70
+index: ../src/jaws/src/game_loop.js 6/58
+index: ../src/jaws/src/gfx.js 4/28
+index: ../src/jaws/src/input.js 22/143
+index: ../src/jaws/src/animation.js 10/62
+index: ../src/jaws/src/sprite_sheet.js 5/30
+index: ../src/jaws/src/tile_map.js 15/86
+index: ../src/jaws/src/parallax.js 8/41
+index: ../src/jaws/src/collision_detection.js 10/40
+index: ../src/jaws/src/rect.js 13/46
+index: ../src/jaws/src/sprite_list.js 35/105
+index: ../src/jaws/src/core.js 54/130
+index: ../src/jaws/src/sprite.js 67/163
+index: ../src/jaws/src/assets.js 94/129
+index: ../src/jaws/jaws-dynamic.js 8/8

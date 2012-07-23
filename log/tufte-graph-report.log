@@ -1,0 +1,5 @@
+integration: ../src/tufte-graph/raphael.js 68/1170
+integration: ../src/tufte-graph/jquery.tufte-graph.js 21/108
+integration: ../src/tufte-graph/jquery.enumerable.js 15/48
+integration: http:/ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js 2/2
+integration: script in file:/home/rahul/research/clone-unit-coverage/src/tufte-graph/test/integration.html from (-1, -1) to (-1, -1) 1/1
