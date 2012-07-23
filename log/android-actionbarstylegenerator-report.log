@@ -1,0 +1,30 @@
+test: ../src/android-actionbarstylegenerator/dist/lib/downloadify/js/downloadify.min.js 1/1
+test: ../src/android-actionbarstylegenerator/dist/lib/downloadify/js/swfobject.js 1/1
+test: ../src/android-actionbarstylegenerator/dist/lib/downloadify/js/downloadify.min.js 1/1
+test: ../src/android-actionbarstylegenerator/dist/lib/downloadify/js/swfobject.js 1/1
+index: ../src/android-actionbarstylegenerator/dist/lib/jszip/jszip-deflate.js 677/861
+index: ../src/android-actionbarstylegenerator/dist/lib/jszip/jszip.js 159/160
+test: ../src/android-actionbarstylegenerator/dist/lib/downloadify/js/downloadify.min.js 1/1
+test: ../src/android-actionbarstylegenerator/dist/lib/downloadify/js/swfobject.js 1/1
+index: ../src/android-actionbarstylegenerator/dist/lib/jszip/jszip-deflate.js 677/861
+index: ../src/android-actionbarstylegenerator/dist/lib/jszip/jszip.js 159/160
+test-runner: http:/ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js 77/139
+test-runner: script in file:/home/rahul/research/clone-unit-coverage/src/android-actionbarstylegenerator/src/js/lib/test/test-runner.html from (-1, -1) to (-1, -1) 1/1
+test: ../src/android-actionbarstylegenerator/dist/lib/downloadify/js/downloadify.min.js 1/1
+test: ../src/android-actionbarstylegenerator/dist/lib/downloadify/js/swfobject.js 1/1
+index: ../src/android-actionbarstylegenerator/dist/lib/jszip/jszip-deflate.js 677/861
+index: ../src/android-actionbarstylegenerator/dist/lib/jszip/jszip.js 159/160
+test-runner: http:/ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js 77/139
+test-runner: script in file:/home/rahul/research/clone-unit-coverage/src/android-actionbarstylegenerator/src/js/lib/test/test-runner.html from (-1, -1) to (-1, -1) 1/1
+test: ../src/android-actionbarstylegenerator/src/lib/downloadify/js/downloadify.min.js 1/1
+test: ../src/android-actionbarstylegenerator/src/lib/downloadify/js/swfobject.js 1/1
+test: ../src/android-actionbarstylegenerator/dist/lib/downloadify/js/downloadify.min.js 1/1
+test: ../src/android-actionbarstylegenerator/dist/lib/downloadify/js/swfobject.js 1/1
+index: ../src/android-actionbarstylegenerator/dist/lib/jszip/jszip-deflate.js 677/861
+index: ../src/android-actionbarstylegenerator/dist/lib/jszip/jszip.js 159/160
+test-runner: http:/ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js 77/139
+test-runner: script in file:/home/rahul/research/clone-unit-coverage/src/android-actionbarstylegenerator/src/js/lib/test/test-runner.html from (-1, -1) to (-1, -1) 1/1
+test: ../src/android-actionbarstylegenerator/src/lib/downloadify/js/downloadify.min.js 1/1
+test: ../src/android-actionbarstylegenerator/src/lib/downloadify/js/swfobject.js 1/1
+index: ../src/android-actionbarstylegenerator/src/lib/jszip/jszip-deflate.js 677/861
+index: ../src/android-actionbarstylegenerator/src/lib/jszip/jszip.js 159/160

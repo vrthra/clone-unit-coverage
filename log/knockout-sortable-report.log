@@ -1,0 +1,4 @@
+runner: ../src/knockout-sortable/ext/jquery-ui.min.js 92/401
+runner: ../src/knockout-sortable/ext/knockout-2.0.0.debug.js 882/1736
+runner: ../src/knockout-sortable/build/knockout-sortable.min.js 1/1
+runner: ../src/knockout-sortable/ext/jquery-1.7.1.min.js 3/3

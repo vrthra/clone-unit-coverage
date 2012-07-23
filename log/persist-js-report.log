@@ -1,0 +1,12 @@
+test: ../src/persist-js/src/persist.js 106/307
+test: ../src/persist-js/src/persist.js 106/307
+test_all: ../src/persist-js/persist-all-min.js 58/141
+test: ../src/persist-js/src/persist.js 106/307
+test_all: ../src/persist-js/persist-all-min.js 58/141
+test_flash: ../src/persist-js/extras/swfobject.js 76/405
+test_flash: ../src/persist-js/src/persist.js 106/307
+test: ../src/persist-js/src/persist.js 106/307
+test_all: ../src/persist-js/persist-all-min.js 58/141
+test_flash: ../src/persist-js/extras/swfobject.js 76/405
+test_flash: ../src/persist-js/src/persist.js 106/307
+test_gears: ../src/persist-js/src/persist.js 106/307

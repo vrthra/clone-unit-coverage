@@ -1,0 +1,3 @@
+SpecRunner: ../src/js-imagediff/js/imagediff.js 68/162
+SpecRunner: ../src/js-imagediff/lib/jasmine/jasmine-html.js 197/310
+SpecRunner: ../src/js-imagediff/lib/jasmine/jasmine.js 692/1058

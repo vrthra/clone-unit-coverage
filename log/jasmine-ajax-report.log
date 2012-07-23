@@ -1,0 +1,15 @@
+SpecRunner: ../src/jasmine-ajax/frameworks/jquery.js 561/3022
+SpecRunner: ../src/jasmine-ajax/examples/jquery/public/javascripts/TwitSearch.js 2/9
+SpecRunner: ../src/jasmine-ajax/lib/mock-ajax.js 27/72
+SpecRunner: ../src/jasmine-ajax/examples/jquery/public/javascripts/TwitterApi.js 7/13
+SpecRunner: ../src/jasmine-ajax/examples/jquery/public/javascripts/Tweet.js 5/5
+SpecRunner: ../src/jasmine-ajax/frameworks/jquery.js 561/3022
+SpecRunner: ../src/jasmine-ajax/examples/jquery/public/javascripts/TwitSearch.js 2/9
+SpecRunner: ../src/jasmine-ajax/lib/mock-ajax.js 27/72
+SpecRunner: ../src/jasmine-ajax/examples/jquery/public/javascripts/TwitterApi.js 7/13
+SpecRunner: ../src/jasmine-ajax/examples/jquery/public/javascripts/Tweet.js 5/5
+SpecRunner: ../src/jasmine-ajax/examples/prototype/public/javascripts/TwitSearch.js 2/9
+SpecRunner: ../src/jasmine-ajax/frameworks/prototype.js 717/2417
+SpecRunner: ../src/jasmine-ajax/lib/mock-ajax.js 51/72
+SpecRunner: ../src/jasmine-ajax/examples/prototype/public/javascripts/Tweet.js 5/5
+SpecRunner: ../src/jasmine-ajax/examples/prototype/public/javascripts/TwitterApi.js 8/8

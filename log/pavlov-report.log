@@ -1,0 +1,6 @@
+example.specs: ../src/pavlov/lib/qunit.js 339/779
+example.specs: ../src/pavlov/pavlov.js 155/198
+example.specs: ../src/pavlov/lib/qunit.js 339/779
+example.specs: ../src/pavlov/pavlov.js 155/198
+pavlov.specs: ../src/pavlov/lib/qunit.js 358/779
+pavlov.specs: ../src/pavlov/pavlov.js 187/198

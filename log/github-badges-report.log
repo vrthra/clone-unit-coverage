@@ -1,0 +1,29 @@
+black_background_test: ../src/github-badges/src/github-badge-launcher.js 10/41
+black_background_test: ../src/github-badges/src/ext/jquery.template.js 29/68
+black_background_test: ../src/github-badges/src/user_badge.js 43/47
+black_background_test: ../src/github-badges/src/ext/jquery.js 2/2
+black_background_test: ../src/github-badges/src/jquery.color.almost.js 7/7
+black_background_test: script in file:/home/rahul/research/clone-unit-coverage/src/github-badges/test/unit/black_background_test.html from (-1, -1) to (-1, -1) 1/1
+black_background_test: ../src/github-badges/src/github-badge-launcher.js 10/41
+black_background_test: ../src/github-badges/src/ext/jquery.template.js 29/68
+black_background_test: ../src/github-badges/src/user_badge.js 43/47
+black_background_test: ../src/github-badges/src/ext/jquery.js 2/2
+black_background_test: ../src/github-badges/src/jquery.color.almost.js 7/7
+black_background_test: script in file:/home/rahul/research/clone-unit-coverage/src/github-badges/test/unit/black_background_test.html from (-1, -1) to (-1, -1) 1/1
+jquery.color.almost_test: ../src/github-badges/src/ext/jquery.js 2/2
+jquery.color.almost_test: ../src/github-badges/src/jquery.color.almost.js 7/7
+jquery.color.almost_test: script in file:/home/rahul/research/clone-unit-coverage/src/github-badges/test/unit/jquery.color.almost_test.html from (-1, -1) to (-1, -1) 1/1
+black_background_test: ../src/github-badges/src/github-badge-launcher.js 10/41
+black_background_test: ../src/github-badges/src/ext/jquery.template.js 29/68
+black_background_test: ../src/github-badges/src/user_badge.js 43/47
+black_background_test: ../src/github-badges/src/ext/jquery.js 2/2
+black_background_test: ../src/github-badges/src/jquery.color.almost.js 7/7
+black_background_test: script in file:/home/rahul/research/clone-unit-coverage/src/github-badges/test/unit/black_background_test.html from (-1, -1) to (-1, -1) 1/1
+jquery.color.almost_test: ../src/github-badges/src/ext/jquery.js 2/2
+jquery.color.almost_test: ../src/github-badges/src/jquery.color.almost.js 7/7
+jquery.color.almost_test: script in file:/home/rahul/research/clone-unit-coverage/src/github-badges/test/unit/jquery.color.almost_test.html from (-1, -1) to (-1, -1) 1/1
+user_badge_test: ../src/github-badges/src/github-badge-launcher.js 10/41
+user_badge_test: ../src/github-badges/src/ext/jquery.template.js 32/68
+user_badge_test: ../src/github-badges/src/ext/jquery.js 2/2
+user_badge_test: ../src/github-badges/src/user_badge.js 47/47
+user_badge_test: script in file:/home/rahul/research/clone-unit-coverage/src/github-badges/test/unit/user_badge_test.html from (-1, -1) to (-1, -1) 1/1

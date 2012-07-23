@@ -1,0 +1,14 @@
+index: ../src/postal.js/ext/amplify.core.js 3/42
+index: ../src/postal.js/ext/jquery-1.5.2.js 477/3101
+index: ../src/postal.js/ext/amplify.store.js 28/130
+index: ../src/postal.js/ext/underscore.js 195/455
+index: ../src/postal.js/ext/qunit.js 313/701
+index: ../src/postal.js/ext/pavlov.js 151/203
+index: ../src/postal.js/src/main/Api.js 57/67
+index: ../src/postal.js/src/main/ChannelDefinition.js 17/20
+index: ../src/postal.js/src/main/SubscriptionDefinition.js 58/66
+index: ../src/postal.js/src/main/LocalBus.js 45/48
+index: ../src/postal.js/src/main/BindingsResolver.js 10/10
+index: ../src/postal.js/src/main/ConsecutiveDistinctPredicate.js 10/10
+index: ../src/postal.js/src/main/Constants.js 1/1
+index: ../src/postal.js/src/main/DistinctPredicate.js 10/10
