@@ -1,0 +1,5 @@
+index: ../src/es6-shim/es6-shim.js 32/136
+index: https:/raw.github.com/chaijs/chai/40b0eb2268702314cb7577fc1b3c8676a955b23e/chai.js 347/700
+index: https:/raw.github.com/visionmedia/mocha/f3fd032f320e6b926e05d41ca6e1d66373dcbdaf/mocha.js 667/1361
+index: http:/ajax.googleapis.com/ajax/libs/jquery/1.7.0/jquery.min.js 3/3
+index: https:/raw.github.com/kriskowal/es5-shim/master/es5-shim.min.js 17/17

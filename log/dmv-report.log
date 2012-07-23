@@ -1,0 +1,151 @@
+test: ../src/dmv/node_modules/grunt/node_modules/nodeunit/examples/browser/nodeunit.js 325/774
+test: ../src/dmv/node_modules/grunt/node_modules/nodeunit/examples/browser/suite1.js 6/6
+test: ../src/dmv/node_modules/grunt/node_modules/nodeunit/examples/browser/suite2.js 8/8
+test: ../src/dmv/node_modules/grunt/node_modules/nodeunit/examples/browser/suite3.js 4/4
+test: ../src/dmv/node_modules/grunt/node_modules/nodeunit/examples/browser/nodeunit.js 325/774
+test: ../src/dmv/node_modules/grunt/node_modules/nodeunit/examples/browser/suite1.js 6/6
+test: ../src/dmv/node_modules/grunt/node_modules/nodeunit/examples/browser/suite2.js 8/8
+test: ../src/dmv/node_modules/grunt/node_modules/nodeunit/examples/browser/suite3.js 4/4
+test: ../src/dmv/node_modules/grunt/node_modules/nodeunit/examples/browser/nodeunit.js 325/774
+test: ../src/dmv/node_modules/grunt/node_modules/nodeunit/examples/browser/suite1.js 6/6
+test: ../src/dmv/node_modules/grunt/node_modules/nodeunit/examples/browser/suite2.js 8/8
+test: ../src/dmv/node_modules/grunt/node_modules/nodeunit/examples/browser/suite3.js 4/4
+test: ../src/dmv/node_modules/grunt/node_modules/underscore.string/lib/underscore.string.js 216/238
+test: script in file:/home/rahul/research/clone-unit-coverage/src/dmv/node_modules/grunt/node_modules/underscore.string/test/test.html from (-1, -1) to (-1, -1) 1/1
+test: ../src/dmv/node_modules/grunt/node_modules/nodeunit/examples/browser/nodeunit.js 325/774
+test: ../src/dmv/node_modules/grunt/node_modules/nodeunit/examples/browser/suite1.js 6/6
+test: ../src/dmv/node_modules/grunt/node_modules/nodeunit/examples/browser/suite2.js 8/8
+test: ../src/dmv/node_modules/grunt/node_modules/nodeunit/examples/browser/suite3.js 4/4
+test: ../src/dmv/node_modules/grunt/node_modules/underscore.string/lib/underscore.string.js 216/238
+test: script in file:/home/rahul/research/clone-unit-coverage/src/dmv/node_modules/grunt/node_modules/underscore.string/test/test.html from (-1, -1) to (-1, -1) 1/1
+test_standalone: ../src/dmv/node_modules/grunt/node_modules/underscore.string/lib/underscore.string.js 29/238
+test_standalone: script in file:/home/rahul/research/clone-unit-coverage/src/dmv/node_modules/grunt/node_modules/underscore.string/test/test_standalone.html from (-1, -1) to (-1, -1) 1/1
+test: ../src/dmv/node_modules/grunt/node_modules/nodeunit/examples/browser/nodeunit.js 325/774
+test: ../src/dmv/node_modules/grunt/node_modules/nodeunit/examples/browser/suite1.js 6/6
+test: ../src/dmv/node_modules/grunt/node_modules/nodeunit/examples/browser/suite2.js 8/8
+test: ../src/dmv/node_modules/grunt/node_modules/nodeunit/examples/browser/suite3.js 4/4
+test: ../src/dmv/node_modules/grunt/node_modules/underscore.string/lib/underscore.string.js 216/238
+test: script in file:/home/rahul/research/clone-unit-coverage/src/dmv/node_modules/grunt/node_modules/underscore.string/test/test.html from (-1, -1) to (-1, -1) 1/1
+test_standalone: ../src/dmv/node_modules/grunt/node_modules/underscore.string/lib/underscore.string.js 29/238
+test_standalone: script in file:/home/rahul/research/clone-unit-coverage/src/dmv/node_modules/grunt/node_modules/underscore.string/test/test_standalone.html from (-1, -1) to (-1, -1) 1/1
+temp_tests: script in file:/home/rahul/research/clone-unit-coverage/src/dmv/node_modules/grunt/node_modules/underscore.string/test/test_underscore/temp_tests.html from (-1, -1) to (-1, -1) 1/1
+test: ../src/dmv/node_modules/grunt/node_modules/nodeunit/examples/browser/nodeunit.js 325/774
+test: ../src/dmv/node_modules/grunt/node_modules/nodeunit/examples/browser/suite1.js 6/6
+test: ../src/dmv/node_modules/grunt/node_modules/nodeunit/examples/browser/suite2.js 8/8
+test: ../src/dmv/node_modules/grunt/node_modules/nodeunit/examples/browser/suite3.js 4/4
+test: ../src/dmv/node_modules/grunt/node_modules/underscore.string/lib/underscore.string.js 216/238
+test: script in file:/home/rahul/research/clone-unit-coverage/src/dmv/node_modules/grunt/node_modules/underscore.string/test/test.html from (-1, -1) to (-1, -1) 1/1
+test_standalone: ../src/dmv/node_modules/grunt/node_modules/underscore.string/lib/underscore.string.js 29/238
+test_standalone: script in file:/home/rahul/research/clone-unit-coverage/src/dmv/node_modules/grunt/node_modules/underscore.string/test/test_standalone.html from (-1, -1) to (-1, -1) 1/1
+temp_tests: script in file:/home/rahul/research/clone-unit-coverage/src/dmv/node_modules/grunt/node_modules/underscore.string/test/test_underscore/temp_tests.html from (-1, -1) to (-1, -1) 1/1
+test: ../src/dmv/node_modules/grunt/node_modules/underscore.string/lib/underscore.string.js 30/238
+test: script in file:/home/rahul/research/clone-unit-coverage/src/dmv/node_modules/grunt/node_modules/underscore.string/test/test_underscore/test.html from (-1, -1) to (-1, -1) 1/1
+test: ../src/dmv/node_modules/grunt/node_modules/nodeunit/examples/browser/nodeunit.js 325/774
+test: ../src/dmv/node_modules/grunt/node_modules/nodeunit/examples/browser/suite1.js 6/6
+test: ../src/dmv/node_modules/grunt/node_modules/nodeunit/examples/browser/suite2.js 8/8
+test: ../src/dmv/node_modules/grunt/node_modules/nodeunit/examples/browser/suite3.js 4/4
+test: ../src/dmv/node_modules/grunt/node_modules/underscore.string/lib/underscore.string.js 216/238
+test: script in file:/home/rahul/research/clone-unit-coverage/src/dmv/node_modules/grunt/node_modules/underscore.string/test/test.html from (-1, -1) to (-1, -1) 1/1
+test_standalone: ../src/dmv/node_modules/grunt/node_modules/underscore.string/lib/underscore.string.js 29/238
+test_standalone: script in file:/home/rahul/research/clone-unit-coverage/src/dmv/node_modules/grunt/node_modules/underscore.string/test/test_standalone.html from (-1, -1) to (-1, -1) 1/1
+temp_tests: script in file:/home/rahul/research/clone-unit-coverage/src/dmv/node_modules/grunt/node_modules/underscore.string/test/test_underscore/temp_tests.html from (-1, -1) to (-1, -1) 1/1
+test: ../src/dmv/node_modules/grunt/node_modules/underscore.string/lib/underscore.string.js 30/238
+test: script in file:/home/rahul/research/clone-unit-coverage/src/dmv/node_modules/grunt/node_modules/underscore.string/test/test_underscore/test.html from (-1, -1) to (-1, -1) 1/1
+name: ../src/dmv/node_modules/grunt/tasks/init/jquery/root/libs/jquery/jquery.js 605/3447
+name: ../src/dmv/node_modules/grunt/tasks/init/jquery/root/libs/qunit/qunit.js 315/743
+test: ../src/dmv/node_modules/grunt/node_modules/nodeunit/examples/browser/nodeunit.js 325/774
+test: ../src/dmv/node_modules/grunt/node_modules/nodeunit/examples/browser/suite1.js 6/6
+test: ../src/dmv/node_modules/grunt/node_modules/nodeunit/examples/browser/suite2.js 8/8
+test: ../src/dmv/node_modules/grunt/node_modules/nodeunit/examples/browser/suite3.js 4/4
+test: ../src/dmv/node_modules/grunt/node_modules/underscore.string/lib/underscore.string.js 216/238
+test: script in file:/home/rahul/research/clone-unit-coverage/src/dmv/node_modules/grunt/node_modules/underscore.string/test/test.html from (-1, -1) to (-1, -1) 1/1
+test_standalone: ../src/dmv/node_modules/grunt/node_modules/underscore.string/lib/underscore.string.js 29/238
+test_standalone: script in file:/home/rahul/research/clone-unit-coverage/src/dmv/node_modules/grunt/node_modules/underscore.string/test/test_standalone.html from (-1, -1) to (-1, -1) 1/1
+temp_tests: script in file:/home/rahul/research/clone-unit-coverage/src/dmv/node_modules/grunt/node_modules/underscore.string/test/test_underscore/temp_tests.html from (-1, -1) to (-1, -1) 1/1
+test: ../src/dmv/node_modules/grunt/node_modules/underscore.string/lib/underscore.string.js 30/238
+test: script in file:/home/rahul/research/clone-unit-coverage/src/dmv/node_modules/grunt/node_modules/underscore.string/test/test_underscore/test.html from (-1, -1) to (-1, -1) 1/1
+name: ../src/dmv/node_modules/grunt/tasks/init/jquery/root/libs/jquery/jquery.js 605/3447
+name: ../src/dmv/node_modules/grunt/tasks/init/jquery/root/libs/qunit/qunit.js 315/743
+runtime: ../src/dmv/node_modules/jade/runtime.js 7/38
+test: ../src/dmv/node_modules/grunt/node_modules/nodeunit/examples/browser/nodeunit.js 325/774
+test: ../src/dmv/node_modules/grunt/node_modules/nodeunit/examples/browser/suite1.js 6/6
+test: ../src/dmv/node_modules/grunt/node_modules/nodeunit/examples/browser/suite2.js 8/8
+test: ../src/dmv/node_modules/grunt/node_modules/nodeunit/examples/browser/suite3.js 4/4
+test: ../src/dmv/node_modules/grunt/node_modules/underscore.string/lib/underscore.string.js 216/238
+test: script in file:/home/rahul/research/clone-unit-coverage/src/dmv/node_modules/grunt/node_modules/underscore.string/test/test.html from (-1, -1) to (-1, -1) 1/1
+test_standalone: ../src/dmv/node_modules/grunt/node_modules/underscore.string/lib/underscore.string.js 29/238
+test_standalone: script in file:/home/rahul/research/clone-unit-coverage/src/dmv/node_modules/grunt/node_modules/underscore.string/test/test_standalone.html from (-1, -1) to (-1, -1) 1/1
+temp_tests: script in file:/home/rahul/research/clone-unit-coverage/src/dmv/node_modules/grunt/node_modules/underscore.string/test/test_underscore/temp_tests.html from (-1, -1) to (-1, -1) 1/1
+test: ../src/dmv/node_modules/grunt/node_modules/underscore.string/lib/underscore.string.js 30/238
+test: script in file:/home/rahul/research/clone-unit-coverage/src/dmv/node_modules/grunt/node_modules/underscore.string/test/test_underscore/test.html from (-1, -1) to (-1, -1) 1/1
+name: ../src/dmv/node_modules/grunt/tasks/init/jquery/root/libs/jquery/jquery.js 605/3447
+name: ../src/dmv/node_modules/grunt/tasks/init/jquery/root/libs/qunit/qunit.js 315/743
+runtime: ../src/dmv/node_modules/jade/runtime.js 7/38
+test: ../src/dmv/node_modules/jitsu/node_modules/async/deps/nodeunit.js 284/737
+test: ../src/dmv/node_modules/jitsu/node_modules/async/lib/async.js 351/388
+test: ../src/dmv/node_modules/grunt/node_modules/nodeunit/examples/browser/nodeunit.js 325/774
+test: ../src/dmv/node_modules/grunt/node_modules/nodeunit/examples/browser/suite1.js 6/6
+test: ../src/dmv/node_modules/grunt/node_modules/nodeunit/examples/browser/suite2.js 8/8
+test: ../src/dmv/node_modules/grunt/node_modules/nodeunit/examples/browser/suite3.js 4/4
+test: ../src/dmv/node_modules/grunt/node_modules/underscore.string/lib/underscore.string.js 216/238
+test: script in file:/home/rahul/research/clone-unit-coverage/src/dmv/node_modules/grunt/node_modules/underscore.string/test/test.html from (-1, -1) to (-1, -1) 1/1
+test_standalone: ../src/dmv/node_modules/grunt/node_modules/underscore.string/lib/underscore.string.js 29/238
+test_standalone: script in file:/home/rahul/research/clone-unit-coverage/src/dmv/node_modules/grunt/node_modules/underscore.string/test/test_standalone.html from (-1, -1) to (-1, -1) 1/1
+temp_tests: script in file:/home/rahul/research/clone-unit-coverage/src/dmv/node_modules/grunt/node_modules/underscore.string/test/test_underscore/temp_tests.html from (-1, -1) to (-1, -1) 1/1
+test: ../src/dmv/node_modules/grunt/node_modules/underscore.string/lib/underscore.string.js 30/238
+test: script in file:/home/rahul/research/clone-unit-coverage/src/dmv/node_modules/grunt/node_modules/underscore.string/test/test_underscore/test.html from (-1, -1) to (-1, -1) 1/1
+name: ../src/dmv/node_modules/grunt/tasks/init/jquery/root/libs/jquery/jquery.js 605/3447
+name: ../src/dmv/node_modules/grunt/tasks/init/jquery/root/libs/qunit/qunit.js 315/743
+runtime: ../src/dmv/node_modules/jade/runtime.js 7/38
+test: ../src/dmv/node_modules/jitsu/node_modules/async/deps/nodeunit.js 284/737
+test: ../src/dmv/node_modules/jitsu/node_modules/async/lib/async.js 351/388
+test: ../src/dmv/node_modules/grunt/node_modules/nodeunit/examples/browser/nodeunit.js 325/774
+test: ../src/dmv/node_modules/grunt/node_modules/nodeunit/examples/browser/suite1.js 6/6
+test: ../src/dmv/node_modules/grunt/node_modules/nodeunit/examples/browser/suite2.js 8/8
+test: ../src/dmv/node_modules/grunt/node_modules/nodeunit/examples/browser/suite3.js 4/4
+test: ../src/dmv/node_modules/grunt/node_modules/underscore.string/lib/underscore.string.js 216/238
+test: script in file:/home/rahul/research/clone-unit-coverage/src/dmv/node_modules/grunt/node_modules/underscore.string/test/test.html from (-1, -1) to (-1, -1) 1/1
+test_standalone: ../src/dmv/node_modules/grunt/node_modules/underscore.string/lib/underscore.string.js 29/238
+test_standalone: script in file:/home/rahul/research/clone-unit-coverage/src/dmv/node_modules/grunt/node_modules/underscore.string/test/test_standalone.html from (-1, -1) to (-1, -1) 1/1
+temp_tests: script in file:/home/rahul/research/clone-unit-coverage/src/dmv/node_modules/grunt/node_modules/underscore.string/test/test_underscore/temp_tests.html from (-1, -1) to (-1, -1) 1/1
+test: ../src/dmv/node_modules/grunt/node_modules/underscore.string/lib/underscore.string.js 30/238
+test: script in file:/home/rahul/research/clone-unit-coverage/src/dmv/node_modules/grunt/node_modules/underscore.string/test/test_underscore/test.html from (-1, -1) to (-1, -1) 1/1
+name: ../src/dmv/node_modules/grunt/tasks/init/jquery/root/libs/jquery/jquery.js 605/3447
+name: ../src/dmv/node_modules/grunt/tasks/init/jquery/root/libs/qunit/qunit.js 315/743
+runtime: ../src/dmv/node_modules/jade/runtime.js 7/38
+test: ../src/dmv/node_modules/jitsu/node_modules/async/deps/nodeunit.js 284/737
+test: ../src/dmv/node_modules/jitsu/node_modules/async/lib/async.js 351/388
+test: ../src/dmv/node_modules/grunt/node_modules/nodeunit/examples/browser/nodeunit.js 325/774
+test: ../src/dmv/node_modules/grunt/node_modules/nodeunit/examples/browser/suite1.js 6/6
+test: ../src/dmv/node_modules/grunt/node_modules/nodeunit/examples/browser/suite2.js 8/8
+test: ../src/dmv/node_modules/grunt/node_modules/nodeunit/examples/browser/suite3.js 4/4
+test: ../src/dmv/node_modules/grunt/node_modules/underscore.string/lib/underscore.string.js 216/238
+test: script in file:/home/rahul/research/clone-unit-coverage/src/dmv/node_modules/grunt/node_modules/underscore.string/test/test.html from (-1, -1) to (-1, -1) 1/1
+test_standalone: ../src/dmv/node_modules/grunt/node_modules/underscore.string/lib/underscore.string.js 29/238
+test_standalone: script in file:/home/rahul/research/clone-unit-coverage/src/dmv/node_modules/grunt/node_modules/underscore.string/test/test_standalone.html from (-1, -1) to (-1, -1) 1/1
+temp_tests: script in file:/home/rahul/research/clone-unit-coverage/src/dmv/node_modules/grunt/node_modules/underscore.string/test/test_underscore/temp_tests.html from (-1, -1) to (-1, -1) 1/1
+test: ../src/dmv/node_modules/grunt/node_modules/underscore.string/lib/underscore.string.js 30/238
+test: script in file:/home/rahul/research/clone-unit-coverage/src/dmv/node_modules/grunt/node_modules/underscore.string/test/test_underscore/test.html from (-1, -1) to (-1, -1) 1/1
+name: ../src/dmv/node_modules/grunt/tasks/init/jquery/root/libs/jquery/jquery.js 605/3447
+name: ../src/dmv/node_modules/grunt/tasks/init/jquery/root/libs/qunit/qunit.js 315/743
+runtime: ../src/dmv/node_modules/jade/runtime.js 7/38
+test: ../src/dmv/node_modules/jitsu/node_modules/async/deps/nodeunit.js 284/737
+test: ../src/dmv/node_modules/jitsu/node_modules/async/lib/async.js 351/388
+test: ../src/dmv/node_modules/jitsu/node_modules/npm/node_modules/node-uuid/uuid.js 92/105
+test: ../src/dmv/node_modules/grunt/node_modules/nodeunit/examples/browser/nodeunit.js 325/774
+test: ../src/dmv/node_modules/grunt/node_modules/nodeunit/examples/browser/suite1.js 6/6
+test: ../src/dmv/node_modules/grunt/node_modules/nodeunit/examples/browser/suite2.js 8/8
+test: ../src/dmv/node_modules/grunt/node_modules/nodeunit/examples/browser/suite3.js 4/4
+test: ../src/dmv/node_modules/grunt/node_modules/underscore.string/lib/underscore.string.js 216/238
+test: script in file:/home/rahul/research/clone-unit-coverage/src/dmv/node_modules/grunt/node_modules/underscore.string/test/test.html from (-1, -1) to (-1, -1) 1/1
+test_standalone: ../src/dmv/node_modules/grunt/node_modules/underscore.string/lib/underscore.string.js 29/238
+test_standalone: script in file:/home/rahul/research/clone-unit-coverage/src/dmv/node_modules/grunt/node_modules/underscore.string/test/test_standalone.html from (-1, -1) to (-1, -1) 1/1
+temp_tests: script in file:/home/rahul/research/clone-unit-coverage/src/dmv/node_modules/grunt/node_modules/underscore.string/test/test_underscore/temp_tests.html from (-1, -1) to (-1, -1) 1/1
+test: ../src/dmv/node_modules/grunt/node_modules/underscore.string/lib/underscore.string.js 30/238
+test: script in file:/home/rahul/research/clone-unit-coverage/src/dmv/node_modules/grunt/node_modules/underscore.string/test/test_underscore/test.html from (-1, -1) to (-1, -1) 1/1
+name: ../src/dmv/node_modules/grunt/tasks/init/jquery/root/libs/jquery/jquery.js 605/3447
+name: ../src/dmv/node_modules/grunt/tasks/init/jquery/root/libs/qunit/qunit.js 315/743
+runtime: ../src/dmv/node_modules/jade/runtime.js 7/38
+test: ../src/dmv/node_modules/jitsu/node_modules/async/deps/nodeunit.js 284/737
+test: ../src/dmv/node_modules/jitsu/node_modules/async/lib/async.js 351/388
+test: ../src/dmv/node_modules/jitsu/node_modules/npm/node_modules/node-uuid/uuid.js 92/105

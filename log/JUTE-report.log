@@ -1,0 +1,651 @@
+testToolbar: ../src/JUTE/backend/nodejute/examples/clientSide/toolbar.js?coverage=1 6/10
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/combo?3.3.0/build/substitute/substitute-min.js&3.3.0/build/oop/oop-min.js&3.3.0/build/pluginhost/pluginhost-min.js&3.3.0/build/event-custom/event-custom-min.js&3.3.0/build/dom/dom-min.js&3.3.0/build/event/event-min.js&3.3.0/build/node/node-min.js&3.3.0/build/event/event-base-ie-min.js&3.3.0/build/json/json-min.js&3.3.0/build/event-simulate/event-simulate-min.js&3.3.0/build/test/test-min.js&3.3.0/build/attribute/attribute-min.js&3.3.0/build/intl/intl-min.js&3.3.0/build/console/lang/console.js&3.3.0/build/base/base-base-min.js&3.3.0/build/base/base-pluginhost-min.js&3.3.0/build/classnamemanager/classnamemanager-min.js&3.3.0/build/widget/widget-min.js&3.3.0/build/console/console-min.js& 36/36
+testToolbar: ../src/JUTE/backend/nodejute/examples/clientSide/toolbar.js?coverage=1 6/10
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/combo?3.3.0/build/substitute/substitute-min.js&3.3.0/build/oop/oop-min.js&3.3.0/build/pluginhost/pluginhost-min.js&3.3.0/build/event-custom/event-custom-min.js&3.3.0/build/dom/dom-min.js&3.3.0/build/event/event-min.js&3.3.0/build/node/node-min.js&3.3.0/build/event/event-base-ie-min.js&3.3.0/build/json/json-min.js&3.3.0/build/event-simulate/event-simulate-min.js&3.3.0/build/test/test-min.js&3.3.0/build/attribute/attribute-min.js&3.3.0/build/intl/intl-min.js&3.3.0/build/console/lang/console.js&3.3.0/build/base/base-base-min.js&3.3.0/build/base/base-pluginhost-min.js&3.3.0/build/classnamemanager/classnamemanager-min.js&3.3.0/build/widget/widget-min.js&3.3.0/build/console/console-min.js& 36/36
+run_tests: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 4/5
+run_tests: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+testToolbar: ../src/JUTE/backend/nodejute/examples/clientSide/toolbar.js?coverage=1 6/10
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/combo?3.3.0/build/substitute/substitute-min.js&3.3.0/build/oop/oop-min.js&3.3.0/build/pluginhost/pluginhost-min.js&3.3.0/build/event-custom/event-custom-min.js&3.3.0/build/dom/dom-min.js&3.3.0/build/event/event-min.js&3.3.0/build/node/node-min.js&3.3.0/build/event/event-base-ie-min.js&3.3.0/build/json/json-min.js&3.3.0/build/event-simulate/event-simulate-min.js&3.3.0/build/test/test-min.js&3.3.0/build/attribute/attribute-min.js&3.3.0/build/intl/intl-min.js&3.3.0/build/console/lang/console.js&3.3.0/build/base/base-base-min.js&3.3.0/build/base/base-pluginhost-min.js&3.3.0/build/classnamemanager/classnamemanager-min.js&3.3.0/build/widget/widget-min.js&3.3.0/build/console/console-min.js& 36/36
+run_tests: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 4/5
+run_tests: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+site: script in file:/home/rahul/research/clone-unit-coverage/src/JUTE/backend/nodejute/node_modules/jsdom/test/browser/files/site.html from (-1, -1) to (-1, -1) 1/1
+testToolbar: ../src/JUTE/backend/nodejute/examples/clientSide/toolbar.js?coverage=1 6/10
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/combo?3.3.0/build/substitute/substitute-min.js&3.3.0/build/oop/oop-min.js&3.3.0/build/pluginhost/pluginhost-min.js&3.3.0/build/event-custom/event-custom-min.js&3.3.0/build/dom/dom-min.js&3.3.0/build/event/event-min.js&3.3.0/build/node/node-min.js&3.3.0/build/event/event-base-ie-min.js&3.3.0/build/json/json-min.js&3.3.0/build/event-simulate/event-simulate-min.js&3.3.0/build/test/test-min.js&3.3.0/build/attribute/attribute-min.js&3.3.0/build/intl/intl-min.js&3.3.0/build/console/lang/console.js&3.3.0/build/base/base-base-min.js&3.3.0/build/base/base-pluginhost-min.js&3.3.0/build/classnamemanager/classnamemanager-min.js&3.3.0/build/widget/widget-min.js&3.3.0/build/console/console-min.js& 36/36
+run_tests: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 4/5
+run_tests: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+site: script in file:/home/rahul/research/clone-unit-coverage/src/JUTE/backend/nodejute/node_modules/jsdom/test/browser/files/site.html from (-1, -1) to (-1, -1) 1/1
+testToolbar: ../src/JUTE/backend/nodejute/examples/clientSide/toolbar.js?coverage=1 6/10
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/combo?3.3.0/build/substitute/substitute-min.js&3.3.0/build/oop/oop-min.js&3.3.0/build/pluginhost/pluginhost-min.js&3.3.0/build/event-custom/event-custom-min.js&3.3.0/build/dom/dom-min.js&3.3.0/build/event/event-min.js&3.3.0/build/node/node-min.js&3.3.0/build/event/event-base-ie-min.js&3.3.0/build/json/json-min.js&3.3.0/build/event-simulate/event-simulate-min.js&3.3.0/build/test/test-min.js&3.3.0/build/attribute/attribute-min.js&3.3.0/build/intl/intl-min.js&3.3.0/build/console/lang/console.js&3.3.0/build/base/base-base-min.js&3.3.0/build/base/base-pluginhost-min.js&3.3.0/build/classnamemanager/classnamemanager-min.js&3.3.0/build/widget/widget-min.js&3.3.0/build/console/console-min.js& 36/36
+run_tests: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 4/5
+run_tests: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+site: script in file:/home/rahul/research/clone-unit-coverage/src/JUTE/backend/nodejute/node_modules/jsdom/test/browser/files/site.html from (-1, -1) to (-1, -1) 1/1
+testToolbar: ../src/JUTE/backend/nodejute/examples/clientSide/toolbar.js?coverage=1 6/10
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/combo?3.3.0/build/substitute/substitute-min.js&3.3.0/build/oop/oop-min.js&3.3.0/build/pluginhost/pluginhost-min.js&3.3.0/build/event-custom/event-custom-min.js&3.3.0/build/dom/dom-min.js&3.3.0/build/event/event-min.js&3.3.0/build/node/node-min.js&3.3.0/build/event/event-base-ie-min.js&3.3.0/build/json/json-min.js&3.3.0/build/event-simulate/event-simulate-min.js&3.3.0/build/test/test-min.js&3.3.0/build/attribute/attribute-min.js&3.3.0/build/intl/intl-min.js&3.3.0/build/console/lang/console.js&3.3.0/build/base/base-base-min.js&3.3.0/build/base/base-pluginhost-min.js&3.3.0/build/classnamemanager/classnamemanager-min.js&3.3.0/build/widget/widget-min.js&3.3.0/build/console/console-min.js& 36/36
+run_tests: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 4/5
+run_tests: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+site: script in file:/home/rahul/research/clone-unit-coverage/src/JUTE/backend/nodejute/node_modules/jsdom/test/browser/files/site.html from (-1, -1) to (-1, -1) 1/1
+testToolbar: ../src/JUTE/backend/nodejute/examples/clientSide/toolbar.js?coverage=1 6/10
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/combo?3.3.0/build/substitute/substitute-min.js&3.3.0/build/oop/oop-min.js&3.3.0/build/pluginhost/pluginhost-min.js&3.3.0/build/event-custom/event-custom-min.js&3.3.0/build/dom/dom-min.js&3.3.0/build/event/event-min.js&3.3.0/build/node/node-min.js&3.3.0/build/event/event-base-ie-min.js&3.3.0/build/json/json-min.js&3.3.0/build/event-simulate/event-simulate-min.js&3.3.0/build/test/test-min.js&3.3.0/build/attribute/attribute-min.js&3.3.0/build/intl/intl-min.js&3.3.0/build/console/lang/console.js&3.3.0/build/base/base-base-min.js&3.3.0/build/base/base-pluginhost-min.js&3.3.0/build/classnamemanager/classnamemanager-min.js&3.3.0/build/widget/widget-min.js&3.3.0/build/console/console-min.js& 36/36
+run_tests: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 4/5
+run_tests: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+site: script in file:/home/rahul/research/clone-unit-coverage/src/JUTE/backend/nodejute/node_modules/jsdom/test/browser/files/site.html from (-1, -1) to (-1, -1) 1/1
+testToolbar: ../src/JUTE/backend/nodejute/examples/clientSide/toolbar.js?coverage=1 6/10
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/combo?3.3.0/build/substitute/substitute-min.js&3.3.0/build/oop/oop-min.js&3.3.0/build/pluginhost/pluginhost-min.js&3.3.0/build/event-custom/event-custom-min.js&3.3.0/build/dom/dom-min.js&3.3.0/build/event/event-min.js&3.3.0/build/node/node-min.js&3.3.0/build/event/event-base-ie-min.js&3.3.0/build/json/json-min.js&3.3.0/build/event-simulate/event-simulate-min.js&3.3.0/build/test/test-min.js&3.3.0/build/attribute/attribute-min.js&3.3.0/build/intl/intl-min.js&3.3.0/build/console/lang/console.js&3.3.0/build/base/base-base-min.js&3.3.0/build/base/base-pluginhost-min.js&3.3.0/build/classnamemanager/classnamemanager-min.js&3.3.0/build/widget/widget-min.js&3.3.0/build/console/console-min.js& 36/36
+run_tests: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 4/5
+run_tests: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+site: script in file:/home/rahul/research/clone-unit-coverage/src/JUTE/backend/nodejute/node_modules/jsdom/test/browser/files/site.html from (-1, -1) to (-1, -1) 1/1
+testToolbar: ../src/JUTE/backend/nodejute/examples/clientSide/toolbar.js?coverage=1 6/10
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/combo?3.3.0/build/substitute/substitute-min.js&3.3.0/build/oop/oop-min.js&3.3.0/build/pluginhost/pluginhost-min.js&3.3.0/build/event-custom/event-custom-min.js&3.3.0/build/dom/dom-min.js&3.3.0/build/event/event-min.js&3.3.0/build/node/node-min.js&3.3.0/build/event/event-base-ie-min.js&3.3.0/build/json/json-min.js&3.3.0/build/event-simulate/event-simulate-min.js&3.3.0/build/test/test-min.js&3.3.0/build/attribute/attribute-min.js&3.3.0/build/intl/intl-min.js&3.3.0/build/console/lang/console.js&3.3.0/build/base/base-base-min.js&3.3.0/build/base/base-pluginhost-min.js&3.3.0/build/classnamemanager/classnamemanager-min.js&3.3.0/build/widget/widget-min.js&3.3.0/build/console/console-min.js& 36/36
+run_tests: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 4/5
+run_tests: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+site: script in file:/home/rahul/research/clone-unit-coverage/src/JUTE/backend/nodejute/node_modules/jsdom/test/browser/files/site.html from (-1, -1) to (-1, -1) 1/1
+testToolbar: ../src/JUTE/backend/nodejute/examples/clientSide/toolbar.js?coverage=1 6/10
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/combo?3.3.0/build/substitute/substitute-min.js&3.3.0/build/oop/oop-min.js&3.3.0/build/pluginhost/pluginhost-min.js&3.3.0/build/event-custom/event-custom-min.js&3.3.0/build/dom/dom-min.js&3.3.0/build/event/event-min.js&3.3.0/build/node/node-min.js&3.3.0/build/event/event-base-ie-min.js&3.3.0/build/json/json-min.js&3.3.0/build/event-simulate/event-simulate-min.js&3.3.0/build/test/test-min.js&3.3.0/build/attribute/attribute-min.js&3.3.0/build/intl/intl-min.js&3.3.0/build/console/lang/console.js&3.3.0/build/base/base-base-min.js&3.3.0/build/base/base-pluginhost-min.js&3.3.0/build/classnamemanager/classnamemanager-min.js&3.3.0/build/widget/widget-min.js&3.3.0/build/console/console-min.js& 36/36
+run_tests: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 4/5
+run_tests: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+site: script in file:/home/rahul/research/clone-unit-coverage/src/JUTE/backend/nodejute/node_modules/jsdom/test/browser/files/site.html from (-1, -1) to (-1, -1) 1/1
+testToolbar: ../src/JUTE/backend/nodejute/examples/clientSide/toolbar.js?coverage=1 6/10
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/combo?3.3.0/build/substitute/substitute-min.js&3.3.0/build/oop/oop-min.js&3.3.0/build/pluginhost/pluginhost-min.js&3.3.0/build/event-custom/event-custom-min.js&3.3.0/build/dom/dom-min.js&3.3.0/build/event/event-min.js&3.3.0/build/node/node-min.js&3.3.0/build/event/event-base-ie-min.js&3.3.0/build/json/json-min.js&3.3.0/build/event-simulate/event-simulate-min.js&3.3.0/build/test/test-min.js&3.3.0/build/attribute/attribute-min.js&3.3.0/build/intl/intl-min.js&3.3.0/build/console/lang/console.js&3.3.0/build/base/base-base-min.js&3.3.0/build/base/base-pluginhost-min.js&3.3.0/build/classnamemanager/classnamemanager-min.js&3.3.0/build/widget/widget-min.js&3.3.0/build/console/console-min.js& 36/36
+run_tests: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 4/5
+run_tests: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+site: script in file:/home/rahul/research/clone-unit-coverage/src/JUTE/backend/nodejute/node_modules/jsdom/test/browser/files/site.html from (-1, -1) to (-1, -1) 1/1
+testToolbar: ../src/JUTE/backend/nodejute/examples/clientSide/toolbar.js?coverage=1 6/10
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/combo?3.3.0/build/substitute/substitute-min.js&3.3.0/build/oop/oop-min.js&3.3.0/build/pluginhost/pluginhost-min.js&3.3.0/build/event-custom/event-custom-min.js&3.3.0/build/dom/dom-min.js&3.3.0/build/event/event-min.js&3.3.0/build/node/node-min.js&3.3.0/build/event/event-base-ie-min.js&3.3.0/build/json/json-min.js&3.3.0/build/event-simulate/event-simulate-min.js&3.3.0/build/test/test-min.js&3.3.0/build/attribute/attribute-min.js&3.3.0/build/intl/intl-min.js&3.3.0/build/console/lang/console.js&3.3.0/build/base/base-base-min.js&3.3.0/build/base/base-pluginhost-min.js&3.3.0/build/classnamemanager/classnamemanager-min.js&3.3.0/build/widget/widget-min.js&3.3.0/build/console/console-min.js& 36/36
+run_tests: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 4/5
+run_tests: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+site: script in file:/home/rahul/research/clone-unit-coverage/src/JUTE/backend/nodejute/node_modules/jsdom/test/browser/files/site.html from (-1, -1) to (-1, -1) 1/1
+testToolbar: ../src/JUTE/backend/nodejute/examples/clientSide/toolbar.js?coverage=1 6/10
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/combo?3.3.0/build/substitute/substitute-min.js&3.3.0/build/oop/oop-min.js&3.3.0/build/pluginhost/pluginhost-min.js&3.3.0/build/event-custom/event-custom-min.js&3.3.0/build/dom/dom-min.js&3.3.0/build/event/event-min.js&3.3.0/build/node/node-min.js&3.3.0/build/event/event-base-ie-min.js&3.3.0/build/json/json-min.js&3.3.0/build/event-simulate/event-simulate-min.js&3.3.0/build/test/test-min.js&3.3.0/build/attribute/attribute-min.js&3.3.0/build/intl/intl-min.js&3.3.0/build/console/lang/console.js&3.3.0/build/base/base-base-min.js&3.3.0/build/base/base-pluginhost-min.js&3.3.0/build/classnamemanager/classnamemanager-min.js&3.3.0/build/widget/widget-min.js&3.3.0/build/console/console-min.js& 36/36
+run_tests: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 4/5
+run_tests: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+site: script in file:/home/rahul/research/clone-unit-coverage/src/JUTE/backend/nodejute/node_modules/jsdom/test/browser/files/site.html from (-1, -1) to (-1, -1) 1/1
+testToolbar: ../src/JUTE/backend/nodejute/examples/clientSide/toolbar.js?coverage=1 6/10
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/combo?3.3.0/build/substitute/substitute-min.js&3.3.0/build/oop/oop-min.js&3.3.0/build/pluginhost/pluginhost-min.js&3.3.0/build/event-custom/event-custom-min.js&3.3.0/build/dom/dom-min.js&3.3.0/build/event/event-min.js&3.3.0/build/node/node-min.js&3.3.0/build/event/event-base-ie-min.js&3.3.0/build/json/json-min.js&3.3.0/build/event-simulate/event-simulate-min.js&3.3.0/build/test/test-min.js&3.3.0/build/attribute/attribute-min.js&3.3.0/build/intl/intl-min.js&3.3.0/build/console/lang/console.js&3.3.0/build/base/base-base-min.js&3.3.0/build/base/base-pluginhost-min.js&3.3.0/build/classnamemanager/classnamemanager-min.js&3.3.0/build/widget/widget-min.js&3.3.0/build/console/console-min.js& 36/36
+run_tests: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 4/5
+run_tests: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+site: script in file:/home/rahul/research/clone-unit-coverage/src/JUTE/backend/nodejute/node_modules/jsdom/test/browser/files/site.html from (-1, -1) to (-1, -1) 1/1
+testToolbar: ../src/JUTE/backend/nodejute/examples/clientSide/toolbar.js?coverage=1 6/10
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/combo?3.3.0/build/substitute/substitute-min.js&3.3.0/build/oop/oop-min.js&3.3.0/build/pluginhost/pluginhost-min.js&3.3.0/build/event-custom/event-custom-min.js&3.3.0/build/dom/dom-min.js&3.3.0/build/event/event-min.js&3.3.0/build/node/node-min.js&3.3.0/build/event/event-base-ie-min.js&3.3.0/build/json/json-min.js&3.3.0/build/event-simulate/event-simulate-min.js&3.3.0/build/test/test-min.js&3.3.0/build/attribute/attribute-min.js&3.3.0/build/intl/intl-min.js&3.3.0/build/console/lang/console.js&3.3.0/build/base/base-base-min.js&3.3.0/build/base/base-pluginhost-min.js&3.3.0/build/classnamemanager/classnamemanager-min.js&3.3.0/build/widget/widget-min.js&3.3.0/build/console/console-min.js& 36/36
+run_tests: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 4/5
+run_tests: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+site: script in file:/home/rahul/research/clone-unit-coverage/src/JUTE/backend/nodejute/node_modules/jsdom/test/browser/files/site.html from (-1, -1) to (-1, -1) 1/1
+testToolbar: ../src/JUTE/backend/nodejute/examples/clientSide/toolbar.js?coverage=1 6/10
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/combo?3.3.0/build/substitute/substitute-min.js&3.3.0/build/oop/oop-min.js&3.3.0/build/pluginhost/pluginhost-min.js&3.3.0/build/event-custom/event-custom-min.js&3.3.0/build/dom/dom-min.js&3.3.0/build/event/event-min.js&3.3.0/build/node/node-min.js&3.3.0/build/event/event-base-ie-min.js&3.3.0/build/json/json-min.js&3.3.0/build/event-simulate/event-simulate-min.js&3.3.0/build/test/test-min.js&3.3.0/build/attribute/attribute-min.js&3.3.0/build/intl/intl-min.js&3.3.0/build/console/lang/console.js&3.3.0/build/base/base-base-min.js&3.3.0/build/base/base-pluginhost-min.js&3.3.0/build/classnamemanager/classnamemanager-min.js&3.3.0/build/widget/widget-min.js&3.3.0/build/console/console-min.js& 36/36
+run_tests: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 4/5
+run_tests: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+site: script in file:/home/rahul/research/clone-unit-coverage/src/JUTE/backend/nodejute/node_modules/jsdom/test/browser/files/site.html from (-1, -1) to (-1, -1) 1/1
+testToolbar: ../src/JUTE/backend/nodejute/examples/clientSide/toolbar.js?coverage=1 6/10
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/combo?3.3.0/build/substitute/substitute-min.js&3.3.0/build/oop/oop-min.js&3.3.0/build/pluginhost/pluginhost-min.js&3.3.0/build/event-custom/event-custom-min.js&3.3.0/build/dom/dom-min.js&3.3.0/build/event/event-min.js&3.3.0/build/node/node-min.js&3.3.0/build/event/event-base-ie-min.js&3.3.0/build/json/json-min.js&3.3.0/build/event-simulate/event-simulate-min.js&3.3.0/build/test/test-min.js&3.3.0/build/attribute/attribute-min.js&3.3.0/build/intl/intl-min.js&3.3.0/build/console/lang/console.js&3.3.0/build/base/base-base-min.js&3.3.0/build/base/base-pluginhost-min.js&3.3.0/build/classnamemanager/classnamemanager-min.js&3.3.0/build/widget/widget-min.js&3.3.0/build/console/console-min.js& 36/36
+run_tests: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 4/5
+run_tests: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+site: script in file:/home/rahul/research/clone-unit-coverage/src/JUTE/backend/nodejute/node_modules/jsdom/test/browser/files/site.html from (-1, -1) to (-1, -1) 1/1
+testToolbar: ../src/JUTE/backend/nodejute/examples/clientSide/toolbar.js?coverage=1 6/10
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/combo?3.3.0/build/substitute/substitute-min.js&3.3.0/build/oop/oop-min.js&3.3.0/build/pluginhost/pluginhost-min.js&3.3.0/build/event-custom/event-custom-min.js&3.3.0/build/dom/dom-min.js&3.3.0/build/event/event-min.js&3.3.0/build/node/node-min.js&3.3.0/build/event/event-base-ie-min.js&3.3.0/build/json/json-min.js&3.3.0/build/event-simulate/event-simulate-min.js&3.3.0/build/test/test-min.js&3.3.0/build/attribute/attribute-min.js&3.3.0/build/intl/intl-min.js&3.3.0/build/console/lang/console.js&3.3.0/build/base/base-base-min.js&3.3.0/build/base/base-pluginhost-min.js&3.3.0/build/classnamemanager/classnamemanager-min.js&3.3.0/build/widget/widget-min.js&3.3.0/build/console/console-min.js& 36/36
+run_tests: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 4/5
+run_tests: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+site: script in file:/home/rahul/research/clone-unit-coverage/src/JUTE/backend/nodejute/node_modules/jsdom/test/browser/files/site.html from (-1, -1) to (-1, -1) 1/1
+testToolbar: ../src/JUTE/backend/nodejute/examples/clientSide/toolbar.js?coverage=1 6/10
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/combo?3.3.0/build/substitute/substitute-min.js&3.3.0/build/oop/oop-min.js&3.3.0/build/pluginhost/pluginhost-min.js&3.3.0/build/event-custom/event-custom-min.js&3.3.0/build/dom/dom-min.js&3.3.0/build/event/event-min.js&3.3.0/build/node/node-min.js&3.3.0/build/event/event-base-ie-min.js&3.3.0/build/json/json-min.js&3.3.0/build/event-simulate/event-simulate-min.js&3.3.0/build/test/test-min.js&3.3.0/build/attribute/attribute-min.js&3.3.0/build/intl/intl-min.js&3.3.0/build/console/lang/console.js&3.3.0/build/base/base-base-min.js&3.3.0/build/base/base-pluginhost-min.js&3.3.0/build/classnamemanager/classnamemanager-min.js&3.3.0/build/widget/widget-min.js&3.3.0/build/console/console-min.js& 36/36
+run_tests: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 4/5
+run_tests: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+site: script in file:/home/rahul/research/clone-unit-coverage/src/JUTE/backend/nodejute/node_modules/jsdom/test/browser/files/site.html from (-1, -1) to (-1, -1) 1/1
+testToolbar: ../src/JUTE/backend/nodejute/examples/clientSide/toolbar.js?coverage=1 6/10
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/combo?3.3.0/build/substitute/substitute-min.js&3.3.0/build/oop/oop-min.js&3.3.0/build/pluginhost/pluginhost-min.js&3.3.0/build/event-custom/event-custom-min.js&3.3.0/build/dom/dom-min.js&3.3.0/build/event/event-min.js&3.3.0/build/node/node-min.js&3.3.0/build/event/event-base-ie-min.js&3.3.0/build/json/json-min.js&3.3.0/build/event-simulate/event-simulate-min.js&3.3.0/build/test/test-min.js&3.3.0/build/attribute/attribute-min.js&3.3.0/build/intl/intl-min.js&3.3.0/build/console/lang/console.js&3.3.0/build/base/base-base-min.js&3.3.0/build/base/base-pluginhost-min.js&3.3.0/build/classnamemanager/classnamemanager-min.js&3.3.0/build/widget/widget-min.js&3.3.0/build/console/console-min.js& 36/36
+run_tests: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 4/5
+run_tests: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+site: script in file:/home/rahul/research/clone-unit-coverage/src/JUTE/backend/nodejute/node_modules/jsdom/test/browser/files/site.html from (-1, -1) to (-1, -1) 1/1
+testToolbar: ../src/JUTE/backend/nodejute/examples/clientSide/toolbar.js?coverage=1 6/10
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/combo?3.3.0/build/substitute/substitute-min.js&3.3.0/build/oop/oop-min.js&3.3.0/build/pluginhost/pluginhost-min.js&3.3.0/build/event-custom/event-custom-min.js&3.3.0/build/dom/dom-min.js&3.3.0/build/event/event-min.js&3.3.0/build/node/node-min.js&3.3.0/build/event/event-base-ie-min.js&3.3.0/build/json/json-min.js&3.3.0/build/event-simulate/event-simulate-min.js&3.3.0/build/test/test-min.js&3.3.0/build/attribute/attribute-min.js&3.3.0/build/intl/intl-min.js&3.3.0/build/console/lang/console.js&3.3.0/build/base/base-base-min.js&3.3.0/build/base/base-pluginhost-min.js&3.3.0/build/classnamemanager/classnamemanager-min.js&3.3.0/build/widget/widget-min.js&3.3.0/build/console/console-min.js& 36/36
+run_tests: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 4/5
+run_tests: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+site: script in file:/home/rahul/research/clone-unit-coverage/src/JUTE/backend/nodejute/node_modules/jsdom/test/browser/files/site.html from (-1, -1) to (-1, -1) 1/1
+testToolbar: ../src/JUTE/backend/nodejute/examples/clientSide/toolbar.js?coverage=1 6/10
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/combo?3.3.0/build/substitute/substitute-min.js&3.3.0/build/oop/oop-min.js&3.3.0/build/pluginhost/pluginhost-min.js&3.3.0/build/event-custom/event-custom-min.js&3.3.0/build/dom/dom-min.js&3.3.0/build/event/event-min.js&3.3.0/build/node/node-min.js&3.3.0/build/event/event-base-ie-min.js&3.3.0/build/json/json-min.js&3.3.0/build/event-simulate/event-simulate-min.js&3.3.0/build/test/test-min.js&3.3.0/build/attribute/attribute-min.js&3.3.0/build/intl/intl-min.js&3.3.0/build/console/lang/console.js&3.3.0/build/base/base-base-min.js&3.3.0/build/base/base-pluginhost-min.js&3.3.0/build/classnamemanager/classnamemanager-min.js&3.3.0/build/widget/widget-min.js&3.3.0/build/console/console-min.js& 36/36
+run_tests: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 4/5
+run_tests: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+site: script in file:/home/rahul/research/clone-unit-coverage/src/JUTE/backend/nodejute/node_modules/jsdom/test/browser/files/site.html from (-1, -1) to (-1, -1) 1/1
+testToolbar: ../src/JUTE/backend/nodejute/examples/clientSide/toolbar.js?coverage=1 6/10
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/combo?3.3.0/build/substitute/substitute-min.js&3.3.0/build/oop/oop-min.js&3.3.0/build/pluginhost/pluginhost-min.js&3.3.0/build/event-custom/event-custom-min.js&3.3.0/build/dom/dom-min.js&3.3.0/build/event/event-min.js&3.3.0/build/node/node-min.js&3.3.0/build/event/event-base-ie-min.js&3.3.0/build/json/json-min.js&3.3.0/build/event-simulate/event-simulate-min.js&3.3.0/build/test/test-min.js&3.3.0/build/attribute/attribute-min.js&3.3.0/build/intl/intl-min.js&3.3.0/build/console/lang/console.js&3.3.0/build/base/base-base-min.js&3.3.0/build/base/base-pluginhost-min.js&3.3.0/build/classnamemanager/classnamemanager-min.js&3.3.0/build/widget/widget-min.js&3.3.0/build/console/console-min.js& 36/36
+run_tests: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 4/5
+run_tests: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+site: script in file:/home/rahul/research/clone-unit-coverage/src/JUTE/backend/nodejute/node_modules/jsdom/test/browser/files/site.html from (-1, -1) to (-1, -1) 1/1
+testToolbar: ../src/JUTE/backend/nodejute/examples/clientSide/toolbar.js?coverage=1 6/10
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/combo?3.3.0/build/substitute/substitute-min.js&3.3.0/build/oop/oop-min.js&3.3.0/build/pluginhost/pluginhost-min.js&3.3.0/build/event-custom/event-custom-min.js&3.3.0/build/dom/dom-min.js&3.3.0/build/event/event-min.js&3.3.0/build/node/node-min.js&3.3.0/build/event/event-base-ie-min.js&3.3.0/build/json/json-min.js&3.3.0/build/event-simulate/event-simulate-min.js&3.3.0/build/test/test-min.js&3.3.0/build/attribute/attribute-min.js&3.3.0/build/intl/intl-min.js&3.3.0/build/console/lang/console.js&3.3.0/build/base/base-base-min.js&3.3.0/build/base/base-pluginhost-min.js&3.3.0/build/classnamemanager/classnamemanager-min.js&3.3.0/build/widget/widget-min.js&3.3.0/build/console/console-min.js& 36/36
+run_tests: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 4/5
+run_tests: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+site: script in file:/home/rahul/research/clone-unit-coverage/src/JUTE/backend/nodejute/node_modules/jsdom/test/browser/files/site.html from (-1, -1) to (-1, -1) 1/1
+testToolbar: ../src/JUTE/backend/nodejute/examples/clientSide/toolbar.js?coverage=1 6/10
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/combo?3.3.0/build/substitute/substitute-min.js&3.3.0/build/oop/oop-min.js&3.3.0/build/pluginhost/pluginhost-min.js&3.3.0/build/event-custom/event-custom-min.js&3.3.0/build/dom/dom-min.js&3.3.0/build/event/event-min.js&3.3.0/build/node/node-min.js&3.3.0/build/event/event-base-ie-min.js&3.3.0/build/json/json-min.js&3.3.0/build/event-simulate/event-simulate-min.js&3.3.0/build/test/test-min.js&3.3.0/build/attribute/attribute-min.js&3.3.0/build/intl/intl-min.js&3.3.0/build/console/lang/console.js&3.3.0/build/base/base-base-min.js&3.3.0/build/base/base-pluginhost-min.js&3.3.0/build/classnamemanager/classnamemanager-min.js&3.3.0/build/widget/widget-min.js&3.3.0/build/console/console-min.js& 36/36
+run_tests: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 4/5
+run_tests: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+site: script in file:/home/rahul/research/clone-unit-coverage/src/JUTE/backend/nodejute/node_modules/jsdom/test/browser/files/site.html from (-1, -1) to (-1, -1) 1/1
+testToolbar: ../src/JUTE/backend/nodejute/examples/clientSide/toolbar.js?coverage=1 6/10
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/combo?3.3.0/build/substitute/substitute-min.js&3.3.0/build/oop/oop-min.js&3.3.0/build/pluginhost/pluginhost-min.js&3.3.0/build/event-custom/event-custom-min.js&3.3.0/build/dom/dom-min.js&3.3.0/build/event/event-min.js&3.3.0/build/node/node-min.js&3.3.0/build/event/event-base-ie-min.js&3.3.0/build/json/json-min.js&3.3.0/build/event-simulate/event-simulate-min.js&3.3.0/build/test/test-min.js&3.3.0/build/attribute/attribute-min.js&3.3.0/build/intl/intl-min.js&3.3.0/build/console/lang/console.js&3.3.0/build/base/base-base-min.js&3.3.0/build/base/base-pluginhost-min.js&3.3.0/build/classnamemanager/classnamemanager-min.js&3.3.0/build/widget/widget-min.js&3.3.0/build/console/console-min.js& 36/36
+run_tests: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 4/5
+run_tests: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+site: script in file:/home/rahul/research/clone-unit-coverage/src/JUTE/backend/nodejute/node_modules/jsdom/test/browser/files/site.html from (-1, -1) to (-1, -1) 1/1
+testToolbar: ../src/JUTE/backend/nodejute/examples/clientSide/toolbar.js?coverage=1 6/10
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/combo?3.3.0/build/substitute/substitute-min.js&3.3.0/build/oop/oop-min.js&3.3.0/build/pluginhost/pluginhost-min.js&3.3.0/build/event-custom/event-custom-min.js&3.3.0/build/dom/dom-min.js&3.3.0/build/event/event-min.js&3.3.0/build/node/node-min.js&3.3.0/build/event/event-base-ie-min.js&3.3.0/build/json/json-min.js&3.3.0/build/event-simulate/event-simulate-min.js&3.3.0/build/test/test-min.js&3.3.0/build/attribute/attribute-min.js&3.3.0/build/intl/intl-min.js&3.3.0/build/console/lang/console.js&3.3.0/build/base/base-base-min.js&3.3.0/build/base/base-pluginhost-min.js&3.3.0/build/classnamemanager/classnamemanager-min.js&3.3.0/build/widget/widget-min.js&3.3.0/build/console/console-min.js& 36/36
+run_tests: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 4/5
+run_tests: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+site: script in file:/home/rahul/research/clone-unit-coverage/src/JUTE/backend/nodejute/node_modules/jsdom/test/browser/files/site.html from (-1, -1) to (-1, -1) 1/1
+testToolbar: ../src/JUTE/backend/nodejute/examples/clientSide/toolbar.js?coverage=1 6/10
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/combo?3.3.0/build/substitute/substitute-min.js&3.3.0/build/oop/oop-min.js&3.3.0/build/pluginhost/pluginhost-min.js&3.3.0/build/event-custom/event-custom-min.js&3.3.0/build/dom/dom-min.js&3.3.0/build/event/event-min.js&3.3.0/build/node/node-min.js&3.3.0/build/event/event-base-ie-min.js&3.3.0/build/json/json-min.js&3.3.0/build/event-simulate/event-simulate-min.js&3.3.0/build/test/test-min.js&3.3.0/build/attribute/attribute-min.js&3.3.0/build/intl/intl-min.js&3.3.0/build/console/lang/console.js&3.3.0/build/base/base-base-min.js&3.3.0/build/base/base-pluginhost-min.js&3.3.0/build/classnamemanager/classnamemanager-min.js&3.3.0/build/widget/widget-min.js&3.3.0/build/console/console-min.js& 36/36
+run_tests: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 4/5
+run_tests: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+site: script in file:/home/rahul/research/clone-unit-coverage/src/JUTE/backend/nodejute/node_modules/jsdom/test/browser/files/site.html from (-1, -1) to (-1, -1) 1/1
+testToolbar: ../src/JUTE/backend/nodejute/examples/clientSide/toolbar.js?coverage=1 6/10
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/combo?3.3.0/build/substitute/substitute-min.js&3.3.0/build/oop/oop-min.js&3.3.0/build/pluginhost/pluginhost-min.js&3.3.0/build/event-custom/event-custom-min.js&3.3.0/build/dom/dom-min.js&3.3.0/build/event/event-min.js&3.3.0/build/node/node-min.js&3.3.0/build/event/event-base-ie-min.js&3.3.0/build/json/json-min.js&3.3.0/build/event-simulate/event-simulate-min.js&3.3.0/build/test/test-min.js&3.3.0/build/attribute/attribute-min.js&3.3.0/build/intl/intl-min.js&3.3.0/build/console/lang/console.js&3.3.0/build/base/base-base-min.js&3.3.0/build/base/base-pluginhost-min.js&3.3.0/build/classnamemanager/classnamemanager-min.js&3.3.0/build/widget/widget-min.js&3.3.0/build/console/console-min.js& 36/36
+run_tests: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 4/5
+run_tests: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+site: script in file:/home/rahul/research/clone-unit-coverage/src/JUTE/backend/nodejute/node_modules/jsdom/test/browser/files/site.html from (-1, -1) to (-1, -1) 1/1
+testToolbar: ../src/JUTE/backend/nodejute/examples/clientSide/toolbar.js?coverage=1 6/10
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/combo?3.3.0/build/substitute/substitute-min.js&3.3.0/build/oop/oop-min.js&3.3.0/build/pluginhost/pluginhost-min.js&3.3.0/build/event-custom/event-custom-min.js&3.3.0/build/dom/dom-min.js&3.3.0/build/event/event-min.js&3.3.0/build/node/node-min.js&3.3.0/build/event/event-base-ie-min.js&3.3.0/build/json/json-min.js&3.3.0/build/event-simulate/event-simulate-min.js&3.3.0/build/test/test-min.js&3.3.0/build/attribute/attribute-min.js&3.3.0/build/intl/intl-min.js&3.3.0/build/console/lang/console.js&3.3.0/build/base/base-base-min.js&3.3.0/build/base/base-pluginhost-min.js&3.3.0/build/classnamemanager/classnamemanager-min.js&3.3.0/build/widget/widget-min.js&3.3.0/build/console/console-min.js& 36/36
+run_tests: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 4/5
+run_tests: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+site: script in file:/home/rahul/research/clone-unit-coverage/src/JUTE/backend/nodejute/node_modules/jsdom/test/browser/files/site.html from (-1, -1) to (-1, -1) 1/1
+testToolbar: ../src/JUTE/backend/nodejute/examples/clientSide/toolbar.js?coverage=1 6/10
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/combo?3.3.0/build/substitute/substitute-min.js&3.3.0/build/oop/oop-min.js&3.3.0/build/pluginhost/pluginhost-min.js&3.3.0/build/event-custom/event-custom-min.js&3.3.0/build/dom/dom-min.js&3.3.0/build/event/event-min.js&3.3.0/build/node/node-min.js&3.3.0/build/event/event-base-ie-min.js&3.3.0/build/json/json-min.js&3.3.0/build/event-simulate/event-simulate-min.js&3.3.0/build/test/test-min.js&3.3.0/build/attribute/attribute-min.js&3.3.0/build/intl/intl-min.js&3.3.0/build/console/lang/console.js&3.3.0/build/base/base-base-min.js&3.3.0/build/base/base-pluginhost-min.js&3.3.0/build/classnamemanager/classnamemanager-min.js&3.3.0/build/widget/widget-min.js&3.3.0/build/console/console-min.js& 36/36
+run_tests: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 4/5
+run_tests: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+site: script in file:/home/rahul/research/clone-unit-coverage/src/JUTE/backend/nodejute/node_modules/jsdom/test/browser/files/site.html from (-1, -1) to (-1, -1) 1/1
+testToolbar: ../src/JUTE/backend/nodejute/examples/clientSide/toolbar.js?coverage=1 6/10
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/combo?3.3.0/build/substitute/substitute-min.js&3.3.0/build/oop/oop-min.js&3.3.0/build/pluginhost/pluginhost-min.js&3.3.0/build/event-custom/event-custom-min.js&3.3.0/build/dom/dom-min.js&3.3.0/build/event/event-min.js&3.3.0/build/node/node-min.js&3.3.0/build/event/event-base-ie-min.js&3.3.0/build/json/json-min.js&3.3.0/build/event-simulate/event-simulate-min.js&3.3.0/build/test/test-min.js&3.3.0/build/attribute/attribute-min.js&3.3.0/build/intl/intl-min.js&3.3.0/build/console/lang/console.js&3.3.0/build/base/base-base-min.js&3.3.0/build/base/base-pluginhost-min.js&3.3.0/build/classnamemanager/classnamemanager-min.js&3.3.0/build/widget/widget-min.js&3.3.0/build/console/console-min.js& 36/36
+run_tests: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 4/5
+run_tests: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+site: script in file:/home/rahul/research/clone-unit-coverage/src/JUTE/backend/nodejute/node_modules/jsdom/test/browser/files/site.html from (-1, -1) to (-1, -1) 1/1
+testToolbar: ../src/JUTE/backend/nodejute/examples/clientSide/toolbar.js?coverage=1 6/10
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/combo?3.3.0/build/substitute/substitute-min.js&3.3.0/build/oop/oop-min.js&3.3.0/build/pluginhost/pluginhost-min.js&3.3.0/build/event-custom/event-custom-min.js&3.3.0/build/dom/dom-min.js&3.3.0/build/event/event-min.js&3.3.0/build/node/node-min.js&3.3.0/build/event/event-base-ie-min.js&3.3.0/build/json/json-min.js&3.3.0/build/event-simulate/event-simulate-min.js&3.3.0/build/test/test-min.js&3.3.0/build/attribute/attribute-min.js&3.3.0/build/intl/intl-min.js&3.3.0/build/console/lang/console.js&3.3.0/build/base/base-base-min.js&3.3.0/build/base/base-pluginhost-min.js&3.3.0/build/classnamemanager/classnamemanager-min.js&3.3.0/build/widget/widget-min.js&3.3.0/build/console/console-min.js& 36/36
+run_tests: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 4/5
+run_tests: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+site: script in file:/home/rahul/research/clone-unit-coverage/src/JUTE/backend/nodejute/node_modules/jsdom/test/browser/files/site.html from (-1, -1) to (-1, -1) 1/1
+testToolbar: ../src/JUTE/backend/nodejute/examples/clientSide/toolbar.js?coverage=1 6/10
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/combo?3.3.0/build/substitute/substitute-min.js&3.3.0/build/oop/oop-min.js&3.3.0/build/pluginhost/pluginhost-min.js&3.3.0/build/event-custom/event-custom-min.js&3.3.0/build/dom/dom-min.js&3.3.0/build/event/event-min.js&3.3.0/build/node/node-min.js&3.3.0/build/event/event-base-ie-min.js&3.3.0/build/json/json-min.js&3.3.0/build/event-simulate/event-simulate-min.js&3.3.0/build/test/test-min.js&3.3.0/build/attribute/attribute-min.js&3.3.0/build/intl/intl-min.js&3.3.0/build/console/lang/console.js&3.3.0/build/base/base-base-min.js&3.3.0/build/base/base-pluginhost-min.js&3.3.0/build/classnamemanager/classnamemanager-min.js&3.3.0/build/widget/widget-min.js&3.3.0/build/console/console-min.js& 36/36
+run_tests: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 4/5
+run_tests: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+site: script in file:/home/rahul/research/clone-unit-coverage/src/JUTE/backend/nodejute/node_modules/jsdom/test/browser/files/site.html from (-1, -1) to (-1, -1) 1/1
+testToolbar: ../src/JUTE/backend/nodejute/examples/clientSide/toolbar.js?coverage=1 6/10
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/combo?3.3.0/build/substitute/substitute-min.js&3.3.0/build/oop/oop-min.js&3.3.0/build/pluginhost/pluginhost-min.js&3.3.0/build/event-custom/event-custom-min.js&3.3.0/build/dom/dom-min.js&3.3.0/build/event/event-min.js&3.3.0/build/node/node-min.js&3.3.0/build/event/event-base-ie-min.js&3.3.0/build/json/json-min.js&3.3.0/build/event-simulate/event-simulate-min.js&3.3.0/build/test/test-min.js&3.3.0/build/attribute/attribute-min.js&3.3.0/build/intl/intl-min.js&3.3.0/build/console/lang/console.js&3.3.0/build/base/base-base-min.js&3.3.0/build/base/base-pluginhost-min.js&3.3.0/build/classnamemanager/classnamemanager-min.js&3.3.0/build/widget/widget-min.js&3.3.0/build/console/console-min.js& 36/36
+run_tests: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 4/5
+run_tests: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+site: script in file:/home/rahul/research/clone-unit-coverage/src/JUTE/backend/nodejute/node_modules/jsdom/test/browser/files/site.html from (-1, -1) to (-1, -1) 1/1
+testToolbar: ../src/JUTE/backend/nodejute/examples/clientSide/toolbar.js?coverage=1 6/10
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/combo?3.3.0/build/substitute/substitute-min.js&3.3.0/build/oop/oop-min.js&3.3.0/build/pluginhost/pluginhost-min.js&3.3.0/build/event-custom/event-custom-min.js&3.3.0/build/dom/dom-min.js&3.3.0/build/event/event-min.js&3.3.0/build/node/node-min.js&3.3.0/build/event/event-base-ie-min.js&3.3.0/build/json/json-min.js&3.3.0/build/event-simulate/event-simulate-min.js&3.3.0/build/test/test-min.js&3.3.0/build/attribute/attribute-min.js&3.3.0/build/intl/intl-min.js&3.3.0/build/console/lang/console.js&3.3.0/build/base/base-base-min.js&3.3.0/build/base/base-pluginhost-min.js&3.3.0/build/classnamemanager/classnamemanager-min.js&3.3.0/build/widget/widget-min.js&3.3.0/build/console/console-min.js& 36/36
+run_tests: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 4/5
+run_tests: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+site: script in file:/home/rahul/research/clone-unit-coverage/src/JUTE/backend/nodejute/node_modules/jsdom/test/browser/files/site.html from (-1, -1) to (-1, -1) 1/1
+testToolbar: ../src/JUTE/backend/nodejute/examples/clientSide/toolbar.js?coverage=1 6/10
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/combo?3.3.0/build/substitute/substitute-min.js&3.3.0/build/oop/oop-min.js&3.3.0/build/pluginhost/pluginhost-min.js&3.3.0/build/event-custom/event-custom-min.js&3.3.0/build/dom/dom-min.js&3.3.0/build/event/event-min.js&3.3.0/build/node/node-min.js&3.3.0/build/event/event-base-ie-min.js&3.3.0/build/json/json-min.js&3.3.0/build/event-simulate/event-simulate-min.js&3.3.0/build/test/test-min.js&3.3.0/build/attribute/attribute-min.js&3.3.0/build/intl/intl-min.js&3.3.0/build/console/lang/console.js&3.3.0/build/base/base-base-min.js&3.3.0/build/base/base-pluginhost-min.js&3.3.0/build/classnamemanager/classnamemanager-min.js&3.3.0/build/widget/widget-min.js&3.3.0/build/console/console-min.js& 36/36
+run_tests: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 4/5
+run_tests: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+site: script in file:/home/rahul/research/clone-unit-coverage/src/JUTE/backend/nodejute/node_modules/jsdom/test/browser/files/site.html from (-1, -1) to (-1, -1) 1/1
+testToolbar: ../src/JUTE/backend/nodejute/examples/clientSide/toolbar.js?coverage=1 6/10
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/combo?3.3.0/build/substitute/substitute-min.js&3.3.0/build/oop/oop-min.js&3.3.0/build/pluginhost/pluginhost-min.js&3.3.0/build/event-custom/event-custom-min.js&3.3.0/build/dom/dom-min.js&3.3.0/build/event/event-min.js&3.3.0/build/node/node-min.js&3.3.0/build/event/event-base-ie-min.js&3.3.0/build/json/json-min.js&3.3.0/build/event-simulate/event-simulate-min.js&3.3.0/build/test/test-min.js&3.3.0/build/attribute/attribute-min.js&3.3.0/build/intl/intl-min.js&3.3.0/build/console/lang/console.js&3.3.0/build/base/base-base-min.js&3.3.0/build/base/base-pluginhost-min.js&3.3.0/build/classnamemanager/classnamemanager-min.js&3.3.0/build/widget/widget-min.js&3.3.0/build/console/console-min.js& 36/36
+run_tests: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 4/5
+run_tests: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+site: script in file:/home/rahul/research/clone-unit-coverage/src/JUTE/backend/nodejute/node_modules/jsdom/test/browser/files/site.html from (-1, -1) to (-1, -1) 1/1
+testToolbar: ../src/JUTE/backend/nodejute/examples/clientSide/toolbar.js?coverage=1 6/10
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/combo?3.3.0/build/substitute/substitute-min.js&3.3.0/build/oop/oop-min.js&3.3.0/build/pluginhost/pluginhost-min.js&3.3.0/build/event-custom/event-custom-min.js&3.3.0/build/dom/dom-min.js&3.3.0/build/event/event-min.js&3.3.0/build/node/node-min.js&3.3.0/build/event/event-base-ie-min.js&3.3.0/build/json/json-min.js&3.3.0/build/event-simulate/event-simulate-min.js&3.3.0/build/test/test-min.js&3.3.0/build/attribute/attribute-min.js&3.3.0/build/intl/intl-min.js&3.3.0/build/console/lang/console.js&3.3.0/build/base/base-base-min.js&3.3.0/build/base/base-pluginhost-min.js&3.3.0/build/classnamemanager/classnamemanager-min.js&3.3.0/build/widget/widget-min.js&3.3.0/build/console/console-min.js& 36/36
+run_tests: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 4/5
+run_tests: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+site: script in file:/home/rahul/research/clone-unit-coverage/src/JUTE/backend/nodejute/node_modules/jsdom/test/browser/files/site.html from (-1, -1) to (-1, -1) 1/1
+testToolbar: ../src/JUTE/backend/nodejute/examples/clientSide/toolbar.js?coverage=1 6/10
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/combo?3.3.0/build/substitute/substitute-min.js&3.3.0/build/oop/oop-min.js&3.3.0/build/pluginhost/pluginhost-min.js&3.3.0/build/event-custom/event-custom-min.js&3.3.0/build/dom/dom-min.js&3.3.0/build/event/event-min.js&3.3.0/build/node/node-min.js&3.3.0/build/event/event-base-ie-min.js&3.3.0/build/json/json-min.js&3.3.0/build/event-simulate/event-simulate-min.js&3.3.0/build/test/test-min.js&3.3.0/build/attribute/attribute-min.js&3.3.0/build/intl/intl-min.js&3.3.0/build/console/lang/console.js&3.3.0/build/base/base-base-min.js&3.3.0/build/base/base-pluginhost-min.js&3.3.0/build/classnamemanager/classnamemanager-min.js&3.3.0/build/widget/widget-min.js&3.3.0/build/console/console-min.js& 36/36
+run_tests: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 4/5
+run_tests: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+site: script in file:/home/rahul/research/clone-unit-coverage/src/JUTE/backend/nodejute/node_modules/jsdom/test/browser/files/site.html from (-1, -1) to (-1, -1) 1/1
+testToolbar: ../src/JUTE/backend/nodejute/examples/clientSide/toolbar.js?coverage=1 6/10
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/combo?3.3.0/build/substitute/substitute-min.js&3.3.0/build/oop/oop-min.js&3.3.0/build/pluginhost/pluginhost-min.js&3.3.0/build/event-custom/event-custom-min.js&3.3.0/build/dom/dom-min.js&3.3.0/build/event/event-min.js&3.3.0/build/node/node-min.js&3.3.0/build/event/event-base-ie-min.js&3.3.0/build/json/json-min.js&3.3.0/build/event-simulate/event-simulate-min.js&3.3.0/build/test/test-min.js&3.3.0/build/attribute/attribute-min.js&3.3.0/build/intl/intl-min.js&3.3.0/build/console/lang/console.js&3.3.0/build/base/base-base-min.js&3.3.0/build/base/base-pluginhost-min.js&3.3.0/build/classnamemanager/classnamemanager-min.js&3.3.0/build/widget/widget-min.js&3.3.0/build/console/console-min.js& 36/36
+run_tests: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 4/5
+run_tests: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+site: script in file:/home/rahul/research/clone-unit-coverage/src/JUTE/backend/nodejute/node_modules/jsdom/test/browser/files/site.html from (-1, -1) to (-1, -1) 1/1
+testToolbar: ../src/JUTE/backend/nodejute/examples/clientSide/toolbar.js?coverage=1 6/10
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/combo?3.3.0/build/substitute/substitute-min.js&3.3.0/build/oop/oop-min.js&3.3.0/build/pluginhost/pluginhost-min.js&3.3.0/build/event-custom/event-custom-min.js&3.3.0/build/dom/dom-min.js&3.3.0/build/event/event-min.js&3.3.0/build/node/node-min.js&3.3.0/build/event/event-base-ie-min.js&3.3.0/build/json/json-min.js&3.3.0/build/event-simulate/event-simulate-min.js&3.3.0/build/test/test-min.js&3.3.0/build/attribute/attribute-min.js&3.3.0/build/intl/intl-min.js&3.3.0/build/console/lang/console.js&3.3.0/build/base/base-base-min.js&3.3.0/build/base/base-pluginhost-min.js&3.3.0/build/classnamemanager/classnamemanager-min.js&3.3.0/build/widget/widget-min.js&3.3.0/build/console/console-min.js& 36/36
+run_tests: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 4/5
+run_tests: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+site: script in file:/home/rahul/research/clone-unit-coverage/src/JUTE/backend/nodejute/node_modules/jsdom/test/browser/files/site.html from (-1, -1) to (-1, -1) 1/1
+testToolbar: ../src/JUTE/backend/nodejute/examples/clientSide/toolbar.js?coverage=1 6/10
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/combo?3.3.0/build/substitute/substitute-min.js&3.3.0/build/oop/oop-min.js&3.3.0/build/pluginhost/pluginhost-min.js&3.3.0/build/event-custom/event-custom-min.js&3.3.0/build/dom/dom-min.js&3.3.0/build/event/event-min.js&3.3.0/build/node/node-min.js&3.3.0/build/event/event-base-ie-min.js&3.3.0/build/json/json-min.js&3.3.0/build/event-simulate/event-simulate-min.js&3.3.0/build/test/test-min.js&3.3.0/build/attribute/attribute-min.js&3.3.0/build/intl/intl-min.js&3.3.0/build/console/lang/console.js&3.3.0/build/base/base-base-min.js&3.3.0/build/base/base-pluginhost-min.js&3.3.0/build/classnamemanager/classnamemanager-min.js&3.3.0/build/widget/widget-min.js&3.3.0/build/console/console-min.js& 36/36
+run_tests: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 4/5
+run_tests: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+site: script in file:/home/rahul/research/clone-unit-coverage/src/JUTE/backend/nodejute/node_modules/jsdom/test/browser/files/site.html from (-1, -1) to (-1, -1) 1/1
+testToolbar: ../src/JUTE/backend/nodejute/examples/clientSide/toolbar.js?coverage=1 6/10
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/combo?3.3.0/build/substitute/substitute-min.js&3.3.0/build/oop/oop-min.js&3.3.0/build/pluginhost/pluginhost-min.js&3.3.0/build/event-custom/event-custom-min.js&3.3.0/build/dom/dom-min.js&3.3.0/build/event/event-min.js&3.3.0/build/node/node-min.js&3.3.0/build/event/event-base-ie-min.js&3.3.0/build/json/json-min.js&3.3.0/build/event-simulate/event-simulate-min.js&3.3.0/build/test/test-min.js&3.3.0/build/attribute/attribute-min.js&3.3.0/build/intl/intl-min.js&3.3.0/build/console/lang/console.js&3.3.0/build/base/base-base-min.js&3.3.0/build/base/base-pluginhost-min.js&3.3.0/build/classnamemanager/classnamemanager-min.js&3.3.0/build/widget/widget-min.js&3.3.0/build/console/console-min.js& 36/36
+run_tests: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 4/5
+run_tests: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+site: script in file:/home/rahul/research/clone-unit-coverage/src/JUTE/backend/nodejute/node_modules/jsdom/test/browser/files/site.html from (-1, -1) to (-1, -1) 1/1
+testToolbar: ../src/JUTE/backend/nodejute/examples/clientSide/toolbar.js?coverage=1 6/10
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/combo?3.3.0/build/substitute/substitute-min.js&3.3.0/build/oop/oop-min.js&3.3.0/build/pluginhost/pluginhost-min.js&3.3.0/build/event-custom/event-custom-min.js&3.3.0/build/dom/dom-min.js&3.3.0/build/event/event-min.js&3.3.0/build/node/node-min.js&3.3.0/build/event/event-base-ie-min.js&3.3.0/build/json/json-min.js&3.3.0/build/event-simulate/event-simulate-min.js&3.3.0/build/test/test-min.js&3.3.0/build/attribute/attribute-min.js&3.3.0/build/intl/intl-min.js&3.3.0/build/console/lang/console.js&3.3.0/build/base/base-base-min.js&3.3.0/build/base/base-pluginhost-min.js&3.3.0/build/classnamemanager/classnamemanager-min.js&3.3.0/build/widget/widget-min.js&3.3.0/build/console/console-min.js& 36/36
+run_tests: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 4/5
+run_tests: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+site: script in file:/home/rahul/research/clone-unit-coverage/src/JUTE/backend/nodejute/node_modules/jsdom/test/browser/files/site.html from (-1, -1) to (-1, -1) 1/1
+testToolbar: ../src/JUTE/backend/nodejute/examples/clientSide/toolbar.js?coverage=1 6/10
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/combo?3.3.0/build/substitute/substitute-min.js&3.3.0/build/oop/oop-min.js&3.3.0/build/pluginhost/pluginhost-min.js&3.3.0/build/event-custom/event-custom-min.js&3.3.0/build/dom/dom-min.js&3.3.0/build/event/event-min.js&3.3.0/build/node/node-min.js&3.3.0/build/event/event-base-ie-min.js&3.3.0/build/json/json-min.js&3.3.0/build/event-simulate/event-simulate-min.js&3.3.0/build/test/test-min.js&3.3.0/build/attribute/attribute-min.js&3.3.0/build/intl/intl-min.js&3.3.0/build/console/lang/console.js&3.3.0/build/base/base-base-min.js&3.3.0/build/base/base-pluginhost-min.js&3.3.0/build/classnamemanager/classnamemanager-min.js&3.3.0/build/widget/widget-min.js&3.3.0/build/console/console-min.js& 36/36
+run_tests: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 4/5
+run_tests: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+site: script in file:/home/rahul/research/clone-unit-coverage/src/JUTE/backend/nodejute/node_modules/jsdom/test/browser/files/site.html from (-1, -1) to (-1, -1) 1/1
+testToolbar: ../src/JUTE/backend/nodejute/examples/clientSide/toolbar.js?coverage=1 6/10
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/combo?3.3.0/build/substitute/substitute-min.js&3.3.0/build/oop/oop-min.js&3.3.0/build/pluginhost/pluginhost-min.js&3.3.0/build/event-custom/event-custom-min.js&3.3.0/build/dom/dom-min.js&3.3.0/build/event/event-min.js&3.3.0/build/node/node-min.js&3.3.0/build/event/event-base-ie-min.js&3.3.0/build/json/json-min.js&3.3.0/build/event-simulate/event-simulate-min.js&3.3.0/build/test/test-min.js&3.3.0/build/attribute/attribute-min.js&3.3.0/build/intl/intl-min.js&3.3.0/build/console/lang/console.js&3.3.0/build/base/base-base-min.js&3.3.0/build/base/base-pluginhost-min.js&3.3.0/build/classnamemanager/classnamemanager-min.js&3.3.0/build/widget/widget-min.js&3.3.0/build/console/console-min.js& 36/36
+run_tests: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 4/5
+run_tests: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+site: script in file:/home/rahul/research/clone-unit-coverage/src/JUTE/backend/nodejute/node_modules/jsdom/test/browser/files/site.html from (-1, -1) to (-1, -1) 1/1
+testToolbar: ../src/JUTE/backend/nodejute/examples/clientSide/toolbar.js?coverage=1 6/10
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/combo?3.3.0/build/substitute/substitute-min.js&3.3.0/build/oop/oop-min.js&3.3.0/build/pluginhost/pluginhost-min.js&3.3.0/build/event-custom/event-custom-min.js&3.3.0/build/dom/dom-min.js&3.3.0/build/event/event-min.js&3.3.0/build/node/node-min.js&3.3.0/build/event/event-base-ie-min.js&3.3.0/build/json/json-min.js&3.3.0/build/event-simulate/event-simulate-min.js&3.3.0/build/test/test-min.js&3.3.0/build/attribute/attribute-min.js&3.3.0/build/intl/intl-min.js&3.3.0/build/console/lang/console.js&3.3.0/build/base/base-base-min.js&3.3.0/build/base/base-pluginhost-min.js&3.3.0/build/classnamemanager/classnamemanager-min.js&3.3.0/build/widget/widget-min.js&3.3.0/build/console/console-min.js& 36/36
+run_tests: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 4/5
+run_tests: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+site: script in file:/home/rahul/research/clone-unit-coverage/src/JUTE/backend/nodejute/node_modules/jsdom/test/browser/files/site.html from (-1, -1) to (-1, -1) 1/1
+testToolbar: ../src/JUTE/backend/nodejute/examples/clientSide/toolbar.js?coverage=1 6/10
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/combo?3.3.0/build/substitute/substitute-min.js&3.3.0/build/oop/oop-min.js&3.3.0/build/pluginhost/pluginhost-min.js&3.3.0/build/event-custom/event-custom-min.js&3.3.0/build/dom/dom-min.js&3.3.0/build/event/event-min.js&3.3.0/build/node/node-min.js&3.3.0/build/event/event-base-ie-min.js&3.3.0/build/json/json-min.js&3.3.0/build/event-simulate/event-simulate-min.js&3.3.0/build/test/test-min.js&3.3.0/build/attribute/attribute-min.js&3.3.0/build/intl/intl-min.js&3.3.0/build/console/lang/console.js&3.3.0/build/base/base-base-min.js&3.3.0/build/base/base-pluginhost-min.js&3.3.0/build/classnamemanager/classnamemanager-min.js&3.3.0/build/widget/widget-min.js&3.3.0/build/console/console-min.js& 36/36
+run_tests: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 4/5
+run_tests: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+site: script in file:/home/rahul/research/clone-unit-coverage/src/JUTE/backend/nodejute/node_modules/jsdom/test/browser/files/site.html from (-1, -1) to (-1, -1) 1/1
+testToolbar: ../src/JUTE/backend/nodejute/examples/clientSide/toolbar.js?coverage=1 6/10
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/combo?3.3.0/build/substitute/substitute-min.js&3.3.0/build/oop/oop-min.js&3.3.0/build/pluginhost/pluginhost-min.js&3.3.0/build/event-custom/event-custom-min.js&3.3.0/build/dom/dom-min.js&3.3.0/build/event/event-min.js&3.3.0/build/node/node-min.js&3.3.0/build/event/event-base-ie-min.js&3.3.0/build/json/json-min.js&3.3.0/build/event-simulate/event-simulate-min.js&3.3.0/build/test/test-min.js&3.3.0/build/attribute/attribute-min.js&3.3.0/build/intl/intl-min.js&3.3.0/build/console/lang/console.js&3.3.0/build/base/base-base-min.js&3.3.0/build/base/base-pluginhost-min.js&3.3.0/build/classnamemanager/classnamemanager-min.js&3.3.0/build/widget/widget-min.js&3.3.0/build/console/console-min.js& 36/36
+run_tests: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 4/5
+run_tests: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+site: script in file:/home/rahul/research/clone-unit-coverage/src/JUTE/backend/nodejute/node_modules/jsdom/test/browser/files/site.html from (-1, -1) to (-1, -1) 1/1
+testToolbar: ../src/JUTE/backend/nodejute/examples/clientSide/toolbar.js?coverage=1 6/10
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/combo?3.3.0/build/substitute/substitute-min.js&3.3.0/build/oop/oop-min.js&3.3.0/build/pluginhost/pluginhost-min.js&3.3.0/build/event-custom/event-custom-min.js&3.3.0/build/dom/dom-min.js&3.3.0/build/event/event-min.js&3.3.0/build/node/node-min.js&3.3.0/build/event/event-base-ie-min.js&3.3.0/build/json/json-min.js&3.3.0/build/event-simulate/event-simulate-min.js&3.3.0/build/test/test-min.js&3.3.0/build/attribute/attribute-min.js&3.3.0/build/intl/intl-min.js&3.3.0/build/console/lang/console.js&3.3.0/build/base/base-base-min.js&3.3.0/build/base/base-pluginhost-min.js&3.3.0/build/classnamemanager/classnamemanager-min.js&3.3.0/build/widget/widget-min.js&3.3.0/build/console/console-min.js& 36/36
+run_tests: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 4/5
+run_tests: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+site: script in file:/home/rahul/research/clone-unit-coverage/src/JUTE/backend/nodejute/node_modules/jsdom/test/browser/files/site.html from (-1, -1) to (-1, -1) 1/1
+testToolbar: ../src/JUTE/backend/nodejute/examples/clientSide/toolbar.js?coverage=1 6/10
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/combo?3.3.0/build/substitute/substitute-min.js&3.3.0/build/oop/oop-min.js&3.3.0/build/pluginhost/pluginhost-min.js&3.3.0/build/event-custom/event-custom-min.js&3.3.0/build/dom/dom-min.js&3.3.0/build/event/event-min.js&3.3.0/build/node/node-min.js&3.3.0/build/event/event-base-ie-min.js&3.3.0/build/json/json-min.js&3.3.0/build/event-simulate/event-simulate-min.js&3.3.0/build/test/test-min.js&3.3.0/build/attribute/attribute-min.js&3.3.0/build/intl/intl-min.js&3.3.0/build/console/lang/console.js&3.3.0/build/base/base-base-min.js&3.3.0/build/base/base-pluginhost-min.js&3.3.0/build/classnamemanager/classnamemanager-min.js&3.3.0/build/widget/widget-min.js&3.3.0/build/console/console-min.js& 36/36
+run_tests: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 4/5
+run_tests: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+site: script in file:/home/rahul/research/clone-unit-coverage/src/JUTE/backend/nodejute/node_modules/jsdom/test/browser/files/site.html from (-1, -1) to (-1, -1) 1/1
+testToolbar: ../src/JUTE/backend/nodejute/examples/clientSide/toolbar.js?coverage=1 6/10
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/combo?3.3.0/build/substitute/substitute-min.js&3.3.0/build/oop/oop-min.js&3.3.0/build/pluginhost/pluginhost-min.js&3.3.0/build/event-custom/event-custom-min.js&3.3.0/build/dom/dom-min.js&3.3.0/build/event/event-min.js&3.3.0/build/node/node-min.js&3.3.0/build/event/event-base-ie-min.js&3.3.0/build/json/json-min.js&3.3.0/build/event-simulate/event-simulate-min.js&3.3.0/build/test/test-min.js&3.3.0/build/attribute/attribute-min.js&3.3.0/build/intl/intl-min.js&3.3.0/build/console/lang/console.js&3.3.0/build/base/base-base-min.js&3.3.0/build/base/base-pluginhost-min.js&3.3.0/build/classnamemanager/classnamemanager-min.js&3.3.0/build/widget/widget-min.js&3.3.0/build/console/console-min.js& 36/36
+run_tests: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 4/5
+run_tests: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+site: script in file:/home/rahul/research/clone-unit-coverage/src/JUTE/backend/nodejute/node_modules/jsdom/test/browser/files/site.html from (-1, -1) to (-1, -1) 1/1
+testToolbar: ../src/JUTE/backend/nodejute/examples/clientSide/toolbar.js?coverage=1 6/10
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/combo?3.3.0/build/substitute/substitute-min.js&3.3.0/build/oop/oop-min.js&3.3.0/build/pluginhost/pluginhost-min.js&3.3.0/build/event-custom/event-custom-min.js&3.3.0/build/dom/dom-min.js&3.3.0/build/event/event-min.js&3.3.0/build/node/node-min.js&3.3.0/build/event/event-base-ie-min.js&3.3.0/build/json/json-min.js&3.3.0/build/event-simulate/event-simulate-min.js&3.3.0/build/test/test-min.js&3.3.0/build/attribute/attribute-min.js&3.3.0/build/intl/intl-min.js&3.3.0/build/console/lang/console.js&3.3.0/build/base/base-base-min.js&3.3.0/build/base/base-pluginhost-min.js&3.3.0/build/classnamemanager/classnamemanager-min.js&3.3.0/build/widget/widget-min.js&3.3.0/build/console/console-min.js& 36/36
+run_tests: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 4/5
+run_tests: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+site: script in file:/home/rahul/research/clone-unit-coverage/src/JUTE/backend/nodejute/node_modules/jsdom/test/browser/files/site.html from (-1, -1) to (-1, -1) 1/1
+testToolbar: ../src/JUTE/backend/nodejute/examples/clientSide/toolbar.js?coverage=1 6/10
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/combo?3.3.0/build/substitute/substitute-min.js&3.3.0/build/oop/oop-min.js&3.3.0/build/pluginhost/pluginhost-min.js&3.3.0/build/event-custom/event-custom-min.js&3.3.0/build/dom/dom-min.js&3.3.0/build/event/event-min.js&3.3.0/build/node/node-min.js&3.3.0/build/event/event-base-ie-min.js&3.3.0/build/json/json-min.js&3.3.0/build/event-simulate/event-simulate-min.js&3.3.0/build/test/test-min.js&3.3.0/build/attribute/attribute-min.js&3.3.0/build/intl/intl-min.js&3.3.0/build/console/lang/console.js&3.3.0/build/base/base-base-min.js&3.3.0/build/base/base-pluginhost-min.js&3.3.0/build/classnamemanager/classnamemanager-min.js&3.3.0/build/widget/widget-min.js&3.3.0/build/console/console-min.js& 36/36
+run_tests: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 4/5
+run_tests: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+site: script in file:/home/rahul/research/clone-unit-coverage/src/JUTE/backend/nodejute/node_modules/jsdom/test/browser/files/site.html from (-1, -1) to (-1, -1) 1/1
+testToolbar: ../src/JUTE/backend/nodejute/examples/clientSide/toolbar.js?coverage=1 6/10
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/combo?3.3.0/build/substitute/substitute-min.js&3.3.0/build/oop/oop-min.js&3.3.0/build/pluginhost/pluginhost-min.js&3.3.0/build/event-custom/event-custom-min.js&3.3.0/build/dom/dom-min.js&3.3.0/build/event/event-min.js&3.3.0/build/node/node-min.js&3.3.0/build/event/event-base-ie-min.js&3.3.0/build/json/json-min.js&3.3.0/build/event-simulate/event-simulate-min.js&3.3.0/build/test/test-min.js&3.3.0/build/attribute/attribute-min.js&3.3.0/build/intl/intl-min.js&3.3.0/build/console/lang/console.js&3.3.0/build/base/base-base-min.js&3.3.0/build/base/base-pluginhost-min.js&3.3.0/build/classnamemanager/classnamemanager-min.js&3.3.0/build/widget/widget-min.js&3.3.0/build/console/console-min.js& 36/36
+run_tests: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 4/5
+run_tests: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+site: script in file:/home/rahul/research/clone-unit-coverage/src/JUTE/backend/nodejute/node_modules/jsdom/test/browser/files/site.html from (-1, -1) to (-1, -1) 1/1
+testToolbar: ../src/JUTE/backend/nodejute/examples/clientSide/toolbar.js?coverage=1 6/10
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/combo?3.3.0/build/substitute/substitute-min.js&3.3.0/build/oop/oop-min.js&3.3.0/build/pluginhost/pluginhost-min.js&3.3.0/build/event-custom/event-custom-min.js&3.3.0/build/dom/dom-min.js&3.3.0/build/event/event-min.js&3.3.0/build/node/node-min.js&3.3.0/build/event/event-base-ie-min.js&3.3.0/build/json/json-min.js&3.3.0/build/event-simulate/event-simulate-min.js&3.3.0/build/test/test-min.js&3.3.0/build/attribute/attribute-min.js&3.3.0/build/intl/intl-min.js&3.3.0/build/console/lang/console.js&3.3.0/build/base/base-base-min.js&3.3.0/build/base/base-pluginhost-min.js&3.3.0/build/classnamemanager/classnamemanager-min.js&3.3.0/build/widget/widget-min.js&3.3.0/build/console/console-min.js& 36/36
+run_tests: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 4/5
+run_tests: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+site: script in file:/home/rahul/research/clone-unit-coverage/src/JUTE/backend/nodejute/node_modules/jsdom/test/browser/files/site.html from (-1, -1) to (-1, -1) 1/1
+testToolbar: ../src/JUTE/backend/nodejute/examples/clientSide/toolbar.js?coverage=1 6/10
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/combo?3.3.0/build/substitute/substitute-min.js&3.3.0/build/oop/oop-min.js&3.3.0/build/pluginhost/pluginhost-min.js&3.3.0/build/event-custom/event-custom-min.js&3.3.0/build/dom/dom-min.js&3.3.0/build/event/event-min.js&3.3.0/build/node/node-min.js&3.3.0/build/event/event-base-ie-min.js&3.3.0/build/json/json-min.js&3.3.0/build/event-simulate/event-simulate-min.js&3.3.0/build/test/test-min.js&3.3.0/build/attribute/attribute-min.js&3.3.0/build/intl/intl-min.js&3.3.0/build/console/lang/console.js&3.3.0/build/base/base-base-min.js&3.3.0/build/base/base-pluginhost-min.js&3.3.0/build/classnamemanager/classnamemanager-min.js&3.3.0/build/widget/widget-min.js&3.3.0/build/console/console-min.js& 36/36
+run_tests: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 4/5
+run_tests: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+site: script in file:/home/rahul/research/clone-unit-coverage/src/JUTE/backend/nodejute/node_modules/jsdom/test/browser/files/site.html from (-1, -1) to (-1, -1) 1/1
+testToolbar: ../src/JUTE/backend/nodejute/examples/clientSide/toolbar.js?coverage=1 6/10
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/combo?3.3.0/build/substitute/substitute-min.js&3.3.0/build/oop/oop-min.js&3.3.0/build/pluginhost/pluginhost-min.js&3.3.0/build/event-custom/event-custom-min.js&3.3.0/build/dom/dom-min.js&3.3.0/build/event/event-min.js&3.3.0/build/node/node-min.js&3.3.0/build/event/event-base-ie-min.js&3.3.0/build/json/json-min.js&3.3.0/build/event-simulate/event-simulate-min.js&3.3.0/build/test/test-min.js&3.3.0/build/attribute/attribute-min.js&3.3.0/build/intl/intl-min.js&3.3.0/build/console/lang/console.js&3.3.0/build/base/base-base-min.js&3.3.0/build/base/base-pluginhost-min.js&3.3.0/build/classnamemanager/classnamemanager-min.js&3.3.0/build/widget/widget-min.js&3.3.0/build/console/console-min.js& 36/36
+run_tests: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 4/5
+run_tests: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+site: script in file:/home/rahul/research/clone-unit-coverage/src/JUTE/backend/nodejute/node_modules/jsdom/test/browser/files/site.html from (-1, -1) to (-1, -1) 1/1
+testToolbar: ../src/JUTE/backend/nodejute/examples/clientSide/toolbar.js?coverage=1 6/10
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/combo?3.3.0/build/substitute/substitute-min.js&3.3.0/build/oop/oop-min.js&3.3.0/build/pluginhost/pluginhost-min.js&3.3.0/build/event-custom/event-custom-min.js&3.3.0/build/dom/dom-min.js&3.3.0/build/event/event-min.js&3.3.0/build/node/node-min.js&3.3.0/build/event/event-base-ie-min.js&3.3.0/build/json/json-min.js&3.3.0/build/event-simulate/event-simulate-min.js&3.3.0/build/test/test-min.js&3.3.0/build/attribute/attribute-min.js&3.3.0/build/intl/intl-min.js&3.3.0/build/console/lang/console.js&3.3.0/build/base/base-base-min.js&3.3.0/build/base/base-pluginhost-min.js&3.3.0/build/classnamemanager/classnamemanager-min.js&3.3.0/build/widget/widget-min.js&3.3.0/build/console/console-min.js& 36/36
+run_tests: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 4/5
+run_tests: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+site: script in file:/home/rahul/research/clone-unit-coverage/src/JUTE/backend/nodejute/node_modules/jsdom/test/browser/files/site.html from (-1, -1) to (-1, -1) 1/1
+testToolbar: ../src/JUTE/backend/nodejute/examples/clientSide/toolbar.js?coverage=1 6/10
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/combo?3.3.0/build/substitute/substitute-min.js&3.3.0/build/oop/oop-min.js&3.3.0/build/pluginhost/pluginhost-min.js&3.3.0/build/event-custom/event-custom-min.js&3.3.0/build/dom/dom-min.js&3.3.0/build/event/event-min.js&3.3.0/build/node/node-min.js&3.3.0/build/event/event-base-ie-min.js&3.3.0/build/json/json-min.js&3.3.0/build/event-simulate/event-simulate-min.js&3.3.0/build/test/test-min.js&3.3.0/build/attribute/attribute-min.js&3.3.0/build/intl/intl-min.js&3.3.0/build/console/lang/console.js&3.3.0/build/base/base-base-min.js&3.3.0/build/base/base-pluginhost-min.js&3.3.0/build/classnamemanager/classnamemanager-min.js&3.3.0/build/widget/widget-min.js&3.3.0/build/console/console-min.js& 36/36
+run_tests: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 4/5
+run_tests: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+site: script in file:/home/rahul/research/clone-unit-coverage/src/JUTE/backend/nodejute/node_modules/jsdom/test/browser/files/site.html from (-1, -1) to (-1, -1) 1/1
+testToolbar: ../src/JUTE/backend/nodejute/examples/clientSide/toolbar.js?coverage=1 6/10
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/combo?3.3.0/build/substitute/substitute-min.js&3.3.0/build/oop/oop-min.js&3.3.0/build/pluginhost/pluginhost-min.js&3.3.0/build/event-custom/event-custom-min.js&3.3.0/build/dom/dom-min.js&3.3.0/build/event/event-min.js&3.3.0/build/node/node-min.js&3.3.0/build/event/event-base-ie-min.js&3.3.0/build/json/json-min.js&3.3.0/build/event-simulate/event-simulate-min.js&3.3.0/build/test/test-min.js&3.3.0/build/attribute/attribute-min.js&3.3.0/build/intl/intl-min.js&3.3.0/build/console/lang/console.js&3.3.0/build/base/base-base-min.js&3.3.0/build/base/base-pluginhost-min.js&3.3.0/build/classnamemanager/classnamemanager-min.js&3.3.0/build/widget/widget-min.js&3.3.0/build/console/console-min.js& 36/36
+run_tests: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 4/5
+run_tests: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+site: script in file:/home/rahul/research/clone-unit-coverage/src/JUTE/backend/nodejute/node_modules/jsdom/test/browser/files/site.html from (-1, -1) to (-1, -1) 1/1
+testToolbar: ../src/JUTE/backend/nodejute/examples/clientSide/toolbar.js?coverage=1 6/10
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/combo?3.3.0/build/substitute/substitute-min.js&3.3.0/build/oop/oop-min.js&3.3.0/build/pluginhost/pluginhost-min.js&3.3.0/build/event-custom/event-custom-min.js&3.3.0/build/dom/dom-min.js&3.3.0/build/event/event-min.js&3.3.0/build/node/node-min.js&3.3.0/build/event/event-base-ie-min.js&3.3.0/build/json/json-min.js&3.3.0/build/event-simulate/event-simulate-min.js&3.3.0/build/test/test-min.js&3.3.0/build/attribute/attribute-min.js&3.3.0/build/intl/intl-min.js&3.3.0/build/console/lang/console.js&3.3.0/build/base/base-base-min.js&3.3.0/build/base/base-pluginhost-min.js&3.3.0/build/classnamemanager/classnamemanager-min.js&3.3.0/build/widget/widget-min.js&3.3.0/build/console/console-min.js& 36/36
+run_tests: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 4/5
+run_tests: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+site: script in file:/home/rahul/research/clone-unit-coverage/src/JUTE/backend/nodejute/node_modules/jsdom/test/browser/files/site.html from (-1, -1) to (-1, -1) 1/1
+testToolbar: ../src/JUTE/backend/nodejute/examples/clientSide/toolbar.js?coverage=1 6/10
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/combo?3.3.0/build/substitute/substitute-min.js&3.3.0/build/oop/oop-min.js&3.3.0/build/pluginhost/pluginhost-min.js&3.3.0/build/event-custom/event-custom-min.js&3.3.0/build/dom/dom-min.js&3.3.0/build/event/event-min.js&3.3.0/build/node/node-min.js&3.3.0/build/event/event-base-ie-min.js&3.3.0/build/json/json-min.js&3.3.0/build/event-simulate/event-simulate-min.js&3.3.0/build/test/test-min.js&3.3.0/build/attribute/attribute-min.js&3.3.0/build/intl/intl-min.js&3.3.0/build/console/lang/console.js&3.3.0/build/base/base-base-min.js&3.3.0/build/base/base-pluginhost-min.js&3.3.0/build/classnamemanager/classnamemanager-min.js&3.3.0/build/widget/widget-min.js&3.3.0/build/console/console-min.js& 36/36
+run_tests: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 4/5
+run_tests: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+site: script in file:/home/rahul/research/clone-unit-coverage/src/JUTE/backend/nodejute/node_modules/jsdom/test/browser/files/site.html from (-1, -1) to (-1, -1) 1/1
+testToolbar: ../src/JUTE/backend/nodejute/examples/clientSide/toolbar.js?coverage=1 6/10
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/combo?3.3.0/build/substitute/substitute-min.js&3.3.0/build/oop/oop-min.js&3.3.0/build/pluginhost/pluginhost-min.js&3.3.0/build/event-custom/event-custom-min.js&3.3.0/build/dom/dom-min.js&3.3.0/build/event/event-min.js&3.3.0/build/node/node-min.js&3.3.0/build/event/event-base-ie-min.js&3.3.0/build/json/json-min.js&3.3.0/build/event-simulate/event-simulate-min.js&3.3.0/build/test/test-min.js&3.3.0/build/attribute/attribute-min.js&3.3.0/build/intl/intl-min.js&3.3.0/build/console/lang/console.js&3.3.0/build/base/base-base-min.js&3.3.0/build/base/base-pluginhost-min.js&3.3.0/build/classnamemanager/classnamemanager-min.js&3.3.0/build/widget/widget-min.js&3.3.0/build/console/console-min.js& 36/36
+run_tests: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 4/5
+run_tests: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+site: script in file:/home/rahul/research/clone-unit-coverage/src/JUTE/backend/nodejute/node_modules/jsdom/test/browser/files/site.html from (-1, -1) to (-1, -1) 1/1
+testToolbar: ../src/JUTE/backend/nodejute/examples/clientSide/toolbar.js?coverage=1 6/10
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/combo?3.3.0/build/substitute/substitute-min.js&3.3.0/build/oop/oop-min.js&3.3.0/build/pluginhost/pluginhost-min.js&3.3.0/build/event-custom/event-custom-min.js&3.3.0/build/dom/dom-min.js&3.3.0/build/event/event-min.js&3.3.0/build/node/node-min.js&3.3.0/build/event/event-base-ie-min.js&3.3.0/build/json/json-min.js&3.3.0/build/event-simulate/event-simulate-min.js&3.3.0/build/test/test-min.js&3.3.0/build/attribute/attribute-min.js&3.3.0/build/intl/intl-min.js&3.3.0/build/console/lang/console.js&3.3.0/build/base/base-base-min.js&3.3.0/build/base/base-pluginhost-min.js&3.3.0/build/classnamemanager/classnamemanager-min.js&3.3.0/build/widget/widget-min.js&3.3.0/build/console/console-min.js& 36/36
+run_tests: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 4/5
+run_tests: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+site: script in file:/home/rahul/research/clone-unit-coverage/src/JUTE/backend/nodejute/node_modules/jsdom/test/browser/files/site.html from (-1, -1) to (-1, -1) 1/1
+testToolbar: ../src/JUTE/backend/nodejute/examples/clientSide/toolbar.js?coverage=1 6/10
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/combo?3.3.0/build/substitute/substitute-min.js&3.3.0/build/oop/oop-min.js&3.3.0/build/pluginhost/pluginhost-min.js&3.3.0/build/event-custom/event-custom-min.js&3.3.0/build/dom/dom-min.js&3.3.0/build/event/event-min.js&3.3.0/build/node/node-min.js&3.3.0/build/event/event-base-ie-min.js&3.3.0/build/json/json-min.js&3.3.0/build/event-simulate/event-simulate-min.js&3.3.0/build/test/test-min.js&3.3.0/build/attribute/attribute-min.js&3.3.0/build/intl/intl-min.js&3.3.0/build/console/lang/console.js&3.3.0/build/base/base-base-min.js&3.3.0/build/base/base-pluginhost-min.js&3.3.0/build/classnamemanager/classnamemanager-min.js&3.3.0/build/widget/widget-min.js&3.3.0/build/console/console-min.js& 36/36
+run_tests: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 4/5
+run_tests: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+site: script in file:/home/rahul/research/clone-unit-coverage/src/JUTE/backend/nodejute/node_modules/jsdom/test/browser/files/site.html from (-1, -1) to (-1, -1) 1/1
+testToolbar: ../src/JUTE/backend/nodejute/examples/clientSide/toolbar.js?coverage=1 6/10
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/combo?3.3.0/build/substitute/substitute-min.js&3.3.0/build/oop/oop-min.js&3.3.0/build/pluginhost/pluginhost-min.js&3.3.0/build/event-custom/event-custom-min.js&3.3.0/build/dom/dom-min.js&3.3.0/build/event/event-min.js&3.3.0/build/node/node-min.js&3.3.0/build/event/event-base-ie-min.js&3.3.0/build/json/json-min.js&3.3.0/build/event-simulate/event-simulate-min.js&3.3.0/build/test/test-min.js&3.3.0/build/attribute/attribute-min.js&3.3.0/build/intl/intl-min.js&3.3.0/build/console/lang/console.js&3.3.0/build/base/base-base-min.js&3.3.0/build/base/base-pluginhost-min.js&3.3.0/build/classnamemanager/classnamemanager-min.js&3.3.0/build/widget/widget-min.js&3.3.0/build/console/console-min.js& 36/36
+run_tests: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 4/5
+run_tests: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+site: script in file:/home/rahul/research/clone-unit-coverage/src/JUTE/backend/nodejute/node_modules/jsdom/test/browser/files/site.html from (-1, -1) to (-1, -1) 1/1
+testToolbar: ../src/JUTE/backend/nodejute/examples/clientSide/toolbar.js?coverage=1 6/10
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/combo?3.3.0/build/substitute/substitute-min.js&3.3.0/build/oop/oop-min.js&3.3.0/build/pluginhost/pluginhost-min.js&3.3.0/build/event-custom/event-custom-min.js&3.3.0/build/dom/dom-min.js&3.3.0/build/event/event-min.js&3.3.0/build/node/node-min.js&3.3.0/build/event/event-base-ie-min.js&3.3.0/build/json/json-min.js&3.3.0/build/event-simulate/event-simulate-min.js&3.3.0/build/test/test-min.js&3.3.0/build/attribute/attribute-min.js&3.3.0/build/intl/intl-min.js&3.3.0/build/console/lang/console.js&3.3.0/build/base/base-base-min.js&3.3.0/build/base/base-pluginhost-min.js&3.3.0/build/classnamemanager/classnamemanager-min.js&3.3.0/build/widget/widget-min.js&3.3.0/build/console/console-min.js& 36/36
+run_tests: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 4/5
+run_tests: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+site: script in file:/home/rahul/research/clone-unit-coverage/src/JUTE/backend/nodejute/node_modules/jsdom/test/browser/files/site.html from (-1, -1) to (-1, -1) 1/1
+testToolbar: ../src/JUTE/backend/nodejute/examples/clientSide/toolbar.js?coverage=1 6/10
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/combo?3.3.0/build/substitute/substitute-min.js&3.3.0/build/oop/oop-min.js&3.3.0/build/pluginhost/pluginhost-min.js&3.3.0/build/event-custom/event-custom-min.js&3.3.0/build/dom/dom-min.js&3.3.0/build/event/event-min.js&3.3.0/build/node/node-min.js&3.3.0/build/event/event-base-ie-min.js&3.3.0/build/json/json-min.js&3.3.0/build/event-simulate/event-simulate-min.js&3.3.0/build/test/test-min.js&3.3.0/build/attribute/attribute-min.js&3.3.0/build/intl/intl-min.js&3.3.0/build/console/lang/console.js&3.3.0/build/base/base-base-min.js&3.3.0/build/base/base-pluginhost-min.js&3.3.0/build/classnamemanager/classnamemanager-min.js&3.3.0/build/widget/widget-min.js&3.3.0/build/console/console-min.js& 36/36
+run_tests: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 4/5
+run_tests: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+site: script in file:/home/rahul/research/clone-unit-coverage/src/JUTE/backend/nodejute/node_modules/jsdom/test/browser/files/site.html from (-1, -1) to (-1, -1) 1/1
+testToolbar: ../src/JUTE/backend/nodejute/examples/clientSide/toolbar.js?coverage=1 6/10
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/combo?3.3.0/build/substitute/substitute-min.js&3.3.0/build/oop/oop-min.js&3.3.0/build/pluginhost/pluginhost-min.js&3.3.0/build/event-custom/event-custom-min.js&3.3.0/build/dom/dom-min.js&3.3.0/build/event/event-min.js&3.3.0/build/node/node-min.js&3.3.0/build/event/event-base-ie-min.js&3.3.0/build/json/json-min.js&3.3.0/build/event-simulate/event-simulate-min.js&3.3.0/build/test/test-min.js&3.3.0/build/attribute/attribute-min.js&3.3.0/build/intl/intl-min.js&3.3.0/build/console/lang/console.js&3.3.0/build/base/base-base-min.js&3.3.0/build/base/base-pluginhost-min.js&3.3.0/build/classnamemanager/classnamemanager-min.js&3.3.0/build/widget/widget-min.js&3.3.0/build/console/console-min.js& 36/36
+run_tests: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 4/5
+run_tests: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+site: script in file:/home/rahul/research/clone-unit-coverage/src/JUTE/backend/nodejute/node_modules/jsdom/test/browser/files/site.html from (-1, -1) to (-1, -1) 1/1
+testToolbar: ../src/JUTE/backend/nodejute/examples/clientSide/toolbar.js?coverage=1 6/10
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/combo?3.3.0/build/substitute/substitute-min.js&3.3.0/build/oop/oop-min.js&3.3.0/build/pluginhost/pluginhost-min.js&3.3.0/build/event-custom/event-custom-min.js&3.3.0/build/dom/dom-min.js&3.3.0/build/event/event-min.js&3.3.0/build/node/node-min.js&3.3.0/build/event/event-base-ie-min.js&3.3.0/build/json/json-min.js&3.3.0/build/event-simulate/event-simulate-min.js&3.3.0/build/test/test-min.js&3.3.0/build/attribute/attribute-min.js&3.3.0/build/intl/intl-min.js&3.3.0/build/console/lang/console.js&3.3.0/build/base/base-base-min.js&3.3.0/build/base/base-pluginhost-min.js&3.3.0/build/classnamemanager/classnamemanager-min.js&3.3.0/build/widget/widget-min.js&3.3.0/build/console/console-min.js& 36/36
+run_tests: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 4/5
+run_tests: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+site: script in file:/home/rahul/research/clone-unit-coverage/src/JUTE/backend/nodejute/node_modules/jsdom/test/browser/files/site.html from (-1, -1) to (-1, -1) 1/1
+testToolbar: ../src/JUTE/backend/nodejute/examples/clientSide/toolbar.js?coverage=1 6/10
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/combo?3.3.0/build/substitute/substitute-min.js&3.3.0/build/oop/oop-min.js&3.3.0/build/pluginhost/pluginhost-min.js&3.3.0/build/event-custom/event-custom-min.js&3.3.0/build/dom/dom-min.js&3.3.0/build/event/event-min.js&3.3.0/build/node/node-min.js&3.3.0/build/event/event-base-ie-min.js&3.3.0/build/json/json-min.js&3.3.0/build/event-simulate/event-simulate-min.js&3.3.0/build/test/test-min.js&3.3.0/build/attribute/attribute-min.js&3.3.0/build/intl/intl-min.js&3.3.0/build/console/lang/console.js&3.3.0/build/base/base-base-min.js&3.3.0/build/base/base-pluginhost-min.js&3.3.0/build/classnamemanager/classnamemanager-min.js&3.3.0/build/widget/widget-min.js&3.3.0/build/console/console-min.js& 36/36
+run_tests: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 4/5
+run_tests: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+site: script in file:/home/rahul/research/clone-unit-coverage/src/JUTE/backend/nodejute/node_modules/jsdom/test/browser/files/site.html from (-1, -1) to (-1, -1) 1/1
+testToolbar: ../src/JUTE/backend/nodejute/examples/clientSide/toolbar.js?coverage=1 6/10
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/combo?3.3.0/build/substitute/substitute-min.js&3.3.0/build/oop/oop-min.js&3.3.0/build/pluginhost/pluginhost-min.js&3.3.0/build/event-custom/event-custom-min.js&3.3.0/build/dom/dom-min.js&3.3.0/build/event/event-min.js&3.3.0/build/node/node-min.js&3.3.0/build/event/event-base-ie-min.js&3.3.0/build/json/json-min.js&3.3.0/build/event-simulate/event-simulate-min.js&3.3.0/build/test/test-min.js&3.3.0/build/attribute/attribute-min.js&3.3.0/build/intl/intl-min.js&3.3.0/build/console/lang/console.js&3.3.0/build/base/base-base-min.js&3.3.0/build/base/base-pluginhost-min.js&3.3.0/build/classnamemanager/classnamemanager-min.js&3.3.0/build/widget/widget-min.js&3.3.0/build/console/console-min.js& 36/36
+run_tests: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 4/5
+run_tests: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+site: script in file:/home/rahul/research/clone-unit-coverage/src/JUTE/backend/nodejute/node_modules/jsdom/test/browser/files/site.html from (-1, -1) to (-1, -1) 1/1
+testToolbar: ../src/JUTE/backend/nodejute/examples/clientSide/toolbar.js?coverage=1 6/10
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/combo?3.3.0/build/substitute/substitute-min.js&3.3.0/build/oop/oop-min.js&3.3.0/build/pluginhost/pluginhost-min.js&3.3.0/build/event-custom/event-custom-min.js&3.3.0/build/dom/dom-min.js&3.3.0/build/event/event-min.js&3.3.0/build/node/node-min.js&3.3.0/build/event/event-base-ie-min.js&3.3.0/build/json/json-min.js&3.3.0/build/event-simulate/event-simulate-min.js&3.3.0/build/test/test-min.js&3.3.0/build/attribute/attribute-min.js&3.3.0/build/intl/intl-min.js&3.3.0/build/console/lang/console.js&3.3.0/build/base/base-base-min.js&3.3.0/build/base/base-pluginhost-min.js&3.3.0/build/classnamemanager/classnamemanager-min.js&3.3.0/build/widget/widget-min.js&3.3.0/build/console/console-min.js& 36/36
+run_tests: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 4/5
+run_tests: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+site: script in file:/home/rahul/research/clone-unit-coverage/src/JUTE/backend/nodejute/node_modules/jsdom/test/browser/files/site.html from (-1, -1) to (-1, -1) 1/1
+testToolbar: ../src/JUTE/backend/nodejute/examples/clientSide/toolbar.js?coverage=1 6/10
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/combo?3.3.0/build/substitute/substitute-min.js&3.3.0/build/oop/oop-min.js&3.3.0/build/pluginhost/pluginhost-min.js&3.3.0/build/event-custom/event-custom-min.js&3.3.0/build/dom/dom-min.js&3.3.0/build/event/event-min.js&3.3.0/build/node/node-min.js&3.3.0/build/event/event-base-ie-min.js&3.3.0/build/json/json-min.js&3.3.0/build/event-simulate/event-simulate-min.js&3.3.0/build/test/test-min.js&3.3.0/build/attribute/attribute-min.js&3.3.0/build/intl/intl-min.js&3.3.0/build/console/lang/console.js&3.3.0/build/base/base-base-min.js&3.3.0/build/base/base-pluginhost-min.js&3.3.0/build/classnamemanager/classnamemanager-min.js&3.3.0/build/widget/widget-min.js&3.3.0/build/console/console-min.js& 36/36
+run_tests: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 4/5
+run_tests: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+site: script in file:/home/rahul/research/clone-unit-coverage/src/JUTE/backend/nodejute/node_modules/jsdom/test/browser/files/site.html from (-1, -1) to (-1, -1) 1/1
+testToolbar: ../src/JUTE/backend/nodejute/examples/clientSide/toolbar.js?coverage=1 6/10
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/combo?3.3.0/build/substitute/substitute-min.js&3.3.0/build/oop/oop-min.js&3.3.0/build/pluginhost/pluginhost-min.js&3.3.0/build/event-custom/event-custom-min.js&3.3.0/build/dom/dom-min.js&3.3.0/build/event/event-min.js&3.3.0/build/node/node-min.js&3.3.0/build/event/event-base-ie-min.js&3.3.0/build/json/json-min.js&3.3.0/build/event-simulate/event-simulate-min.js&3.3.0/build/test/test-min.js&3.3.0/build/attribute/attribute-min.js&3.3.0/build/intl/intl-min.js&3.3.0/build/console/lang/console.js&3.3.0/build/base/base-base-min.js&3.3.0/build/base/base-pluginhost-min.js&3.3.0/build/classnamemanager/classnamemanager-min.js&3.3.0/build/widget/widget-min.js&3.3.0/build/console/console-min.js& 36/36
+run_tests: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 4/5
+run_tests: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+site: script in file:/home/rahul/research/clone-unit-coverage/src/JUTE/backend/nodejute/node_modules/jsdom/test/browser/files/site.html from (-1, -1) to (-1, -1) 1/1
+testToolbar: ../src/JUTE/backend/nodejute/examples/clientSide/toolbar.js?coverage=1 6/10
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/combo?3.3.0/build/substitute/substitute-min.js&3.3.0/build/oop/oop-min.js&3.3.0/build/pluginhost/pluginhost-min.js&3.3.0/build/event-custom/event-custom-min.js&3.3.0/build/dom/dom-min.js&3.3.0/build/event/event-min.js&3.3.0/build/node/node-min.js&3.3.0/build/event/event-base-ie-min.js&3.3.0/build/json/json-min.js&3.3.0/build/event-simulate/event-simulate-min.js&3.3.0/build/test/test-min.js&3.3.0/build/attribute/attribute-min.js&3.3.0/build/intl/intl-min.js&3.3.0/build/console/lang/console.js&3.3.0/build/base/base-base-min.js&3.3.0/build/base/base-pluginhost-min.js&3.3.0/build/classnamemanager/classnamemanager-min.js&3.3.0/build/widget/widget-min.js&3.3.0/build/console/console-min.js& 36/36
+run_tests: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 4/5
+run_tests: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+site: script in file:/home/rahul/research/clone-unit-coverage/src/JUTE/backend/nodejute/node_modules/jsdom/test/browser/files/site.html from (-1, -1) to (-1, -1) 1/1
+testToolbar: ../src/JUTE/backend/nodejute/examples/clientSide/toolbar.js?coverage=1 6/10
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/combo?3.3.0/build/substitute/substitute-min.js&3.3.0/build/oop/oop-min.js&3.3.0/build/pluginhost/pluginhost-min.js&3.3.0/build/event-custom/event-custom-min.js&3.3.0/build/dom/dom-min.js&3.3.0/build/event/event-min.js&3.3.0/build/node/node-min.js&3.3.0/build/event/event-base-ie-min.js&3.3.0/build/json/json-min.js&3.3.0/build/event-simulate/event-simulate-min.js&3.3.0/build/test/test-min.js&3.3.0/build/attribute/attribute-min.js&3.3.0/build/intl/intl-min.js&3.3.0/build/console/lang/console.js&3.3.0/build/base/base-base-min.js&3.3.0/build/base/base-pluginhost-min.js&3.3.0/build/classnamemanager/classnamemanager-min.js&3.3.0/build/widget/widget-min.js&3.3.0/build/console/console-min.js& 36/36
+run_tests: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 4/5
+run_tests: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+site: script in file:/home/rahul/research/clone-unit-coverage/src/JUTE/backend/nodejute/node_modules/jsdom/test/browser/files/site.html from (-1, -1) to (-1, -1) 1/1
+testToolbar: ../src/JUTE/backend/nodejute/examples/clientSide/toolbar.js?coverage=1 6/10
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/combo?3.3.0/build/substitute/substitute-min.js&3.3.0/build/oop/oop-min.js&3.3.0/build/pluginhost/pluginhost-min.js&3.3.0/build/event-custom/event-custom-min.js&3.3.0/build/dom/dom-min.js&3.3.0/build/event/event-min.js&3.3.0/build/node/node-min.js&3.3.0/build/event/event-base-ie-min.js&3.3.0/build/json/json-min.js&3.3.0/build/event-simulate/event-simulate-min.js&3.3.0/build/test/test-min.js&3.3.0/build/attribute/attribute-min.js&3.3.0/build/intl/intl-min.js&3.3.0/build/console/lang/console.js&3.3.0/build/base/base-base-min.js&3.3.0/build/base/base-pluginhost-min.js&3.3.0/build/classnamemanager/classnamemanager-min.js&3.3.0/build/widget/widget-min.js&3.3.0/build/console/console-min.js& 36/36
+run_tests: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 4/5
+run_tests: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+site: script in file:/home/rahul/research/clone-unit-coverage/src/JUTE/backend/nodejute/node_modules/jsdom/test/browser/files/site.html from (-1, -1) to (-1, -1) 1/1
+test: ../src/JUTE/backend/nodejute/node_modules/node-uuid/uuid.js 47/48
+testToolbar: ../src/JUTE/backend/nodejute/examples/clientSide/toolbar.js?coverage=1 6/10
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/combo?3.3.0/build/substitute/substitute-min.js&3.3.0/build/oop/oop-min.js&3.3.0/build/pluginhost/pluginhost-min.js&3.3.0/build/event-custom/event-custom-min.js&3.3.0/build/dom/dom-min.js&3.3.0/build/event/event-min.js&3.3.0/build/node/node-min.js&3.3.0/build/event/event-base-ie-min.js&3.3.0/build/json/json-min.js&3.3.0/build/event-simulate/event-simulate-min.js&3.3.0/build/test/test-min.js&3.3.0/build/attribute/attribute-min.js&3.3.0/build/intl/intl-min.js&3.3.0/build/console/lang/console.js&3.3.0/build/base/base-base-min.js&3.3.0/build/base/base-pluginhost-min.js&3.3.0/build/classnamemanager/classnamemanager-min.js&3.3.0/build/widget/widget-min.js&3.3.0/build/console/console-min.js& 36/36
+run_tests: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 4/5
+run_tests: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+site: script in file:/home/rahul/research/clone-unit-coverage/src/JUTE/backend/nodejute/node_modules/jsdom/test/browser/files/site.html from (-1, -1) to (-1, -1) 1/1
+test: ../src/JUTE/backend/nodejute/node_modules/node-uuid/uuid.js 47/48
+test: ../src/JUTE/backend/nodejute/node_modules/npm/node_modules/node-uuid/uuid.js 47/48
+testToolbar: ../src/JUTE/backend/nodejute/examples/clientSide/toolbar.js?coverage=1 6/10
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/combo?3.3.0/build/substitute/substitute-min.js&3.3.0/build/oop/oop-min.js&3.3.0/build/pluginhost/pluginhost-min.js&3.3.0/build/event-custom/event-custom-min.js&3.3.0/build/dom/dom-min.js&3.3.0/build/event/event-min.js&3.3.0/build/node/node-min.js&3.3.0/build/event/event-base-ie-min.js&3.3.0/build/json/json-min.js&3.3.0/build/event-simulate/event-simulate-min.js&3.3.0/build/test/test-min.js&3.3.0/build/attribute/attribute-min.js&3.3.0/build/intl/intl-min.js&3.3.0/build/console/lang/console.js&3.3.0/build/base/base-base-min.js&3.3.0/build/base/base-pluginhost-min.js&3.3.0/build/classnamemanager/classnamemanager-min.js&3.3.0/build/widget/widget-min.js&3.3.0/build/console/console-min.js& 36/36
+run_tests: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 4/5
+run_tests: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+site: script in file:/home/rahul/research/clone-unit-coverage/src/JUTE/backend/nodejute/node_modules/jsdom/test/browser/files/site.html from (-1, -1) to (-1, -1) 1/1
+test: ../src/JUTE/backend/nodejute/node_modules/node-uuid/uuid.js 47/48
+test: ../src/JUTE/backend/nodejute/node_modules/npm/node_modules/node-uuid/uuid.js 47/48
+runtests: ../src/JUTE/backend/nodejute/node_modules/yui3/node_modules/htmlparser/pulls/node-htmlparser/lib/node-htmlparser.js 375/422
+testToolbar: ../src/JUTE/backend/nodejute/examples/clientSide/toolbar.js?coverage=1 6/10
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/combo?3.3.0/build/substitute/substitute-min.js&3.3.0/build/oop/oop-min.js&3.3.0/build/pluginhost/pluginhost-min.js&3.3.0/build/event-custom/event-custom-min.js&3.3.0/build/dom/dom-min.js&3.3.0/build/event/event-min.js&3.3.0/build/node/node-min.js&3.3.0/build/event/event-base-ie-min.js&3.3.0/build/json/json-min.js&3.3.0/build/event-simulate/event-simulate-min.js&3.3.0/build/test/test-min.js&3.3.0/build/attribute/attribute-min.js&3.3.0/build/intl/intl-min.js&3.3.0/build/console/lang/console.js&3.3.0/build/base/base-base-min.js&3.3.0/build/base/base-pluginhost-min.js&3.3.0/build/classnamemanager/classnamemanager-min.js&3.3.0/build/widget/widget-min.js&3.3.0/build/console/console-min.js& 36/36
+run_tests: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 4/5
+run_tests: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+site: script in file:/home/rahul/research/clone-unit-coverage/src/JUTE/backend/nodejute/node_modules/jsdom/test/browser/files/site.html from (-1, -1) to (-1, -1) 1/1
+test: ../src/JUTE/backend/nodejute/node_modules/node-uuid/uuid.js 47/48
+test: ../src/JUTE/backend/nodejute/node_modules/npm/node_modules/node-uuid/uuid.js 47/48
+runtests: ../src/JUTE/backend/nodejute/node_modules/yui3/node_modules/htmlparser/pulls/node-htmlparser/lib/node-htmlparser.js 375/422
+runtests.min: ../src/JUTE/backend/nodejute/node_modules/yui3/node_modules/htmlparser/pulls/node-htmlparser/lib/node-htmlparser.min.js 1/1
+testToolbar: ../src/JUTE/backend/nodejute/examples/clientSide/toolbar.js?coverage=1 6/10
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/combo?3.3.0/build/substitute/substitute-min.js&3.3.0/build/oop/oop-min.js&3.3.0/build/pluginhost/pluginhost-min.js&3.3.0/build/event-custom/event-custom-min.js&3.3.0/build/dom/dom-min.js&3.3.0/build/event/event-min.js&3.3.0/build/node/node-min.js&3.3.0/build/event/event-base-ie-min.js&3.3.0/build/json/json-min.js&3.3.0/build/event-simulate/event-simulate-min.js&3.3.0/build/test/test-min.js&3.3.0/build/attribute/attribute-min.js&3.3.0/build/intl/intl-min.js&3.3.0/build/console/lang/console.js&3.3.0/build/base/base-base-min.js&3.3.0/build/base/base-pluginhost-min.js&3.3.0/build/classnamemanager/classnamemanager-min.js&3.3.0/build/widget/widget-min.js&3.3.0/build/console/console-min.js& 36/36
+run_tests: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 4/5
+run_tests: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+site: script in file:/home/rahul/research/clone-unit-coverage/src/JUTE/backend/nodejute/node_modules/jsdom/test/browser/files/site.html from (-1, -1) to (-1, -1) 1/1
+test: ../src/JUTE/backend/nodejute/node_modules/node-uuid/uuid.js 47/48
+test: ../src/JUTE/backend/nodejute/node_modules/npm/node_modules/node-uuid/uuid.js 47/48
+runtests: ../src/JUTE/backend/nodejute/node_modules/yui3/node_modules/htmlparser/pulls/node-htmlparser/lib/node-htmlparser.js 375/422
+runtests.min: ../src/JUTE/backend/nodejute/node_modules/yui3/node_modules/htmlparser/pulls/node-htmlparser/lib/node-htmlparser.min.js 1/1
+runtests: ../src/JUTE/backend/nodejute/node_modules/yui3/node_modules/htmlparser/lib/htmlparser.js 403/449
+testToolbar: ../src/JUTE/backend/nodejute/examples/clientSide/toolbar.js?coverage=1 6/10
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/combo?3.3.0/build/substitute/substitute-min.js&3.3.0/build/oop/oop-min.js&3.3.0/build/pluginhost/pluginhost-min.js&3.3.0/build/event-custom/event-custom-min.js&3.3.0/build/dom/dom-min.js&3.3.0/build/event/event-min.js&3.3.0/build/node/node-min.js&3.3.0/build/event/event-base-ie-min.js&3.3.0/build/json/json-min.js&3.3.0/build/event-simulate/event-simulate-min.js&3.3.0/build/test/test-min.js&3.3.0/build/attribute/attribute-min.js&3.3.0/build/intl/intl-min.js&3.3.0/build/console/lang/console.js&3.3.0/build/base/base-base-min.js&3.3.0/build/base/base-pluginhost-min.js&3.3.0/build/classnamemanager/classnamemanager-min.js&3.3.0/build/widget/widget-min.js&3.3.0/build/console/console-min.js& 36/36
+run_tests: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 4/5
+run_tests: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+site: script in file:/home/rahul/research/clone-unit-coverage/src/JUTE/backend/nodejute/node_modules/jsdom/test/browser/files/site.html from (-1, -1) to (-1, -1) 1/1
+test: ../src/JUTE/backend/nodejute/node_modules/node-uuid/uuid.js 47/48
+test: ../src/JUTE/backend/nodejute/node_modules/npm/node_modules/node-uuid/uuid.js 47/48
+runtests: ../src/JUTE/backend/nodejute/node_modules/yui3/node_modules/htmlparser/pulls/node-htmlparser/lib/node-htmlparser.js 375/422
+runtests.min: ../src/JUTE/backend/nodejute/node_modules/yui3/node_modules/htmlparser/pulls/node-htmlparser/lib/node-htmlparser.min.js 1/1
+runtests: ../src/JUTE/backend/nodejute/node_modules/yui3/node_modules/htmlparser/lib/htmlparser.js 403/449
+runtests.min: ../src/JUTE/backend/nodejute/node_modules/yui3/node_modules/htmlparser/lib/htmlparser.min.js 1/1
+testToolbar: ../src/JUTE/backend/nodejute/examples/clientSide/toolbar.js?coverage=1 6/10
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/combo?3.3.0/build/substitute/substitute-min.js&3.3.0/build/oop/oop-min.js&3.3.0/build/pluginhost/pluginhost-min.js&3.3.0/build/event-custom/event-custom-min.js&3.3.0/build/dom/dom-min.js&3.3.0/build/event/event-min.js&3.3.0/build/node/node-min.js&3.3.0/build/event/event-base-ie-min.js&3.3.0/build/json/json-min.js&3.3.0/build/event-simulate/event-simulate-min.js&3.3.0/build/test/test-min.js&3.3.0/build/attribute/attribute-min.js&3.3.0/build/intl/intl-min.js&3.3.0/build/console/lang/console.js&3.3.0/build/base/base-base-min.js&3.3.0/build/base/base-pluginhost-min.js&3.3.0/build/classnamemanager/classnamemanager-min.js&3.3.0/build/widget/widget-min.js&3.3.0/build/console/console-min.js& 36/36
+run_tests: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 4/5
+run_tests: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+site: script in file:/home/rahul/research/clone-unit-coverage/src/JUTE/backend/nodejute/node_modules/jsdom/test/browser/files/site.html from (-1, -1) to (-1, -1) 1/1
+test: ../src/JUTE/backend/nodejute/node_modules/node-uuid/uuid.js 47/48
+test: ../src/JUTE/backend/nodejute/node_modules/npm/node_modules/node-uuid/uuid.js 47/48
+runtests: ../src/JUTE/backend/nodejute/node_modules/yui3/node_modules/htmlparser/pulls/node-htmlparser/lib/node-htmlparser.js 375/422
+runtests.min: ../src/JUTE/backend/nodejute/node_modules/yui3/node_modules/htmlparser/pulls/node-htmlparser/lib/node-htmlparser.min.js 1/1
+runtests: ../src/JUTE/backend/nodejute/node_modules/yui3/node_modules/htmlparser/lib/htmlparser.js 403/449
+runtests.min: ../src/JUTE/backend/nodejute/node_modules/yui3/node_modules/htmlparser/lib/htmlparser.min.js 1/1
+testToolbar: ../src/JUTE/backend/nodejute/examples/clientSide/toolbar.js?coverage=1 6/10
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/combo?3.3.0/build/substitute/substitute-min.js&3.3.0/build/oop/oop-min.js&3.3.0/build/pluginhost/pluginhost-min.js&3.3.0/build/event-custom/event-custom-min.js&3.3.0/build/dom/dom-min.js&3.3.0/build/event/event-min.js&3.3.0/build/node/node-min.js&3.3.0/build/event/event-base-ie-min.js&3.3.0/build/json/json-min.js&3.3.0/build/event-simulate/event-simulate-min.js&3.3.0/build/test/test-min.js&3.3.0/build/attribute/attribute-min.js&3.3.0/build/intl/intl-min.js&3.3.0/build/console/lang/console.js&3.3.0/build/base/base-base-min.js&3.3.0/build/base/base-pluginhost-min.js&3.3.0/build/classnamemanager/classnamemanager-min.js&3.3.0/build/widget/widget-min.js&3.3.0/build/console/console-min.js& 36/36
+run_tests: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 4/5
+run_tests: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+site: script in file:/home/rahul/research/clone-unit-coverage/src/JUTE/backend/nodejute/node_modules/jsdom/test/browser/files/site.html from (-1, -1) to (-1, -1) 1/1
+test: ../src/JUTE/backend/nodejute/node_modules/node-uuid/uuid.js 47/48
+test: ../src/JUTE/backend/nodejute/node_modules/npm/node_modules/node-uuid/uuid.js 47/48
+runtests: ../src/JUTE/backend/nodejute/node_modules/yui3/node_modules/htmlparser/pulls/node-htmlparser/lib/node-htmlparser.js 375/422
+runtests.min: ../src/JUTE/backend/nodejute/node_modules/yui3/node_modules/htmlparser/pulls/node-htmlparser/lib/node-htmlparser.min.js 1/1
+runtests: ../src/JUTE/backend/nodejute/node_modules/yui3/node_modules/htmlparser/lib/htmlparser.js 403/449
+runtests.min: ../src/JUTE/backend/nodejute/node_modules/yui3/node_modules/htmlparser/lib/htmlparser.min.js 1/1
+testToolbar: ../src/JUTE/backend/nodejute/examples/clientSide/toolbar.js?coverage=1 6/10
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+testToolbar: http:/yui.yahooapis.com/combo?3.3.0/build/substitute/substitute-min.js&3.3.0/build/oop/oop-min.js&3.3.0/build/pluginhost/pluginhost-min.js&3.3.0/build/event-custom/event-custom-min.js&3.3.0/build/dom/dom-min.js&3.3.0/build/event/event-min.js&3.3.0/build/node/node-min.js&3.3.0/build/event/event-base-ie-min.js&3.3.0/build/json/json-min.js&3.3.0/build/event-simulate/event-simulate-min.js&3.3.0/build/test/test-min.js&3.3.0/build/attribute/attribute-min.js&3.3.0/build/intl/intl-min.js&3.3.0/build/console/lang/console.js&3.3.0/build/base/base-base-min.js&3.3.0/build/base/base-pluginhost-min.js&3.3.0/build/classnamemanager/classnamemanager-min.js&3.3.0/build/widget/widget-min.js&3.3.0/build/console/console-min.js& 36/36
+run_tests: http:/yui.yahooapis.com/3.3.0/build/loader/loader-min.js 4/5
+run_tests: http:/yui.yahooapis.com/3.3.0/build/yui/yui-min.js 5/5
+site: script in file:/home/rahul/research/clone-unit-coverage/src/JUTE/backend/nodejute/node_modules/jsdom/test/browser/files/site.html from (-1, -1) to (-1, -1) 1/1
+test: ../src/JUTE/backend/nodejute/node_modules/node-uuid/uuid.js 47/48
+test: ../src/JUTE/backend/nodejute/node_modules/npm/node_modules/node-uuid/uuid.js 47/48
+runtests: ../src/JUTE/backend/nodejute/node_modules/yui3/node_modules/htmlparser/pulls/node-htmlparser/lib/node-htmlparser.js 375/422
+runtests.min: ../src/JUTE/backend/nodejute/node_modules/yui3/node_modules/htmlparser/pulls/node-htmlparser/lib/node-htmlparser.min.js 1/1
+runtests: ../src/JUTE/backend/nodejute/node_modules/yui3/node_modules/htmlparser/lib/htmlparser.js 403/449
+runtests.min: ../src/JUTE/backend/nodejute/node_modules/yui3/node_modules/htmlparser/lib/htmlparser.min.js 1/1

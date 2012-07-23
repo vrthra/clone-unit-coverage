@@ -1,0 +1,2 @@
+test: ../src/wp-front-end-editor/lib/aloha-editor/lib/vendor/jquery-1.6.1.js 419/3305
+test: ../src/wp-front-end-editor/lib/aloha-editor/plugins/common/image/vendor/ui/jquery-ui-1.8.10.custom.min.js 17/52
