@@ -1,0 +1,9283 @@
+accounting.js
+    92	Joss Crowcroft
+     9	Michael Cordingley
+     7	millermedeiros
+     2	Francesco Montefoschi
+     1	Keith Pitt
+     1	Luciano Maiwald
+     1	Ryan Wood
+     1	euforic
+ace
+  1604	Fabian Jakobs
+   363	nightwing
+   166	Julian Viereck
+   130	Joe Walker
+    75	Garen Torikian
+    56	William Candillon
+    54	Ruben Daniels
+    51	Irakli Gozalishvili
+    45	mikedeboer
+    33	Heigh Tech LLC
+    32	Eddy Bruel
+    30	Zef Hemel
+    28	c-spencer
+    26	Mihai Sucan
+    21	Joe Cheng
+    20	Resolver Developers
+    19	Harutyun Amirjanyan
+    18	Jan Jongboom
+    15	danyaPostfactum
+    14	Kevin Dangoor
+    13	cadorn
+    12	Sergi Mansilla
+    11	Adam Jimenez
+    11	Joshua Peek
+    10	dgeorge
+     8	Bernie Telles
+     8	John Kane
+     8	Tom Tasche
+     7	André Fiedler
+     7	Jason O'Neil
+     7	Lee Gao
+     7	misfo
+     6	Gastón Kleiman
+     6	Russ
+     6	SunboX
+     6	richo
+     5	Chris Wanstrath
+     5	Jonathan Camile
+     5	Matt Pardee
+     5	Meg Sharkey
+     4	James Allen
+     4	Vlad Zinculescu
+     4	cloud9Deploy
+     4	okonomiyaki3000
+     4	ukyo
+     3	Chris Spencer
+     3	Daniel Krech
+     3	Daniil Kostion
+     3	Giannis
+     3	Mostafa Eweda
+     3	Paul Beusterien
+     3	Sverre Rabbelier
+     3	bootstraponline
+     3	iebuggy
+     3	kyo_ago
+     2	Christoph Dorn
+     2	Christoph Hochreiner
+     2	Colin Gourlay
+     2	Davide Saurino
+     2	John DeSoi
+     2	John Roepke
+     2	Jordan Lewis
+     2	Kelley van Evert
+     2	Mike Taylor
+     2	Nate Lillich
+     2	Philipp Scheit
+     2	Sean Kellogg
+     2	Sebastian Javier Marchano
+     2	btilford
+     2	feisty
+     2	gigasquid
+     2	mrpants
+     2	wittemann
+     1	Aaron
+     1	Andreas Madsen
+     1	Choonster
+     1	Chris Jacob
+     1	ChrisKempson
+     1	Corey Johnson
+     1	David Alan Hjelle
+     1	David Lynch
+     1	Derek Croft
+     1	Eric Allam
+     1	Fabian Jakobs (c9)
+     1	Jacob Hansson
+     1	James Burke
+     1	Jason Karns
+     1	Jeff Casimir
+     1	Josh Ellithorpe
+     1	KJ
+     1	Lamaster
+     1	Lee Sing Jie
+     1	Matt
+     1	Mike de Boer
+     1	MikeRatcliffe
+     1	Nikita Vasilyev
+     1	Panagiotis Astithas
+     1	Patrik Henningsson
+     1	Richard Kettelerij
+     1	Rob Conery
+     1	Ruben
+     1	Ryan Hope
+     1	Tim Starling
+     1	Tom Andrews
+     1	Tony
+     1	Trent Ogren
+     1	bolste
+     1	fergus
+     1	martinwittemann
+     1	mwkaufmann
+     1	nantoniazzi
+     1	rikarends
+     1	satyr
+     1	uniqu3
+     1	unknown
+     1	田 淼
+Activable
+    20	louisremi
+adapt
+    99	Nathan Smith
+agility
+   179	Artur Adib
+    28	Tristan Slominski
+     3	Pindi Albert
+     1	Fabio Ferrari
+     1	tristanls
+akihabara
+   128	PotHix
+    15	Carlos Benitez
+     5	Willian Molinari
+     2	Paul O'Leary McCann
+     1	Jason Morrison
+Alice
+    55	Jim Ing
+     8	Gord Tanner
+     6	Laurent Hasson
+     2	unknown
+     1	Robert Paskowitz
+almond
+    44	jrburke
+     1	Anton Rissanen
+     1	James Burke
+Aloha-Editor
+   704	Petro Salema
+   549	Norbert Pomaroli
+   486	Johannes Schüth
+   382	Clemens Prerovsky
+   316	Haymo Meran
+   314	nka11
+   307	Rene Kapusta
+   295	Benjamin "balupton" Lupton
+   267	Sebastian Kurfuerst
+   252	Tobias Steiner
+   234	draftkraft
+   144	Christopher Supnig
+   121	Jenkins Git Master
+    88	Benjamin Lupton
+    77	Maven Release Manager
+    61	Thomas
+    43	Christopher Hlubek
+    25	Lakshan Perera
+    23	deliminator
+    13	Nils Dehl
+    13	Zhivko Georgiev
+    12	Bernhard Kaszt
+    11	Gregory Fromain
+    10	Thomas Lété
+     8	Henri Bergius
+     8	Leonard Osang
+     8	unknown
+     7	Joop Kiefte
+     6	Edward Tsech
+     6	SiFu
+     6	evo42
+     5	sam
+     5	yury
+     4	Florian Beer
+     4	Florian Gutmann
+     4	Jerry Jalava
+     2	Berit Jensen
+     2	Laurin Herlt
+     2	Thomas Huber
+     2	root
+     1	Albin Öhrn
+     1	Aurélien MANCA
+     1	Damien Pobel
+     1	Nicolas Karageuzian
+     1	haymo
+     1	nka_11
+amplify
+    97	Scott González
+    17	Andrew Wirick
+    12	Jonathan Sharp
+     9	Ralph Whitbeck
+     7	Doug Neiner
+     7	Garrett Johnson
+     2	Andrew Powell
+     2	Eli Perelman
+     2	Elijah Manor
+     2	awirick
+     1	Adrien Lavoillotte
+     1	Alexander Zeitler
+     1	Gijs Kruitbosch
+     1	Matt Blair
+     1	shellscape
+android-actionbarstylegenerator
+    56	Jeff Gilfelt
+angular.js
+   873	Igor Minar
+   676	Misko Hevery
+   263	Vojta Jina
+    45	Di Peng
+    33	Shyam Seshadri
+    30	Andres Ornelas
+    20	Elliott Sprehn
+    19	brettcannon
+    18	Adam Abrons
+    10	Kenneth R. Culp
+     6	Dhruv Manek
+     4	Alkis Evlogimenos
+     4	Anthony Lieuallen
+     4	DiPeng
+     4	Mykhailo Kotsur
+     4	Rob Spies
+     4	TEHEK Firefox
+     4	dandoyon
+     3	Bolek Szewczyk
+     3	Brad Green
+     3	Chris Dawson
+     3	Jamie Krug
+     3	Konstantin Stepanov
+     3	Marcello Nuccio
+     3	Pepper Lebeck-Jobe
+     3	johnlindquist
+     2	Daniel Zen
+     2	Janet Davies
+     2	Kai Compagner
+     2	Kai Groner
+     2	Karl Seamon
+     2	alkis
+     2	git5
+     2	simpulton
+     2	unknown
+     1	Ali Mills
+     1	Andres Ornelas Mesta
+     1	Codier
+     1	Craig Tataryn
+     1	Daniel Gomes
+     1	JP Sugarbroad
+     1	Kevin Old
+     1	Luther Goh
+     1	Manuel Woelker
+     1	Mark Hansen
+     1	Max
+     1	Max Martinsson
+     1	Mårten Dolk
+     1	Rishabh Rao
+     1	Sean Gilligan
+     1	Stephane Bisson
+     1	Thibault Leruitte
+     1	Toni Thompson
+     1	bartes
+     1	iminar
+     1	ludicast
+     1	pkozlowski-opensource
+ansuz
+   299	Josh Adams
+    38	James Cook
+    27	Adam Dill
+    19	jamescook
+     8	Ho-Sheng Hsiao
+     3	Corey Grusden
+     3	Ernest Ellingson
+     2	Brandon Blaylock
+     2	Lex Sheehan
+     1	Bradley Price
+     1	Jason Noble
+APIConnect
+    58	Andrew Plummer
+appengine-boilerplate
+    56	Chris Hager
+     1	Eric
+     1	Kev
+artTemplate
+    29	糖饼
+     4	aui
+     3	wo_is神仙
+     1	wangxiao
+async
+   130	Caolan McMahon
+     6	Allan Carroll
+     3	Balint Erdi
+     3	Sergey Kirillov
+     3	zaphod1984
+     2	Jonathan Stewmon
+     2	Maciej Małecki
+     2	indexzero
+     2	yawn
+     1	Aleksander Adamowski
+     1	Aleksey V Zapparov
+     1	Bruno Bigras
+     1	Enrico Marino
+     1	Ian Young
+     1	Jonathan Buchanan
+     1	Joshua Holbrook
+     1	MaZderMind
+     1	Matt Perpick
+     1	PG Herveou
+     1	Peter
+     1	Pierre Curto
+     1	Sergi Mansilla
+     1	Shane Reustle
+     1	Sheile
+     1	alFReD-NSH
+     1	braddunbar
+     1	kpozin
+audiojs
+   152	Anthony Kolber
+    10	Ben Schwarz
+     2	Wei Kin Huang
+     2	dwickwire
+     1	Arthur Gunn
+     1	Mike Sherov
+     1	Tim Lucas
+babilu
+    33	Tore Darell
+     1	Mark Van Holstyn
+     1	Roman Shterenzon
+backbone
+   792	Jeremy Ashkenas
+   118	Brad Dunbar
+    24	Samuel Clay
+    23	brad dunbar
+    15	Jeff Larson
+    11	Sam Breed
+    11	Tim Branyen
+     9	Paul Uithol
+     8	Irene Ros
+     8	Matt Smith
+     6	Casey Foster
+     6	Joe Germuska
+     6	Sam Stephenson
+     5	Andrew Schaaf
+     5	Andrew Terris
+     4	Alex Graul
+     4	Harry Wolff
+     4	Irina Dumitrascu
+     4	Jason Morrison
+     4	Nick Fitzgerald
+     3	=
+     3	Christopher Wright
+     3	Hans Oksendahl
+     3	Jason Davies
+     3	Loren Sands-Ramshaw
+     3	Paul Miller
+     3	Peter Pistorius
+     3	Phil Freo
+     3	Raimonds Simanovskis
+     3	Tomasz Tunik
+     3	Zack Owens
+     3	vlad
+     2	Aidan Feldman
+     2	Asan Usipov
+     2	Ben Orenstein
+     2	Brandon Leonardo
+     2	Brennan Moore
+     2	Chris Korhonen
+     2	Edil Kratskih
+     2	Elijah Insua
+     2	Gavin Huang
+     2	Harry Shoff
+     2	Jacek Becela
+     2	Jake Harding
+     2	James Sanders
+     2	John Wright
+     2	Joshua Peek
+     2	Keith Cirkel
+     2	Les Hill
+     2	Magnus Holm
+     2	Matt
+     2	Nadav
+     2	Nicklas Ansman Giertz
+     2	Otto Allmendinger
+     2	Pablo A. Torres Navarrete
+     2	Pavel Karoukin
+     2	Robert Gieseke
+     2	Sergey Mezentsev
+     2	Steve Mason
+     2	Tim Harper
+     1	Aaron Hamid
+     1	Aidan Feldman and Tim Harper
+     1	Aitor Guevara Escalante
+     1	Alex Buck
+     1	Andrei Bocan
+     1	Andrew Badr
+     1	Artur Adib
+     1	Ben Atkin
+     1	Benjamin Atkin
+     1	Benjen
+     1	Bjørn Arild Mæland
+     1	Brett Goulder
+     1	Chris Lloyd
+     1	Chris Moore
+     1	Chris Pickett
+     1	Cole Krumbholz
+     1	Corban Brook
+     1	Damien Holzapfel
+     1	Daniel Schildt
+     1	David Marble
+     1	David Murdoch
+     1	Derick Bailey
+     1	Devin Hunt
+     1	DjebbZ
+     1	Dmitry Baranovskiy
+     1	Doug Neiner
+     1	Douglas Neiner
+     1	Duke
+     1	Eric Wang
+     1	Francis
+     1	Francis Gulotta
+     1	Fábio M. Costa
+     1	Félix
+     1	Félix Horro Pita
+     1	Genadi Samokovarov
+     1	Hossein Bukhamsin
+     1	Jacob Thornton
+     1	James Coglan
+     1	Jed Schmidt
+     1	Jimmy Do
+     1	Johannes J. Schmidt
+     1	Jonathan Roes
+     1	Joss Crowcroft
+     1	Justin
+     1	Karl Guertin
+     1	Kris Jordan
+     1	Kyle Chaplin
+     1	Luke Lee
+     1	Marat Dreizin
+     1	Matt Todd
+     1	Michael Yong
+     1	Mickey Reiss
+     1	Mitchell Cowie
+     1	Nayan Hajratwala
+     1	Neeraj Singh
+     1	Niall Smart
+     1	Niels Sandholt Busch
+     1	Oli
+     1	Pablo Alonso García
+     1	Raúl Naveiras
+     1	Raymond Julin
+     1	Robert Hencke
+     1	Ryan Eastridge
+     1	Samuel Vogel
+     1	Stan Angeloff
+     1	TMaYaD
+     1	Ted Han
+     1	Tim Ruffles
+     1	Tobias Sargeant
+     1	Tom Bell
+     1	TrisMcC
+     1	Tristan McCann
+     1	Vladimir Dronnikov
+     1	Will Moffat
+     1	Wu Zhe
+     1	addyosmani
+     1	braddunbar
+     1	dxgriffiths
+     1	ganmor
+     1	kpdecker
+     1	lennym
+     1	lifesinger
+     1	tbranyen
+     1	threepointone
+backbone-aura
+    51	addyosmani
+    30	Dustin Boston
+    27	Gerson Goulart
+    20	Addy Osmani
+    15	Robert Djurasaj
+     5	Henrik Kok
+     4	asciidisco
+     3	Joel Hooks
+     3	Peter Rudolfsen
+     3	rumpl
+     1	Drewz Lau
+     1	Eli Perelman
+     1	Henrik Kok Jørgensen
+     1	Julien Castelain
+     1	Sindre Sorhus
+backbone-boilerplate
+   147	tbranyen
+    28	Tim Branyen
+     5	Tyler Kellen
+     4	kurtmilam
+     4	tim
+     3	Aaron Forsander
+     3	Liam Kaufman
+     3	unknown
+     2	Gernot Cseh
+     2	Zoran Nakev
+     1	Andreas Cederström
+     1	Andrew Thorp
+     1	Capi Etheriel
+     1	Cold Head
+     1	David Murdoch
+     1	Diego Tres
+     1	Eric Woroshow
+     1	Jesse Beach
+     1	John-David Dalton
+     1	Jonathan Beri
+     1	Jrgns
+     1	Maciej Winnicki
+     1	Raul Brito
+     1	Sam Breed
+     1	Trent Ogren
+     1	adam j. sontag
+     1	sponge
+backbone-boilerplates
+     8	addyosmani
+     6	Addy Osmani
+     3	jamesor
+     2	Joshua Stauter
+     1	Dru Wynings
+     1	João Acabado
+backbone-deep-model
+    32	Charles Davison
+    15	Asa Ayers
+     2	Mike Frey
+     1	David Tonge
+     1	Jared A. Scheel
+     1	Matthew Evans
+     1	Quinn Slack
+     1	Tim Griesser
+backbone-express-mongoose-socketio
+    22	Jonathan Soeder
+     1	Jin Lee
+     1	Olivier Bregeras
+     1	SargoDarya
+backbone-forms
+   332	Charles Davison
+    10	Marc Tamlyn
+     6	Phil Freo
+     4	Victor Kareh
+     2	Nicklas Ansman Giertz
+     2	Shaun Robinson
+     1	Douwe Maan
+     1	Gianni Chiappetta
+     1	Ivan Krechetov
+     1	Jason LaPier
+     1	Jeffery Utter
+     1	Justin Halsall
+     1	Mikkel Høgh
+     1	Niall O'Higgins
+     1	Scott Nelson
+backbone-fundamentals
+   109	Addy Osmani
+    57	addyosmani
+    15	delba
+    10	Kim Joar Bekkelund
+     9	Glen Selle
+     9	Pierre Spring
+     6	Mark Dalgleish
+     5	Justin
+     5	Terry Roe
+     4	Aaron Boushley
+     4	Jeremy Mack
+     3	Brandon Hauff
+     3	Ethan Winn
+     3	Sri Doddapaneni
+     3	Vitor Balocco
+     3	erichosick
+     2	Aaron Mc Adam
+     2	Abhijit Menon-Sen
+     2	Ben Morris
+     2	Darren Rees
+     2	Dutch Rapley
+     2	Frédéric Camblor
+     2	Lech Wilczynski
+     2	Matt Richardson
+     2	Rachel Willmer
+     2	Ryan Florence
+     2	Scott Woodall
+     2	alexandru
+     2	forresst
+     2	meirish
+     1	Abbas Ali
+     1	Andrey Matveev
+     1	Ben
+     1	Fábio M. Costa
+     1	James Summerfield
+     1	Jonatan Littke
+     1	Keegan
+     1	Kushal Pisavadia
+     1	Lech Wilczyński
+     1	Luis Abreu
+     1	Michael
+     1	Michael Zaccari
+     1	Mike Hatfield
+     1	Mustansir Golawala
+     1	Platon Dickey
+     1	Raman Sinha
+     1	Rishabh Rao
+     1	Roland Huß
+     1	Ryan Tomayko
+     1	Sam Sargent
+     1	Stompfrog
+     1	Timothy Chavez
+     1	Wills Bithrey
+     1	alexander.beletsky
+     1	alexandru.topliceanu
+     1	danshearmur
+     1	dietervds
+     1	helmus
+     1	mockturtl
+     1	silasb
+     1	sri
+     1	xingkui wang
+backbone.layoutmanager
+   187	tbranyen
+    16	Tim Branyen
+     3	Ned
+     3	tim
+     2	Amir Grozki
+     2	Davide Mancuso
+     1	Andrew McCloud
+     1	Daniel Cannon
+     1	DavidQL
+     1	Deric Crago
+     1	Justin Searls
+     1	Simon Lomax
+     1	Tristan McCann
+     1	fbuchinger
+     1	groovetrain
+Backbone.localStorage
+    37	Jerome Gravel-Niquet
+    13	Martin Häcker
+     3	Erich Menge
+     3	Juho Vähä-Herttua
+     3	Mark Woodall
+     2	Jay Proulx
+     2	Kelly Miyashiro
+     1	Dan McGrady
+     1	Dremora
+     1	Jason Davies
+     1	Kirill Korolyov
+     1	Raymond Vellener
+     1	Robert Buchholz
+     1	Ryan Greenberg
+     1	Thomas Stephens
+     1	dwt
+     1	igor
+backbone.marionette
+   653	Derick Bailey
+     8	Clemens
+     6	Ido Feins
+     5	Jonathan Bowers
+     4	Brant Bobby
+     4	Cameron Crothers
+     4	Deni
+     4	Jonathan Mahoney
+     2	Brandon Alexander
+     2	Bruno Carriere
+     2	Lorenzo
+     2	Matt Sheehan
+     2	Nicklas Ansman Giertz
+     2	Stephen Jordan
+     2	Tony Abou-Assaleh
+     2	steve flitcroft
+     1	Amy Palamountain
+     1	Andreas Köberle
+     1	Bobby Peck
+     1	Bruno Michel
+     1	Cameron Rivers
+     1	Chaitanya Mutyala
+     1	Charles Davison
+     1	Daniel Perez Alvarez
+     1	Godfrey Chan
+     1	Gorka Maiztegi
+     1	Håvard Lindset
+     1	Håvard Lindset
+     1	John P Speno
+     1	Kevin Miller
+     1	Marten Veldthuis
+     1	Paul Irish
+     1	Rob Jefferies
+     1	Sergey Kluchkowsky
+     1	Tom de Vries
+     1	Viktor Nagy
+     1	adam-werner
+     1	cjroebuck
+     1	codejet
+     1	david
+     1	joeytheman
+     1	jorin vogel
+     1	mendicantx
+     1	pdufour
+     1	satchmorun
+     1	trevordixon
+Backbone.ModelBinder
+    58	Bart Wood
+    34	unknown
+    26	Bart wood
+     4	Simon Boudrias
+     4	captncraig
+     2	Douglas Eugene Reisinger II
+     1	Aaron Hardy
+     1	Chris Kilding
+     1	Cody Rioux
+     1	Karl McGuinness
+     1	Luuk van Egeraat
+     1	Mario Scheliga
+     1	Yin Jifeng
+     1	mitchlloyd
+backbone.modelbinding
+   203	Derick Bailey
+     7	Paul Yoder
+     5	Niels Wind
+     4	nieve
+     3	Joe Tanner
+     3	brianp
+     3	mdikov
+     3	osmestad
+     2	Gyula Laszlo
+     2	Steve Strong
+     2	thedersen
+     1	Alan Hogan
+     1	Jonathan Creamer
+     1	Loren Sands-Ramshaw
+     1	Michael Saffitz
+     1	Patrick Gibson
+     1	Sam De La Garza
+     1	Trond Arve Nordheim
+     1	bstroz
+     1	jcreamer898
+     1	soldiermoth
+backbone-nested
+   131	Aidan Feldman
+    15	Michael Cox
+     3	Trevor Quinn
+     1	George Erickson
+     1	Pedro Sola
+backbone-prototype
+   416	Jeremy Ashkenas
+    24	Samuel Clay
+    15	Jeff Larson
+     9	Paul Uithol
+     6	Joe Germuska
+     6	Matt Smith
+     6	Pablo Villalba
+     6	Sam Stephenson
+     5	Andrew Schaaf
+     4	Nick Fitzgerald
+     3	Hans Oksendahl
+     3	Jason Davies
+     3	Loren Sands-Ramshaw
+     3	Raimonds Simanovskis
+     2	Brandon Leonardo
+     2	Elijah Insua
+     2	Gavin Huang
+     2	Jacek Becela
+     2	John Wright
+     2	Joshua Peek
+     2	Matt
+     2	Pablo A. Torres Navarrete
+     2	Pavel Karoukin
+     1	Aidan Feldman
+     1	Andrei Bocan
+     1	Andrew Badr
+     1	Artur Adib
+     1	Asan Usipov
+     1	Chris Korhonen
+     1	Chris Lloyd
+     1	Chris Moore
+     1	Chris Pickett
+     1	Corban Brook
+     1	Damien Holzapfel
+     1	Dmitry Baranovskiy
+     1	Francis
+     1	Francis Gulotta
+     1	Jed Schmidt
+     1	Jimmy Do
+     1	Johannes J. Schmidt
+     1	Jonathan Roes
+     1	Karl Guertin
+     1	Keith Cirkel
+     1	Kris Jordan
+     1	Matt Todd
+     1	Nadav
+     1	Niall Smart
+     1	Niels Sandholt Busch
+     1	Tim Branyen
+     1	Vladimir Dronnikov
+     1	Will Moffat
+     1	Wu Zhe
+     1	braddunbar
+     1	dxgriffiths
+     1	threepointone
+backbone_query
+    48	Dave Tonge
+     3	Cezary Wojtkowski
+Backbone-relational
+   153	Paul Uithol
+    15	Douwe Maan
+    12	Jens Alm
+     8	David Baumgold
+     5	Vladimir Dronnikov
+     3	Clemens
+     3	Emil Stenqvist
+     2	Andris Sīlis
+     2	Jacob Henry
+     1	Alex Churchill
+     1	Andrew Kulinich
+     1	Andris Sīlis
+     1	Dan DeFelippi
+     1	PG Herveou
+     1	Tony Stuck
+     1	awirick
+     1	quasiyoke
+backbone-tastypie
+    25	Paul Uithol
+     3	Areski Belaid
+     2	Chris Beaven
+     1	John Engdal
+backbone-ui
+   114	Joe Stelmach
+    21	Jack Carrig
+     7	Bob Vawter
+     4	Steven Soneff
+     1	Joni Kähärä
+     1	Will Bailey
+basket.js
+    38	Sindre Sorhus
+    19	Andrée Hansson
+    17	addyosmani
+    16	Addy Osmani
+     5	Rick Waldron waldron.rick@gmail.com
+     3	Andrée Hansson
+     1	Bryan Goines
+     1	Daniel Stockman
+benchmark.js
+   388	jdalton
+   269	John-David Dalton
+   149	Mathias Bynens
+     2	Kit Cambridge
+     1	Kit Goncharov
+BiSON.js
+    58	Ivo Wetzel
+bitbucket.js
+    17	rahul
+    14	vrtra
+     4	9@vrtra.net
+     2	vrthra
+     1	Rahul
+biwascheme
+   405	Yutaka HARA
+    92	Ken Pratt
+    29	Masatake YAMATO
+     6	Eric Jiang
+     6	HARA Yutaka
+     3	Jason R. Fruit
+     3	mokehehe
+blue-ridge
+   116	Larry Karnowski
+     6	Jason Rudolph
+     6	Lawrence Karnowski
+     5	Larry Karnowski and Chris Redinger
+     3	Corey Haines
+     3	Larry Karnowski and Jason Rudolph
+     2	Geoffrey Dagley
+     2	Raimonds Simanovskis
+     1	Justin Gehtland
+     1	Michael Rowe
+     1	Rob Sanheim
+bookreader
+   597	Michael Ang
+   103	rajbot
+    27	Lance Arthur
+    21	scollett
+     6	Anand Chitipothu
+     5	Mike McCabe
+     2	Raj Kumar
+     1	Alex Osborne
+     1	rkumar@home.us.archive.org
+     1	shenzhuxi
+     1	yankl
+boomerang
+   375	Philip Tellis
+    14	Marcel Duran
+     7	Ryuichi Okumura
+     3	Buddy Brewer
+     2	Ariel Barreiro
+     2	Edgar Klein
+     2	Erik Fried
+     2	dweitemeyer
+     1	Callum Macdonald
+     1	Chirag Shah
+     1	Dominick
+     1	Gun.io Whitespace Robot
+     1	Jason Martin
+     1	Parker Seidel
+     1	edgarklein
+     1	xzyfer
+bootbox
+    95	Nick Payne
+     3	Kevin Renskers
+     2	Bas ter Vrugt
+     2	Ian Leckey
+     1	Ariel Kirkwood
+     1	Benoît Ponsero
+     1	Jeremy
+     1	Mauro
+     1	ionian-wind
+     1	jpadvo
+bootstrap
+  1365	Mark Otto
+   696	Jacob Thornton
+    30	Pete Hopkins
+     8	Burak Tuyan
+     8	Chris Aniszczyk
+     8	Jacob Rask
+     8	Jon Stevens
+     7	Chris Gunther
+     7	Silumesii Maboshe
+     6	Purwandi
+     5	Andreas Cederström
+     5	Marcus Bointon
+     5	Mark
+     5	Nicklas Ansman Giertz
+     5	Rod Vagg
+     5	ctalkington
+     4	Gaëtan Muller
+     4	Jeff Adams
+     4	Nicolas Gallagher
+     4	pthrasher
+     4	sankage
+     3	Aaron Stacy
+     3	Bryan Petty
+     3	David Haywood Smith
+     3	Dominic Barnes
+     3	Evan Meagher
+     3	François Robichet
+     3	John Wright
+     3	Jonathan Camile
+     3	Jørgen Borgesen
+     3	Nirav Sanghani
+     3	Olivier Laviale
+     3	Pamela Fox
+     3	Piotrek Okoński
+     3	Synchro
+     3	TJ Rana
+     2	Alec Rust
+     2	Alex Peattie
+     2	Allen Bargi
+     2	Andreas Cederström
+     2	Chris Rebert
+     2	Dominik Tobschall
+     2	Emanuele Gaspari
+     2	Erik Michaels-Ober
+     2	Jason Wieland
+     2	Jonathan Ingram
+     2	Kevin Martensson
+     2	Lech Wilczynski
+     2	Linmiao Xu
+     2	Marc Chung
+     2	Mark Figueredo
+     2	Martin Bean
+     2	Matthew Pennell
+     2	Milos Gavrilovic
+     2	Raul Riera
+     2	Simon
+     2	eirikb
+     2	meleyal
+     2	nkryptic
+     1	Abhijit Menon-Sen
+     1	Adam Bowen
+     1	Ademaro
+     1	Aditya Panchal
+     1	Alexander Pirsig
+     1	Andreas Bovens
+     1	Anirvan Chatterjee
+     1	Antoine Lépée
+     1	Arnold Daniels
+     1	Bart Teeuwisse
+     1	Ben Oberkfell
+     1	BigBlueHat - Web Manufacturer
+     1	Billy Vong
+     1	Bulat Shakirzyanov
+     1	Cary Landholt
+     1	Chad Moran
+     1	Chris Sternal-Johnson
+     1	Chris Wiederspan
+     1	Christian Nennemann
+     1	Corey Innis
+     1	Daniel Hoelbling
+     1	Daniel Liuzzi
+     1	Danny Keane
+     1	Dave Wasmer
+     1	David N
+     1	Davide Bellini
+     1	Divya Manian
+     1	Eden
+     1	Eric Thomas
+     1	Geremia Taglialatela
+     1	Greg Roodt
+     1	Han Lin Yap
+     1	Hendy Tanata
+     1	Henrik N
+     1	Herman Schutte
+     1	Igor Bozato
+     1	Ivan Kurnosov
+     1	Jacob Fike
+     1	Jari Jokinen
+     1	Jeff Nunn
+     1	Jeremy Martin
+     1	Johan Steen
+     1	Jonathan Maron
+     1	Julian Birch
+     1	Julius Graakjær Grantzau
+     1	Karthik Viswanathan
+     1	Kasper Bøgebjerg Pedersen
+     1	Kriansa
+     1	Krister Kari
+     1	Kyle Robinson Young
+     1	Laszlo Toeroek
+     1	Leo Cassarani
+     1	Lim Chee Aun
+     1	Luis Abreu
+     1	Luke Hatcher
+     1	Luke Thomas
+     1	Maik Schreiber
+     1	Marcel Jackwerth
+     1	Marco Wise
+     1	Mark Reeder
+     1	Maxim Kaschenko
+     1	Maxim Pshenichnikov
+     1	Michael Fellinger
+     1	Michael Shafrir
+     1	Mikael Brevik
+     1	Nano
+     1	Nick Veys
+     1	Nik Cubrilovic
+     1	Noah Blon
+     1	Paul Kauders
+     1	Paul Vorbach
+     1	Rafaël Blais Masson
+     1	Renault John Lecoultre
+     1	Roberto Poo
+     1	Sam Carlton
+     1	Sam Soffes
+     1	Scott Watermasysk
+     1	Simon Charette
+     1	Steve Faulkner
+     1	Steve Purcell
+     1	TannerNMO
+     1	Tarsis Azevedo
+     1	Tomás Arribas
+     1	Torsten Baldes
+     1	Troy Murray
+     1	Vic
+     1	Weslly Honorato
+     1	William Oliveira
+     1	asmega
+     1	au-phiware
+     1	burningTyger
+     1	ejain
+     1	kriansa
+     1	raphaelz
+     1	yury
+     1	zhongwei99
+bootstrap-datepicker
+    92	Andrew Rowls
+     2	Carlos Alexandro Becker
+     2	Cauan Cabral
+     2	Daniel
+     2	Enrico Rubboli
+     2	Jaakko Salonen
+     2	Phoenix Zerin
+     2	Suchau Jiraprapot
+     2	Warren Seymour
+     2	Will Marshall
+     2	azwar
+     2	nfaiz
+     1	Addison Brickey
+     1	Anderson Fortaleza
+     1	Andrew
+     1	Artis Avotins
+     1	Bruno Bonamin
+     1	Christian Pedersen
+     1	David Rosen
+     1	Denis Sokolov
+     1	Fredrik Sundmyhr
+     1	Georg Schmidl
+     1	Gu Youn
+     1	Hinrik Örn Sigurðsson
+     1	JJ Buckley
+     1	Loek Wetzels
+     1	Matej Koubik
+     1	Michael Shafrir
+     1	Nicklas Ansman Giertz
+     1	Nico Mollet
+     1	Norio Suzuki
+     1	Patrik Ragnarsson
+     1	Pieter-Jan Lammertyn
+     1	Ramiro Jr. Franco
+     1	Reinier Goltstein
+     1	Robert M
+     1	Sam Zurcher
+     1	Serkan Algur
+     1	Tiago Melo
+     1	Victor Taranenko
+     1	Zachary Gohr
+     1	sarunas
+     1	zhangyuan
+bootstrap-sass-scss-compass
+  1155	Mark Otto
+   607	Jacob Thornton
+    43	Brajeshwar
+    30	Pete Hopkins
+     8	Burak Tuyan
+     8	Jacob Rask
+     8	Jon Stevens
+     7	Chris Gunther
+     7	Silumesii Maboshe
+     6	Chris Aniszczyk
+     6	Purwandi
+     5	Andreas Cederström
+     5	Nicklas Ansman Giertz
+     5	Rod Vagg
+     4	Gaëtan Muller
+     4	Jeff Adams
+     4	Nicolas Gallagher
+     4	pthrasher
+     4	sankage
+     3	Aaron Stacy
+     3	David Haywood Smith
+     3	Dominic Barnes
+     3	Evan Meagher
+     3	François Robichet
+     3	John Wright
+     3	Jonathan Camile
+     3	Olivier Laviale
+     3	Pamela Fox
+     3	Piotrek Okoński
+     2	Alex Peattie
+     2	Chris Rebert
+     2	Dominik Tobschall
+     2	Emanuele Gaspari
+     2	Erik Michaels-Ober
+     2	Jason Wieland
+     2	Jonathan Ingram
+     2	Kevin Martensson
+     2	Lech Wilczynski
+     2	Linmiao Xu
+     2	Marc Chung
+     2	Martin Bean
+     2	Matthew Pennell
+     2	Raul Riera
+     2	Simon
+     2	eirikb
+     2	meleyal
+     2	nkryptic
+     1	Abhijit Menon-Sen
+     1	Adam Bowen
+     1	Aditya Panchal
+     1	Alexander Pirsig
+     1	Antoine Lépée
+     1	Ben Oberkfell
+     1	BigBlueHat - Web Manufacturer
+     1	Billy Vong
+     1	Bulat Shakirzyanov
+     1	Cary Landholt
+     1	Chad Moran
+     1	Chris Sternal-Johnson
+     1	Chris Wiederspan
+     1	Christian Nennemann
+     1	Daniel Hoelbling
+     1	Daniel Liuzzi
+     1	Dave Wasmer
+     1	David Mignot
+     1	David N
+     1	Davide Bellini
+     1	Divya Manian
+     1	Eden
+     1	Eric Thomas
+     1	Ernesto Tagwerker
+     1	Geremia Taglialatela
+     1	Greg Roodt
+     1	Hendy Tanata
+     1	Henrik N
+     1	Herman Schutte
+     1	Igor Bozato
+     1	Ivan Kurnosov
+     1	Jacob Fike
+     1	Jari Jokinen
+     1	Jeff Nunn
+     1	Jeremy Martin
+     1	Johan Steen
+     1	Jonathan Maron
+     1	Julian Birch
+     1	Karthik Viswanathan
+     1	Kasper Bøgebjerg Pedersen
+     1	Kriansa
+     1	Krister Kari
+     1	Kyle Robinson Young
+     1	Laszlo Toeroek
+     1	Leo Cassarani
+     1	Lim Chee Aun
+     1	Luis Abreu
+     1	Luke Hatcher
+     1	Luke Thomas
+     1	Maik Schreiber
+     1	Marco Wise
+     1	Mark Figueredo
+     1	Mark Reeder
+     1	Maxim Kaschenko
+     1	Maxim Pshenichnikov
+     1	Michael Fellinger
+     1	Michael Shafrir
+     1	Mikael Brevik
+     1	Milos Gavrilovic
+     1	Nano
+     1	Nick Veys
+     1	Nik Cubrilovic
+     1	Noah Blon
+     1	Paul Kauders
+     1	Rafaël Blais Masson
+     1	Renault John Lecoultre
+     1	Roberto Poo
+     1	Sam Carlton
+     1	Sam Soffes
+     1	Scott Watermasysk
+     1	Simon Charette
+     1	Steve Faulkner
+     1	Steve Purcell
+     1	TannerNMO
+     1	Tarsis Azevedo
+     1	Torsten Baldes
+     1	Troy Murray
+     1	Vic
+     1	Weslly Honorato
+     1	William Oliveira
+     1	asmega
+     1	burningTyger
+     1	ejain
+     1	kriansa
+     1	raphaelz
+     1	yury
+     1	zhongwei99
+bootstrap-tour
+    28	Ulrich Sossou
+     3	Michael Borohovski
+     2	Tom Morton
+     1	Muhammad Usman
+brackets
+   581	Jason San Jose
+   507	Ty Voliter
+   452	Glenn Ruehle
+   413	Peter Flynn
+   303	Narciso Jaramillo
+   225	Randy Edmunds
+   147	Chris Bank
+   137	Joel Brandt
+    64	njadbe
+    47	Ryan Stewart
+    39	Jonathan Diehl
+    29	RaymondLim
+    21	Christian Cantrell
+    15	Garth Braithwaite
+    15	Mike Chambers
+    15	Peter Thiess
+    14	pthiess
+    10	Ty Voliter git config --global user.email tvoliter@cs.stanford.edu git config --global user.name Ty
+     8	Josh Hatwich
+     8	Raymond Camden
+     8	Raymond Lim
+     7	jrowny
+     6	Conrad Zimmerman
+     4	David Mignot
+     4	Jon Wolfe
+     3	Adam Lehman
+     3	Dennis Kehrig
+     3	Jed Verity
+     3	Matt Fisher
+     3	xsythe
+     2	Tim Kim
+     1	=
+     1	Amritayan Nayak
+     1	Benjamin Kerensa
+     1	Pete Freitag
+     1	Sebastian Rodriguez
+     1	Tom Lieber
+     1	Tucker Whitehouse
+brequire
+    35	weepy
+    19	weepy@github.com
+     5	Jonah Fox
+     2	Stéphan Kochen
+butter
+   406	secretrobotron
+   363	Bobby Richter
+   272	Jon Buckley
+   265	David Seifried
+   183	Matthew Schranz
+   171	Kate Hudson
+   131	Christopher De Cairos
+   118	David Humphrey (:humph) david.humphrey@senecacollege.ca
+   100	Scott Downe
+    52	David Humphrey
+    49	ScottDowne
+    16	Ben Moskowitz
+    14	Robert Stanica
+    11	Brian Chirls
+     7	Mohammed Buttu
+     4	Brett Gaylor
+     4	cadecairos
+     3	Jeremy Banks
+     1	butterbot
+     1	jrburke
+     1	scottdowne
+calendar_date_select
+   123	timcharper
+    83	Tim Harper
+    32	Shih-gian Lee
+     7	Rene Androsch
+     6	jonas
+     3	Andrea Frigido
+     3	Hendy Tanata
+     3	kikito
+     3	sglee77
+     2	Cyril Mougel
+     2	Ethan
+     2	Gert van der Spoel
+     2	Lars E. Hoeg
+     2	Matt Haley
+     1	(no author)
+     1	Abdul-Jabbar Shalabi
+     1	Barry Mitchelson
+     1	DEkart
+     1	Dan Jasek
+     1	Daniel Luz
+     1	Dave Bolton
+     1	David Reese
+     1	Ed Wildgoose
+     1	Hans de Graaff
+     1	Jacob Kjeldahl
+     1	JulesGravinese
+     1	KARASZI István
+     1	Markus Schlichting
+     1	Miha Rebernik
+     1	Miron Cuperman
+     1	Nathan B
+     1	Robert Brown
+     1	Sandip Ransing
+     1	Thilo-Alexander Ginkel
+     1	Tomas Barton
+     1	Witold Rugowski
+     1	chase
+     1	dave
+     1	grosser
+     1	joeljunstrom
+     1	ujifgc
+calipso
+   604	cliftonc
+    54	Clifton Cunningham
+    54	Dennis Hall
+    26	Andreas Richter
+    25	dale tan
+    18	Dale Tan
+     8	Nathan Hunzaker
+     6	Jonathan Zacsh
+     5	Grey
+     5	dtan
+     4	dennishall
+     3	Pavel Kornilov
+     3	Sally
+     2	Kristian Lunde
+     2	Ronny Unger
+     2	jBugman
+     2	sally
+     1	Jerad Bitner
+     1	Maria Shaldybina
+     1	Martin Eskdale Moen
+     1	Mustansir Golawala
+     1	Pixys
+     1	Thinkroth
+     1	Tim Kleinschmidt
+     1	amelon
+     1	coleGillespie
+     1	gzbigegg
+     1	nicolasembleton
+     1	vermiculite
+canjs
+   852	Justin Meyer
+   603	Brian Moschel
+   450	Pinhook
+   446	Austin McDaniel
+   226	David Luecke
+   185	Ralph Holzmann
+    92	ccummings
+    84	retro
+    68	Andy Kant
+    62	Marnus Weststrate
+    48	Alexis Abril
+    46	Frederick Polgardy
+    45	Josh Dean
+    36	Alexandre Gomes
+    19	Michael Malamud
+    18	Jeremy Kahn
+    18	Michael Mayer
+    15	Jeffery To
+    14	unknown
+    12	Yusuf Safak Bayram
+     7	Victor Kornov
+     6	Cohuman Dev
+     6	JupiterJS
+     6	justinbmeyer
+     4	Alex Tracer
+     4	Marshall Thompson
+     4	Nick Matthews
+     2	Christiaan Van den Poel
+     2	Daniel Franz
+     2	Jeff Schilling
+     2	Jevgenij Tsoi
+     2	Joris Wijlens
+     2	Joseph Tate
+     2	Michael Chart
+     2	Mihael Konjević
+     2	Nathan Faubion
+     2	Olav Andreas Lindekleiv
+     2	Tony Rasmussen
+     2	farkashon
+     2	jeremyckahn
+     2	noah
+     2	ollinaie
+     2	welldan97
+     1	Lee Henson
+     1	Marcel Caspar
+     1	Martin Owen
+     1	Thomas Reynolds
+     1	phongjalvn
+chai
+   374	Jake Luer
+    66	Veselin Todorov
+    36	Domenic Denicola
+     5	Jo Liss
+     5	Juliusz Gonera
+     4	John Firebaugh
+     4	josher19
+     3	Jeff Barczewski
+     2	Jakub Nešetřil
+     2	Teddy Cross
+     1	Anand Patil
+     1	Benjamin Horsleben
+     1	Kilian Ciuffolo
+     1	Sasha Koss
+     1	Victor Costan
+     1	Vinay Pulim
+chaplin
+   260	Mathias Schaefer (molily)
+    77	Paul Miller
+    44	Mathias Schäfer
+    36	Karel Ledru-Mathe
+     5	Yin Jifeng
+     4	Chad Hietala
+     2	Johannes Emerich
+     1	Andre Bossard
+     1	Bernhard Weißhuhn
+     1	Brian Link
+     1	Luis Merino
+     1	Mark Percival
+     1	Michael Irwin
+     1	Mindaugas Kuprionis
+     1	Nikita Fedyashev
+     1	maelp
+chico
+   343	Guillermo Paz
+   339	Natan Santolo
+   317	pazguille
+   293	Leandro Linares
+   235	llinares
+   137	Hernan Mammana
+    35	Nati Devalle
+    30	Natan
+    29	Hernán Mammana
+    15	Natalia Devalle
+     9	hmammana
+     3	Damian Janowski
+     3	Weat
+     1	natan
+chrome-app-samples
+    17	Mihai Parparita
+     4	Eric Bidelman
+     3	niu tech
+     2	Ben Wells
+     2	Bryan Yeung
+     2	Evan Stade
+     2	Mike Tsao
+     2	Tamara Fleisher
+     1	Antony Sargent
+     1	Garret Kelly
+chromeless
+   514	Atul Varma
+   341	Lloyd Hilaiel
+   164	Marcio Galli
+    87	Myk Melez
+    77	Drew Willcoxon
+    31	Dietrich Ayala
+    28	Atul Varma [:atul]
+    25	Irakli Gozalishvili
+    22	Noelle Murata
+    20	Brian Warner
+    20	mikedeboer
+     9	Paul O’Shannessy
+     6	Nickolay_Ponomarev
+     4	Benjamin Stover
+     4	David Murdoch
+     4	Felipe Gomes
+     4	Felipe Gomes (:felipe)
+     3	Erik Vold
+     3	aza@aza-raskins-macbook-air.local
+     2	Adamantium
+     2	Drew Willcoxon :adw
+     2	Edward Lee
+     2	Hernán Rodriguez Colmeiro
+     2	Hernán Rodriguez Colmeiro (:peregrino)
+     2	Ian Bicking
+     2	Jonathan Ballet
+     2	Luca Greco
+     2	Nickolay Ponomarev
+     1	Brian Warner [:warner :bwarner]
+     1	Brian Warner [:warner]
+     1	Clint Talbert
+     1	Dave Townsend
+     1	Ehsan Akhgari
+     1	Eric H. Jung
+     1	Hrishikesh Kale
+     1	Jim Pick
+     1	Lloyd Trevor Hilaiel
+     1	Panagiotis Astithas
+     1	Paul O'Shannessy
+     1	Thomas
+     1	Vladimir Vukicevic
+     1	Zbigniew Braniecki
+     1	aza@174-145-51-248.pools.spcsdns.net
+     1	colmeiro@gmail.com
+     1	deadprogrammer
+     1	nicerobot
+     1	rFobic@gmail.com
+cloud9
+  1166	Ruben Daniels
+  1117	Fabian Jakobs
+   732	mikedeboer
+   694	Garen Torikian
+   584	Sergi Mansilla
+   502	Zef Hemel
+   434	Giannis
+   309	Jan Jongboom
+   282	Lennart Kats
+   222	Matt Pardee
+   161	matt
+   159	linh81
+   147	cadorn
+   146	Luis Merino
+   139	Vlad Zinculescu
+   100	Eddy Bruel
+    91	giannis
+    82	nightwing
+    69	Ruben
+    65	rikarends
+    55	Lukasz Lipinski
+    54	Matt
+    47	Mike de Boer
+    42	Cloud9
+    29	Christoph Dorn
+    23	Cloud9 user
+    23	Tane Piper
+    18	Linh Nguyen
+    12	Giannis Panagiotou
+    11	Fabian Jakobs (c9)
+    10	Joe Wegner
+    10	linh
+     9	schamane
+     7	Fabian Jakobs (run.cloud9ide.com)
+     6	Ben Noordhuis
+     6	Detmar ter Huurne
+     5	Arnold Daniels
+     5	Daniela Gavidia
+     5	U-Arcbook7\Arc
+     3	Heigh Tech LLC
+     3	Mike Amundsen
+     3	William Candillon
+     3	krizsa
+     2	Dray
+     2	James Bliss
+     2	bone
+     2	clownfart
+     2	gero3
+     2	root
+     1	Art Skvira
+     1	Chris Davis
+     1	Chris Mytton
+     1	Harutyun Amirjanyan
+     1	Jakob Cosoroabă
+     1	Jakub Lekstan
+     1	John FISCHER
+     1	Julian Gautier
+     1	Kyle Davis
+     1	Michael Kimsal
+     1	Mikael Dunhem
+     1	Mike
+     1	Monchi
+     1	Rik Arends
+     1	Super-User
+     1	Sverre Rabbelier
+     1	Waquo
+     1	William Ge
+     1	bb-froggy
+     1	build
+     1	chertov
+     1	gjtorikian
+     1	javruben
+     1	o3builder
+     1	onnlucky
+     1	virtuallyawake
+CodeMirror2
+  1014	Marijn Haverbeke
+    22	Jan Keromnes
+    19	eustas
+    15	Peter Kroon
+    10	Narciso Jaramillo
+     9	Brandon Frohs
+     9	Lanny
+     5	John Lees-Miller
+     5	Thaddee Tyl
+     5	Tim Baumann
+     5	misfo
+     5	peterkroon
+     4	Alexander Schepanovski
+     4	Page
+     3	LM
+     3	Mark Lentczner
+     3	Paweł Bartkiewicz
+     3	Timothy Farrell
+     3	Zachary Dremann
+     3	jwallers@gmail.com
+     3	komakino
+     3	ks-ifware
+     3	mats cronqvist
+     2	Andre von Houck
+     2	Chris Morgan
+     2	Domizio Demichelis
+     2	Dror BG
+     2	Glenn Ruehle
+     2	Guillaume Massé
+     2	Jakub Vrana
+     2	Ken Rockot
+     2	Lorenzo Stoakes
+     2	Marco Aurélio
+     2	Mario Pietsch
+     2	Nathan Williams
+     2	Volker Mische
+     2	Wojtek Ptak
+     2	alexey-k
+     2	deebugger
+     2	greengiant
+     2	mbarkhau
+     2	sandeepshetty
+     1	Adán Lobato
+     1	Amy
+     1	Ananya Sen
+     1	Ankit Ahuja
+     1	Anthony Grimes
+     1	Atul Bhouraskar
+     1	Bastian Müller
+     1	Ben Keen
+     1	Bruce Mitchener
+     1	Daniel Parnell
+     1	Danny Yoo
+     1	David Mignot
+     1	Fauntleroy
+     1	Felipe Lalanne
+     1	Filip Noetzel
+     1	Gordon Smith
+     1	Hans Engel
+     1	Hardest
+     1	ICHIKAWA, Yuji
+     1	Ian Wetherbee
+     1	Irakli Gozalishvili
+     1	Jacob Lee
+     1	James Thorne
+     1	Jamie Hill
+     1	Joshua Newman
+     1	Jucovschi Constantin
+     1	Klaus Silveira
+     1	Koh Zi Han, Cliff
+     1	Konstantin Lopuhin
+     1	Maksim Lin
+     1	Marat Dreizin
+     1	Mateusz Paprocki
+     1	Matt McDonald
+     1	Matt Pass
+     1	Matthew Beale
+     1	Max Kirsch
+     1	Mike
+     1	Mike Brevoort
+     1	Niels van Groningen
+     1	Nikita Vasilyev
+     1	Patrick Strawderman
+     1	Paul Garvin
+     1	Prasanth J
+     1	Randy Edmunds
+     1	Robert Plummer
+     1	Samuel Ainsworth
+     1	Sascha Peilicke
+     1	Stefan Borsje
+     1	Steve O'Hara
+     1	Thomas Dvornik
+     1	Vestimir Markov
+     1	Yuvi Panda
+     1	adanlobato
+     1	areos
+     1	ekhaled
+     1	fbuchinger
+     1	feizhang365
+     1	galambalazs
+     1	jankeromnes
+     1	jem (graphite)
+     1	jongalloway
+     1	jots
+     1	kaniga
+     1	koops
+     1	leaf corcoran
+     1	mps
+     1	nguillaumin
+     1	nlwillia
+     1	peteguhl
+     1	prasanthj
+     1	sabaca
+     1	spastorelli
+     1	vf
+cohorts
+     8	James Yu
+     2	Joakim Westerlund
+collusion
+   141	Atul Varma
+    95	Jono Xia
+    12	Ross Bruniges
+    10	Andrew Stiles
+    10	jonoxia
+     5	alex
+     2	Margaret Hagan
+     1	Bryan Clark
+     1	Matt Brubeck
+     1	medden
+common-node
+   235	Oleg Podsechin
+     6	Sami Hangaslammi
+     1	Akzhan Abdulin
+     1	Antti Tarvainen
+context-blender
+    26	Gavin Kistner
+     4	gingerbeardman
+contracts.coffee
+  1982	Jeremy Ashkenas
+   277	Michael Ficarra
+   243	Tim Disney
+   164	satyr
+    73	Trevor Burnham
+    65	Timothy Jones
+    50	Gerald Lewis
+    49	Stan Angeloff
+    31	Chris Hoffman
+    24	matehat
+    18	Jann Horn
+    16	Tim Jones
+    16	gfxmonk
+    12	clutchski
+     8	Jeremy Banks
+     8	Sam Stephenson
+     8	tlrobinson
+     7	Breckin Loggins
+     7	Rod Knowlton
+     6	Adam Freidin
+     6	Tim-Smart
+     5	George MacKerron
+     5	Mike Blume
+     5	Revence Kalibwani
+     5	Stéphan Kochen
+     5	breckinloggins
+     4	Chris Lloyd
+     4	Jeffery Olson
+     4	Will Moffat
+     3	Brody Berg
+     3	Dr Nic Williams
+     3	Jo Liss
+     3	Jonas Dohse
+     3	Matt Lyon
+     3	Zachary Carter
+     3	ngn
+     2	Adriano Bonat
+     2	Aseem Kishore
+     2	Chetan Surpur
+     2	Dan Holmsand
+     2	Filipe Fortes
+     2	Greg Weber
+     2	Isaac Wolkerstorfer
+     2	James Campos
+     2	John Yanarella
+     2	Josh Goebel
+     2	Joshua Peek
+     2	Karl Guertin
+     2	Ken Gregson
+     2	Kit Goncharov
+     2	Marijn Haverbeke
+     2	Richard Frankel
+     2	Sam Day
+     2	Samuel Reis
+     1	Adley Eskridge
+     1	Andrew Schaaf
+     1	Ben Atkin
+     1	Daniel J. Pritchett
+     1	Dustin Diaz
+     1	Fabian Jakobs
+     1	Federico Builes
+     1	Greg Fodor
+     1	Gregg Pollack
+     1	Jakub Nešetřil
+     1	Jakub Wieczorek
+     1	James Coglan
+     1	Jan-Felix Wittmann
+     1	Janne Hietamäki
+     1	Jason Davies
+     1	Jason Huggins
+     1	Mark Campbell
+     1	Piet Jaspers
+     1	Rolf Timmermans
+     1	Ryszard Szopa
+     1	Satoshi Murakami
+     1	Steve Howell
+     1	Tim
+     1	Tom
+     1	Wieland Hoffmann
+     1	Will
+     1	Will Bailey
+     1	alunny
+     1	dget
+     1	noonat
+     1	taku0
+Control
+   126	thecharlie
+    16	Alex Norman
+     7	Matias Wilkman
+     6	charlieroberts
+     3	bilderbuchi
+     2	Carles F. Julià
+     2	Livingroom
+     1	charlie
+core
+   207	akiraly
+   118	Rodolfo Hansen
+   115	Michael O'Cleirigh
+   107	Jeremy Thomerson
+    89	martin-g
+    83	mrmean
+    56	Martin Grigorov
+    54	Stefan Lindner
+    48	Nick Wiedenbrueck
+    48	Pedro Santos
+    41	Ryan McKinley
+    39	Bruno Borges
+    39	seb
+    37	Nino Martinez Wael
+    33	Till Freier
+    32	Tauren Mills
+    31	Martin Tzvetanov Grigorov
+    28	Uwe Schäfer
+    23	Martijn Dashorst
+    22	Olger Warnier
+    21	Sven Meier
+    18	Marin Mandradjiev
+    17	Joshua Lim
+    15	Johannes Schneider
+    15	Peter Major
+    14	Emond Papegaaij
+    14	Inaiat Henrique
+    13	James Carman
+    13	Papegaaij
+    12	Arnout Engelen
+    11	Martin Funk
+    10	Michael Mosmann
+     9	Daniel Walmsley
+     9	Harald Wellmann
+     9	Roland Huss
+     9	pointbreak
+     8	Chuck Deal
+     8	Erik van Oosten
+     8	Maarten Bosteels
+     8	Paul Logasa Bogen II
+     8	peter
+     7	Michael Würtinger
+     6	Alexander Morozov
+     6	Brian Topping
+     5	Boris Goldowsky
+     5	Igor Vaynberg
+     5	Jesse Long
+     4	Georg Buschbeck
+     4	Matej Knopp
+     4	Robert Starzer
+     4	svenmeier
+     3	Christian Strempfer
+     3	Edvin Syse
+     3	Gabriel Bucher
+     3	Nick
+     3	Richard Wiesinger
+     2	=Tom B
+     2	Andreas Petersson
+     2	Antony Stubbs
+     2	Carl Azoury
+     2	Isammoc
+     2	Michal Letynski
+     2	d. s
+     2	pedrosans
+     2	unknown
+     1	Andrei Costescu
+     1	Blade23
+     1	Carl-Eric Menzel
+     1	Chris Colman
+     1	Craig Tataryn
+     1	Eike Kettner
+     1	Eyal G
+     1	George Armhold
+     1	JoachimRohde
+     1	Michael Laccetti
+     1	Nikita Tovstoles
+     1	Peter Neubauer
+     1	Roland Kaercher
+     1	Ronald Tetsuo Miura
+     1	Ryan Crumley
+     1	Ryan Gravener
+     1	Sławomir Stec
+     1	chrisco484
+     1	dan
+     1	itoasuka
+     1	kinabalu
+     1	mam
+     1	pausb
+     1	rdleeper
+     1	rossputin
+countly-server
+    16	Onur Alp Soner
+     4	Görkem Çetin
+     2	Walter Zheng
+     1	Gorkem Cetin
+     1	Liam Curry
+coweb
+   377	Peter Parente
+    90	Brian Burns
+    37	Richard Backhouse
+    28	Paul Bouchon
+    18	Chris Cotter
+     9	Nick Fitzgerald
+     8	vinomaster
+     5	Chris
+     1	bpburns
+Crafty
+   189	sorenbs
+   173	Louis Stowasser
+    98	Paweł Mikołajczuk
+    74	Peng Yu
+    70	louis
+    64	MPetrovic
+    29	Leo Koppelkamm
+    18	mpetrovic
+    13	Witali Mik
+     8	Piotr Radzikowski
+     7	Dustin Brown
+     6	Matthew Petrovic
+     6	jhocking
+     4	Cyrille Bogaert
+     4	Justin Vanderheide
+     4	Matt Petrovic
+     4	berseker59
+     4	louisstow
+     3	Austin Hanson
+     3	Harris Lapiroff
+     3	NyanLeek
+     3	Philipp Zins
+     2	BlackScorp
+     2	Radzikowski Piotr
+     2	smindel
+     1	Alexandru Geana
+     1	David Edwards
+     1	Deg Valentine
+     1	Dmitry Bochkarev
+     1	Gordon Worley
+     1	Hinton
+     1	RangerMauve
+     1	Rob Morris
+     1	StijnRuts
+     1	Tang Bo Hao
+     1	U-ACER\Louis Stowasser
+     1	U-Louistop\Louis
+     1	doctorkohaku
+     1	donaldpipowitch
+     1	dustinbrown
+     1	fromkeith
+     1	hex
+     1	hydroxic-acid
+     1	m4x51
+     1	marty
+     1	mildmojo
+     1	sawyer
+create
+   235	Henri Bergius
+    15	Jerry Jalava
+     9	Riku Virta
+     4	tHerrmann
+     3	Fabian Vogler
+     2	Colin Frei
+     2	Rene Kapusta
+     2	Vanessa Haenni
+     1	Christian G. Warden
+     1	Dominik Böhler
+     1	Florin Popa
+     1	Szaby Grünwald
+     1	Wirta
+creditcard_js
+     6	Thomas Fuchs
+     2	Mathias Bynens
+csg.js
+    14	evan
+     1	Evan Wallace
+     1	Kevin van der Velden
+CSSOM
+   109	Nikita Vasilyev
+    10	Andreas Lind Petersen
+     5	Peter Müller
+     4	Liu Cong
+     2	stef
+     1	Dylan Greene
+     1	Nathan Rajlich
+cufon
+   312	Simo Kinnunen
+     3	Marko Dumic
+     1	Daniel Jagszent
+     1	Michal Krause
+curl
+   536	unscriptable
+   129	John Hann
+    11	Bryan Forbes
+     5	Brian Cavalier
+     1	Eric Strathmeyer
+     1	Patrick McElhaney
+     1	Roland Huß
+     1	Ryan Florence
+     1	Scott Andrews
+     1	Tiago Rodrigues
+customSelect
+    28	Tom Rix
+     2	Thomas Rix
+     1	vincejl
+d3
+   873	Mike Bostock
+   384	Jason Davies
+   225	Michael Bostock
+    50	Kristofer Monisit
+    11	Lars Kotthoff
+    11	yasirs
+     9	Square
+     8	Jeffrey Heer
+     7	Nelson Minar
+     7	webmonarch
+     6	Trevor Norris
+     5	Mitsutoshi Aoe
+     5	Nathan Vander Wilt
+     5	Peter Woodman
+     3	David Poncelow
+     2	Andrew Sutherland
+     2	Caged
+     2	Ian Malpass
+     2	Johan Sundström
+     2	Jon Seymour
+     2	Michael Meisel
+     2	Xavier Shay
+     2	chris viau
+     1	Andy Chong
+     1	Brandon Liu
+     1	Carlos Scheidegger
+     1	Dirk Bergstrom
+     1	George Adams
+     1	Ger Hobbelt
+     1	Gerard Hundman
+     1	Ignacio
+     1	Jan Alonzo
+     1	Jim Radford
+     1	Kevin J. Lynagh
+     1	Lachèze Alexandre
+     1	Michael Jackson
+     1	Mike Bostock + Erica Kwan
+     1	Stephen Bannasch
+     1	Tommy Montgomery
+     1	Zee Agency
+     1	vtstarin
+dancer.js
+   187	Jordan Santell
+     1	Brian
+data
+   111	tomhuda
+    52	Tom Dale
+    44	Yehuda Katz
+    31	tchak
+    25	Peter Wagenet
+    11	Tomhuda Katzdale
+     9	Gordon Hempton
+     9	Jo Liss
+     7	Erik Bryn
+     6	tomdale
+     5	Cory Loken
+     4	Carsten Nielsen
+     4	Justin Brown
+     3	Bradley Priest
+     3	Diego Muñoz Escalante
+     3	Francesco Rodriguez
+     3	Patrick B. Gibson
+     2	Cortland Klein
+     2	Julien Guimont
+     2	Mike Andrzejewski
+     2	Mike Nicholaides
+     2	Paul Chavard
+     2	Roy Daniels
+     2	pangratz
+     2	Андрей Иващенко
+     1	Alex Kwiatkowski
+     1	Andrey Ivashchenko
+     1	Arthur Gunn
+     1	Christopher Meiklejohn
+     1	Christopher Swasey
+     1	Cyril Fluck & David J. Hamilton
+     1	Cyril Fluck & Matthew Kocher
+     1	David J. Hamilton & Tim Labeeuw & Michael Grosser
+     1	David Strauß
+     1	Joe West
+     1	John Wang
+     1	Joshua Kelly
+     1	Justin Giancola
+     1	Mehul Kar
+     1	Michael Geers
+     1	Richard Millan
+     1	Thiago Santos
+     1	Tim Cooper
+     1	Tom Whatmore
+     1	Trevor Wennblom
+     1	arailsdemo
+     1	benedikt
+     1	sandstrom
+datacouch
+   291	Max Ogden
+    18	Boaz Sender
+    11	cole
+     3	coleGillespie
+     3	mef
+     1	Brian Mount
+dataset
+   287	Irene Ros
+   149	Alex Graul
+    37	Rick Waldron
+    14	tbranyen
+    12	Makoto Inoue
+DataTables
+   579	Allan Jardine
+     8	Sahab Yazdani
+     2	Petah
+     1	Brian Abreu
+     1	John Kristensen
+     1	Keith C. Ivey
+     1	Michal Poreba
+     1	Morten Brix Pedersen
+     1	Vincent Ricard
+date_input
+    89	Jon Leighton
+Datejs
+    63	geoff@coolite.com
+     3	xmlblog
+     2	dan@zeraweb.com
+dc.js
+   156	Nick Zhu
+deck.js
+   169	imakewebthings
+     8	Caleb Troughton
+     4	Daniel Knittl-Frank
+     3	Jeremy Banks
+     2	Doug Ireton
+     2	Pascal Rettig
+     2	awirick
+     1	Alex Chaffee
+     1	Jon Buckley
+derby
+   711	nateps
+    33	Brian Noguchi
+     9	Zach Smith
+     6	Nate Smith
+     2	bnoguchi
+     1	Laszlo Bacsi
+     1	rma4ok
+device.js
+    26	Boris Smus
+dmv
+    75	Rick Waldron waldron.rick@gmail.com
+     5	Rick Waldron
+     1	Dan Heberden
+     1	Leonardo Balter
+Do
+    29	kejun
+     1	suweihua
+documentjs
+   104	Alexandre Gomes
+    72	Brian Moschel
+    48	Pinhook
+    45	Justin Meyer
+    16	David Luecke
+    10	Austin McDaniel
+     5	retro
+     4	Jeremy Kahn
+     4	unknown
+     3	Alexis Abril
+     1	Frederick Polgardy
+     1	Marnus Weststrate
+     1	Michael Mayer
+
+    17	rahul
+    14	vrtra
+     4	9@vrtra.net
+     2	vrthra
+     1	Rahul
+domnode
+    29	Max Ogden
+     3	Dominic Tarr
+     1	Sam Breed
+     1	alejandromg
+     1	edmellum
+Donatello
+    65	Dan Newcome
+    56	dnewcome
+     1	Ryan McGrath
+dreadnot
+   128	Russell Haering
+    21	Tomaz Muraus
+    13	Mark Everett
+     8	Brandon Philips
+     6	Phoebe Simon
+     4	Paul Querna
+     2	Gabriel de Oliveira Barbosa
+     1	Dan Di Spaltro
+     1	Eric Dennis
+     1	Jeff Lavallee
+     1	phoebesimon
+dustjs
+    52	Veena Basavaraj
+    47	Jairo de Morais
+    47	akdubya
+    12	Jimmy Chan
+     8	Johnathan Leppert
+     7	vybs
+     3	Caolan McMahon
+     3	Johnathan
+     3	veena.braj@gmail.com
+     2	Kelly Miyashiro
+     2	Zaphod1984
+     1	Aleksander Williams
+     1	John Bernardo
+     1	Kilian Ciuffolo
+     1	Raynos
+     1	Scott Sanders
+dygraphs
+   698	Dan Vanderkam
+   300	Robert Konigsberg
+    33	Neal Nelson
+    32	Klaus Weidner
+    22	Adam Vartanian
+    13	Jeremy Brewer
+     8	Anthony Robledo
+     8	Nikhil Kasinadhuni
+     6	adam-p
+     5	Paul Felix
+     5	Uemit Seren
+     4	Ali Karbassi
+     4	Nagy Attila Gabor
+     3	David Moena
+     3	Josep Llodrà
+     3	Joshua
+     3	Yaroslav Korshak
+     2	Beda Kosata
+     2	Eoin Curran
+     2	Stanislav Chachkov
+     2	U-adam13win7\Adam
+     2	steve
+     1	Adam Bozanich
+     1	Ben Winslow
+     1	Dan Egnor
+     1	David Watrous
+     1	Dean Wampler
+     1	Evan Klitzke
+     1	François-Xavier Bourlet
+     1	Frederic Didier
+     1	Helder
+     1	James H Thompson
+     1	Josep Llodrà
+     1	Matt Miller
+     1	Russell Valentine
+     1	Steven Jardine
+     1	bluthen
+     1	mbghsource
+     1	potter
+     1	timeu
+     1	unknown
+     1	weboperator
+     1	wimme
+dynamo.js
+    35	Jordan Scales
+     8	foltyn
+easyXDM
+   539	oyvind.kinsey
+    64	Sean Kinsey
+    42	okinsey
+    19	Øyvind Sean Kinsey
+     9	Jakob Heuser
+     8	unknown
+     6	Daniel Marynicz (Xaweryz)
+     4	Anton Kovalyov
+     3	oyvindkinsey
+     2	Darwin
+     2	David Zientara
+     2	George Courtsunis
+     2	Oliver Clarke
+     2	j1anb1n
+     1	(no author)
+     1	Adam Horton
+     1	Andrei Mikhailov
+     1	Ben Vinegar
+     1	Kenneth Kufluk
+     1	Matt Pizzimenti
+     1	Mike Cravey
+     1	Niko Uphoff
+     1	Peter Johnson
+     1	Randall Leeds
+     1	Wing Lian
+     1	brainfucker
+     1	chebur
+     1	debanne
+eCSSential
+    30	Scott Jehl
+     5	scottjehl
+emailjs
+    85	eleith
+    11	izuzak
+     2	Brian White
+     2	Domenic Denicola
+     2	Olivier Vaillancourt
+     1	John McLear
+     1	Roman Shtylman
+     1	Vladimir Dronnikov
+     1	thadclay
+ember.js
+   560	Peter Wagenet
+   309	tomhuda
+   233	Yehuda Katz
+   183	Erik Bryn
+   126	Kris Selden
+   121	Tom Dale
+   109	Majd Taby
+    59	Jo Liss
+    53	Trek Glowacki
+    43	Charles Jolley
+    43	tomdale
+    36	pangratz
+    30	Francesco Rodriguez
+    28	Edward Faulkner
+    24	Colin Campbell
+    17	Justin Brown
+    17	tchak
+    15	Luke Melia
+    11	dmarcotte
+    10	Joshua Borton
+     9	Dan Gebhardt
+     9	Devin Torres
+     9	Edward Tsech
+     8	Tomhuda Katzdale
+     8	peterik
+     7	Joe West
+     7	Thomas Bartelmess
+     6	Ray Cohen
+     6	Trevor Wennblom
+     5	Bradley Priest
+     5	Dudley Flanders
+     5	Mick Staugaard
+     5	Richard Livsey
+     5	Rob Mayoff
+     4	Kristofor Selden
+     4	Mike Andrzejewski
+     4	wycats
+     3	Christopher Sansone
+     3	Dean Brundage
+     3	Greg Thornton
+     3	Julien Guimont
+     3	Justin Giancola
+     3	Pivotal Labs
+     3	Volker Mische
+     3	Wesley Workman
+     2	Bradley Spaulding
+     2	Brian Donovan
+     2	Chris Conley
+     2	Christopher Swasey
+     2	Cortland Klein
+     2	Craig McNamara
+     2	Dave Keen
+     2	David J. Hamilton
+     2	Erich Ocean
+     2	Gabor Babicz
+     2	Gustavo Beathyate
+     2	Jack Dempsey
+     2	James A. Rosen
+     2	James Harton
+     2	Marko Nikula
+     2	Nook Orphan
+     2	Paul Chavard
+     2	Randy Luecke
+     2	Standa Opichal
+     2	Steven Hancock
+     1	Adam McCrea
+     1	Alex Bain
+     1	Alex Matchneer
+     1	Andrew Hanna
+     1	Brandon Turner
+     1	Bryant Luk
+     1	Christopher Manning
+     1	Cory Loken
+     1	Cyril Fluck & David J. Hamilton
+     1	Damien Mathieu
+     1	Daniel Neighman
+     1	Doug Mayer
+     1	Eric Strathmeyer
+     1	Fabien Moritz
+     1	Falk Pauser
+     1	Floris Huetink
+     1	Garth Williams
+     1	Gimi Liang
+     1	Gordon L. Hempton
+     1	James A. Rosen and Shajith Chacko
+     1	Jared O'Connor
+     1	Jarkko Miettinen
+     1	Jim Meyer
+     1	John Andrews + Adam McCrea
+     1	John Cant
+     1	Josep Jaume Rey
+     1	Josh Lubaway
+     1	Lindsey
+     1	Louis Coquio
+     1	Matt Good
+     1	Matthew Todd
+     1	Michael Klishin
+     1	Michael Rykov
+     1	Michael Tomer
+     1	Mike Ball
+     1	Nate Smith
+     1	Patrick B. Gibson
+     1	Raghu Rajah
+     1	Rajiv Navada
+     1	Raymond Cohen
+     1	Renat Zubairov
+     1	Robin Ward
+     1	Ryan T
+     1	Steven G. Harms
+     1	Utkarsh Upadhyay
+     1	Will Bailey
+     1	alias1
+     1	benedikt
+     1	c0urg3tt3
+     1	gnikibog
+     1	hyksos
+     1	midu
+     1	oskbor
+     1	robmonie
+emile
+    21	Thomas Fuchs
+     2	phred
+     1	Brian LeRoux
+     1	Manfred Stienstra
+     1	Tiago Miguel Cavaco Rodrigues
+     1	Tom Carden
+emscripten
+  2586	Alon Zakai
+   278	alon@honor
+   218	max99x
+   207	Ehsan Akhgari
+    52	Behdad Esfahbod
+    25	julien.hamaide
+    20	Jeff Terrace
+    19	Sigmund Vik
+    14	kripken
+    10	BenoitT
+    10	Pierre Renaux
+     9	LCID Fire
+     9	SiggyBar
+     8	Aleksander Guryanov
+     6	tim.dawborn
+     5	Adrian Taylor
+     5	Jukka Jylänki
+     4	The_Fly
+     3	Chad Austin
+     3	David Yip
+     3	Nathan Hammond
+     3	YeZhongWen
+     2	Brian Anderson
+     2	Diclophis
+     2	dglead
+     1	Benjamin M. Schwartz
+     1	David Benjamin
+     1	David Claughton
+     1	David LaPalomento
+     1	Xingxing Pan
+     1	alon
+     1	danielheres
+     1	nandhp
+     1	puffnfresh
+enchant.js
+   173	Ryohei Fushimi
+    58	Ryo Takahashi
+    49	alpicola
+    16	wise9
+    12	eller86
+     9	ElectroDragon
+     4	Chick307
+     3	Ubiquitous Entertainment Inc
+     2	shi3z
+     2	伏見 遼平
+     1	DameNegi
+     1	Fushimi Ryohei
+     1	Noriaki Watanabe
+     1	hiroya
+     1	phi
+     1	replore
+     1	rtsan
+     1	tomykaira
+     1	楢崎大志
+envisionjs
+   562	Carl Sutherland
+     5	Brad Anderson
+     1	cesutherland
+env-js
+   255	thatcher
+   120	Glen E. Ivey
+   114	Nick
+    54	Nick Galbreath
+    43	Steven Parkes
+    35	Larry Karnowski
+    16	John Resig
+     5	Jason Ganetsky
+     3	nate.young
+     1	nickg
+enyo
+   234	Scott Miles
+   148	Steve Orvell
+   125	Daniel Freedman
+    40	Jim Tang
+    36	unwiredben
+    31	Frankie Fu
+    22	Ben Combee
+    12	Scott J. Miles
+     7	Mark Bessey
+     5	JayCanuck
+     4	Dave Freeman
+     4	Kevin Schaaf
+     4	Matt Schott
+     4	Steven Feaster
+     2	Frankie
+     2	Ian Beck
+     2	Jesse Donaldson
+     2	Rick Waldron
+     2	Roy Sutton
+     2	Steve Lemke
+     2	Stuart Eichert
+     1	Art Dahm
+     1	Jeremy Thomas
+     1	MartinH-HP-open
+     1	Rick Waldron waldron.rick@gmail.com
+     1	Robert Kowalski
+     1	Thomas Aylott
+     1	Zach Burke
+     1	davidcalhoun
+     1	dragongears
+     1	germboy
+     1	johannjacobsohn
+     1	rzqme
+es5-shim
+    64	Kris Kowal
+    29	Irakli Gozalishvili
+    25	Michael Ficarra
+    23	Raynos
+    21	kriskowal
+    15	Sasha Koss
+    14	Benjamin Horsleben
+     7	Kit Cambridge
+     6	Bryan Forbes
+     6	DomenicDenicola
+     6	Quildreen Motta
+     4	Gerard Paapu
+     3	Brendan Molloy
+     3	Kenneth Kufluk
+     3	MONTILLET Xavier
+     3	Peter Michaux
+     2	Florian Schäfer
+     2	John-David Dalton
+     2	Rick Waldron
+     2	Sami Samhuri
+     2	Thomas Appel
+     2	fschaefer
+     1	Alexey Zakharov
+     1	Dan Beam
+     1	Domenic
+     1	Jamie Hoover ⚔
+     1	Miles Elam
+     1	Yaffle
+     1	termi1uc1
+es6-shim
+    68	Paul Miller
+     4	hemanth.hm
+     1	Jussi Kalliokoski
+     1	Mathias Bynens
+esprima
+   388	Ariya Hidayat
+    20	Constellation
+    13	Joost-Wim Boekesteijn
+     7	Arpad Borsos
+     1	Mathias Bynens
+     1	Sebastian Markbåge
+     1	TJ Holowaychuk
+     1	Wolfgang Kluge
+     1	ZHANG Bei
+     1	Zachary Carter
+     1	voloko
+etherpad-lite
+   519	Peter 'Pita' Martischka
+   335	John McLear
+   163	Chad Weider
+   133	Egil Moeller
+   125	Matthias Bartelmeß
+    69	0ip
+    42	Robin
+    32	Robin Buse
+    29	johnyma22
+    21	Marcel Klehr
+    18	Jordan
+    16	HansPinckaers
+    13	Jordan Hollinger
+    10	booo
+     7	Constantin Jucovschi
+     7	Jean-Tiare Le Bigot
+     7	Lorenzo Gil Sanchez
+     6	Mark Holmquist
+     6	Stefan 'Gared
+     5	Edy
+     4	Alexandre Girard
+     4	Azul
+     4	Lukas Martini
+     3	Adrian Lang
+     3	Hans Pinckaers
+     3	Patrick Rauscher
+     2	Clark Boylan
+     2	Garrett LeSage
+     2	Micah Anderson
+     2	Patrick Pfeiffer
+     2	Randy
+     2	Thomas Frössman
+     2	andrehjr
+     2	drdla
+     2	jaseg
+     1	Alexis Metaireau
+     1	C Nelson
+     1	Dominik Rodler
+     1	Erlend Halvorsen
+     1	Jacob Chapel
+     1	Joe Corneli
+     1	John Soros
+     1	Kai Hermann
+     1	Lorenzo Gil
+     1	Mark Fisher
+     1	Martyn York
+     1	Nikolai Prokoschenko
+     1	Pedro Gracia
+     1	Pierros Papadeas
+     1	Pita
+     1	Pita Poison
+     1	Rob Speer
+     1	Sankar P
+     1	Sofian Benaissa
+     1	TimWolla
+     1	adammawson
+     1	bdcravens
+     1	bradh
+     1	dsmedia
+     1	elijah
+     1	levu
+     1	root
+     1	ryrun
+     1	snarkyMcSnark
+EventEmitter
+   274	Oliver Caldwell
+     2	Stephen Melrose
+     1	František Hába
+     1	Matthew Gertner
+eventproxy
+    91	Jackson Tian
+     4	dead-horse
+     2	fengmk2
+EventSource
+   102	Yaffle
+     7	Victor
+     1	Boo
+Extensible
+   680	Brian Moeskau
+     3	Boris Dušek
+     2	Ben Hitchcock
+     1	Marino Bonetti
+     1	Michael Armstrong
+     1	Niels Skou Olsen
+eyeballs.js
+   315	Paul Campbell
+     3	Jonas Arnklint
+     1	Anthony Eden
+     1	Thorben Schröder
+Faker.js
+    74	Marak Squires
+    28	Matthew Bergman
+     3	Alexey Osipenko
+     2	Igor Urminček
+     2	nhassan
+     1	Alastair Brunton
+     1	Rodrigo Machado
+fathom
+    21	Mark Dalgleish
+     6	mobz
+     2	Ben Birch
+fbootstrapp
+   319	Jacob Thornton
+   316	Mark Otto
+    37	Clemens Krack
+     6	Chris Aniszczyk
+     5	Rod Vagg
+     4	pthrasher
+     4	sankage
+     3	Aaron Stacy
+     3	David Haywood Smith
+     3	Silumesii Maboshe
+     2	Martin Bean
+     2	Matthew Pennell
+     1	Adam Bowen
+     1	Alexander Pirsig
+     1	Antoine Lépée
+     1	Chris Gunther
+     1	Daniel Hoelbling
+     1	Daniel Liuzzi
+     1	Divya Manian
+     1	Herman Schutte
+     1	Igor Bozato
+     1	Jacob Fike
+     1	Jeff Adams
+     1	Julian Birch
+     1	Karthik Viswanathan
+     1	Kasper Bøgebjerg Pedersen
+     1	Kriansa
+     1	Leo Cassarani
+     1	Lim Chee Aun
+     1	Luis Abreu
+     1	Marc Chung
+     1	Maxim Kaschenko
+     1	Nano
+     1	Nick Veys
+     1	Nik Cubrilovic
+     1	Pamela Fox
+     1	Rafaël Blais Masson
+     1	Sam Carlton
+     1	Sam Soffes
+     1	Steve Faulkner
+     1	Steve Purcell
+     1	Troy Murray
+     1	Vic
+     1	Weslly Honorato
+     1	asmega
+     1	kriansa
+     1	yury
+filer.js
+    90	Eric Bidelman
+     4	Nico Wiedemann
+     1	Dozier Hudson
+     1	Ray Cohen
+     1	Tyler Kellen
+filtrr
+    76	Alex Michael
+findAndReplaceDOMText
+    10	James Padolsey
+     1	Mathias Bynens
+firebug
+  3209	Jan Odvarko
+  2565	John J. Barton
+   515	Sebastian Zartner
+   158	sebastianz
+   145	Mike Ratcliffe
+   119	Steven Roussey
+    95	Hans Hillen
+    88	Simon Lindholm
+    80	Harutyun Amirjanyan
+    61	Kevin Decker
+    53	Max Stepanov
+    47	Rob Campbell
+    27	Darin Wright
+    22	Florent FAYOLLE
+    17	bharaththiruveedula
+    14	Farshid Beheshti
+    12	Curtis Bartley
+    12	Pedro Simonetti
+    11	Bharath Thiruveedula
+     8	nightwing
+     6	Michael G. Collins
+     3	Joe Walker
+     2	Vladimir Zhuravlev
+     1	Florent Fayolle
+     1	Hector Zhao
+     1	Leon Sorokin
+     1	Nikhil Verma
+fixie
+    46	Ryhan Hassan
+    23	Andreas Köberle
+     5	Brandon Kase
+     4	Andreas Köberle
+     2	Luke Holder
+     2	Rob Holland
+     1	Alexander Chen
+     1	Arthur Corenzan
+     1	Ilter Canberk
+     1	Rob Miller
+     1	daz
+flexie
+   430	Richard Herrera
+Flotr2
+   826	Carl Sutherland
+   103	carl@humblesoftware.com
+    53	Jochen Berger
+    13	Jordan Santell
+     3	Marc Silverman
+     3	Tom Spencer
+     2	Joel Gillman
+     2	Olli Mahlamaki
+     1	Ali Karbassi
+     1	Lieven Janssen
+     1	Philip Cox
+     1	Ricardo Stuven
+     1	Steve Henshaw
+     1	bmck
+Flux-Slider
+    99	Joe Lambert
+FlyJSONP
+     4	Abdulrahman Alotaiba
+fontello
+   515	Aleksey V Zapparov
+   233	Vitaly Puzrin
+   165	Roman I Shmelev
+     1	Oli Studholme
+     1	Pål Brattberg
+fuckitjs
+    36	Matt Diamond
+     2	mattdiamond
+     1	MatmaRex
+     1	Matthew Cantelon
+     1	leemachin
+fullcalendar
+   153	Adam Shaw
+     3	Jeremy Green
+     2	Tanguy Pruvot
+     2	igor.vaynberg
+     1	Calvin Cheung
+     1	Christine Baker
+     1	Edward Rudd
+     1	Guill Lo
+     1	Tauren Mills
+funcunit
+   477	Brian Moschel
+    82	Justin Meyer
+    82	Pinhook
+    15	Austin McDaniel
+     7	Alexandre Gomes
+     5	moschel
+     4	Frederick Polgardy
+     2	David Luecke
+     2	Jeremy Kahn
+     2	Michael Mayer
+     2	ccummings
+     2	retro
+     1	Andy Kant
+     1	Chris Osborn
+     1	Josh Nisenson
+     1	JupiterJS
+     1	Ralph Holzmann
+     1	justinbmeyer
+     1	ollinaie
+     1	rloh
+     1	unknown
+fusebox
+    39	jdalton
+    18	John-David Dalton
+gaia
+   875	Timothy Guan-tin Chien
+   712	vingtetun
+   586	Vivien Nicolas
+   556	Etienne Segonzac
+   311	David Flanagan
+   303	Fabien Cazenave
+   282	James Lal
+   233	Alberto Pastor
+   201	Ben Francis
+   134	Andreas Gal
+   121	crdlc
+   114	Borja Salguero
+   103	Ismael González
+   100	Fabrice Desré
+   100	Yuan Xulei
+    97	Dale Harvey
+    96	Alive Kuo
+    95	Chris Jones
+    94	Justin D'Arcangelo
+    87	lodr
+    73	salva
+    69	Dominic Kuo
+    63	Florian Edelmann
+    61	Francisco Jordano
+    59	Budzor
+    52	Germán Toro del Valle
+    49	Rudy Lu
+    48	Gregor Wagner
+    48	arcturus
+    47	Andrew Sutherland
+    46	Steve Chung
+    31	Fernando Campo
+    27	fcampo
+    22	Fabien Cazenave [:kazé]
+    20	Dale  Harvey
+    20	Fernando Jiménez
+    20	Wenbin Wu
+    20	riadh
+    19	Justin Lebar
+    19	Philipp von Weitershausen
+    19	ian-liu
+    18	Josh Carpenter
+    18	Mounir Lamouri
+    17	steveck-chung
+    15	Alexandre Lissy
+    13	Alive.Kuo
+    13	Evelyn Hung
+    13	Jose M. Cantera
+    13	Michael Wu
+     9	Dean Landolt
+     8	Hernan Rodriguez Colmeiro
+     7	Ignacio Fernández Moreno
+     7	John Hammink
+     7	Mike Conley
+     6	Alfredos-Panagiotis Damkalis
+     6	Cristian Rodriguez
+     6	Malini Das
+     6	SUN Haitao
+     6	Sinker
+     6	borjasalguero
+     6	pzhang
+     5	Hammou Moncef
+     5	Jason Kadrmas
+     5	Régis Eduardo
+     5	albertopq
+     4	Cody Brocious
+     4	Colin Frei
+     3	Adam Christian
+     3	Chris Van
+     3	Dave Hylands
+     3	KanRu Chen
+     3	Kyle Machulis
+     3	Matteo Spinelli
+     3	Nachete
+     3	Pavel Ivanov
+     3	Thomas Belin
+     3	Vicamo Yang
+     3	rnowm
+     2	Arnau
+     2	Cody Sehl
+     2	David Clarke
+     2	Eric Shepherd
+     2	Felipe Corrêa da Silva Sanches
+     2	Fernando Jiménez Moreno
+     2	Jonathan Griffin
+     2	José Antonio Olivera Ortega
+     2	Liam Davis
+     2	Paul Rouget
+     2	Salvador de la Puente González
+     1	Antonio M. Amaya
+     1	Arky
+     1	Blake Kaplan
+     1	Chris Double
+     1	Donovan Preston
+     1	Dorian
+     1	Ehsan Akhgari
+     1	Eitan Isaacson
+     1	Gene Lian
+     1	Hsiao-Ting Yu
+     1	Hubert Figuière
+     1	Jan Lehnardt
+     1	Jose Antonio Olivera Ortega
+     1	Luigi Tedone
+     1	Matt Claypotch
+     1	Matt West
+     1	Matthew Phillips
+     1	Michael Vines
+     1	Riccardo Magliocchetti
+     1	Rick Waldron waldron.rick@gmail.com
+     1	Rob McCann
+     1	Santiago Hollmann
+     1	Yury Delendik
+     1	arcturus@ardeenelinfierno.com
+     1	canuckistani
+     1	dominic
+     1	eric30
+     1	fabrice
+     1	jrburke
+     1	lissyx
+     1	schung
+     1	vagrant
+     1	vliu
+gas
+   189	Eduardo Cereto
+     7	Eduardo Cereto Carvalho
+     1	tim sebastian
+geo
+   259	Ryan
+    40	TrippingTheBits
+     7	Ryan Westphal
+     1	steve
+     1	steveoh
+github-badges
+    75	Dr Nic Williams
+     7	Carlos Brando
+     3	Adam Pearson
+     1	Rogério Carvalho Schneider
+git.js
+   150	Daniel Lucraft
+gladius-core
+   700	Alan Kligman
+   236	Dan Mosedale
+    88	Andor Salga
+    39	David Perit
+    37	secretrobotron
+    35	Bobby Richter
+    21	David Humphrey
+    11	jrburke
+     4	Jon Buckley
+     2	Jason Orendorff
+     2	Michael Kelly
+     1	JSilver99
+     1	JSilver999
+gl-matrix
+    53	Colin MacKenzie IV
+    46	Brandon Jones
+     1	Andrew Berg
+     1	Jonas Wagner
+     1	Kos
+     1	Marco Aurélio
+     1	Yuri Kovelenov
+globalize
+    92	Richard D. Worth
+    67	Eric Bréchemier
+    32	InfinitiesLoop
+    19	jzaefferer
+    14	Nikolaus Graf
+     6	Jörn Zaefferer
+     6	Jörn Zaefferer
+     6	Kyle Florence
+     5	Tobie Langel
+     2	Scott González
+     1	.NET jQuery Extensions
+     1	BorisMoore
+     1	Christian Vuerings
+     1	David De Sloovere
+     1	Richard Worth
+     1	Robert Plummer
+     1	Tomasz Peczek
+     1	blq
+     1	jeresig
+glow1
+   208	jakearchibald
+    66	Michael Mathews
+    27	elson
+    19	maslen
+    18	Frances Berriman
+    10	Thomas Yandell
+     9	unknown
+     7	Tom Yandell
+     6	Jake Archibald
+     3	Ian Pouncey
+     2	Gilles Ruppert
+     2	Richard
+     1	hubbardr
+     1	phae
+     1	root
+g.raphael
+    49	Richard Zurad
+    17	Dmitry Baranovskiy
+     1	Karol Kowalski
+growl-prototype
+    10	Prateek Saxena
+grunt
+   765	Ben Alman
+     7	Mickael Daniel
+     4	Jörn Zaefferer
+     4	Scott González
+     3	tbranyen
+     2	Damon Oehlman
+     2	Rick Waldron waldron.rick@gmail.com
+     2	Tobias Koppers
+     1	Kelly Miyashiro
+H5F
+    38	Ryan Seddon
+     3	Chris Gunther
+     2	BYK
+     2	ryanseddon
+     1	Alice Kærast
+     1	Craig Francis
+     1	unknown
+haml-js
+    85	Tim Caswell
+    16	Aaron Blohowiak
+     6	Dominic Baggott
+     3	Andrew Schaaf
+     3	Reid Burke
+     2	Jacques Crocker
+     2	James Campos
+     2	Tom Robinson
+     1	Dave Hoover
+     1	Fabian Jakobs
+     1	Maciej Adwent
+     1	Nathan Weizenbaum
+     1	Reg Braithwaite
+     1	Steve Sloan
+     1	Steven Harman
+     1	maritz
+Happy.js
+    17	HenrikJoreteg
+     1	Felix Gnass
+     1	Henrik Joreteg
+has.js
+    99	Peter E Higgins
+    73	Bryan Forbes
+    61	jdalton
+    39	Paul Irish
+    25	rwldrn
+     5	John-David Dalton
+     4	Mathias Bynens
+     4	Mike Taylor
+     3	Andrée Hansson
+     2	Rick Waldron
+     2	Ryan Grove
+     1	Brad Dougherty
+     1	Gun.io Whitespace Robot
+     1	James Turnbull
+     1	Weston Ruter
+     1	james wang
+     1	oyvind.kinsey
+     1	scottjehl
+headjs
+    95	Tero Piirainen
+     3	Bob Fanger
+     2	Pete
+     1	Christian Ebert
+     1	Paul Irish
+     1	Will Langstroth
+history.js
+   111	Benjamin "balupton" Lupton
+    26	Benjamin Lupton
+     5	Benjamin Arthur Lupton
+     2	Ryan Lee
+     1	Mark Jaquith
+     1	Matt Garrett
+     1	Wes Garrison
+hogan.js
+    86	Rob Sayre
+    27	Jacob Thornton
+    10	Matt Robenolt
+     7	Bradley Wright
+     4	Alexander Dorofeev
+     4	Kalman Speier
+     2	Brad Dunbar
+     2	Chad Hietala
+     2	Matt Cheely
+     2	Trey Griffith
+     1	Andrew Young
+     1	Ben Hockey
+     1	Chris Aniszczyk
+     1	David Hazinski
+     1	Kasper Bogebjerg
+     1	Max Beatty
+     1	Michael Jackson
+     1	Mike Frey
+     1	Phuong LeCong
+     1	Robert Martin
+     1	Scumbag Pull Request
+     1	Stéphan Kochen
+     1	Tom Wuttke
+     1	pthrasher
+hookbox
+    81	mcarter
+    62	Michael Carter
+    53	Martin Hunt
+    11	Jordan Phillips
+    11	Salman Haq
+     9	Alex Haro
+     8	Mario Balibrera
+     6	Dax Reyes
+     5	Honza Kral
+     2	Alcides Fonseca
+     2	Alexander Kirk
+     2	Brian Dorsey
+     2	Martin Schürrer
+     2	desmaj
+     2	skaughtx0r
+     1	Chris Faulkner
+     1	Dan Gould
+     1	Leo Dirac
+     1	Mario
+     1	Tom Fairfield
+     1	bubbleboy14
+html2canvas
+   149	Niklas von Hertzen
+    40	André Fiedler
+    38	Obexer Christoph
+     5	The Brain
+     4	Bdkzero
+     3	Guido Tapia
+     3	Paolo
+     2	Benjamin Lupton
+     1	Binduck
+     1	Keith Hoffmann
+     1	Oleksiy Nesterov
+html5-boilerplate-for-wordpress
+     6	Steve Heffernan
+     1	Brandon Arbini
+html5-game-template
+    65	Dan Mosedale
+    47	jrburke
+    17	Jason Strimpel
+     7	Alan Kligman
+     3	James Burke
+     1	Zee Agency
+     1	canuckistani
+html5please
+   250	Divya Manian
+   127	Paul Irish
+    38	Peter Beverloo
+    32	Connor Montgomery
+    19	Raynos
+    10	Nicolas Gallagher
+     7	Chris Boden
+     7	Louis Lazaris
+     6	Vincent Costel
+     5	Addy Osmani
+     5	Andrei Oprea
+     5	addyosmani
+     5	hellocreation
+     4	Mike Taylor
+     4	Milos Gavrilovic
+     4	termi1uc1
+     3	Adeel Ejaz
+     3	Michael[tm] Smith
+     2	Ben Truyman
+     2	Costo
+     2	David Rapson
+     2	Deepak Jois
+     2	Johannes Barre
+     2	Mathias Bynens
+     2	bigbossSNK
+     2	brianblakely
+     2	tbranyen
+     1	Anders Johansson
+     1	Ashton Harris
+     1	Brian Blakely
+     1	Capi Etheriel
+     1	Denis
+     1	Devon Govett
+     1	Eric Eggert
+     1	Fredrik Ekelund
+     1	Isac Lagerblad
+     1	Jeffrey Barke
+     1	Jens Arps
+     1	Joey Baker
+     1	Kai Dorschner
+     1	Karl Swedberg
+     1	Kevin G.
+     1	Laurens Nienhaus
+     1	Martin Auswöger
+     1	Matthew Osborn
+     1	Parashuram N
+     1	Robert (Jamie) Munro
+     1	Ryan Gasparini
+     1	Simon Edwards
+     1	Slawek Kolodziej
+     1	bdunzer
+     1	benkeen
+     1	bodine30
+     1	gcb
+     1	jensbambauer
+     1	obsoleter
+     1	sep332
+     1	simurai
+     1	strages
+     1	timmywil
+     1	uxder
+html5shiv
+    86	aFarkas
+    31	jonathantneal
+    19	John-David Dalton
+    16	Jonathan Neal
+    12	Alexander Farkas
+     5	Paul Irish
+     4	unknown
+     1	Jonathan Fontes
+     1	Mathias Bynens
+Humane-Dates
+    26	zachleat
+     2	Samat K Jain
+     2	Zach Leatherman
+     1	icebox
+humane-js
+   147	Marc Harter
+     2	Ian Massey
+     2	Jack McDade
+     2	Jason Mulligan
+     2	Jens Roland
+     1	Samori Gorse
+     1	Vytautas Jakutis
+     1	ianmassey
+i18next
+    73	Jan Muehlemann
+     7	Jan Mühlemann
+     4	Hugo Josefson
+     1	Brais Gabín
+     1	Jouni Hartikainen
+     1	Panagiotis Kosmidis
+     1	Petri Louhelainen
+     1	fabrizio.fortino
+     1	fabriziofortino
+ICanHaz.js
+    32	Henrik Joreteg
+    26	HenrikJoreteg
+     8	Richard Clark
+     7	Manuel Odendahl
+     1	Brian J Brennan
+     1	Jonathan Rudenberg
+     1	Kevin Burke
+ice
+    32	delambo
+     4	Matthew DeLambo
+     3	Nikhil Benesch
+     1	Sanjay Ginde
+     1	Will
+     1	skratchdot
+ico
+    61	Alex Young
+    20	My Name
+     4	alexyoung
+     1	Jim Yang ~ Thinkpad
+     1	unknown
+imgareaselect
+     6	Michal Wojciechowski
+infinite-scroll
+   108	paulirish
+    34	Luke Shumard
+    23	Beaver6813
+    14	Sam Cleaver
+    10	Paul Irish
+     8	Anthony DiSanti
+     5	Benjamin J. Balter
+     5	yoavar
+     3	Alexis Abril
+     2	Arief Hidayat
+     2	Nick Baugh
+     1	Chris Nicola
+     1	Curtis Edmond
+     1	Dan Damian
+     1	David DeSandro
+     1	Jérémy Fache
+     1	Michael P. Geraci
+     1	Ryley Breiddal
+     1	Sylvain WITMEYER
+     1	eddie cianci
+     1	fliespl
+     1	gabrielsomoza
+instiki
+  1205	Jacques Distler
+   461	Alexey Verkhovsky
+    36	Matthias Tarasiewicz
+    25	Jason Blevins
+    24	James Herdman
+    15	Rick Okin
+     7	Ben Bleything
+     6	parasew
+     3	Jason R. Blevins
+     1	Jeff Zellman
+     1	Matt MacGillivray
+     1	Michal Wlodkowski
+iviewer
+   110	Dmitry Petrov
+     5	can3p
+     2	Hay Kranen
+     1	Дмитрий
+JAIL
+    61	Sebastiano Armeli-Battana
+    25	Derek Lindahl
+     1	Tobias Muellerleile
+jam
+   133	Caolan McMahon
+     5	Pieter Vanderwerff
+     2	John Fawcett
+     1	Matt Robenolt
+     1	Richard Butler
+     1	clexit
+jasmine
+   128	Christian Williams
+   105	ragaskar
+    89	Davis W. Frank
+    46	pivotal
+    32	Lee Byrd & Christian Williams
+    29	Steve Conover
+    13	Aaron Peckham & Christian Williams
+    10	Christian Williams & Kim Eric Mittler
+    10	Rajan Agaskar
+    10	Rajan Agaskar & Ryan Dy
+    10	gvanhove
+     6	Christian Williams & Aaron Peckham
+     5	Christian Williams & Jay Phillips
+     5	David Goudreau & Rajan Agaskar
+     4	Christian Williams & Ian Fisher
+     4	Erik Hanson
+     4	Pivotal
+     3	Josh Susser
+     3	Kim Eric Mittler & Christian Williams
+     3	xian
+     2	Alex Kwiatkowski
+     2	Aram Price & Ryan Dy
+     2	Brian Takita
+     2	Carl Jackson & Davis W. Frank
+     2	Chad Woolley
+     2	Christian Williams & David Goudreau
+     2	Davis W. Frank & Rajan Agaskar
+     2	Erik Hanson & Christian Williams
+     2	Erik Hanson & Rajan Agaskar
+     2	Fabio M. Costa
+     2	Jared Grippe
+     2	John Firebaugh
+     2	Mark Rushakoff
+     2	Todd Persen
+     2	grosser
+     1	Brian Jenkins & Aaron Peckham
+     1	Brian Jenkins & Evan Cooney
+     1	Christian Williams & Erik Hanson
+     1	Christian Williams & Harry Ugol
+     1	Christian Williams & Ryan Richard
+     1	Dane O'Connor
+     1	Daniel Weaver & David Goudreau
+     1	DanielHeath
+     1	Davis Frank & Rajan Agaskar
+     1	Davis W. Frank & Sean Durham
+     1	Edward Tsech
+     1	Eric Pabst
+     1	Erik Hanson & David Goudreau
+     1	Erik Hanson & Evan Cooney
+     1	Harry Ugol & Tyler Schultz
+     1	Joseph Palermo
+     1	Kelly Nawrocke & Aram Price
+     1	Matt Parker
+     1	Nate Clark
+     1	Nathan Wilmes & Davis W. Frank
+     1	Osukaru
+     1	Ronald Andreu Kaiser
+     1	Ryan Dy & Rajan Agaskar
+     1	Tom Crayford
+     1	bigfix
+     1	labday
+     1	qfox
+jasmine-ajax
+    38	Hunter Gillane
+    10	Davis W. Frank, dwfrank & Hunter Gillane
+     3	Ryan Dy
+     2	Carl Jackson
+     1	Austin Putman & Sarah Mei
+     1	Ben Smith & Hunter Gillane
+     1	Davis W. Frank
+     1	Davis W. Frank, dwfrank
+     1	Jay Phillips & Ken Mayer
+jasmine-reporters
+    47	Ben Loveridge
+    18	Larry Myers
+     6	Matthew Smith
+     3	Yannick Simard
+     2	Eero Anttila
+javascript-astar
+    35	bgrins
+    15	Brian Grinstead
+     4	porneL
+     1	Leonardo Dutra
+     1	Todd Fisher
+javascript-book
+    63	Ilya Kantor
+     3	iliakan
+     3	resurtm
+     2	avorobiev
+     1	unknown
+JavaScript-Load-Image
+    28	Sebastian Tschan
+     1	Joe Wood
+     1	Naoya Inada
+     1	Roy Haddad
+javascript-stacktrace
+   111	Eric Wendelin
+    39	homyakov
+    23	emwendelin
+    13	Victor
+     6	Andrew Sutherland
+     5	Victor Homyakov
+     5	oyvind.kinsey
+     2	Damien Bargiacchi
+     2	Maksim Gurtovenko
+     2	Vincent Scheib
+     1	Jan-Hendrik Peters
+     1	alowdon
+     1	hlascelles
+javascript-state-machine
+    57	Jake Gordon
+     6	Christopher Boone
+     1	Carl Baatz
+     1	delta1
+JavaScript-Templates
+    22	Sebastian Tschan
+javelin
+    92	epriestley
+    26	cpojer
+    16	yungsters
+    13	vrana
+    12	Jan Kassens
+    11	Evan Priestley
+     8	Lee Byron
+     7	adonohue
+     5	Marshall Roch
+     3	Craig Fratrik
+     3	Daniel Neiter
+     3	tomocchino
+     2	Jackson Gabbard
+     2	JeffMo
+     2	Jenny Yuen
+     2	John Duruk
+     2	Philip Fung
+     2	alpjor
+     1	Aran Donohue
+     1	Christoph Pojer
+     1	Dave Alongi
+     1	David Bieber
+     1	EC2 Default User
+     1	Edward Speyer
+     1	Guilin Chen
+     1	Hedger Wang
+     1	Jeffrey Lin
+     1	Marek Latuskiewicz
+     1	Nick Harper
+     1	Rajat Mittal
+     1	Thomas Aylott
+     1	Ying-Yi Liang
+     1	alurim
+     1	bhiller
+     1	kdelong
+     1	mfullmore
+jaws
+   498	ippa
+    17	Dmitri Zagidulin
+     4	Conley Owens
+     4	Erik Rogneby
+     4	Jan Hancic
+     3	radioact1ve
+     2	Johnicholas Hines
+     2	err0
+     1	Andy Davies
+     1	David Blood
+     1	jduff
+jcarousel
+   278	jsor
+   148	Jan Sorgalla
+     4	Olivier G.
+     1	Meno Abels
+     1	Merrick Christensen
+     1	Tim Weber
+     1	lespacedunmatin
+jDataView
+    58	Christopher Chedeau
+    37	Vjeux
+     4	Joey Hewitt
+     3	Guillaume Marty
+     3	Mithgol the Webmaster
+     1	Daniel
+     1	Nelson Elhage
+     1	Tim de Koning
+     1	divergentdave
+jelly
+    79	Brian Takita
+    24	Nate Clark
+    22	Brian Takita & Zach Legein
+    18	Nate Clark & Sam Pierson
+    16	Andrew Cantino & Mike Grafton
+     8	Brian Takita & Srini Aki
+     8	Mason Glaves & Mike Hagedorn
+     7	Brian Takita & Dave Willett
+     7	Eric Metens / Jonathan Barnes
+     6	Brian Takita & Mike Grafton
+     3	Mason Glaves & Mike Grafton
+     1	Brian Takita & Mason Glaves
+     1	Pivotal Labs
+     1	Todd Persen
+jester
+    83	emill
+     9	Nat Budin
+     8	Eric Mill
+     5	jyurek
+     3	Dan Croak
+     3	tfwright
+     2	tsaleh
+     1	Mike Burns
+     1	Tristan Dunn
+jim
+   160	Aaron Quint
+     4	Rich Manalang
+     2	Brian Mitchell
+     2	Jim Myhrberg
+     2	dpree
+     1	Collin Miller
+jmapping
+    49	Brian Landau
+     1	Greg Sterndale
+     1	Jack Danger Canty
+     1	Patrick Crowley
+jo
+   240	Dave Balmer
+   117	davebalmer
+     6	ansyeow
+     4	codebykevin
+     3	k33g
+     3	ryanjduffy
+     2	Andrew Barilla
+     2	Kevin Walzer
+     1	Bem Jones-Bey
+     1	Jascha Dachtera
+     1	Max Hauser
+     1	Philippe Charriere
+     1	Richard Rodger
+     1	Rob Mayoff
+     1	Ryan Duffy
+jQCloud
+    95	Luca Ongaro
+     2	Daniel Neame
+     2	Robert Massa
+     2	Sean Ahrens
+     2	rodrigo brancher
+     1	Alexander Stintzing
+     1	Grepsy
+     1	cham
+jqfundamentals
+   269	Rebecca Murphey
+    46	Herberth Amaral
+    11	James Padolsey
+     6	Dan Heberden
+     5	Elvis Luciano
+     5	Oleksandr Tymoshenko
+     5	garrett
+     4	Alexander Kahn
+     4	Garrett Johnson
+     4	Ulrich
+     4	Ulrich SOSSOU
+     3	Juan Pablo Buritica
+     2	Eric Hynds
+     2	Jason Davies
+     2	Peter Aronoff
+     2	cpickard
+     1	Ali Karbassi
+     1	Kevin Old
+     1	Mihail Minkov
+     1	Ryan Deussing
+     1	b1rdex
+     1	bgruber
+     1	csnover
+jQ.Mobi
+   130	Ian Maffett
+     7	Marius Schatke
+     5	Diego Perez
+     2	DanM
+     2	Leonardo Di Lella
+     2	Liu Linhuai
+     1	Jason Del Ponte
+     1	ryan fiorini
+     1	stereobooster
+     1	xiaowl
+jqTree
+   281	Marco Braak
+     5	Diego Malatesta
+     2	mbraak
+     1	Henk Jansen
+     1	Jason Daly
+     1	Rodrigo Rosenfeld Rosas
+jquery
+  1211	John Resig
+   503	jeresig
+   318	Jörn Zaefferer
+   297	timmywil
+   287	Dave Methvin
+   268	jaubourg
+   247	Brandon Aaron
+   200	Ariel Flesler
+   148	Rick Waldron
+    71	Colin Snover
+    67	David Serduke
+    57	rwldrn
+    54	Mike Sherov
+    52	Yehuda Katz
+    39	louisremi
+    35	Anton M
+    27	Gilles van den Hoven
+    25	Richard Gibson
+    21	Corey Frang
+    20	unknown
+    17	Robert Katic
+    17	Scott González
+    15	Dan Heberden
+    14	Carl Fürstenberg
+    12	Ben Alman
+    12	Karl Swedberg
+    12	Oleg
+    11	Jordan Boesch
+    11	Rick Waldron waldron.rick@gmail.com
+     9	Mike Alsup
+     9	Paul Bakaus
+     8	Ed Engelhardt
+     7	Douglas Neiner
+     7	Gianni Chiappetta
+     7	Stefan Petre
+     7	Timmy Willison
+     7	Xavi
+     7	lrbabe
+     7	wycats
+     6	Corey Jewett
+     6	Klaus Hartl
+     6	Mathias Bynens
+     6	Sindre Sorhus
+     6	Timo Tijhof
+     6	adam j. sontag
+     6	dmethvin
+     6	gnarf
+     6	scottjehl
+     5	Alex Sexton
+     5	Julian Aubourg
+     5	Sean Catchpole
+     5	cmcnulty
+     5	jrburke
+     4	Henri Wiechers
+     4	Jephte CLAIN
+     4	Justin Meyer
+     4	Michael Bensoussan
+     4	Richard D. Worth
+     4	rkatic
+     3	Daniel Herman
+     3	David Petersen
+     3	Franck Marcia
+     3	InfinitiesLoop
+     3	Irae Brasil
+     3	Michael Geary
+     3	Paul Irish
+     3	Richard Worth
+     3	Scott Gonzalez
+     3	brandonaaron
+     3	jzaefferer
+     2	Alexander Farkas
+     2	Anton Ryzhov
+     2	Arne de Bree
+     2	Brian Brennan
+     2	Damian Janowski
+     2	Dave Reed
+     2	David Murdoch
+     2	Jason Moon
+     2	JessThrysoee
+     2	Neeraj Singh
+     2	Rob Morgan
+     2	Sam Bisbee
+     2	Trey Hunner
+     2	aFarkas
+     2	danheberden
+     1	Alexis Abril
+     1	Andrea Giammarchi
+     1	Andy Monat
+     1	Anton Kovalyov
+     1	Azatoth
+     1	Batiste Bieler
+     1	Berker Peksag
+     1	Brandon Sterne
+     1	Chad Killingsworth
+     1	Daniel Pihlstrom
+     1	David Benjamin
+     1	Denis Knauf
+     1	Digitalxero
+     1	Dominik D. Geyer
+     1	Filipe Fortes
+     1	Gilmore Davidson
+     1	Greg Hazel
+     1	Heungsub Lee
+     1	Iraê Carvalho
+     1	J Bruni
+     1	J. Ryan Stinnett
+     1	Jacob Thornton
+     1	Jacob Wright
+     1	James Padolsey
+     1	Jared Grippe
+     1	Jeffery To
+     1	John Firebaugh
+     1	Jon Evans
+     1	Jonas Pfenniger
+     1	Justin
+     1	Kim Dalsgaard
+     1	Krinkle
+     1	MONTILLET Xavier
+     1	Mark Gibson
+     1	Matt Curry
+     1	Matt Farmer
+     1	Matt Mueller
+     1	Michael Monteleone
+     1	Michael Murray
+     1	Mike Alup
+     1	Mr Speaker
+     1	Noah Sloan
+     1	Nowres Rafid
+     1	Oskari
+     1	Paul Mclanahan
+     1	Pinhook
+     1	RafaC3ABl Blais Masson
+     1	Ralph Whitbeck
+     1	Rich Dougherty
+     1	Rick Waldon
+     1	Robert Katić
+     1	Russell Holbrook
+     1	Ryan W Tenney
+     1	Sahab Yazdani
+     1	Schalk Neethling
+     1	Scott Hughes
+     1	Shi Chuan
+     1	Steen Nielsen
+     1	Sylvester Keil
+     1	Toby Brain
+     1	Vladimir Zhuravlev
+     1	Vladislav Zarakovsky
+     1	avaly
+     1	awgy
+     1	carpie
+     1	cmc3cn
+     1	kborchers
+     1	malsup
+     1	presbrey
+     1	rjgotten
+     1	temp01
+     1	tomviner
+     1	tsinha
+     1	visionmedia
+jquery-address
+   283	asual
+     5	Binyamin
+     5	Rostislav Hristov
+     1	
+     1	0xdeadcafe
+     1	Amos Lanka
+     1	Binyamin Laukstein
+     1	Evan Worley
+     1	Lars Enevold
+     1	Luke Bennett
+     1	Sergey Bogdanov
+     1	nator
+     1	unstoppable
+jQuery-Animate-Enhanced
+   115	Ben Barnett
+     8	benbarnett
+     2	German M. Bravo
+     1	Cory Monty
+     1	Dan Auclair
+     1	Jeffery To
+     1	Joshua McDonald
+     1	Laurent Leborgne
+jquery-autocomplete
+    79	Dylan Verheul
+     5	dollarfalls
+     4	Will Schmid
+     2	Todd Kennedy
+     1	Alex Soulim
+     1	Joel Sutherland
+     1	Stanislav
+     1	dylan.verheul
+jquery-bbq
+    37	Ben Alman
+jquery-carousel-lite
+    57	Karl Swedberg
+     1	Rinat
+jQuery-Chrono
+    48	Arthur Klepchukov
+     3	Andrey A.I. Sitnik
+     3	Jan Hartigan
+jquery-cluetip
+   111	Karl Swedberg
+     1	Jason Rice
+     1	Jeff Gustafson
+jQuery-Collapse
+    68	Daniel Stocks
+     1	stanislaw
+jquery-color
+    64	gnarf
+    28	Corey Frang
+    12	Scott González
+     7	Mike Sherov
+     2	Brendan Byrd
+     2	Jörn Zaefferer
+     1	John Resig
+     1	Krinkle
+     1	Richard D. Worth
+     1	eddiemonge
+jquery-cookie
+    51	Klaus Hartl
+     5	carhartl
+     3	Fagner Martins
+     3	Karl Swedberg
+     1	Alex Tomkins
+     1	Colin Putney
+     1	Cory Schires
+     1	Duncan Smart
+     1	Mr Rogers
+     1	vlakoff
+jquery-cssHooks
+    59	Tom Ellis
+    24	Burin Asavesna
+    21	louisremi
+    20	Phil Dokas
+    12	Brandon Aaron
+     1	lrbabe
+jquery.dform
+    87	daffl
+    56	David Luecke
+     2	Perlover
+     2	jeffatstepup
+     1	Aaron Mars
+     1	Daff
+     1	stickypages
+jQuery-EasyTabs
+    89	Steve Schwartz
+     1	Pascal d'Hermilly
+     1	heldchen
+jquery.entwine
+    87	Hamish Friedlander
+     9	Mike Frawley
+     2	Ingo Schommer
+jquery.eventsource
+    69	rwldrn
+    26	Rick Waldron
+     1	Or Cohen
+jquery_example
+    48	Paul Mucur
+     2	DeLynn Berry
+     1	Matt Buck
+jQuery-File-Upload
+   326	Sebastian Tschan
+     2	Jostein Austvik Jacobsen
+     2	Karel Ledru-Mathe
+     1	Artem Sapegin
+     1	Christian Vuerings
+     1	Florian Pfitzer
+     1	Ignacio T
+     1	John Berry
+     1	Jyri Tuulos
+     1	Larry Marburger
+     1	Nick Sullivan
+     1	Patrick Reiner
+     1	Samuel Clay
+     1	besstiolle
+jquery-flexselect
+    76	Ryan McGeary
+    12	Mark Johnson
+     2	Mike Dalessio
+     1	Aiden Scandella
+jquery-hashchange
+    17	Ben Alman
+jquery-hive
+    25	Rick Waldron
+    14	rwldrn
+jquery.hotkeys
+    35	tzury
+    10	tzury bar yochay
+     2	John Resig
+     2	tzuryby
+jquery.inview
+    38	Christopher Blum
+     9	Matt Zukowski
+     8	Andrew Nugged
+     4	James Turnbull
+     1	Michael Geers
+jquery_jeditable
+   306	Mika Tuupola
+     3	Lawrence Pit
+     2	Antonin Hildebrand
+     2	Jack Danger Canty
+     1	Chris Morris
+     1	Curtis Miller
+     1	binarylogic
+jquery-jsonp
+    18	jaubourg
+     2	Julian Aubourg
+jquery.kinetic
+    50	davetayls
+     4	Dave Taylor
+     2	Chris Mullins
+     1	Chun-Chat Lam
+jQuery-Lint
+    53	James Padolsey
+    21	Hans-Peter Buniat
+     1	Zoran Zaric
+jquery.maskedinput
+    55	Josh Bush
+jquery-metadata
+    18	joern
+     7	joern.zaefferer
+     6	john
+     3	pmclanahan
+     2	John Firebaugh
+     2	yehuda
+     1	John Resig
+     1	jzaefferer
+jquery-mobile
+  1814	scottjehl
+  1207	John Bender
+   624	Ghislain Seguin
+   544	Todd Parker
+   340	Kin Blas
+   332	toddparker
+   305	Anne-Gaelle Colom
+   300	Gabriel Schulhof
+   263	Jasper de Groot
+   241	Mat Marquis
+   154	Maurice Gottlieb
+    90	PattyToland
+    79	gseguin
+    76	jblas@adobe.com
+    74	John Resig
+    58	Eddie Monge
+    50	Scott González
+    43	Scott Jehl
+    42	Jake Boone
+    39	maggiewachs
+    35	eddiemonge
+    34	Rick Waldron
+    31	jzaefferer
+    27	Chetan K Jain
+    27	ehynds
+    24	Eddie Monge Jr.
+    23	Jason Scott
+    14	Rich Trott
+    13	Alex Kovar
+    13	Garann Means
+    13	Jesse Streb
+    12	zachleat
+    10	forresst
+     9	Gabriele Rabbiosi
+     9	Hans-Peter Buniat
+     9	Steven Black
+     8	jacob4u2
+     7	Jordan Dobson
+     7	Nabil Saleh
+     7	Tyler Benziger
+     7	sgrebnov
+     5	Dave Hulbert
+     5	Jason Crane
+     5	Matthew Leon Grinshpun
+     5	dmethvin
+     4	Douglas Neiner
+     4	Elliot Smith
+     4	Eugen
+     4	Frederik Lassen
+     4	Jasper
+     4	Josh Dean
+     4	Louy Alakkad
+     4	Martin Kou
+     4	Omar Vargas
+     4	Peter
+     4	Richard Stutfield
+     4	Samuel Padou
+     4	Sergei Grebnov
+     4	Yuki KODAMA
+     4	uGoMobi
+     3	Adam Vaughan
+     3	BradBroulik
+     3	Brandon Johnson
+     3	Casey Justus
+     3	D. Elmo Peele
+     3	Ernesto Jiménez
+     3	Konstantin Pozin
+     3	Matt Lins
+     3	TylerBenziger
+     3	adammessinger
+     3	ebaranov
+     3	frietsch
+     3	jasonlcrane
+     3	jeresig
+     3	jrburke
+     3	jrowny
+     3	kptdobe
+     3	mark.dawn@gmail.com
+     3	ossreleasefeed
+     3	unknown
+     3	vtwoods
+     2	Beau Smith
+     2	Bernhard Gschwantner
+     2	Bra1n
+     2	Burin Asavesna
+     2	Danny
+     2	Deric Crago
+     2	Eddie Monge Jr
+     2	Faolan C-P
+     2	Gabe
+     2	Ivan Rubanov
+     2	Jason
+     2	Jeffrey Way
+     2	Jim Hoskins
+     2	Jonathan Hinkle
+     2	Jörn Zaefferer
+     2	Jörn Zaefferer
+     2	Masataka Yakura
+     2	Matthias Derer
+     2	MauriceG
+     2	Mitch Foley
+     2	Pavel Karoukin
+     2	Pavel Zubkou
+     2	Ron Waldon
+     2	Shana Golden
+     2	Tak Tran
+     2	Tobias Bosch
+     2	cburgdorf
+     2	cwt137
+     2	dtao
+     2	louy
+     2	mbhnyc
+     2	pikotea
+     2	ray58750034
+     2	wuyuntao
+     1	Abhishek Joshi
+     1	Adrian Pike
+     1	Alex Roberts
+     1	Alexander Casassovici
+     1	Alexander Dimitrov
+     1	Alexander Wunschik
+     1	Andri Möll
+     1	Andy Matthews
+     1	Arne Hormann
+     1	Ashley Streb
+     1	Azuo
+     1	Ben Alman
+     1	Brandon Aaron
+     1	Brian Antonelli
+     1	Charlie Collins
+     1	Dan Croak
+     1	Dan Heberden
+     1	Dan Jacka
+     1	Darío Javier Cravero
+     1	Dave Penfold
+     1	David L. Carrithers
+     1	Davide Bertola
+     1	Eric DeLabar
+     1	Ernesto Jiménez
+     1	Ethan Romba
+     1	Eugen Bolz
+     1	Felipe Brahm
+     1	Gabe Hollombe
+     1	Gabriel "_|Nix|_" Schulhof
+     1	Jacob Gable
+     1	James Brady
+     1	Jean-Pierre Fiset
+     1	Jeff Gabhart
+     1	Jim Holby
+     1	Jonatan Littke
+     1	Jonathan Sharp
+     1	Karan Bhangui
+     1	Lamaster
+     1	Leon Brocard
+     1	Luke Brookhart
+     1	Luke Young
+     1	MaZderMind
+     1	Marcus Lunzenauer
+     1	Marek Stepien
+     1	Mario Zaizar
+     1	Mark Bennett
+     1	Mark Schuette
+     1	Martin Sutherland
+     1	Matt
+     1	Matt Curry
+     1	Matt Doyle
+     1	Mayank Varia
+     1	Michael
+     1	Michael J. Rubinsky
+     1	Michael O'Hearn
+     1	Michael Platov
+     1	Michel Hartmann
+     1	Nicholas Hall
+     1	Nicolas Bartoli
+     1	Olivier Poitrey
+     1	Paul Nicholls
+     1	Pavel Savara
+     1	Peter Körner
+     1	Petko Bossakov
+     1	Phil Barnes
+     1	Ray Ling
+     1	Riaz
+     1	Richard D. Worth
+     1	Robby Dermody
+     1	Robert Gregor
+     1	Ryan
+     1	Ryan Neufeld
+     1	Samat K Jain
+     1	Simon Ratner
+     1	Takashi Okamoto
+     1	Teddy Caddy
+     1	Thomas Lallement
+     1	Théophile Helleboid - chtitux
+     1	Trott
+     1	Wietse Venema
+     1	Wolfram Twelker
+     1	ahallerblu
+     1	ajimix
+     1	bclinkinbeard
+     1	blowsie
+     1	chrisvire
+     1	chrsMon
+     1	cm71td
+     1	dmapr
+     1	dotnetwise
+     1	drkhdr
+     1	eddie cianci
+     1	gnikibog
+     1	hakanson
+     1	hochi
+     1	imjoshdean
+     1	jakeboone02
+     1	lagartoflojo
+     1	marek
+     1	maxrabin
+     1	mlitwin
+     1	pavliy
+     1	tichou
+     1	tschaub
+     1	Álvaro Lázaro
+jquery-mockjax
+    39	Jonathan Sharp
+    29	Max Lynch
+    26	Jörn Zaefferer
+    10	John Paul
+     3	Jim Cowart
+     2	Andrew Powell
+     2	Jon Palmer
+     2	Kumar McMillan
+     2	Van Miranda
+     1	Alex
+     1	Cedric Vivier
+     1	Chris Roby
+     1	Daniel Bornkessel
+     1	Dmitry Petrov
+     1	François de Metz
+     1	Gijs Kruitbosch
+     1	Jonathan Creamer
+     1	Michael Brooks
+     1	Mike Alsup
+     1	Ralph Whitbeck
+     1	Rob Larsen
+jquery-mousewheel
+    15	Brandon Aaron
+     7	brandonaaron
+     2	Seamus Leahy
+     1	Dave Methvin
+     1	Kelvin Luck
+jquerymx
+   389	Pinhook
+   275	Brian Moschel
+   186	Justin Meyer
+    56	Austin McDaniel
+    36	Alexandre Gomes
+    31	Marnus Weststrate
+    24	David Luecke
+    21	Frederick Polgardy
+    18	Jeremy Kahn
+    17	retro
+    16	Michael Malamud
+    15	Jeffery To
+    14	unknown
+    10	Michael Mayer
+     8	Alexis Abril
+     7	Ralph Holzmann
+     7	Victor Kornov
+     3	JupiterJS
+     3	Yusuf Safak Bayram
+     3	justinbmeyer
+     2	Alex Tracer
+     2	Andy Kant
+     2	Christiaan Van den Poel
+     2	Nick Matthews
+     2	jeremyckahn
+     2	ollinaie
+     1	Jeff Schilling
+     1	Jevgenij Tsoi
+     1	Joris Wijlens
+     1	Joseph Tate
+     1	Lee Henson
+     1	Martin Owen
+     1	Michael Chart
+     1	Nathan Faubion
+     1	Olav Andreas Lindekleiv
+     1	TQ White II/qbook
+     1	Thomas Reynolds
+     1	Tony Rasmussen
+     1	ccummings
+     1	farkashon
+     1	noah
+     1	phongjalvn
+     1	welldan97
+jquery.path
+     5	Jonah Fox
+     2	weepy
+jQuery-Placeholder
+    38	Daniel Stocks
+     2	Magnus Bergmark
+     1	James A. Rosen
+     1	Jérôme Gamez
+     1	Nikita Vasilyev
+     1	PavelT
+jQuery-Plugins
+    39	James Padolsey
+     1	Hrusikesh Panda
+     1	unknown
+jquerypp
+   389	Pinhook
+   275	Brian Moschel
+   203	Justin Meyer
+   136	David Luecke
+    56	Austin McDaniel
+    36	Alexandre Gomes
+    31	Marnus Weststrate
+    21	Frederick Polgardy
+    18	Jeremy Kahn
+    17	retro
+    16	Michael Malamud
+    15	Jeffery To
+    14	unknown
+    10	Michael Mayer
+     8	Alexis Abril
+     7	Ralph Holzmann
+     7	Victor Kornov
+     3	Andy Kant
+     3	JupiterJS
+     3	Yusuf Safak Bayram
+     3	callumacrae
+     3	justinbmeyer
+     2	Alex Tracer
+     2	Christiaan Van den Poel
+     2	Fabiano Nunes
+     2	Nick Matthews
+     2	jeremyckahn
+     2	ollinaie
+     1	Bas Ben Zineb
+     1	Jeff Schilling
+     1	Jevgenij Tsoi
+     1	Joris Wijlens
+     1	Joseph Tate
+     1	Karl Mikkelsen
+     1	Lee Henson
+     1	Martin Owen
+     1	Michael Chart
+     1	Nathan Faubion
+     1	Olav Andreas Lindekleiv
+     1	TQ White II/qbook
+     1	Thomas Reynolds
+     1	Tony Rasmussen
+     1	ccummings
+     1	farkashon
+     1	noah
+     1	phongjalvn
+     1	welldan97
+jQuery-Retina
+     3	Tyler Craft
+jquery-scrolldepth
+    13	Rob Flaherty
+jQuery-Smart-Auto-Complete
+    74	Lakshan Perera
+     1	Joe Lu
+     1	Ryan Horn
+     1	alecesaro
+jquery-smartresize
+    10	lrbabe
+     6	louisremi
+     3	Louis-Rémi Babé
+jquery-timeago
+   130	Ryan McGeary
+     4	Randy Merrill
+     3	Armin Pašalić
+     2	Alex Rabarts
+     2	Bobur Umerkulov
+     2	Jan Graichen
+     2	Kevin Sawicki
+     2	Phil Douglas
+     1	Alexander Mossin
+     1	Arnaud Le Blanc
+     1	BNU
+     1	Daniel W. Crompton
+     1	Daniël W. Crompton
+     1	Denis Sokolov
+     1	Ellis Berner
+     1	Gustavo Pantuza
+     1	Mark Gibson
+     1	Maximillian Dornseif
+     1	Thomas
+     1	aeggli
+jquery-tmpl
+    83	BorisMoore
+    15	jeresig
+     6	Richard D. Worth
+     6	jzaefferer
+     3	InfinitiesLoop
+     3	unknown
+     1	Hogan Long
+     1	Richard Worth
+jquerytools
+   169	Tero Piirainen
+    36	Brad Robertson
+    26	bradrobertson
+    14	Christian Ebert
+    12	Duc Tri Le
+     5	tipiirai
+     4	Caolan McMahon
+     4	jarrettv
+     2	Luke Barratt
+     2	Olivier Poitrey
+     2	alibby251
+     2	eugenebolshakov
+     2	jessecarl
+     1	Bernhard Gschwantner
+     1	Drew Turner
+     1	Ian Langworth
+     1	Jesse Allen
+     1	Juan G. Hurtado
+     1	Julian Wachholz
+     1	Kevin Dew
+     1	Nucc
+     1	Oriol Gual
+     1	Reiner Dieterich
+     1	Stefan Penner
+     1	Valentin Jacquemin
+     1	VereNate
+     1	WebsiteDuck
+     1	alan bount
+     1	chinaboy
+     1	jQuery Tools
+     1	unknown
+jquery.transform.js
+    98	louisremi
+     3	Gilmore Davidson
+     2	Louis-Rémi Babé
+     1	Colin LORRAIN
+jquery-ui
+   819	Scott González
+   676	Richard Worth
+   324	Paul Bakaus
+   241	Jörn Zaefferer
+   179	Keith Wood
+   172	Felix Nagel
+   158	Eduardo Lundgren
+   141	jzaefferer
+   110	Scott Jehl
+    85	Ca-Phun Ung
+    80	Chi Cheng
+    76	Klaus Hartl
+    46	Richard D. Worth
+    46	Todd Parker
+    43	Maggie Costello Wachs
+    23	Bohdan Ganicky
+    22	Marc Grabanski
+    14	Aaron Eisenberger
+    13	unknown
+    11	Corey Frang
+    11	kborchers
+     9	David Bolter
+     8	Brant Burnett
+     7	Kato Kazuyoshi
+     6	Andrew Powell
+     5	Giovanni Giacobbi
+     4	Jörn Zaefferer
+     4	gcko
+     3	Alex Dovenmuehle
+     3	Ben Hollis
+     3	Doug Neiner
+     3	Jay Merrifield
+     3	adam j. sontag
+     3	awgy
+     3	marcneuwirth
+     3	pheiberg
+     3	stojce
+     2	Bertjh
+     2	Carl Fürstenberg
+     2	Jack Hsu
+     2	John Resig
+     2	Kevin Dalman
+     2	Ralph Whitbeck
+     2	Robson Braga Araujo
+     2	TJ VanToll
+     2	Tiago Freire
+     2	adambaratz
+     2	carhartl
+     2	gnarf
+     2	kobrigo
+     2	m157y
+     2	maggiewachs
+     2	paulirish
+     1	=
+     1	ALLPRO
+     1	Adam Baratz
+     1	Adam Parod
+     1	Aeron Glemann
+     1	Alberto Fernández Capel
+     1	Alex May
+     1	Andreas Pelme
+     1	AndrewNewcomb
+     1	Ariel Flesler
+     1	Ben Boyle
+     1	Carson McDonald
+     1	Christoph Burgdorf
+     1	Christopher McCulloh
+     1	Dan Heberden
+     1	Daniel Steigerwald
+     1	David De Sloovere
+     1	Diego
+     1	Dmitry Petrov
+     1	Douglas
+     1	Edward Faulkner
+     1	Eike Send
+     1	G Karunakar
+     1	Garrison Locke
+     1	Gaëtan Muller
+     1	George Marshall
+     1	Glenn Goodrich
+     1	Guillaume Gautreau
+     1	Heiko Henning
+     1	Holger Rüprich
+     1	Ivan Peters
+     1	J. Ryan Stinnett
+     1	Jason Moon
+     1	Jasvir Nagra
+     1	Jay Oster
+     1	Jean-Francois Remy
+     1	Jeff Remy
+     1	Jesse Baird
+     1	John Firebaugh
+     1	Jon Palmer
+     1	Jordan Eldredge
+     1	Jorge Barreiro
+     1	JustinMacCarthy
+     1	Karl Kirch
+     1	Khaled AlHourani
+     1	Kris Borchers
+     1	Kyle Florence
+     1	Kyle Wilkinson
+     1	Lado Lomidze
+     1	Lim Chee Aun
+     1	Lopo
+     1	Marcel Toele
+     1	Marian Rudzynski
+     1	Mario Visic
+     1	Mark Johnson
+     1	Martin Solli
+     1	Matt Hoskins
+     1	Michael P. Jung
+     1	Michel Weimerskirch
+     1	Netson
+     1	No Author
+     1	Oleg Shparber
+     1	Paul Irish
+     1	Phillip Barnes
+     1	Rick Waldron waldron.rick@gmail.com
+     1	Saji
+     1	Samuel Cormier-Iijima
+     1	Simon
+     1	SpoonNZ
+     1	Stéphane Raimbault
+     1	The Chad
+     1	Tobias Brunner
+     1	Travis Schettler
+     1	William Griffiths
+     1	Ziling Zhao
+     1	aaronpeterson
+     1	cherif
+     1	clear00
+     1	dblood
+     1	ddstreet
+     1	dominiquevincent
+     1	eXtreme
+     1	felix
+     1	gromo
+     1	igor milla
+     1	jamiejag
+     1	jenters
+     1	jgv
+     1	levushka
+     1	malsup
+     1	marcos.sousa
+     1	meh-cfl
+     1	michaelmwu
+     1	ornicar
+     1	ph-ausseil
+     1	poplix
+     1	ryanolton
+     1	saks
+     1	sixhead
+     1	skeetergraphics
+     1	tzkuei
+     1	whittet
+     1	Виталий
+jquery-ui-bootstrap
+    46	Addy Osmani
+    30	addyosmani
+     4	Francisc Romano
+     3	Panagiotis Kosmidis
+     2	Eli Perelman
+     1	Ben Hall
+     1	Benny Schudel
+     1	Brenno Costa
+     1	Jimmy Gee
+     1	Richard Metzler
+     1	Scott Milliken
+     1	Tony Camp
+     1	smurfy
+     1	stephenfrank
+jquery-validation
+    55	Jörn Zaeffferer
+    41	jzaefferer
+    35	Jörn Zaefferer
+    29	Max Lynch
+    15	Jörn Zaefferer
+     2	Dag Brattli
+     2	jaubourg
+     1	Adam Tibi
+     1	Ando Roots
+     1	Başar Aykut
+     1	Brian Cardarella
+     1	Chris Stainthorpe
+     1	Christian Koller
+     1	Eric Naeseth
+     1	Haacked
+     1	Helmer Aaviksoo
+     1	Horia Dragomir
+     1	Juri Strumpflohner
+     1	Markus Nilsson
+     1	Matthew O'Riordan
+     1	Nathan Long
+     1	Paul Jackson
+     1	Peter Zlatnar
+     1	Synchro
+     1	Takashi Okamoto
+     1	damner
+     1	emirpprime
+     1	fbuchinger
+     1	gavacho
+     1	helder maximo botter ribas
+     1	lukesleeman
+     1	razola
+     1	robertodecurnex
+     1	simshaun
+jquery-waypoints
+    49	imakewebthings
+     2	Johannes Emerich
+     1	Caleb Troughton
+jquery-week-calendar
+   138	Julien MUETTON
+    83	jm1982
+    19	andrzej-aa
+    14	Cyrille Bonnet
+    13	robmonie
+    12	ludovic
+    11	Kévin Gomez Pinto
+     9	Michael Reinsch
+     4	Kévin Gomez
+     4	kphoen
+     3	Bojan Pejic
+     2	Brian Shaver
+     2	Felix Genicio Calvo
+     2	Philippe Duval
+     2	dittodhole
+     2	manentia
+     2	unknown
+     1	Adam Meghji
+     1	Carlos Revillo
+     1	Davide Callegari
+     1	Jeremy D
+     1	Niklas Närhinen
+     1	Thong Kuah
+     1	Xavier
+     1	jlew
+     1	ljaures
+     1	powermick
+jquip
+   107	Demis Bellot
+    14	mythz
+     4	Chris Walker
+     3	Brendan Moore
+     3	FSBrendan
+     2	Todd Wolfson
+     1	Florian Hahn
+     1	Jason Staten
+     1	Jey Balachandran
+     1	Karol Kuczmarski
+     1	Paul Navasard
+     1	Samir Shah
+     1	bpneal
+jribbble
+    42	Tyler Gaw
+     5	Andrew Creek
+jscex
+   452	Jeffrey Zhao
+     2	Shaofei Cheng
+     1	Chen Xingyu
+     1	liunian
+     1	thorn0
+js-imagediff
+    71	Carl Sutherland
+    40	Jordan Santell
+jsmidi
+    55	Sergi Mansilla
+     2	Sergi
+js-model
+   286	Ben Pickles
+     3	Ismael Celis
+     2	Jason Lee
+     1	Carlos Andreu
+     1	Ismael Celis and Oliver Nightingale
+     1	Mark Evans
+     1	Max Williams
+     1	Oliver Nightingale
+     1	Pablo Brasero
+     1	Russell Jones
+     1	Wildfalcon
+jsnes
+    90	Ben Firshman
+     2	Jens Lindstrom
+     1	Rafal Chlodnicki
+     1	ecin
+json3
+   137	Kit Cambridge
+JSONSelect
+   149	Lloyd Hilaiel
+     8	Rick Waldron
+     4	rwldrn
+     3	Elijah Insua
+     2	Ben Atkin
+     1	Bruno Michel
+     1	Casey W Crites
+     1	Nicolas Thouvenin
+jsPDF
+   100	Daniel Dotsenko
+    37	James Hall
+    14	pablohess
+     5	Aaron C Spike
+     3	Jason Siefken
+     1	MrRio
+     1	User
+jspp
+    41	RogerP
+     6	rogp
+     2	Jussi Kalliokoski
+JS-Redirection-Mobile-Site
+    54	Sebastiano Armeli-Battana
+jsrender
+    40	BorisMoore
+    28	Boris Moore
+     1	Sam
+js-signals
+    73	millermedeiros
+    67	Miller Medeiros
+     1	Paul Lewis
+     1	Tom Yandell
+jStorage
+    31	Andris Reinman
+    11	andris9
+     4	Daniel Mendler
+     2	naterkane
+     1	Dan Hipschman
+     1	Lindsey Simon
+     1	Nick Jones
+     1	stopdropandrew
+jstree
+    54	Ivan Bozhanov
+     1	Ehsan Akhgari
+jsts
+   736	Björn Harrtell
+   162	johanhasselstrom
+    26	bjornharrtell
+    22	Felix Kling
+    10	Steven Looman
+     6	Johan Hasselström
+     2	Anna Hall
+Juicer
+   184	GuoKai
+     1	cnruhua
+JUTE
+   148	Mark Ethan Trostler
+     7	Mark Trostler
+jwerty
+    14	Keith Cirkel
+     1	brihogan
+     1	lennym
+     1	scream
+jwysiwyg
+   347	frost-nzcr4
+   274	Akzhan Abdulin
+    71	Yotam Bar-On
+    34	akzhan.abdulin
+    27	joksnet
+    26	Alec Gorge
+    19	Esteban Beltran
+    13	ctide
+     8	Brent Kirby
+     8	Marcello Barnaba
+     7	Markus Schirp
+     6	Lev Lukomsky
+     4	Evan Carroll
+     4	Filip Tepper
+     4	William Stam
+     4	martinh
+     4	mauro
+     4	rosiro
+     3	Clovis Six
+     3	Eugene K
+     3	Matt Wigham
+     3	Peter Zlatnar
+     3	Tekkub
+     3	ippa
+     3	unknown
+     2	Abduljawad Mahmoud
+     2	Gints Murans
+     2	Jalada
+     2	Janne Hietamäki
+     2	aiveldesign
+     2	deepj
+     2	noRerih
+     2	root
+     2	simsalabim
+     1	Andrzej Herok
+     1	Anna Filina
+     1	Boris Strahija
+     1	Chris Burkhart
+     1	Colesnicov Denis Petrovic
+     1	Erik van Dongen
+     1	Inge Jørgensen
+     1	J. Weir
+     1	Janusz Parfieniuk
+     1	Jason Orrill
+     1	Jay Crossler
+     1	Jo Potts
+     1	Justin Lewis
+     1	Kris Schwab
+     1	Lucas Videla
+     1	MappaM
+     1	Marcelo Wergles
+     1	Mika Pacella
+     1	Scott Torborg
+     1	Shawn Meng
+     1	Systeem Be Heer
+     1	Tom Boutell
+     1	Wagner de Sousa
+     1	a;ecgorge
+     1	academo
+     1	akzhan
+     1	bbrewder
+     1	clestial
+     1	duckyDuck
+     1	everlee
+     1	jayon
+     1	mrelkabany
+     1	mydevel
+     1	sandro.franchi
+     1	zbycz
+keymaster
+    53	Thomas Fuchs
+     4	Dustin Diaz
+     4	Trevor Burnham
+     3	Dominic Tarr
+     2	Devon Govett
+     2	Isaac Wolkerstorfer
+     2	Mike Scott
+     2	Yu-Jie Lin
+     1	Chetan Surpur
+     1	Dan Wheeler
+     1	Daniel Pehrson
+     1	Rafaël Blais Masson
+     1	Simon Chester
+khan-exercises
+   695	Ben Alpert
+   450	Ben Eater
+   422	Marcia Lee
+   188	Ben Kamens
+   164	John Resig
+   156	Igor
+   154	Julian Pulgarin
+   115	Jeff Ruberg
+   110	Matt
+   102	Marcos Ojeda
+   100	Omar Rizwan
+    96	jruberg
+    86	David Hu
+    86	Emily Eisenberg
+    84	Scott Menke
+    83	Joel Burget
+    56	Christi Rockwell
+    55	Peter Kuperman
+    43	Stephanie H. Chang
+    42	Desmond Brand
+    30	David Lai
+    30	Mathias Hiron
+    26	Rob Yates
+    21	Mark Thomas
+    21	Mark Wittels
+    19	marcia
+    18	Praveen Ramalingam
+    17	Bradley Tolman
+    17	Jason Rosoff
+    17	Lukas Domagala
+    15	Tom W. Yedwab
+    15	elizabethslavitt
+    14	Arun Saigal
+    13	mwahl
+    12	Matt Wahl
+    11	David Sissitka
+    11	Lance Larsen
+    10	Jason Persampieri
+    10	Kitt Hirasaki
+    10	Lya Laberge
+     8	Lucy Bain
+     8	Marek Majkowski
+     7	Christopher Kirby
+     7	Daniel McLaury
+     7	Hans Engel
+     7	Jace Kohlmeier
+     7	Maureen Suhendra
+     7	johnfn
+     6	Craig Silverstein
+     6	Jason
+     6	RAbraham
+     6	Sophia Westwood
+     6	Sundar Subbarayan
+     5	Jeff Chu
+     5	Peter Burns
+     4	Kevin Lange
+     4	Michal Pokorný
+     4	Rock Hymas
+     4	Zach Fogg
+     4	dddao
+     4	ioddly
+     4	orimilstein
+     4	unknown
+     3	
+     3	Ben Komalo
+     3	Brennan Saeta
+     3	Eric Sumner
+     3	Jon Hoye
+     3	Kori Roys
+     3	Parker Kuivila
+     3	Pawel
+     3	Phil
+     3	Prasanth Veerina
+     3	Savant Krishna
+     3	Wai Keen Vong
+     2	Adam Buchbinder
+     2	Charles Offenbacher
+     2	Chris Klaiber
+     2	Dave Sescleifer
+     2	Josh Zimmerman
+     2	Matthew Hardwick
+     2	Pang Wei Koh
+     2	Parker Bourassa
+     2	Richard To
+     2	Ronald Cheng
+     2	Zachary Fogg
+     2	eltacodeldiablo
+     2	igorT
+     2	mathiash
+     2	mwittels
+     1	Annika Peterson
+     1	Ben Smith
+     1	Chris Streeter
+     1	Christi
+     1	Danny Su
+     1	Duy Dao
+     1	Freyert
+     1	Imran Ghory
+     1	Jeff Dyer
+     1	Jens Axel Søgaard
+     1	John Anderson
+     1	Katerina Barone-Adesi
+     1	Kevin Sawicki
+     1	Michael Nehring
+     1	Oliver Brown
+     1	Peter Saeta
+     1	Roaburn
+     1	Scolron
+     1	Seth Brown
+     1	Spencer Liolios
+     1	Thibault D'Archivio
+     1	Willy O'Hanley
+     1	dneelyep
+     1	kamens
+     1	saasmath
+     1	soegaard
+Kickstrap
+   993	Mark Otto
+   575	Jacob Thornton
+   115	Adam Kochanowicz
+    84	Paul Irish
+    32	Divya Manian
+    31	ajkochanowicz
+    27	Pete Hopkins
+    25	Rob Larsen
+    14	paulirish
+    13	Shi Chuan
+    11	darktable
+    10	Matthew Donoughe
+    10	Samus_
+     8	Joe Morgan
+     8	Jon Stevens
+     7	Chris Gunther
+     7	Silumesii Maboshe
+     6	Chris Aniszczyk
+     6	Purwandi
+     6	calvin
+     5	Burak Tuyan
+     5	Nicklas Ansman Giertz
+     5	Nicolas Gallagher
+     5	Rod Vagg
+     4	Audioname
+     4	Gaëtan Muller
+     4	Guillaume Moulin
+     4	Jeff Adams
+     4	pthrasher
+     4	sankage
+     3	Aaron Stacy
+     3	David Haywood Smith
+     3	Evan Meagher
+     3	François Robichet
+     3	John Wright
+     3	Kim Blomqvist
+     3	Olivier Laviale
+     3	Pamela Fox
+     3	Piotrek Okoński
+     3	drublic
+     2	Andrew Le
+     2	Beau Simensen
+     2	Calvin Rien
+     2	Chris Rebert
+     2	Daniel Filho
+     2	Erik Michaels-Ober
+     2	Jason Wieland
+     2	John Bacon
+     2	Jonathan Ingram
+     2	Kevin Martensson
+     2	Kushal Pisavadia
+     2	Kyle Robinson Young
+     2	Lech Wilczynski
+     2	Linmiao Xu
+     2	Marc Chung
+     2	Martin Bean
+     2	Matthew Pennell
+     2	Maurice W
+     2	Raul Riera
+     2	See Guo Lin
+     2	Simon
+     2	alvincrespo
+     2	eirikb
+     2	nkryptic
+     1	AD7six
+     1	Aaron Kavlie
+     1	Abhijit Menon-Sen
+     1	Adam Bowen
+     1	Aditya Panchal
+     1	Adrien Kohlbecker
+     1	Alex Skrypnyk
+     1	Alex Whitman
+     1	Alexander Pirsig
+     1	Antoine Lépée
+     1	Ben Oberkfell
+     1	Brandon Holtsclaw
+     1	Bruno De Barros
+     1	Bulat Shakirzyanov
+     1	Cary Landholt
+     1	Chad Moran
+     1	Chris Hager
+     1	Chris Morrell
+     1	Chris Sternal-Johnson
+     1	Chris Wiederspan
+     1	Christian Nennemann
+     1	Corey Ward
+     1	Daniel Hoelbling
+     1	Daniel Liuzzi
+     1	Dave Kirk
+     1	David N
+     1	Davide Bellini
+     1	Dmitry Gladkov
+     1	Eden
+     1	Egor Kotlyarov
+     1	Eric Thomas
+     1	Greg Roodt
+     1	Greg Zoller
+     1	Hendy Tanata
+     1	Henrik N
+     1	Herman Schutte
+     1	Igor Bozato
+     1	Jacob Fike
+     1	Jari Jokinen
+     1	Jeff Nunn
+     1	Jeremey Hustman
+     1	Jeremy Martin
+     1	John Attebury
+     1	Josh Farneman
+     1	Julian Birch
+     1	Karthik Viswanathan
+     1	Kasper Bøgebjerg Pedersen
+     1	Kriansa
+     1	Krister Kari
+     1	Leo Cassarani
+     1	Lim Chee Aun
+     1	Luis Abreu
+     1	Luke Hatcher
+     1	Maik Schreiber
+     1	Marco Mariani
+     1	Marco Wise
+     1	Mark Reeder
+     1	Martin Balfanz
+     1	Maxim Kaschenko
+     1	Michael Fellinger
+     1	Michael Shafrir
+     1	Mikael Brevik
+     1	Nano
+     1	Nic Pottier
+     1	Nicholas Camp
+     1	Nick Veys
+     1	Nik Cubrilovic
+     1	Noah Blon
+     1	Paul Kauders
+     1	Rafaël Blais Masson
+     1	Renault John Lecoultre
+     1	Roberto Poo
+     1	Rutger de Knijf
+     1	Sam Carlton
+     1	Sam Soffes
+     1	Scott Watermasysk
+     1	Steve Faulkner
+     1	Steve Purcell
+     1	TannerNMO
+     1	Taylor Ralston
+     1	Torsten Baldes
+     1	Troy Murray
+     1	Vic
+     1	Weslly Honorato
+     1	William Oliveira
+     1	asmega
+     1	crappish
+     1	dplesca
+     1	ejain
+     1	elexx
+     1	kriansa
+     1	localpcguy
+     1	mikemorris
+     1	mikkotikkanen
+     1	owilliams
+     1	philipvonbargen
+     1	raphaelz
+     1	rdeknijf
+     1	rwldrn
+     1	toddhgardner
+     1	yury
+     1	zhongwei99
+kindeditor
+   754	Longhao Luo
+     7	wangking
+     1	fisker Cheung
+     1	unknown
+KineticJS
+   278	Eric Rowell
+    11	ericdrowell
+     9	Jason Follas
+     7	Antoine Proulx
+     2	Lewis Peckover
+     2	Vijai Ramcharan
+     1	Andy Yaco-Mink
+     1	Jonathan Griggs
+     1	Matthieu Ravey
+     1	Yannick Croissant
+     1	Yusuf Safak Bayram
+kissy
+  1468	yiminghe
+  1096	lifesinger
+   136	lizzie
+   105	fool2fish
+    48	yyfrankyy
+    39	liz
+    33	dxq613
+    28	jayli
+    24	i.feelinglucky
+    23	kingfo
+    21	lijing00333@163.com
+    20	gonghao
+    16	cubee
+    15	shengyan1985
+    10	i.feelinglucky@gmail.com
+     9	satans17
+     7	oicuicu@gmail.com
+     6	mingcheng
+     6	unknown
+     5	macji
+     4	maxbbn
+     3	bachi
+     3	sorrycc
+     2	Kingfo
+     2	chencheng (yunqian)
+     2	keyapril
+     2	sprite.evan
+     2	suweihua
+     2	xiaomacji@gmail.com
+     1	Jake Chen
+klass
+    63	Dustin Diaz
+    16	Jacob Thornton
+     5	Dustin Diaz (@ded)
+knockout
+   450	Steve Sanderson
+    72	Michael Best
+    21	Steven Sanderson
+    10	Mark Bradley
+     7	ben hockey
+     6	Matt Wright
+     6	greenlaw110
+     4	Matthew Smith
+     4	unknown
+     3	Andrew Nikolaev
+     2	GilesBradshaw
+     2	Ryan Niemeyer
+     2	Sean McBride
+     2	Steve
+     2	aaronpowell
+     2	antis
+     1	Aaron Blohowiak
+     1	Damien Genet
+     1	Martin Emmert
+     1	Roy Jacobs
+     1	Simon Bartlett
+     1	Trey Shugart
+     1	Vitalii Meshchaninov
+     1	b-dur
+     1	joeldart
+     1	mikekidder
+     1	studgeek
+knockout.mapping
+   116	Roy Jacobs
+     6	DzenisevichK
+     6	James Foster
+     4	Steve Sanderson
+     3	Mark Bradley
+     2	Ben Van Treese
+     1	Bryan Stevenson
+     1	Domenic Denicola
+     1	Jakub Piotr Cłapa
+     1	Matthew Mirande
+     1	Richard Oliver
+     1	gplwhite
+knockout-sortable
+    28	Ryan Niemeyer
+     7	rniemeyer
+     1	Theodoor van Donge
+kratko.js
+    59	kangax
+LABjs
+    49	Kyle Simpson
+    31	getify
+     4	jdalton
+     2	unknown
+laconic
+    31	Joe Stelmach
+     1	Raynos
+lawnchair
+   115	brianleroux
+    68	Brian LeRoux
+    12	C. Scott Ananian
+    10	filmaj
+     9	Paul Irish
+     8	Niall Smart
+     7	Joseph Pecoraro
+     6	tim
+     5	BlessYAHU
+     5	Ed Finkler
+     5	Fil Maj
+     3	Michael Brooks
+     3	Nick Carter
+     3	Nick Fitzgerald
+     2	Andrea Balducci
+     2	Chris Wilson
+     2	Jos Shepherd
+     2	Matt Gifford
+     1	Brock Whitten
+     1	D1plo1d
+     1	Daniel Schildt
+     1	Dave Johnson
+     1	Devon Weller
+     1	Jared Grippe
+     1	Jordan Maguire
+     1	Kresten Krab Thorup
+     1	Lachèze Alexandre
+     1	Lindsey Simon
+     1	Markus Wolf
+     1	Peter Pistorius
+     1	Sjoerd Mulder
+     1	Yvonne
+     1	aezell
+     1	ahaedike
+     1	neebz
+lazyload
+    52	Ryan Grove
+Leaflet
+   497	mourner
+   418	Mourner
+   210	Vladimir Agafonkin
+    72	danzel
+    18	Jason Sanford
+    13	Dino Ravnić
+    12	Morten Ditlevsen
+     8	florian
+     7	Andrey Rublev
+     7	Jan Pieter Waagmeester
+     7	fr1n63
+     6	Mithgol the Webmaster
+     6	florianf
+     6	jacobtoye
+     5	Aaron King
+     5	Andy Chosak
+     5	Matt Spence
+     5	Mehmet Alkanlar
+     5	k4
+     4	Charlie Savage
+     4	ErshKUS
+     4	Neno
+     4	jpk
+     3	Carl Meyer
+     3	Johannes
+     3	Marcin Sikon
+     3	Pavel Shramov
+     2	CodeJosch
+     2	Finn Herpich
+     2	Graeme West
+     2	Jonathan DERROUGH
+     2	Jonny Gerig Meyer
+     2	Lars Knickrehm
+     2	Norbert Renner
+     2	Paolo e Stefano Mainardi
+     2	Samat K Jain
+     2	Stefan Sydow
+     2	Tom MacWright
+     2	antonj
+     1	Alex Graul
+     1	Borin Ouch
+     1	Bryan McBride
+     1	CKeen
+     1	Charlie Moad
+     1	Christian Bäuerlein
+     1	Damon Oehlman
+     1	Geremia Taglialatela
+     1	H. Westphal
+     1	Jason Davies
+     1	Jochen
+     1	Kevin Mahoney
+     1	Kyle Johnson
+     1	Majiir Paktu
+     1	Mattias Bengtsson
+     1	Max Ogden
+     1	Michael Aufreiter
+     1	Mikolaj Grajek
+     1	Miroff
+     1	Peter Gassner
+     1	Reed
+     1	Rick Harris
+     1	Rob Brackett
+     1	Savva
+     1	anru
+     1	appelflap
+     1	chrillo
+     1	chx007
+     1	djomp
+     1	emartinez
+     1	shintonik
+     1	unknown
+learn.jquery.com
+   104	adam j. sontag
+    49	Rebecca Murphey
+    35	Connor Montgomery
+    31	Dan Heberden
+    23	Addy Osmani
+    18	Garrett Johnson
+    14	addyosmani
+     8	Ethan Ransom
+     7	Jeremy Singer-Vine
+     6	Darcy Clarke
+     6	John Paul
+     5	Richard D. Worth
+     4	Mohnish Thallavajhula
+     4	Stefan Baumgartner
+     3	Jonathan Sharp
+     3	Liam Kaufman
+     3	Mike Pennisi
+     3	System Deploy
+     2	Alexander Kahn
+     2	Eddie Monge Jr.
+     2	Karl Swedberg
+     2	Sean Suggs
+     2	codef0rmer
+     1	James Padolsey
+     1	Jim Wang
+     1	Milos Gavrilovic
+     1	Steven
+     1	Steven Hauser
+     1	Terrence Brannon
+     1	Yehuda Katz
+     1	hellocreation
+lernanta
+   720	Zuzel Vera
+   719	Paul Osman
+   263	Jessica Ledbetter
+   253	theinterned
+   186	Dirk Uys
+   132	Vladimir Támara Patiño
+   104	James Walker
+    21	jessykate
+    18	Cillian
+    17	Vanessa Gennarelli
+    16	Greg Wilson
+    15	Stian Haklev
+    14	Ben Moskowitz
+    14	Jaco Joubert
+    14	Josmas
+    14	mozzadrella
+    13	Brian J Brennan
+    13	James Tatum
+    11	josmas
+    10	suggsgested
+     9	John Britton
+     9	Vladimir T�mara Pati�o
+     8	Julia Kulla-Mader
+     8	Ross Bruniges
+     8	Sean Suggs
+     7	Bo Z
+     7	Laura Hilliger
+     5	Stian Håklev
+     5	Vladimir
+     5	mkcode
+     4	Josmas Flores
+     4	Prasanth Nair
+     4	Ricardo Soares
+     3	Andrew Henderson
+     3	Guillermo Movia
+     3	Inkbug
+     3	Lars Larsson
+     3	Luis
+     2	Artur Honzawa
+     2	Jessy Cowan-Sharp
+     2	Jessy Kate
+     2	Joel Crocker
+     2	Luis Zarrabeitia
+     2	Mani C. Fazeli
+     2	Paul Bakulich
+     2	PforPain
+     2	Vladimir Tamara Patino
+     2	Vladimir amara P
+     2	dimanchec3
+     1	1l2p
+     1	Alexis Hevia
+     1	AndyHendy
+     1	Arlton Lowry
+     1	Bill Lovett
+     1	Brylie Oxley
+     1	Charles Tanton
+     1	Creative Commons
+     1	Jon Pipitone
+     1	Marco Fucci
+     1	Philipp Schmidt
+     1	Richard Lo
+     1	Vladimir Tamara P
+     1	danybau
+     1	metoo
+     1	rgardler
+     1	zarrabeitia
+liquidmetal
+    26	Ryan McGeary
+     5	Evan Shelhamer
+     5	Mike Frawley
+list
+   192	Jonny Strömberg
+     8	Jonny Strömberg
+     3	Javve
+     3	Jonny Stromberg and Richard Johansson
+     2	Bob Spryn
+     2	Dan Masquelier
+     2	Marc Liechti
+     2	Matthew Heston
+     1	Edoardo Tenani
+     1	Gvido
+     1	Jonas Forsberg
+     1	Julien Béchade
+     1	Ryan Tanner
+     1	Thomas Klemm
+     1	William Zhou
+     1	francescolaffi
+     1	karl westin
+     1	ryan
+     1	ryantanner
+livepipe-ui
+    31	Ryan Johnson
+    30	Nathan Lloyd Smith
+    12	smith
+    10	Alex Indigo
+     8	Nathan L Smith
+     7	Stuart Halloway
+     5	Mathias Panzenböck
+     3	Stephen Heuer
+     2	Arthur Cinader
+     2	Granjow
+     2	Gregor Schmidt
+     1	Alan Harper
+     1	Artyom Makarov
+     1	Rafe Rosen
+     1	syntacticx
+livequery
+     6	Brandon Aaron
+     3	brandonaaron
+     1	Whoahbot
+livereload
+    66	Andrey Tarantsov
+    66	Nikita Vasilyev
+     9	Mikhail Gusarov
+     3	Stefan Thomas
+     2	Bertrand -bergalath- GAURIAT
+     2	nikita-vasilyev
+     1	Erik Fonselius
+     1	Jonathan Blanchet
+     1	Kyle Neath
+     1	Logan Koester
+     1	Tony Xiao
+LiveScript
+  1604	satyr
+  1426	Jeremy Ashkenas
+   389	George Zahariev
+    48	Stan Angeloff
+    48	Timothy Jones
+    31	Chris Hoffman
+    24	matehat
+    16	Tim Jones
+    15	gfxmonk
+     8	tlrobinson
+     7	Sam Stephenson
+     7	josher19
+     6	Tim-Smart
+     5	Stéphan Kochen
+     4	Chris Lloyd
+     4	Jeffery Olson
+     3	Brody Berg
+     3	Dr Nic Williams
+     3	Josh Perez
+     3	Matt Lyon
+     3	Michael Ficarra
+     3	Satoshi Murakami
+     3	Trevor Burnham
+     3	Zachary Carter
+     2	Adriano Bonat
+     2	Dan Holmsand
+     2	Josh W
+     2	Richard Frankel
+     2	Samuel Reis
+     1	Daniel J. Pritchett
+     1	Greg Fodor
+     1	Jan-Felix Wittmann
+     1	Jason Huggins
+     1	Paul Miller
+     1	Tim
+     1	Tom
+     1	Will
+     1	alunny
+     1	noonat
+     1	scribu
+livevalidation
+    53	Alec Hill
+     1	alechill
+load.js
+    17	Chris O'Hara
+     3	Susmitha Girumala
+loadrunner
+   143	Dan Webb
+    44	Kenneth Kufluk
+     3	Mark Christian
+     2	russ
+     1	Jacob Thornton
+     1	Marcus Phillips
+     1	Nick Morgan
+locache
+    60	Dougal Matthews
+     2	Joaquín Bernal
+     1	leemachin
+lodash
+   423	Jeremy Ashkenas
+   385	John-David Dalton
+    22	Mike Frawley
+    22	Ryan W Tenney
+    21	Brad Dunbar
+    21	Kit Cambridge
+    10	Kit Goncharov
+     9	Raymond May Jr
+     7	Michael Ficarra
+     7	Samuel Clay
+     6	Noah Sloan
+     5	Adam Craven
+     5	Jason Davies
+     4	shinuza
+     4	tomByrer
+     3	Andrei
+     3	Kevin Malakoff
+     3	Kirill Ishanov
+     3	Rick Fletcher
+     3	brad dunbar
+     3	jrburke
+     3	kriskowal
+     3	lifesinger
+     2	Alan Hogan
+     2	Brian Haveri
+     2	David Murdoch
+     2	Derek Brans
+     2	Dmitry Baranovskiy
+     2	Elliot Winkler
+     2	Florian Friesdorf
+     2	Jan Raasch
+     2	Jeff McGee
+     2	Luke Sutton
+     2	Malcolm Locke
+     2	Mark Rushakoff
+     2	Mathias Bynens
+     2	Michael Wolf
+     2	Pier Paolo Ramon
+     2	Stuart Knightley
+     2	Tony Lukasavage
+     2	U-EM\mib
+     2	bjh
+     1	AJ ONeal
+     1	Alfredo Mesen
+     1	Andrea Zicchetti
+     1	Arlo Breault
+     1	Aseem Kishore
+     1	Benjamin Kudria
+     1	Bob Remeika
+     1	Bryan Woods
+     1	Cat Chen
+     1	Chris Baynes
+     1	Chris Leishman
+     1	Dan Tillberg
+     1	Danny Tatom
+     1	David Hirtle
+     1	Dustin Diaz
+     1	Jakub Wieczorek
+     1	Jay Phelps
+     1	Jed Schmidt
+     1	Jo Liss
+     1	John Wright
+     1	Joshua Peek
+     1	Michael Williamson
+     1	Mislav Marohnić
+     1	Nadav
+     1	Neil E. Pearson
+     1	Nick Stenning
+     1	Peter Jihoon Kim
+     1	Ryunosuke SATO
+     1	Sam Gentle
+     1	Sindre Sorhus
+     1	Tim Caswell
+     1	Trevor Burnham
+     1	Vladimir Chernis
+     1	Yi, EungJun
+     1	Zak Johnson
+     1	aseemk
+     1	fredericksgary
+     1	kapooostin
+     1	limeblack
+     1	matehat
+     1	noah
+     1	summatix
+low-pro
+   113	danwebb
+     5	Dan Webb
+     2	Matt Ittigson
+     1	Ian White
+     1	MRoderick
+     1	zeno
+low-pro-for-jquery
+    14	Dan Webb
+     1	Brian Landau
+     1	Jason Gladish
+     1	MRoderick
+     1	danwrong
+lyfe
+    17	rahul
+    14	vrtra
+     4	9@vrtra.net
+     2	vrthra
+     1	Rahul
+machina.js
+    38	Jim Cowart
+Magento-Boilerplate
+    16	zeljkoprsa
+    10	Željko Prša
+     3	Željko Prša
+     1	Joe Fletcher
+mailcheck
+    22	Derrick Ko
+    11	hpshelton
+     1	Akzhan Abdulin
+     1	Christian Fuentes
+     1	Erik Jansson
+     1	Julien Chaumond
+MaSha
+   144	Harut
+    43	Stas Bonbin
+     8	Akzhan Abdulin
+     8	shiberz
+     6	Stanislav Bonbin
+     1	drfisher
+     1	n0s
+     1	ods
+Massive-Coupon---Open-source-groupon-clone
+     4	Robert Styles
+     1	Robert Platek
+match
+    17	rahul
+    14	vrtra
+     4	9@vrtra.net
+     2	vrthra
+     1	Rahul
+MathJax
+   771	Davide P. Cervone
+    67	Davide Cervone
+    62	dpvc
+    28	Sean Hogan
+    20	Casey W. Stark
+    10	Robert Miner
+     3	Tyler Breisacher
+     3	robertminer
+     2	Jason Davies
+     1	Ivan Savov
+mindmaps
+   261	David
+    58	drichard
+     4	david
+minimal.js
+    38	Rui Lopes
+     3	Chris Jacob
+     1	Gun.io Whitespace Robot
+     1	earth2marsh
+mochikit
+   739	Bob Ippolito
+   243	Per Cederberg
+   145	Thomas Hervé
+   100	Beau Hartshorne
+     9	blq
+     7	Arnar Birgisson
+     5	Robert Sayre
+     5	Zachery Bir
+     4	Christoph Zwerschke
+     4	Jay Baird
+     4	Paul Cannon
+     3	Pär Wieslander
+     1	Alexander Golubev
+     1	Andres Freund
+     1	Eoghan Murray
+     1	Fredrik Blomqvist
+     1	Keith Dart
+     1	Richard Mansfield
+     1	Sasha Go
+     1	svm
+Modernizr
+   461	Paul Irish
+    51	Ryan Seddon
+    28	paul.irish
+    25	paulirish
+    19	Faruk Ates
+    19	Mike Taylor
+    16	addyosmani
+    15	aFarkas
+    12	Mathias Bynens
+    10	Ben Alman
+     9	Modernizr
+     7	Jan Lehnardt
+     7	Theodoor van Donge
+     7	phred
+     6	Joshua Peek
+     6	Phil Dokas
+     5	David Murdoch
+     5	David Newton
+     5	Mihai Balan
+     5	Zee Agency
+     4	Eric Bidelman
+     4	alrra
+     4	helgri
+     3	Alexander Farkas
+     3	Dan Beam
+     3	Darius Morawiec
+     3	Devon Govett
+     3	François Robichet
+     3	Jussi Kalliokoski
+     3	Mike Sherov
+     3	Peter Janes
+     3	Rodney Rehm
+     3	Stefan Wallin
+     3	scottjehl
+     2	Masataka Yakura
+     2	Mircea Georgescu
+     2	Paul Sayre
+     2	Richard Zurad
+     2	Sindre Sorhus
+     2	Slawek Kolodziej
+     2	donnut
+     2	hellocreation
+     2	vlakoff
+     1	Adam Koch
+     1	Addy Osmani
+     1	Allan Lei
+     1	Anton Byrna
+     1	Ben Schwarz
+     1	Chris Eppstein
+     1	Chris Heilmann
+     1	Daniel Kuffner
+     1	Daniel Shaw
+     1	Deschtex
+     1	Drew Covi
+     1	Faruk Ateş
+     1	Faruk Ateş
+     1	Guillaume RENAUDIE
+     1	Jeff Schiller
+     1	Laust Deleuran
+     1	Lenny Martin
+     1	Mislav Marohnić
+     1	Ms2ger
+     1	Ralph Holzmann
+     1	Rasmus Fløe
+     1	Razvan Caliman
+     1	Shi Chuan
+     1	Stephan Zalewski
+     1	TheShock
+     1	Tony
+     1	ausi
+     1	bastimeyer
+     1	callum85
+     1	csnover
+     1	fredj
+     1	laustdeleuran
+     1	leods92
+     1	simonsmith
+     1	slavic
+     1	theostrahlen
+modestmaps-js
+   193	Tom MacWright
+    68	Tom Carden
+    56	tom.carden
+    40	Shawn Allen
+    30	tom
+    25	Michal Migurski
+    17	migurski
+     1	Ansis Brammanis
+     1	Chris Forbes
+     1	Nate Irwin
+     1	asc
+     1	wiseman
+mofo
+    18	Chris Wanstrath
+     2	Eivind Uggedal
+     2	Olivier Ruffin
+     1	Ben Kerney
+     1	Matt Wood
+mojito
+    72	Isao Yagi
+    54	Joe Catera
+    27	Drew Folta
+    14	Scott
+    14	folta
+    12	buildmob
+    11	mojit0
+     8	Renaud Waldura
+     7	Dav Glass
+     7	add0n
+     6	drewfish
+     3	Ryuichi Okumura
+     2	Cary Stanley
+     2	Dmitry Savintsev
+     2	Marco Aurélio
+     2	Ric Allinson
+     2	Seth Bertalotto
+     2	idearat
+     2	jcatera
+     2	kfay
+     1	Fabian Frank
+     1	Julien
+     1	Michael Ridgway
+     1	Scott Shattuck
+     1	imalberto
+     1	isao
+Monocle
+   431	Joseph Pearson
+    50	joseph
+     1	Shayan Guha
+     1	jlbruno
+montage
+   349	Stuart Knightley
+   272	Kishore Subramanian
+   258	François Frisch
+   227	Mike Czepiel
+   138	Kris Kowal
+   128	Jean-Francois Ducarroz
+   127	António Afonso
+   112	António Afonso
+   102	Heather Douglass
+    66	Simon
+    55	Javier Roman
+    33	Tim Statler
+    17	Benoit Marchant
+    15	Brandon Jones
+    12	François Frisch
+     9	Pierre Frisch
+     8	Zachary Cohen
+     4	Valerio Virgillito
+     3	Jean-François Ducarroz
+     3	Trevor Sheridan
+     2	Eliseo Soto
+     1	Fabrice Robinet
+     1	Francois Frisch
+     1	kwalker
+mootools
+    17	rahul
+    14	vrtra
+     4	9@vrtra.net
+     2	vrthra
+     1	Rahul
+mousetrap
+   145	Craig Campbell
+     7	David
+     2	Willie Zutz
+     1	=
+     1	Mike Crittenden
+music.js
+    11	Greg Jopa
+     2	Jussi Kalliokoski
+mwf
+   550	Rich Trott
+   420	Eric Bollens
+    49	Ike Lin
+    12	Nathan Emerson
+     5	Logan Franken
+     4	Trott
+     2	Christopher Webber
+     1	Nate Emerson
+     1	Stefan Topfstedt
+     1	Zorayr Khalapyan
+     1	jody tate
+     1	nateemerson
+NewsBlur
+  2834	Samuel Clay
+     9	samuelclay
+     2	Ben Cohen
+     2	François de Metz
+     2	lhagan
+     1	Alberto Paro
+     1	Eskild Hustvedt
+     1	Laptop765
+     1	Matthew Daniel
+nimble
+    20	Caolan McMahon
+     1	Alice Kærast
+     1	drewlesueur
+ninja
+   884	Valerio Virgillito
+   555	Jose Antonio Marquez
+   417	Nivesh Rajbhandari
+   346	Eric Guzman
+   329	Jonathan Duran
+   269	Ananya Sen
+   257	hwc487
+   222	Jon Reid
+   179	Pushkar Joshi
+   154	Armen Kesablyan
+    94	Kruti Shah
+    87	John Mayhew
+    28	Jose Antonio Marquez Russo
+    13	François Frisch
+    11	mayhewinator
+     9	Kris Kowal
+     7	Stuart Knightley
+     6	San Khong
+     5	António Afonso
+     4	Eric
+     4	Kishore Subramanian
+     2	Pierre Frisch
+     1	Benoit Marchant
+     1	François Frisch
+     1	mqg734
+nodechat-tutorial
+    15	Justin Slattery
+nodeclub
+    68	fengmk2
+    20	Jackson Tian
+    10	Kenny Zhao
+     9	muyuan
+     8	dead-horse
+     7	young40
+     5	ericzhang
+     3	Json Shen
+     3	Lei Zongmin
+     3	jiyinyiyong
+     2	chang
+     1	LeToNode
+     1	leizongmin
+     1	roymax
+     1	sunwenchao
+     1	thebrecht
+     1	张洋
+node-htmlparser
+    74	Chris Winberry
+     5	Felix Gnass
+     2	Vladimir Támara Patiño
+     1	Andreas Lind Petersen
+     1	Nathan Rajlich
+node.io
+   398	Chris O'Hara
+     4	Maarten Bosma
+     2	Chris O'Hara - AFK
+     2	Gregory Waxman
+     2	John Hurliman
+     2	Mike Moulton
+     2	irony
+     1	Erkan Yilmaz
+     1	Frederick Cook
+     1	Konstantin Ras
+     1	Laurent Debricon
+     1	Michael Hart
+     1	Oncle Tom
+     1	Piotr Nedzynski
+     1	Will Glynn
+node-readability
+    22	Arrix
+    10	Chetan Surpur
+     2	Daniel Huckstep
+node-static
+    45	cloudhead
+    10	Pablo Cantero
+     3	Alexis Sellier
+     2	Michael(tm) Smith
+     2	cimnine
+     2	pbouzakis
+     1	Alex Indigo
+     1	Carlos Precioso
+     1	Hugues (MBP)
+     1	Larry Staton Jr
+     1	Sean Braithwaite
+     1	jeremybarnes
+nodeunit
+   216	Caolan McMahon
+    26	Oleg Efimov
+    11	Bryan Donovan
+    11	Carl Fürstenberg
+     8	Kadir Pekel
+     7	Alex Gorbatchev
+     6	Maciej Małecki
+     6	Romain Beauxis
+     4	Elijah Insua
+     4	Thomas Mayfield
+     4	minodisk
+     3	Avi Deitcher
+     2	Aldo Cortesi
+     2	Gerad Suyderhoud
+     2	Sam Stephenson
+     2	teknopaul
+     2	Λlisue
+     1	Adrian Bravo
+     1	Alex Wolfe
+     1	Allan Boyd
+     1	Anatoliy Chakkaev
+     1	Cody Fauser
+     1	David Schoen
+     1	Gabriel Farrell
+     1	Glen Mailer
+     1	Jameson Lee
+     1	Jason Campbell
+     1	Logan Smyth
+     1	Marsup
+     1	Matthias Lübken
+     1	Muddy Dixon
+     1	Niklas Närhinen
+     1	Orlando Vazquez
+     1	Paul Armstrong
+     1	Paulo Lopes
+     1	Peter Wong
+     1	Ryan Dahl
+     1	Sander Nieuwenhuizen
+     1	Scott McWhirter
+     1	Uri Golani
+     1	chrforster
+     1	kadir
+     1	sugyan
+node-uuid
+    93	Christoph Tavan
+    81	Robert Kieffer
+     1	Brian P O'Rourke
+     1	Gabriel Sobrinho
+     1	Jason Woofenden
+     1	Robert Austin
+     1	Xavi
+node.websocket.js
+    15	Guillermo Rauch
+     8	Riccardo Cambiassi
+     2	John Goulah
+     1	Adam MacBeth
+     1	Joe
+node-websocket-server
+   125	Micheil Smith
+     2	Aaron Blohowiak
+     2	Peter Griess
+     1	Craig Thayer
+     1	Kris Zyp
+     1	isaacs
+     1	izuzak
+noVNC
+   533	Joel Martin
+    11	Mike Tinglof
+    10	Chris Gordon
+     5	Anthony Young
+     4	William Lightning
+     3	Soheil Hassas Yeganeh
+     2	Amir Malik
+     2	Kevin Chan
+     2	primalmotion
+     1	Antoine Mercadal
+     1	Ed Schouten
+     1	François Revol
+     1	Mike
+     1	Mike T
+     1	Mohammed Naser
+     1	Ohad Levy
+     1	Phil Phillips
+     1	Sam Mussmann
+     1	Todd Freese
+nwm
+   187	Mikito Takada
+     1	Henry
+nwmatcher
+   651	Diego Perini
+    12	Samuel Lebeau
+     8	Rod Vagg
+     7	jdalton
+     3	Kit Goncharov
+     1	Jason Davies
+     1	John-David Dalton
+     1	Victor Homyakov
+obviel
+    17	rahul
+    14	vrtra
+     4	9@vrtra.net
+     2	vrthra
+     1	Rahul
+olelo
+   442	Daniel Mendler
+   387	minad
+   112	Simon Rozet
+     4	Hrvoje
+     4	webs
+     2	Alex Eagle
+     2	Luca Greco
+     1	Alex Payne
+     1	Alex Wall
+     1	Bryan T. Richardson
+     1	Pavel Suchmann
+     1	Raffael Schmid
+     1	Ryan Tomayko
+     1	Scott Chacon
+o_O
+   172	weepy
+    38	Troy Goode
+     1	Richard Carter
+     1	thadclay
+openbadges
+   811	Brian J Brennan
+    86	Chris McAvoy
+    75	Atul Varma
+    66	Mike Larsson
+    11	Philippe M. Chiasson
+     4	Pradeep
+     3	Pradeep GS
+     2	Zuzel Vera
+     2	vagrant
+     1	Jon Buckley
+     1	Les Orchard
+     1	Schalk Neethling
+openlayers
+  1180	crschmidt
+   996	euzuro
+   970	Tim Schaub
+   763	ahocevar
+   596	Éric Lemoine
+   312	Frédéric Junod
+   197	Schuyler Erle
+   170	bartvde
+   127	fredj
+   107	tschaub
+   102	Bart van den Eijnden
+    62	Marc Jansen
+    60	pgiraud
+    52	Frederic Junod
+    44	Peter Robins
+    41	Gregers Gram Rygg
+    39	Paul Spencer
+    37	Xavier Mamano
+    32	Antoine Abt
+    31	Matt Priour
+    23	Stéphane Brunner
+    22	Matthew Perry
+    22	Pierre GIRAUD
+    10	Arjen Kopinga
+    10	follower
+     6	Bruno Binet
+     6	Tom Hughes
+     5	Christopher Schmidt
+     5	Tom Payne
+     4	rda
+     3	David Winslow
+     3	Example User
+     3	Jachym Cepicky
+     3	Tom MacWright
+     3	aabt
+     3	sdikiy
+     2	Andrew Vardeman
+     2	Andy Allan
+     2	Emanuele Ziglioli
+     2	James
+     2	dregade
+     2	jrf
+     2	mperry
+     2	unknown
+     1	Arkadiusz Grabka
+     1	Björn Harrtell
+     1	Javier de la Torre
+     1	John Lien
+     1	Mark Prins
+     1	Nacho Uve
+     1	Volker Mische
+     1	_DR_
+     1	drnextgis
+     1	ejn
+     1	fbuchinger
+     1	oleg-poligon
+     1	pjeweb
+     1	rdewit
+     1	root
+     1	temporaryaccount
+     1	towa48
+OpenLayers-2.12
+    17	rahul
+    14	vrtra
+     4	9@vrtra.net
+     2	vrthra
+     1	Rahul
+openmind
+   655	Bob Sturim
+   180	unknown
+    37	Rich Sturim
+     2	root
+openspendingjs
+    17	rahul
+    14	vrtra
+     4	9@vrtra.net
+     2	vrthra
+     1	Rahul
+openwebapps
+   586	Lloyd Hilaiel
+   234	Ian Bicking
+   228	Anant Narayanan
+   181	Dan Walkowski
+   166	Michael Hanson
+   101	mhanson@gmail.com
+    84	mixedpuppy
+    78	Ben Adida
+    67	Shane Carveo
+    51	Shane Tomlinson
+    46	Mark Hammond
+    27	David Clarke
+    21	Tim Abraldes
+    15	Shane Caraveo
+    12	Nick Desaulniers
+     7	David Kettler
+     4	Tarek Ziadé
+     2	Austin King
+     2	Mohamed Dabbagh
+     2	tabraldes
+     1	jrburke
+     1	lhilaiel
+orion.client
+   489	Mark Macdonald
+   407	sfranklin
+   390	Malgorzata Janczarska
+   368	skaegi
+   342	Szymon Brandys
+   335	libing wang
+   314	John Arthorne
+   304	Silenio Quarti
+   297	Susan McCourt
+   232	Libing Wang
+   115	Felipe Heidrich
+    79	Anton McConville
+    71	Boris Bokowski
+    44	Tomasz Zarna
+    38	Max Li
+    31	Andrew Niefer
+    31	Simon Kaegi
+    29	Mihai Sucan
+    25	Grant Gayed
+    20	kwalker
+    14	Piotr Janik
+     7	Andrew Eisenberg
+     6	Edyta Przymus
+     6	Maciej Bendkowski
+     5	Andy Clement
+     5	Kris De Volder
+     3	kenwalker
+     2	Ken Walker
+     1	Alex Lakatos
+     1	Jayaprakash Arthanareeswaran
+     1	gbochenek
+Overthrow
+    42	scottjehl
+     2	Scott Jehl
+     1	Jean-Sébastien Ney
+     1	Mark Hill
+PagedList
+   128	Troy Goode
+     4	Austin Grigg
+     3	Darren Cauthon
+     2	Danny Douglass
+     2	Seth Carney
+pagedown-bootstrap
+    22	balpha
+     7	Sam Willis
+paging_keys_js
+    38	Matthew Hutchinson
+paper.js
+  1150	Jürg Lehni
+   901	Jonathan Puckey
+   528	Jürg Lehni
+     8	Richard D. Worth
+     3	Oliver Beattie
+     3	gka
+     1	Alex Buchanan
+     1	Ben Ogle
+     1	Carlo Alberto Ferraris
+     1	Jono Brandel
+     1	Xin Wang
+     1	bgrins
+     1	christophknoth
+pavlov
+    39	Michael Monteleone
+     5	Eric DeLabar
+     1	Christopher Swasey
+     1	Daniel Mohl
+     1	Erin Houston
+     1	PaulECoyote
+pebbles
+     7	Spencer Davis
+     6	Joseph Javier Perla
+     4	Joseph Perla
+     3	Alexander Prinzhorn
+     1	Rob Paisley
+persistencejs
+   253	Zef Hemel
+    51	Roberto Saccon
+    30	Fábio Rehm
+    22	Bruno Jouhier
+    17	Masahiro Hayashi
+     8	Jacob Mumm
+     5	zef
+     4	Fabio Rehm
+     4	Guido Lorenz
+     3	Mick Staugaard
+     2	Allain Lalonde
+     2	Chris Chua
+     2	Chris Dary
+     2	Sylvain Zimmer
+     2	Wilker Lucio
+     1	Ben Williamson
+     1	Chetan Surpur
+     1	Gabor Adam Toth
+     1	Jeff Kunkle
+     1	Jordan Reiter
+     1	Josh Smith
+     1	MakeToLearn
+     1	MarkMYoung
+     1	Matthias Hochgatterer
+     1	Mike Smullin
+     1	Pablo Marti
+     1	Robert Wallstrom
+     1	Robin Wenglewski
+     1	Roman Shtylman
+     1	Shane Tomlinson
+     1	Skunk
+     1	eugene
+     1	lukasberns
+persist-js
+   104	pabs@pablotron.org
+    27	Jeremy Durham
+     5	Mayank Sharma
+     2	J Ryan Littlefield
+     2	Matt Pizzimenti
+     1	Johannes Würbach
+     1	Marcus Spiegel
+     1	mayanks
+phantom-limb
+    38	Brian Carstensen
+     1	Björn Söderqvist
+philogl
+   233	philogb
+     9	nicolas garcia belmonte
+     6	Ariya Hidayat
+     2	Felix Woitzel
+     2	ZHANG Bei
+     2	pangwa
+     1	Drew Wells
+     1	Federico Russo
+phonegap-samples
+     2	stevengill
+     1	Dave Johnson
+phonegap-start
+     4	alunny
+     2	Ryan Betts
+     1	Andrew Lunny
+     1	Dan Silivestru
+     1	Dave Johnson
+PhotoSwipe
+    38	codecomputerlove
+    36	Code Computerlove
+    14	Ste Brennan
+     2	Tony McBeth
+     1	Jon Jandoc
+     1	Marçal Juan Llaó
+     1	oddbox
+     1	theomega
+phpjs
+   758	Brett Zamir
+   605	Kevin van Zonneveld
+   159	PHP.JS Automation
+    25	unknown
+    23	Theriault
+    20	Onno Marsman
+    17	rafaelk
+    12	Rafał Kukawski
+    11	Rafal Kukawski
+     4	Marcus Westin
+     4	louis
+     3	David Neilsen
+     3	Jack Moore
+     3	Philip C. Peterson
+     2	上月澪
+     1	Arnout Kazemier
+     1	Dick Olsson
+     1	Felix Geisendörfer
+     1	Ghabriel
+     1	John Supplee
+     1	Justin de Vesine
+     1	Ryan W Tenney
+     1	kvz
+     1	peresypkin
+pivot.js
+   148	Robert Jackson
+    75	Jonathan Jackson
+    10	Jonathan
+platform.js
+   114	John-David Dalton
+    26	jdalton
+     7	Mathias Bynens
+polypage
+    66	Andy Kent
+     7	Yoan Blanc
+popcorn-js
+   443	ScottDowne
+   371	Christopher De Cairos
+   327	Anna Sobiepanek
+   246	David Seifried
+   185	rwldrn
+   172	Jon Buckley
+   129	stevenaw
+   128	Rick Waldron
+    91	Matthew Schranz
+    49	Daniel Hodgin
+    40	Daniel Brooks
+    38	Scott Downe
+    37	Mohammed Buttu
+    36	David Humphrey
+    33	Rick Waldron waldron.rick@gmail.com
+    29	denise rigato
+    26	secretrobotron
+    23	Dan Ventura
+    19	dseif
+    13	Nick Doiron
+    13	unknown
+    12	Minoo
+    11	David Humphrey (:humph) david.humphrey@senecacollege.ca
+     9	Bobby Richter
+     7	Kate Hudson
+     7	annasob
+     5	Nick Cammarata
+     5	jptweb
+     4	Boaz
+     4	Gordon P. Hemsley
+     4	Robert Stanica
+     4	brianchirls
+     4	krome
+     3	Anna Sob
+     3	Brad Chen
+     3	Brian Chirls
+     3	Charlie Stigler
+     3	Matt
+     3	brettgaylor
+     3	scott
+     2	Corban Brook
+     2	Edsfault
+     2	scottdowne
+     1	cadecairos
+     1	minoo
+     1	root
+Porter
+    81	hij1nx
+    12	Fedor Indutny
+     5	Hij1nx - Nodejitsu
+     5	Hij1nx at Nodejitsu
+     1	Bryn Austin Bellomy
+     1	Paolo Fragomeni
+postal.js
+   114	Jim Cowart
+     2	Alex Robson
+     2	Doug Neiner
+     1	Travis Smith
+Postman
+    29	aaronpowell
+     5	Aaron Powell
+     1	Az-Admin
+     1	unknown
+POSTMan-Chrome-Extension
+   230	Abhinav Asthana
+    22	unknown
+    21	Abhinav
+    11	Ankit Sobti
+     5	Jeremy
+     2	Jeremy Selier
+     1	Alexandre Bourget
+     1	James
+     1	Martin Gladdish
+     1	Scott Rahner
+     1	Seung Jin Cho
+     1	Stefan Auditor
+     1	U-Abhinav-PC\Abhinav
+     1	ankit
+pouchdb
+   270	Dale Harvey
+    42	Mikeal Rogers
+    14	Johannes J. Schmidt
+    10	Ryan Ramage
+     9	Randall Leeds
+     6	Dale  Harvey
+     4	Caolan McMahon
+     2	Max Ogden
+     2	trisapeace
+     1	Benjamin Young
+     1	Gabriel Mancini
+     1	Gábor Molnár
+     1	Peter Braden
+     1	gabrielmancini
+Presenteer.js
+    52	Willem Mulder
+     1	Dominik Liebler
+     1	Fabrica Sapiens
+     1	Michael Joseph
+primer
+    34	Tom Preston-Werner
+promptu-menu
+    26	Jānis Zaržeckis
+protolicious
+   116	kangax
+    16	Juriy Zaytsev
+     1	Jon Gjengset
+     1	Vadim Voituk
+prototype
+   350	Andrew Dupont
+   228	Tobie Langel
+   150	Sam Stephenson
+    91	tjcrowder
+    81	Thomas Fuchs
+    51	Juriy Zaytsev
+    42	dandean
+    13	Samuel Lebeau
+    13	Tim Walker
+    10	Arthur Schreiber
+     7	savetheclocktower
+     5	RStankov
+     5	Victor Homyakov
+     5	Vladimir Dronnikov
+     3	Avram Eisner
+     3	Bertrand Chardon
+     2	Duncan Beevers
+     2	Mike Rumble
+     1	Dan Dean
+     1	Daniel Von Fange
+     1	Gianni Chiappetta
+     1	James Wheare
+     1	John-David Dalton
+     1	Joshua Peek
+     1	Rob Sterner
+     1	Yaffle
+     1	jdalton
+     1	kangax
+     1	sstephenson
+protovis
+   681	mbostock
+   418	Mike Bostock
+    52	Vadim Ogievetsky
+    15	hskim08
+    10	Jason Davies
+     6	John Firebaugh
+     5	vad
+     4	jheer
+     2	Murray Stokely
+     1	Marcus D. Hanwell
+     1	Michael Bostock
+pusher-js
+   141	Martyn Loughran
+   138	Mary Rose Cook
+    72	Ismael Celis
+    44	Micheil Smith
+    23	Ben Pickles
+    20	Daniel Waterworth
+    19	Makoto Inoue
+    13	Wildfalcon
+     8	Paweł Ledwoń
+     4	Ben Pickles and Martyn Loughran
+     2	Max Williams
+     1	Ben Pickles and Mark Evans
+     1	Ben Pickles and Olly Legg
+     1	Guilherme Cavalcanti
+     1	Paweł Ledwoń
+     1	Phil Leggetter
+     1	The Pusherinos
+     1	Tristan Dunn
+     1	addbrick
+put-selector
+    50	Kris Zyp
+     1	Colin Snover
+     1	Mike Bulman
+py2js
+    17	rahul
+    14	vrtra
+     4	9@vrtra.net
+     2	vrthra
+     1	Rahul
+py2js.results
+    17	rahul
+    14	vrtra
+     4	9@vrtra.net
+     2	vrthra
+     1	Rahul
+q
+   262	Kris Kowal
+    65	Domenic Denicola
+    31	Irakli Gozalishvili
+     3	Erik Vold
+     2	Chris Osborn
+     2	jrburke
+     1	Dmitry Filatov
+     1	Forbes Lindesay
+     1	Jim Tittsler
+     1	Matti Schneider
+     1	Ryan Witt
+     1	Simone Cianfriglia
+qc.js
+    17	rahul
+    14	vrtra
+     4	9@vrtra.net
+     2	vrthra
+     1	Rahul
+qooxdoo
+  7661	wpbasti
+  3296	thron7
+  2582	fjakobs
+  1956	Daniel Wagner
+  1669	Martin Wittemann
+   895	Tristan Koch
+   879	jonathan_rass
+   705	Christian Hagendorn
+   669	ecker
+   593	wittemann
+   558	derrell
+   515	Tino Butz
+   507	Fabian Jakobs
+   479	Thomas Herchenröder
+   458	aback
+   400	Christian Schmidt
+   308	martinwittemann
+   295	Andreas Ecker
+   255	Gabriel Munteanu
+   236	Christopher Zuendorf
+   230	trkoch
+   185	til132
+   180	Jonathan Weiss
+   161	chris_schmidt
+   153	d_wagner
+   151	Alexander Steitz
+   150	Alexander Back
+   133	ybeser
+   121	Adrian Olaru
+   117	Derrell Lipman
+   111	tjbutz
+    99	david-perez
+    96	lucidcake
+    49	level420
+    46	Mustafa Sak
+    28	Michael Haitz
+    26	asteitz
+    26	vpauli
+    24	Andreas Parusel
+    19	Carsten Lergenmüller
+    18	carstenl
+    15	asala
+    13	Sebastian Werner
+    11	firstbman
+     9	gdementen
+     8	aparusel
+     8	lkaiser
+     8	psycledw
+     7	Florian Wesch
+     5	jonathanweiss
+     4	Tino Johannes Butz
+     4	cameronbraid
+     3	Vladimir Dobriakov
+     3	caugusti
+     2	Matthias Hellriegel
+     2	Robin Danzinger
+     2	lepokle
+     2	michael_steiner
+     2	qooxdoo-user
+     2	root
+     1	(no author)
+     1	Burak Arslan
+     1	Stephan Adig
+     1	Uvarov Michael
+     1	christianharms
+     1	hgibson50
+     1	introkun
+qunit
+   105	Jörn Zaefferer
+    86	jzaefferer
+    75	Jörn Zaefferer
+    43	John Resig
+    15	Scott González
+    13	Timo Tijhof
+    12	Will Moffat
+     9	Frances Berriman
+     9	jeresig
+     5	Benjamin Lee
+     5	Rick Waldron waldron.rick@gmail.com
+     5	Wesley Walser
+     4	Krinkle
+     4	Leon Sorokin
+     4	Philippe Rathé
+     3	Erik Vold
+     3	Nikita Vasilyev
+     3	Richard Worth
+     3	Trevor Parscal
+     2	Jan Kassens
+     2	Markus Messner-Chaney
+     2	Oleg Slobodskoi @oleg008
+     2	Philippe Rathe
+     2	Rune Halvorsen
+     2	Ryan Szulczewski
+     2	Seong-A Kong
+     2	lrbabe
+     2	unknown
+     1	Alex J Burke
+     1	Anton M
+     1	Ariel Flesler
+     1	Ashar Voultoiz
+     1	Bob Fanger
+     1	Chris Lloyd
+     1	Daniel Trebbien
+     1	DomenicDenicola
+     1	Douglas Neiner
+     1	Erkan Yilmaz
+     1	Fábio Rehm
+     1	Gijs Kruitbosch
+     1	Graham Conzett
+     1	Herbert Vojčík
+     1	JZA
+     1	Jake Archibald
+     1	Jan Alonzo
+     1	Jimmy Mabey
+     1	Jonathan Sanchez
+     1	Keith Cirkel
+     1	Marc Portier
+     1	Mathias Bynens
+     1	Michael Righi
+     1	Mike Sherov
+     1	Niall Smart
+     1	Paul Elliott
+     1	Paul Irish
+     1	Richard Gibson
+     1	Rob Kinninmont
+     1	Spocke
+     1	Ziling Zhao
+     1	jakearchibald
+     1	sexyprout
+     1	thatcher
+     1	wwalser
+QuoJS
+    95	@soyjavi
+     3	Javier Jiménez
+     2	Oliver
+     1	Andre Bossard
+     1	Tomás Corral Casas
+     1	soyjavi
+quote-stream
+    29	Justin
+qwery
+   182	Dustin Diaz
+    54	Rod Vagg
+    16	Andrew McCollum
+    15	Jacob Thornton
+    12	Ray Waldin
+     4	Clint Andrew Hall
+     3	jdalton
+     2	olleolleolle
+     1	Ben Vinegar
+     1	Ben Ward
+     1	Dustin Senos
+     1	Juan Patten
+     1	Mani Tadayon
+     1	Pau Ramon
+     1	Rémi Prévost
+Rails-3-HTML5-Boilerplate
+     5	Xac Stegner
+     1	Gabe Rambert
+     1	Michael Prins
+     1	Nikita Fedyashev
+railsapps.github.com
+   368	Daniel Kehoe
+     1	Gregg Pollack
+     1	Luis Reis
+     1	Marco
+     1	shadowbq
+rainbow
+   337	Craig Campbell
+    19	Jesse Farmer
+     9	Daniel Holden
+     7	Simon Potter
+     6	Flinn
+     6	Javier Aguirre
+     6	Matthew King
+     4	Alex Queiroz
+     4	Eiki Martinson
+     3	Dan Stewart
+     3	Frank Shearar
+     3	Geert De Deckere
+     3	James Smith
+     3	Rhys Powell
+     2	David Litmark
+     2	Leo Accend
+     2	Rachel Baker
+     1	Chuck Harmston
+     1	Kyo Nagashima
+     1	skim
+raphael-svg-import
+    20	wout fierens
+     7	Matt Cook
+     1	Georgi Momchilov
+RapidFTR
+   145	Tom Elkin
+   107	chrisgeorge
+   103	Jen Smith
+    79	cgeorge
+    63	John D. Hume
+    54	Pete Hodgson
+    46	jennifersmith
+    42	Timothy Cochran
+    40	Zubair
+    37	Babitha
+    35	ThoughtWorks Brasil RHoK Team
+    35	Zubair Khan
+    34	John Hume
+    32	Jean D'Amore
+    31	Jang-Soo Lee
+    27	Shyam Vala
+    27	zoodor
+    25	Jennifer Smith
+    21	Francisco Trindade
+    21	Peter Gillard-Moss
+    21	Srinivas Murthy
+    16	Bruce Lee
+    15	Sreenivas Ananthakrishna
+    15	asifmomin
+    14	Carlos Villela
+    14	Frank Trindade and Jon Spalding
+    12	Andrew Nesbitt
+    12	Jaco Pretorius
+    12	Rikesh Dhokia
+    11	Aravind
+    11	dahlia
+    11	pawan
+    10	Noppanit Charassinvichai
+     8	Ikenna Nwaiwu
+     8	Jason Neylon
+     8	Mark Burns
+     8	Meredith J. Hasson
+     8	Michael Schubert
+     8	Sandeep Joshi
+     7	Kai Ramuenke
+     7	marano
+     6	Fernando Kakimoto
+     6	Peter Murray
+     6	Praful
+     6	Silvio Montanari
+     6	iliasbartolini
+     6	jorgej
+     6	rapidftr
+     5	Carlos Jr
+     5	Ganesh
+     5	João Alberto Vortmann
+     5	Ketan Padegaonkar
+     5	Liauw Fendy
+     5	Minno
+     5	Nathan Fisher
+     5	Patrick Turley
+     5	Vitor Baptista
+     5	deeolutayo
+     5	tcochran
+     4	=
+     4	Carlos Júnior
+     4	Cesar Henrique Vortmann
+     4	Mark T
+     4	Rune Skjoldborg Madsen
+     4	Sharanya
+     4	Ygor Bruxel
+     4	ptodkar
+     3	Baris Balic
+     3	Frank Trindade
+     3	Gil Peeters
+     3	Kishore Kumar Yekkanti
+     3	Louis
+     3	Mark Needham
+     3	Prakriti
+     3	Scott Robinson
+     3	Sowmya S
+     3	Tom Coggrave
+     3	surabhi
+     2	Andrew
+     2	Lars Jorgensen
+     2	Mark
+     2	Matt
+     2	Rune Madsen
+     2	Shantanu Tushar
+     2	Srinivasan Raguraman
+     2	Vatsal
+     2	Yekkanti Kishore Kumar
+     2	brucel.ee
+     2	cvortmann
+     2	rgan
+     2	silvio
+     2	tom-elkin-tw
+     2	ygor
+     1	Amiruddin Nagri
+     1	Aravind SV
+     1	Ben Buckley
+     1	Farooq Ali
+     1	Patrick McFadden
+     1	Rob Hunter + Andrew Kiellor + Richard Cottrill
+     1	Rustem Suniev
+     1	Scott and Lawrence
+     1	Soundar
+     1	Vinkesh Banka
+     1	Wu Shaobo
+     1	pridar2k7
+     1	tinygrasshopper
+     1	unknown
+     1	user
+raty
+   208	Washington Botelho
+    35	washingtonbotelho
+     3	Eric Wendelin
+     3	Francisco Souza
+     2	Gihan Subhashana
+     2	wbotelhos
+     1	Andreas Köberle
+     1	Daniel Faria
+     1	gabrielbenz
+     1	janapol
+rbdb
+   119	Sylvain Utard - redox
+    47	Jessy Bernal - jessy
+    42	Ivan
+    13	Jessy Bernal
+    12	Ivan Schneider
+    10	Ivan Schneider - ivan
+     1	deploy
+recline
+   627	Rufus Pollock
+    78	Max Ogden
+    41	rgrp
+    34	amercader
+    15	maxogden
+     6	Friedrich Lindenberg
+     5	Adrià Mercader
+     4	Salman Haq
+     4	Sam Smith
+     3	Matt Wood
+     3	Pedro Markun
+     2	James Casbon
+     2	Lieven Janssen
+     2	Mike Morris
+     1	Colin Kennedy
+     1	Ian Murray
+     1	Joseph Reisinger
+     1	Randall Leeds
+     1	Tom Rees
+recurly-js
+    56	Emery Denuccio
+    32	emery
+    20	Sean Hermany
+     7	Isaac Hall
+     4	Max You
+     1	Evan Owen
+     1	Justin Ip
+     1	Luke Brown
+     1	splap
+     1	web-ninja
+RedisLive
+    36	Nitin Kumar
+    31	kumarnitin
+    14	Lee McFadden
+     3	Nitin
+     2	Steven Kreuzer
+     1	Mal Curtis
+     1	Mark Dube
+     1	Shane Reustle
+     1	bialecki
+     1	george
+redmine_backlogs
+  1193	friflaj
+   338	Mark Maglana
+   116	John Yani
+   102	mikoto20000
+    51	Bo Hansen
+    49	Frank Blendinger
+    20	Patrick Atamaniuk
+    20	rostyslav.hulka
+    11	Emiliano Heyns
+    11	Joakim Kolsjö
+    10	Ewoud Kohl van Wijngaarden
+     9	Nate Lowrie
+     8	Rostyslav Hulka
+     8	m.kaga
+     6	stevel
+     4	dakota
+     4	thib-b
+     4	todesking
+     4	yusuke kokubo
+     3	Floréal TOUMIKIAN
+     3	Jan Schulz-Hofen
+     3	Jorge Uriarte
+     3	Kevin Wheatley
+     3	developer
+     3	pinglamb
+     2	Daniel Passos
+     2	Keiji, Yoshimi
+     2	Kimihiko NAKAMURA
+     2	Martin Minka
+     2	Mauricio Rivera Schneider
+     2	Maxime Chambreuil
+     2	Mike Zaschka
+     2	Robson R S Peixoto
+     2	Thomas Lang�s
+     2	Ufuk Kayserilioglu
+     2	Vivien Didelot
+     2	Zygmunt Krynicki
+     2	drakontia
+     2	ibussieres
+     2	root
+     2	sureal
+     2	svolpe
+     1	Andrew Vit
+     1	Bogdan Matu
+     1	Christoph Graumann
+     1	Darryl Pogue
+     1	Geir Helland
+     1	Gregor Schmidt
+     1	Gustavo Andrés Angulo
+     1	Jason Vasquez
+     1	Joe Heck
+     1	Krzysztof Lochwinowicz
+     1	Marius Grigaitis
+     1	Marnen Laibow-Koser
+     1	Maxime Guilbot
+     1	Nicolas Mosconi
+     1	Radu Baranga
+     1	Ramiro Aparicio
+     1	Rens Admiraal
+     1	Riley W.
+     1	Sandro Munda
+     1	Saulius Grigaitis
+     1	Tobias Bayer
+     1	Zhou Xianhua
+     1	bohansen
+     1	jpic
+     1	redmine12
+     1	siegerv
+     1	yquenechdu
+relevancy.js
+    14	James Padolsey
+remoteStorage.js
+   641	Michiel de Jong
+   317	Michiel@unhosted
+    43	root
+    19	Jan-Christoph Borchardt
+    15	Lennie
+     8	martin
+     5	Sebastian Kippe
+     5	nil
+     4	Garret Alfert
+     3	()
+     3	Duane Johnson
+     3	Edwin Chu
+     3	Timothée Boucher
+     2	Azul
+     1	Daniel Gröber
+     1	François Kooman
+     1	Leon Fedotov
+     1	Siddhant Sanyam
+     1	xMartin
+renren-api-javascript-sdk
+    17	rahul
+    14	vrtra
+     4	9@vrtra.net
+     2	vrthra
+     1	Rahul
+requirejs
+   798	jrburke
+    81	James Burke
+     8	Andy Chung
+     4	Kris Zyp
+     3	ben hockey
+     2	Kalle Bronsen
+     2	Nick Fitzgerald
+     2	Norman Xu
+     1	Alex Sexton
+     1	Amy
+     1	Anders
+     1	Gregers Gram Rygg
+     1	Hagen
+     1	Jack Hsu
+     1	Jamie Mason
+     1	Jeremy Mack
+     1	Johannes Emerich
+     1	Kalman Speier
+     1	Mark Doliner
+     1	Miller Medeiros
+     1	Peter Robins
+     1	Shannon Moeller
+     1	Steve Mason
+     1	Tyler Kellen
+     1	Wong Liang Zan
+     1	diegotres
+     1	johnjbarton
+Respond
+   115	scottjehl
+     9	Scott Jehl
+     5	Ryan Wheale
+     4	Richard Herrera
+     2	Mathias Bynens
+     1	Chris Jacob
+     1	Eiki Martinson
+     1	Fábio M. Costa
+     1	JohnAlbin
+     1	Keith Clark
+     1	Paul Irish
+     1	chimurai
+rightjs-core
+   820	Nikolay V. Nemshilov aka St
+    30	Nikolay Nemshilov
+    10	Jakub Pawlowicz
+     8	Grigory V
+     6	Nikolay V. Nemshilov
+     5	Rafaël Blais Masson
+     2	juho Vepsäläinen
+     1	Sergey Avseyev
+     1	pyromaniac
+     1	vaneska
+rivets
+   114	Michael Richards
+    12	Nicklas Ansman Giertz
+     6	Patrick Gibson
+     2	Chad Hietala
+     2	Contra
+     1	Kyle Shipley
+     1	Nicholas Reed
+     1	Ryan Funduk
+r.js
+   894	jrburke
+    77	James Burke
+     8	Andy Chung
+     4	John Whitley
+     4	Kris Zyp
+     4	Marc Knaup
+     3	ben hockey
+     3	millermedeiros
+     2	Ghislain Seguin
+     2	Nick Fitzgerald
+     2	Patrick McElhaney
+     1	Alex Sexton
+     1	Andrew
+     1	Elad Ben-Israel
+     1	Greg Leppert
+     1	Josh Dzielak
+     1	Stepan Riha
+     1	diegotres
+role
+    75	Sasha Koss
+    16	Pavel Pravosud
+     5	chrome
+     2	Igor Alexandrov
+     1	Kir Shatrov
+     1	Yury Korolev
+sammy
+   568	Aaron Quint
+    25	endor
+     8	James A. Rosen
+     4	Alexey
+     4	Russell Jones
+     3	Akis Kesoglou
+     3	Jesse Hallett
+     3	Tim Caswell
+     2	Alen Mujezinovic
+     2	Assaf Arkin
+     2	James Croft
+     2	Kenny Buckler
+     2	Matthew Smith
+     2	Ramiro Rikkert
+     2	Rich Manalang
+     2	Steven Harman
+     2	ZhangJinzhu
+     2	chatgris
+     2	dpree
+     2	stephen101
+     1	Alan MacDougall
+     1	Alexander Lang
+     1	Avi Deitcher
+     1	Ben Pickles
+     1	Ben Truyman
+     1	Ben Vinegar
+     1	Bryan Woods, Conner Peirce & Matt Vermaak
+     1	Chris Mytton
+     1	Elijah Hamovitz
+     1	Frank Prößdorf
+     1	Gavin Cooper (work)
+     1	Geoff Longman
+     1	GilesBradshaw
+     1	Igor Wiedler
+     1	James Burke
+     1	Jason Davies
+     1	Johann Klähn
+     1	Jonathan Vaught
+     1	Kevin Gessner
+     1	Lukáš Vlček
+     1	Martin Murphy
+     1	Nathan
+     1	SamDeLaGarza
+     1	Scott McMillin
+     1	Suicidolt
+     1	Thomas Detoux
+     1	fhemberger
+     1	lennart
+sass-twitter-bootstrap
+   202	Mark Otto
+   138	Jacob Thornton
+    33	m5o
+    18	John W. Long
+    15	Jeremy Hinegardner
+    15	Nick Ragaz
+     4	sankage
+     3	Chris Aniszczyk
+     3	John Wright
+     3	Pamela Fox
+     2	Andrea Pavoni
+     2	Erik Huisman
+     2	Matthew Pennell
+     1	Aditya Panchal
+     1	Armando Sosa
+     1	Daniel Hoelbling
+     1	Daniel Liuzzi
+     1	Divya Manian
+     1	Henrik N
+     1	Jason Trill
+     1	Kurtis Rainbolt-Greene
+     1	Lenny Sirivong
+     1	Noah Blon
+     1	Rafaël Blais Masson
+     1	Ryan J Daw
+     1	Simon Pantzare
+     1	Tyler Montgomery
+     1	Wayne Renbjor
+     1	raphaelz
+     1	silentworks
+satisfy
+    23	James Padolsey
+sausage
+    86	Christopher Cliff
+     1	Matt Behrens
+scopeleaks
+    22	John Tantalo
+    21	Rui Lopes
+screw-unit
+    87	Nathan Sobo
+    38	Grockit
+    38	Nick Kallen
+    28	Brian Takita
+    17	Aman Gupta
+    17	Bob Remeika & Jan Nelson
+     9	Jake Frautschi & Jan Nelson
+     9	pivotal
+     6	Bob Remeika
+     5	Tim Connor
+     4	Wil Bierbaum & Nathan Sobo
+     3	Jan Nelson & Brian Takita
+     3	Kunal Anand & Nathan Sobo
+     2	Marcel Molina & Nathan Sobo
+     1	Jake Frautschi & Bob Remeika
+     1	Jan Nelson & Nathan Sobo
+     1	Jan Nelson & Sharon Ly
+     1	Jeff Whitmire
+     1	Jeff Whitmire & Corey Innis
+     1	Marcel Molina & Jan Nelson
+     1	Sharon Ly & Nathan Sobo
+     1	Wil Bierbaum
+     1	Wil Bierbaum & Brian Takita
+scriptaculous
+   471	Thomas Fuchs
+     2	David Heinemeier Hansson
+     2	Nick Stakenburg
+     2	RStankov
+     2	Rick Olson
+     2	elia
+     1	Arindam Chakraborty
+     1	James Wheare
+     1	Mislav Marohnić
+     1	Pete Deffendol
+     1	Sean Kirby
+     1	pgib
+     1	unknown
+script.js
+    69	Dustin Diaz
+    63	=
+    22	Jacob Thornton
+    11	Yesudeep Mangalapilly
+     1	Fábio Miranda Costa
+     1	Karl Westin
+     1	Kyle Neath
+     1	Paul Harper
+scripty2
+   138	Thomas Fuchs
+   111	Andrew Dupont
+     8	RStankov
+     8	smith
+     7	Sebastien Grosjean
+     6	Philipp Markovics
+     4	Adam Solove
+     4	Dieter Komendera
+     4	kipz
+     3	Eric Anderson
+     3	Simon Charette
+     3	a.s
+     2	Marcus Lunzenauer
+     2	Sébastien Gruhier
+     1	Mike Rumble
+     1	Rafał Wrzeszcz
+     1	Stephen Bannasch
+     1	Thomas R. Koll
+scroller
+    92	Sebastian Werner
+    13	Paul Bakaus
+     3	Stephen McKamey
+     3	louisremi
+     2	Martin Schuhfuss
+     1	Ivo Wetzel
+     1	Louis-Rémi Babé
+     1	Veit Lehmann
+     1	philipvonbargen
+seajs
+   886	lifesinger
+    15	lepture
+     4	Leegorous
+     3	Jake Chen
+     1	Jinpu Hu
+     1	Lynn
+     1	lildemon
+     1	popomore
+selectivizr
+    28	Keith Clark
+     4	Klemen Slavič
+     2	Chris Korhonen
+selectorgadget
+    85	Andrew Cantino
+     4	tectonic
+     3	Kyle Maxwell
+     2	Adam Sanderson
+selector-queries
+    27	Andy Hume
+     3	Josh Emerson
+Seriously.js
+    80	Brian Chirls
+    20	brianchirls
+     1	Jon Buckley
+session.js
+    75	Iain Nash
+    14	Jonas Hermsmeier
+     4	Iain
+     1	Aaron Lampros
+     1	John Wehr
+     1	Kurt Ericson
+     1	Mattijs Hoitink
+     1	Nicholas Kinsey
+     1	Robert Malko
+shapesmith
+   532	Benjamin Nortier
+     3	Stephen Bannasch
+     2	Ubuntu
+     1	TeamTeamUSA
+     1	Zhongpeng Lin
+     1	ben Nortier
+shining
+   220	Julio Cesar Ody
+simplecart-js
+   239	Brett Wejrowski
+     7	brettwejrowski
+     2	Bastian Widmer
+     2	PatrickChappuis
+     1	Dmitry Dzygin
+     1	Patrick Schless
+     1	Vladimir Panteleev
+     1	ricpersi
+Sinon.JS
+   367	Christian Johansen
+    21	Maximilian Antoni
+    19	Tim Ruffles
+    13	Max Antoni
+     6	Felix Geisendörfer
+     6	Tristan Koch
+     5	Cory
+     5	Tobias Ebnöther
+     4	Gavin Huang
+     4	Konrad Holowinski
+     4	kpdecker
+     3	August Lilleaas
+     3	Cormac Flynn
+     3	Domenic Denicola
+     2	Ben Hockey
+     2	Glen Mailer
+     2	Irina Dumitrascu
+     2	Keith Cirkel
+     1	Felix Geisendörfer
+     1	Gord Tanner
+     1	Jan Kopriva
+     1	Kevin Turner
+     1	Martin Brochhaus
+     1	Max Klymyshyn
+     1	Olmo Maldonado
+     1	Raynos
+     1	Rodion Vynnychenko
+     1	Sven Fuchs
+     1	TEHEK Firefox
+     1	Tek Nynja
+     1	Will Butler
+     1	wwalser
+sizzle
+   219	John Resig
+    95	timmywil
+    66	jeresig
+    10	Anton M
+    10	Richard Gibson
+     9	Cheah Chu Yeow
+     9	Timmy Willison
+     8	Colin Snover
+     5	LosTFx
+     5	brandonaaron
+     4	Mathias Bynens
+     3	dmethvin
+     2	Fabian Jakobs
+     2	rdeago
+     1	Alan Plum
+     1	Anton Kovalyov
+     1	Chad Killingsworth
+     1	DBJDBJ
+     1	Henri Wiechers
+     1	Jake Archibald
+     1	John Firebaugh
+     1	Jörn Zaefferer
+     1	Karl Swedberg
+     1	Mike Sherov
+     1	Rock Hymas
+     1	Stefan Bauckmeier
+     1	Yaffle
+     1	Yehuda Katz
+     1	chalkers
+     1	gnarf
+skrollr
+   194	Alexander Prinzhorn
+     4	Tri Nguyen
+     1	Charles J Hardy
+skywriter
+   694	Kevin Dangoor
+   633	Joe Walker
+   483	Patrick Walton
+   316	Julian Viereck
+    22	andrew@godfrey-2.local
+    17	Eugene Lazutkin
+    15	Camilo Aguilar
+     6	camilo
+     5	Cody Marquart
+     3	Mark Spear
+     2	Harjinder Virdi
+     2	Satoshi Murakami
+     2	kevin
+     1	Calvin Yu
+     1	Knopf Matthew
+SlickGrid
+   180	mleibman
+    84	Michael Leibman
+    71	michael.leibman
+    35	David Lee
+    35	Milan Gardian
+    14	michael.leibman@gmail.com
+     8	Chris Osborn
+     5	Brandon Aaron
+     4	David Capello
+     3	Drew Turner
+     3	unknown
+     2	Bob Schmertz
+     2	David Yip
+     2	Giles Thomas
+     1	-IGI-
+     1	Daniel Frey
+     1	Leonardo Xavier
+     1	Ryan Schumacher
+     1	andrew
+     1	asavoy
+     1	ghiscoding
+     1	minorbug
+     1	ubit64
+soca
+    90	Aaron Quint
+     6	Richard Metzler
+     5	narkisr
+     4	Brian Candler
+     4	andrzejsliwa
+     2	Alexis Hildebrandt
+     1	Eric Wollesen
+     1	Francis Varga
+     1	Gabor Ratky
+     1	Karel Minarik
+     1	Kevin Malakoff
+     1	Luke Amdor
+     1	Neal Clark
+     1	Niko Uphoff
+     1	Paul Oswald
+     1	Pete Bacon Darwin
+soundcloud-custom-player
+    47	Matas
+    16	Matas Petrikas
+     1	katharina birkenbach
+spidernode
+  1766	Ryan Dahl
+   536	Ryan
+   154	Bert Belder
+   117	isaacs
+    85	Felix Geisendörfer
+    44	Micheil Smith
+    29	Herbert Vojčík
+    27	Tom Hughes
+    23	Paul Querna
+    23	Peter Griess
+    22	Tim Caswell
+    21	Matt Ranney
+    21	Rob Arnold
+    18	Rasmus Andersson
+    17	Ben Noordhuis
+    16	Felix Geisendörfer
+    16	Jérémy Lal
+    16	Rhys Jones
+    14	Brian White
+    14	Urban Hafner
+    13	Jonas Pfenniger
+    12	Paul O’Shannessy
+    10	Shawn Wilsher
+    10	koichik
+     9	Benjamin Thomas
+     9	John F
+     9	Mikeal Rogers
+     9	Trent Mick
+     8	Jorge Chamorro Bieling
+     8	Oleg Efimov
+     8	Tim-Smart
+     8	Vanilla Hsu
+     7	Herbert Vojcik
+     7	Johan Euphrosine
+     7	Krishna Rajendran
+     7	Marco Rogers
+     6	Aaron Heckmann
+     6	Brian
+     6	Tj Holowaychuk
+     5	Dmitry Baranovskiy
+     5	Michaeljohn Clement
+     5	Nikhil Marathe
+     5	Stéphan Kochen
+     5	visionmedia
+     4	Ali Farhadi
+     4	Aria Stewart
+     4	John Ford
+     4	Mark Nottingham
+     4	Russell Haering
+     4	Theo Schlossnagle
+     4	Tobie Langel
+     4	arlolra
+     3	Benjamin Kramer
+     3	Brandon Beacher
+     3	Chandra Sekar S
+     3	Daniel Gröber
+     3	David Siegel
+     3	David Sklar
+     3	Evan Larkin
+     3	Fedor Indutny
+     3	Friedemann Altrock
+     3	Jan Kassens
+     3	Joseph Pecoraro
+     3	Joshaven Potter
+     3	Oleg Slobodskoi
+     3	RayMorgan
+     3	Standa Opichal
+     3	Till Schneidereit
+     3	Travis Swicegood
+     3	cloudhead
+     3	rentzsch
+     2	Anders Conbere
+     2	Ben Williamson
+     2	Blake Mizerany
+     2	Daniel Ennis
+     2	Dean McNamee
+     2	Greg Hughes
+     2	Jeremy Martin
+     2	Johan Dahlberg
+     2	Jonathan Knezek
+     2	Karl Guertin
+     2	Michael Carter
+     2	Michael W
+     2	Mihai Călin Bazon
+     2	Nathan Rajlich
+     2	Nick Stenning
+     2	Paulo Matias
+     2	Sami Samhuri
+     2	Scott González
+     2	Thomas Lee
+     2	Timothy Caswell
+     2	Tony Metzidis
+     2	Xavier Shay
+     2	Zoka
+     2	Zoran Tomicic
+     2	kriskowal
+     1	AJ ONeal
+     1	Aapo Laitinen
+     1	Abe Fettig
+     1	Adam Wiggins
+     1	Alexis Sellier
+     1	Andreas Reich
+     1	Andrew Johnston
+     1	Andrew Naylor
+     1	Ben Lowery
+     1	Benjamin Fritsch
+     1	Blaine Cook
+     1	Bradley Meck
+     1	Brian Hammond
+     1	Brian McKenna
+     1	Carson McDonald
+     1	Carter Allen
+     1	Charles Lehner
+     1	Christopher Lenz
+     1	Connor Dunn
+     1	Dan Søndergaard
+     1	Daniel C
+     1	Danny Coates
+     1	David Trejo
+     1	Devin Torres
+     1	Dmitriy Shalashov
+     1	Elijah Insua
+     1	Guillaume Tuton
+     1	Illarionov Oleg
+     1	Jacek Becela
+     1	James Duncan
+     1	James Herdman
+     1	Jan Lehnardt
+     1	Jed Schmidt
+     1	Jeff Smick
+     1	Jeremy Ashkenas
+     1	Jeremy Lal
+     1	Jerome Etienne
+     1	Joe Walnes
+     1	Johan Sørensen
+     1	Jon Crosby
+     1	Joshua Peek
+     1	Julian Lamb
+     1	Kai Chen
+     1	Kevin van Zonneveld
+     1	Konstantin Käfer
+     1	Mark Hansen
+     1	Marshall Culpepper
+     1	Matt Brubeck
+     1	Michael Stillwell
+     1	Onne
+     1	Orlando Vazquez
+     1	Peter Dekkers
+     1	Peteris Krumins
+     1	Raffaele Sena
+     1	Richard Rodger
+     1	Rob Ellis
+     1	Robert Keizer
+     1	Ruben Rodriguez
+     1	Ryan McGrath
+     1	Sam Hughes
+     1	Sam Shull
+     1	Sam Stephenson
+     1	Samuel Shull
+     1	Scott Taylor
+     1	Sean Braithwaite
+     1	Sean Coates
+     1	Silas Sewell
+     1	Simon Cornelius P. Umacob
+     1	TJ Holowaychuk
+     1	Tim Cooijmans
+     1	Tony Huang
+     1	Vitali Lovich
+     1	Wade Simmons
+     1	Yuichiro MASUI
+     1	choonkeat
+     1	dpb587
+     1	elliottcable
+     1	fwg
+     1	jed
+     1	kmillikin@chromium.org
+     1	mape
+     1	masuidrive
+     1	pyrotechnick
+     1	rick
+     1	simonw
+     1	Сергей Крыжановский
+spine
+   384	Alex MacCaw
+    25	Antoine BERNIER
+    11	Rob Holland
+     5	Niels van Hoorn
+     4	pitr
+     3	Genadi Samokovarov
+     3	KevBurnsJr
+     3	Roberto Rodriguez
+     3	csaunders
+     2	Magnus Andersson
+     2	Sjoerd Mulder
+     2	ewoutkleinsmann
+     1	Alex Maccaw
+     1	Brandon Leonardo
+     1	Chetan Surpur
+     1	Chris Mytton
+     1	Dingding Ye
+     1	Faisal Ahmed
+     1	Ian White
+     1	Jay
+     1	Jeremy Haile
+     1	Jim Hoskins
+     1	Joe Fiorini
+     1	Joel Van Horn
+     1	Justin Harris
+     1	Loren Sands-Ramshaw
+     1	Lyle Underwood
+     1	Mitch Lloyd
+     1	Nathan Palmer
+     1	Nicholas Westlake
+     1	Paul Young
+     1	Ryan LaNeve
+     1	Sasha Koss
+     1	Scott Burton
+     1	Tim Oxley
+     1	Vojto Rinik
+     1	amaierhofer
+     1	michael schoenfelder
+     1	mitchlloyd
+sprite.js
+   328	Batiste Bieler
+     7	Szymon Pilkowski
+     6	Tadas Tamošauskas
+     4	Rune Halvorsen
+     3	Cosimo Streppone
+     2	Bag
+     2	l4u
+     1	Edwin
+     1	Michael Emslie
+     1	Yoan Blanc
+     1	a13ks3y
+stapes
+   157	Hay Kranen
+     3	Anton Dieterle
+     1	hogart
+steal
+   556	Brian Moschel
+   227	Pinhook
+   122	Justin Meyer
+    61	Alexandre Gomes
+    47	Austin McDaniel
+    35	David Luecke
+    24	Frederick Polgardy
+    24	Ralph Holzmann
+    18	Michael Mayer
+    17	Jeremy Kahn
+     8	retro
+     7	Nathan Feger
+     7	ccummings
+     6	Daniel Lamb
+     5	Alexis Abril
+     5	Andy Kant
+     5	Arjun Balla
+     4	moschel
+     4	unknown
+     3	Austin
+     3	Ron Otten
+     3	alvin
+     2	Adam George
+     2	Paul Bonser
+     2	Tobi Schäfer
+     2	Tobi Schäfer
+     1	Alive Kuo
+     1	Casey Heckman
+     1	Jared Stehler
+     1	Jeffery To
+     1	Lee Henson
+     1	Roel Monnens
+     1	jeremyckahn
+     1	rloh
+     1	snesin
+stellar.js
+    22	Mark Dalgleish
+     1	malchata
+sticky
+    33	dreamdust
+    21	Alex Mingoia
+     1	Chris Morgan
+     1	Kuba
+stickySectionHeaders
+    14	Florian Plank
+     7	Polarblau
+     3	polarblau
+     1	Josh Minnich
+store.js
+   107	Marcus Westin
+     5	Matt Pizzimenti
+     3	Jack Franklin
+     3	Steven Black
+     2	Tim Jarratt
+     2	blq
+     1	Greg Weber
+     1	Manuel van Rijn
+     1	Per Eckerdal
+     1	Ryan Kirkman
+     1	superqiang
+streamlinejs
+   690	Bruno Jouhier
+    41	Aseem Kishore
+    12	Aikar
+     5	Preston Guillory
+     4	Will Conant
+     3	unknown
+     1	Alan Gutierrez
+     1	Evan Worley
+     1	Marcel Laverdet
+     1	anodos
+strophejs
+   142	Jack Moffitt
+    25	dodo
+    24	Nathan Zorn
+    14	Anton Stroganov
+     5	Brendon Crawford
+     5	Volker Grabsch
+     3	Ben Langfeld
+     3	François de Metz
+     2	Christopher Zorn
+     2	Lee Boynton
+     2	Paul Donohue
+     2	Theo Cushion
+     2	exavolt
+     2	lboynton
+     1	Adam J. McIntyre
+     1	Antoine Mercadal
+     1	Astro
+     1	Christopher tofu Zorn
+     1	Florian Zeitz
+     1	HenrikJoreteg
+     1	Joachim Viide
+     1	Matthew Wild
+     1	Michael Weibel
+     1	Steven Parkes
+     1	W. Andrew Loe III
+     1	Yigit Boyar
+studio3
+  3437	Kevin Lindsey
+  3332	sgtcoolguy
+  2022	mxia
+  1260	Max Stepanov
+   877	Shalom Gibly
+   648	Chris Williams
+   612	Ingo Muschenetz
+   349	Allen Yeung
+   273	Sandip Chitale
+   265	Ingo
+   187	Nam Le
+   186	Andrew Shebanow
+   135	unknown
+   113	fabioz
+     8	Christopher Williams
+     7	Tyrus Smalley
+     5	Michael Xia
+     4	Shalom
+     4	nle
+     2	Quality Assurance
+     1	Shyru
+substance
+   556	Michael Aufreiter
+   173	michael
+   100	Tim Baumann
+    34	Samo Korosec
+     6	snusnu
+     5	Contra
+     1	Amanda Wagener
+     1	Forbes Lindesay
+     1	conan
+Sugar
+   969	Andrew Plummer
+    56	Andrew
+    30	U-KOOPA\Bowser
+    13	Thomas Nadin
+     6	Wong Liang Zan
+     4	Fahd Ananta
+     3	David Chambers
+     1	Adam Lassek
+     1	Andrew Shaydurov
+     1	Erik Reedstrom
+     1	Francesc Rosàs
+     1	Jordan Santell
+     1	Milan Iliev
+     1	andrea longhi
+     1	disfated
+     1	koffeinfrei
+     1	mobz
+     1	newtux
+suggest
+    30	Florian Plank
+    12	Polarblau
+     6	polarblau
+     2	Casper Klenz-Kitenge
+superagent
+   155	Tj Holowaychuk
+    90	TJ Holowaychuk
+     4	Robert Sköld
+     2	Camilo Aguilar
+     2	Guillermo Rauch
+     1	Alex Young
+     1	DracoBlue
+     1	Hebo
+     1	Marco Süß
+     1	Nathan Rajlich
+supermodel
+    65	Brad Dunbar
+    17	Parker
+     9	Peter T. Brown
+svarx
+    76	Max Shirshin
+swagger-ui
+    28	zeke
+    27	Ayush Gupta
+     9	rpidikiti
+     6	Tony Tam
+     4	Zeke Sikelianos
+     4	fehguy
+     3	Hiram Chirino
+     2	Albert Casademont
+     1	Aaron McCall
+     1	Jonathan Pearlin
+     1	bpinkney
+sylvester
+   169	James Coglan
+syn
+    34	Brian Moschel
+    15	Pinhook
+     6	Justin Meyer
+     5	retro
+     3	Austin McDaniel
+     1	Frederick Polgardy
+synapse
+   130	Byron Ruth
+     7	David Bushong
+syntaxhighlighter
+    17	rahul
+    14	vrtra
+     4	9@vrtra.net
+     2	vrthra
+     1	Rahul
+SyntaxHighlighter
+   106	Alex Gorbatchev
+    35	Randy Stauner
+     4	Itamar Syn-Hershko
+     4	Jeremy Hughes
+     1	Allan Jardine
+     1	Christopher Jefferson
+     1	Ian Neubert
+     1	Jesse McCarthy
+     1	Ma Jie
+     1	Timothy Boronczyk
+     1	alexander.beletsky
+     1	millermedeiros
+Tangram-base
+   384	bellcliff
+   114	berg
+    83	tianlili
+    82	lixiaopeng
+    51	rocy
+    41	dailiqi
+    34	leeight
+    34	linlingyu
+    32	liujinlong
+    27	Rocy
+    22	zhuwenxuan
+    21	berg Lei
+    21	houhaixian
+    20	yangbo
+    19	徐振华
+    18	ChineseDron
+    12	Cat Chen
+    12	Dron
+     9	flowereyesli@gmail.com
+     9	百度FE
+     7	qiaoyue
+     6	hackwaly
+     6	xiadengping
+     5	BaiduFE
+     4	walter
+     3	jz
+     2	Aling
+     2	aranwong
+     2	baiduFE
+     1	Sun Zhigang
+     1	huangfangrong
+     1	jaypei
+     1	unknown
+Tangram-component
+   350	lixiaopeng
+   192	bellcliff
+   190	linlingyu
+   190	tianlili
+   140	berg
+    53	liujinlong
+    49	rocy
+    26	jianling
+    22	fangxiao
+    20	walterShen
+    20	徐振华
+    15	BaiduFE
+    15	ChineseDron
+    15	dailiqi
+    14	berg Lei
+    14	walter
+    14	zhuwenxuan
+    13	yangbo
+    11	yapollo
+    10	flowereyesli@gmail.com
+    10	lixiaiopeng
+     6	Dron
+     5	qiaoyue
+     5	百度FE
+     3	webooxx
+     3	xiadengping
+     2	Sun Zhigang
+     1	BaidyFE
+     1	Rocy
+     1	bergLei
+     1	chengyang
+     1	fouber
+     1	youyouyao
+tempo
+   382	Hjortur Stefan Olafsson
+    59	Tyler Tate
+     1	earth2marsh
+TermKit
+   300	Steven Wittens
+     4	unconed
+     2	Jon Sailor
+     1	Earnest Berry III
+     1	Joseph Gentle
+text
+    47	Michael Aufreiter
+    32	Victor Saiz
+    30	Tim Baumann
+    15	vectorsize
+     4	michael
+     3	Aidan Feldman
+     1	Alex Black
+     1	hasen j
+TheRenderEngine
+   152	Brett Fattori
+     1	unknown
+thorax
+   163	Ryan Eastridge
+    25	Joe Hudson
+    21	kpdecker
+     2	Gianni Chiappetta
+     1	Cristi Balan
+     1	Kevin Decker
+three.js
+  1412	Mr.doob
+  1137	alteredq
+   229	zz85
+    72	Mikael Emtinger
+    22	astrodud
+    22	timk
+    14	Julian Walker
+    14	ide user ide_gero3
+    13	Eberhard Gräther
+    13	sole
+    12	Erik Kitson
+    12	Justin Sermeno
+    11	Nicolas Garcia Belmonte
+    11	Nik Van den Wijngaert
+    10	John Pywtorak
+     8	Nicholas Kinsey
+     8	ivankuzev
+     7	George Profenza
+     7	Michael Rienstra
+     7	Sven Andersson
+     6	Jhonny Göransson
+     5	Bartek Drozdz
+     5	Ivan Kuzev
+     5	Jeff Terrace
+     5	Sebastien Valette
+     5	philogb
+     4	Andrew Wason
+     4	Daniel
+     4	Huw Bowles
+     4	Khang Duong
+     4	Paul Brunt
+     4	Szymon Nowak
+     4	oosmoxiecode
+     4	pyrotechnick
+     4	sroucheray
+     4	unknown
+     3	Chris Killpack
+     3	Gregg Tavares
+     3	WestLangley
+     3	gman
+     2	Bc. Jan Kaláb
+     2	Chandler Prall
+     2	Chris
+     2	Felix Jorkowski
+     2	Juraj Michalek
+     2	Marcel Jackwerth
+     2	Paolo Moretti
+     2	Theo Armour
+     2	kyle shay
+     2	onionhammer
+     1	Alex Schworer
+     1	Andrei Kopytov
+     1	Andrew Strelzoff
+     1	Andrew Sutherland
+     1	Antonin Hildebrand
+     1	Ben Nolan
+     1	C. Scott Ananian
+     1	Daniel Ribeiro
+     1	Davide Della Casa
+     1	Dean Jackson
+     1	Fabrica Sapiens
+     1	Greggman
+     1	Han Lin Yap
+     1	Ian Kerr
+     1	Ivo Benner
+     1	James Baicoianu
+     1	Jameson Little
+     1	Jan Pöschko
+     1	Jerome Etienne
+     1	Jörn Zaefferer
+     1	Larry Davis
+     1	Lars Huttar
+     1	Laurent Bédubourg
+     1	Mark DiMarco
+     1	Mark Lundin
+     1	Maël Nison
+     1	Mikko Ohtamaa
+     1	Nico Kruithof
+     1	Peter Blasco
+     1	Robert Shield
+     1	Ryan Berdeen
+     1	Scott Kuroda
+     1	Sven Bergström
+     1	Tilman Brock
+     1	Ueyama Satoshi
+     1	Xueqiao Xu
+     1	avinoamr
+     1	druidhawk
+     1	edmellum
+     1	evan
+     1	fuzzthink
+     1	hayfield
+     1	jsermeno
+     1	kikko
+     1	kovleouf
+     1	mindlapse
+     1	phenomnomnominal
+     1	pushmatrix
+     1	remoe
+     1	staunsholm
+     1	tim baker
+thumbs.js
+    61	Michael Brooks
+     4	ryanbetts
+     1	Tim Fischbach
+tiddlywiki
+   771	JeremyRuston
+   497	MartinBudden
+   255	FND
+   146	Martin Budden
+    71	DevonJones
+    61	PhilHawksworth
+    57	psd
+    54	Jon Robson
+    30	jayfresh
+    27	Chris Dent
+     9	Colm Britton
+     9	simonmcmanus
+     5	BidiX
+     4	Jeremy Ruston
+     2	jdlrobson
+     2	pmario
+     1	Bauwe Bijl
+     1	mahemoff
+TiddlyWiki5
+  1080	Jeremy Ruston
+tile5
+   578	Damon Oehlman
+     6	liamoehlman
+Tilt
+  1396	Victor Porof
+timeframe
+    69	Stephen Celis
+     7	Sebastien Grosjean
+     4	Will Bryant
+     1	Nik Wakelin
+timeline-setter
+   273	Al Shaw
+   122	Jeff Larson
+    17	palewire
+     8	Scott Klein
+     3	Andreas Marienborg
+     1	Ben Welsh
+tinycon
+    30	Tom Moor
+     2	Andrew McCloud
+     2	Bryan Smith
+     2	darren
+     1	Baptiste Fontaine
+     1	Bruz Marzolf
+     1	Hong Minhee
+     1	Ian Langworth ☠
+     1	JD Huntington
+tinymce
+  2251	Spocke
+   475	Adrian Sutton
+   165	Rob Dawson
+    78	Yonas Yanfa
+    59	Aleksander Machniak
+    55	Jason Frame
+    37	Johan Sörlin
+     7	Andrew Herron
+     6	Afraithe
+     4	Carsten Nielsen
+     4	Wesley Walser
+     3	Speednet
+     3	Taku AMANO
+     3	troll
+     2	Andy Gelme
+     2	Geoffrey Pursell
+     2	José Luiz Gonzalez
+     2	Paul Giberson
+     2	Ryan Koopmans
+     2	Sébastien ALFAIATE
+     2	Thomas Andersen
+     2	unknown
+     1	Abhishek Dev
+     1	Achim Leitner
+     1	Aiham Hammami
+     1	Alex C
+     1	Arjan Scherpenisse
+     1	BobDankert
+     1	Christopher Sansone
+     1	Craig Petchell
+     1	Dmitry Kalinkin
+     1	Jakub Matas
+     1	Jason Grout
+     1	Jesper Kristensen
+     1	Jim
+     1	Joakim Lindkvist
+     1	Jorge Bejar
+     1	Jules Gravinese
+     1	Julius Kybartas
+     1	Kristin Repsher
+     1	Laszlo Korte
+     1	Laurence Keijmel - TiDi Graphics
+     1	Lee Henson
+     1	Michael Peters
+     1	NielsJanssen
+     1	Paul Harvey
+     1	PaulHarvey
+     1	Ptiloup
+     1	Ronald M. Clifford
+     1	Rouven Wessling
+     1	Ryan Florence
+     1	Tay Ray Chuan
+     1	Thomas Cremers
+     1	delambo
+     1	dennis-c
+     1	krzyko
+     1	rojotek
+     1	thorn0
+     1	wwalser
+todomvc
+   225	Sindre Sorhus
+   117	addyosmani
+    65	Addy Osmani
+    51	Aaron Boushley
+    28	Stas SUȘCOV
+    24	Christoph Burgdorf
+    16	Ryan Niemeyer
+    15	James Thomas
+     6	goldledoigt
+     5	Igor Minar
+     5	Jacob Mumm
+     5	ben hockey
+     4	Fred Wu
+     4	Peter Michaux
+     3	Alberto Monteiro
+     3	Chris Price
+     3	Ed Chatelain
+     3	Florian Fesseler
+     3	Kevin Malakoff
+     3	Mikael Karon
+     3	Pascal Hartig
+     2	Brian Cavalier
+     2	Everett Sochowski
+     2	Harry Brundage
+     2	Rhsy
+     2	Sequoia McDowell
+     2	runawaygo
+     1	Aaron Reisman
+     1	Alex MacCaw
+     1	Ariel Ben Horesh
+     1	Camille Reynders
+     1	Clarence Leung
+     1	Cold Head
+     1	Colin Eberhardt
+     1	Colm Britton
+     1	David Murdoch
+     1	Davide Callegari
+     1	Eric Bidelman
+     1	Erik Jansson
+     1	Francis Chong
+     1	Hay Kranen
+     1	Jason Morrison
+     1	Jesse Emerick
+     1	Kalid Azad
+     1	Loic Knuchel
+     1	Marcus Krejpowicz
+     1	Olivier Scherrer
+     1	Pascal Precht
+     1	Ralph Holzmann
+     1	Richard Harrington
+     1	Rob Mayoff
+     1	Romuald Quantin
+     1	Rory O’Kane
+     1	Scott Holden
+     1	Stephen McKamey
+     1	Thomas Davis
+     1	Tomas Salazar
+     1	dandoyon
+     1	drublic
+     1	tosh shimayama
+     1	weepy
+todos
+    23	Nikolaus Graf
+    16	Paul Miller
+     1	Thomas Schranz
+tombloo
+   701	to
+   143	ryutaro.kamitsu
+    31	Constellation
+    19	youpy
+    12	whym
+    11	ku0522a
+     8	mattn
+     7	mattn.jp
+     6	kuma
+     2	cxx
+     1	(no author)
+     1	azu
+     1	dragon3
+     1	gorimaru
+     1	hepton-rk
+     1	ku
+     1	polygonplanet
+     1	ucnv
+toolkit
+   113	Oliver Morgan
+     1	archaeron
+tquery
+   543	Jerome Etienne
+     3	Johan Temmerman
+transform
+    31	Grady Kuhnline
+    19	heygrady
+     6	Grady
+     6	unknown
+treesaver
+   409	Filipe Fortes
+   285	Bram Stein
+     7	Andrea Campi
+     3	Scott Kellum
+trident-js
+    63	Kirill Grouchnikov
+tty.js
+   302	Christopher Jeffrey
+     3	Joe Rozner
+     1	Brandon Kase
+     1	Nicholas Kinsey
+tufte-graph
+    50	Xavier Shay
+     2	Ben Askins
+turing.js
+   130	Alex Young
+twitterlib
+    63	Remy Sharp
+    14	remy
+     1	Steve
+twitter-text-js
+   124	keita
+    69	Ben Cherry
+    33	Matt Sanford
+    31	Keita Fujii
+    11	J.P. Cummins
+     8	Jacob Hoffman-Andrews
+     6	Mark Christian
+     5	=
+     5	Katsuya Noguchi
+     5	Kevin Scannell
+     4	Ben Matasar
+     4	Howard Rauscher
+     4	Rob Sayre
+     3	Scott Smerchek
+     2	Dustin Diaz
+     2	Patrick Ewing
+     2	Pete Hopkins
+     2	Sol Plant
+     2	hontent
+     2	swdyh
+     2	tomykaira
+     1	Andrew Seigner
+     1	Ben Ward
+     1	Cezary Wojtkowski
+     1	Daniel Gasienica
+     1	Justin de Vesine
+     1	Kenneth Kufluk
+     1	Tom Woolway
+     1	William Couch
+     1	Yusuke Yamamoto
+     1	jeremiahlee
+ui
+   526	Jamie Hoover
+   169	Jamie Hoover ⚔
+    35	Faisal N. Jawdat
+     4	faisal
+     3	Ian Langworth ☠
+     2	marcneuwirth
+     1	Vadim Geshel
+     1	Weltraumschaf
+     1	uipoet
+uki
+   395	Vladimir Kolesnikov
+   244	Володя Колесников
+    20	Roberto Saccon
+    12	Fedor Indutny
+     6	Collin Greene
+     4	Alexander Kovalev
+     4	Samuel Reis
+     3	kragen
+     2	JJ Geewax
+     2	Robert Stehwien
+     2	Stefan Penner
+     2	voloko
+     1	Farrin Reid
+     1	Kirill Yakovenko
+     1	Leonid Khachaturov
+     1	bruz
+underscore
+   467	Jeremy Ashkenas
+    31	Brad Dunbar
+    22	Mike Frawley
+    22	Ryan W Tenney
+    12	Kit Cambridge
+    10	Kit Goncharov
+     9	Michael Ficarra
+     9	Raymond May Jr
+     8	brad dunbar
+     7	Samuel Clay
+     6	Noah Sloan
+     5	Adam Craven
+     5	Jason Davies
+     5	John-David Dalton
+     4	shinuza
+     3	Andrei
+     3	Kevin Malakoff
+     3	Kirill Ishanov
+     3	Rick Fletcher
+     3	jrburke
+     3	kriskowal
+     3	lifesinger
+     2	Alan Hogan
+     2	Brian Haveri
+     2	Derek Brans
+     2	Dmitry Baranovskiy
+     2	Elliot Winkler
+     2	Florian Friesdorf
+     2	Jan Raasch
+     2	Jeff McGee
+     2	Jez Ng
+     2	Kevin Locke
+     2	Luke Sutton
+     2	Malcolm Locke
+     2	Mark Rushakoff
+     2	Michael Wolf
+     2	Pier Paolo Ramon
+     2	Stuart Knightley
+     2	Tony Lukasavage
+     2	U-EM\mib
+     2	bjh
+     1	AJ ONeal
+     1	Alfredo Mesen
+     1	Andrea Zicchetti
+     1	Arlo Breault
+     1	Aseem Kishore
+     1	Benjamin Kudria
+     1	Bob Remeika
+     1	Brett Goulder
+     1	Bryan Woods
+     1	Cat Chen
+     1	Chris Baynes
+     1	Chris Leishman
+     1	Colin Thomas-Arnold
+     1	Dan Tillberg
+     1	Danny Tatom
+     1	David Hirtle
+     1	Dustin Diaz
+     1	Genadi Samokovarov
+     1	Harry Wolff
+     1	Jakub Wieczorek
+     1	Jed Schmidt
+     1	Jo Liss
+     1	John Wright
+     1	Joshua Peek
+     1	Kyle Robinson Young
+     1	Mark Hansen
+     1	Michael Williamson
+     1	Mike Sidorov
+     1	Mislav Marohnić
+     1	Nadav
+     1	Neil E. Pearson
+     1	Nick Fisher
+     1	Nick Stenning
+     1	Peter Jihoon Kim
+     1	Robert Böhnke
+     1	Rory O’Kane
+     1	Russ
+     1	Ryunosuke SATO
+     1	Sam Gentle
+     1	Tim Caswell
+     1	Trevor Burnham
+     1	Vladimir Chernis
+     1	Yi, EungJun
+     1	Zak Johnson
+     1	aseemk
+     1	fredericksgary
+     1	kapooostin
+     1	limeblack
+     1	matehat
+     1	noah
+     1	pepkin88
+     1	summatix
+underscore.deferred
+    45	Sam Breed
+    12	Rick Waldron
+     3	Sam
+     1	Dan Heberden
+     1	Richard Bateman
+     1	Tim Fischbach
+     1	tbranyen
+underscore.string
+   118	Pavel Pravosud
+    97	Edward Tsech
+    36	Esa-Matti Suuronen
+    20	Sasha Koss
+    10	Eduard Tsech
+     6	sergiokas
+     4	masklinn
+     3	Anton Lindqvist
+     3	Artūrs Mekšs
+     3	Desmond Brand
+     3	James Brown
+     2	Brandon Wallace
+     2	Ed Finkler
+     2	Giacomo Ritucci
+     2	Kendrick Taylor
+     2	Samori Gorse
+     2	tchak
+     2	trevor bortins
+     1	Aleksey V Zapparov
+     1	Alex Brasetvik
+     1	Arthur Zapparoli
+     1	Ben Elsen
+     1	Hamidreza
+     1	Humza
+     1	Ian Bentley
+     1	Ian Young
+     1	Josh Dzielak
+     1	Lindsey Simon
+     1	Mark Rushakoff
+     1	Matt Mueller
+     1	PG Herveou
+     1	Paul Gebheim
+     1	Pete Kruckenberg
+     1	Peter Gassner
+     1	Rafał Filipek
+     1	Rafał Sobota
+     1	Ryan Allison
+     1	Trevor Bortins
+     1	Vladimir Dronnikov
+     1	basdirks
+     1	miaubiz
+     1	zonpantli
+uni-form
+    66	Craig Davis
+    46	Dragan Babic
+    26	sprawsm
+     6	draganbabic
+     4	pedja
+     2	Dragan Babić
+     2	Roy Lodder
+     2	Vladimir Garvardt
+     1	Gordon Franke
+     1	Marc Friederich
+     1	Petri Savolainen
+     1	Umut Fikret GÜRKAVCU
+     1	dalager
+     1	root
+unveil
+    45	michael
+    24	Michael Aufreiter
+URI.js
+   162	Rodney Rehm
+     2	Christian Harms
+     2	FG Ribreau
+     1	Evangenieur
+     1	Gezim Hoxha
+     1	Jeremy Mack
+     1	Mark Rushakoff
+     1	Mathias Bynens
+     1	Morten Nilsen
+     1	Ramiro Gómez
+     1	Victor Blomberg
+vexflow
+    84	Mohit Cheppudira
+    26	Raffaele Viglianti
+    16	David Koh
+    11	Jon Ensminger
+     8	Larry Kuhns
+     8	Mike Corrigan
+     8	wiseleyb
+     6	Agamnentzar
+     6	Mohit Muthanna Cheppudira
+     4	Adam Fletcher
+     4	zz85
+     3	Clinton Forbes
+     3	Mikael Nousiainen
+     3	tschmidt23
+     2	Rob Buskens
+     2	Will Duff
+     1	0xFE
+     1	20after4
+     1	Bayard Randel
+video-js
+   419	Steve Heffernan
+    16	Heff
+     6	Josh Pickett
+     3	Gamaliel A. Toro Herrera
+     2	Bart Nagel
+     2	Eirik Brandtzæg
+     2	Gianluca Guarini
+     2	Janez Troha
+     2	Krister Kari
+     2	Raymond Cohen
+     2	Thomas Subera
+     2	rkyrychuk
+     2	sirudog
+     1	Andy Chen
+     1	Brandon Arbini
+     1	Carlo Capocasa
+     1	Fredust85
+     1	Gordon Brander
+     1	Ken Earley
+     1	Matt Brubeck
+     1	Matthias Dietrich
+     1	Michael Christopher
+     1	Steve Cochrane
+     1	Thomas von Deyen
+     1	Yoshito Komatsu
+VIE
+   605	Henri Bergius
+   308	Sebastian Germesin
+   153	Szaby Grünwald
+     6	Christopher Hlubek
+     6	Rene Kapusta
+     6	Sebastien Roch
+     4	Johannes Schüth
+     4	Reto Ryter
+     4	Szaby Gruenwald
+     2	Benjamin Eberlei
+     2	Sebastian Kurfuerst
+     2	dbu
+     2	nka11
+     2	ruKurz
+     1	Fabian Vogler
+     1	Reto Bachmann-Gmür
+     1	tHerrmann
+VivaGraphJS
+   100	anvaka
+     9	Andrei Kashcha
+wax
+   600	Tom MacWright
+   161	Young Hahn
+    48	Will White
+    19	tristen
+     9	Ansis Brammanis
+     5	Dane Springmeyer
+     5	Konstantin Käfer
+     3	Dave Cole
+     3	Dmitri Gaskin
+     3	Simon Tokumine
+     3	Tom Nightingale
+     2	Frank Febbraro
+     2	Jacob Toye
+     2	Konstantin Käfer
+     1	Alex Barth
+     1	Alexander Clausen
+     1	Javier Alvarez
+     1	Javier de la Torre
+     1	Jeff Miccolis
+     1	Nate Irwin
+     1	fredj
+WebGLCraft
+   115	Daniel Ribeiro
+weld
+   203	hij1nx
+   124	Elijah Insua
+     6	Hij1nx at Nodejitsu
+     6	Paolo Fragomeni
+     2	Hij1nx - Nodejitsu
+     2	Joel Hillacre
+     1	Caolan McMahon
+     1	Emmanuel Prochasson
+     1	Jim Tittsler
+     1	Ricardo Mendes
+     1	ironchefpython
+     1	jstsch
+whenever.js
+    56	Paul Campbell
+     1	Aaron Blohowiak
+     1	Kevin Sawicki
+windmill
+   814	Adam Christian
+   591	Mikeal Rogers
+   120	Matthew Eernisse
+    92	mde
+    22	Anthony Lenton
+    15	(no author)
+    11	George Marshall
+     9	Aaron Newton
+     9	Mike Taylor
+     7	Ian Singh
+     5	Bjorn Tillenius
+     5	robmadole
+     4	Jacob Robinson
+     4	Josip Lisec
+     4	Tony Young
+     4	adam
+     3	Dan Hipschman
+     3	Johan Euphrosine
+     3	Robert Buchholz
+     3	foobarfighter
+     2	Daniel Kerwin
+     2	Martin Häcker
+     2	Patrick Laban
+     2	Sean Bleier
+     1	Aylw
+     1	Felix Schwarz
+     1	Julien Jehannet
+     1	Mika Impola
+wire
+   523	Brian Cavalier
+    30	John Hann
+     8	Raul E Rangel
+     6	unscriptable
+     1	Jeremy Grelle
+wp-front-end-editor
+  1091	scribu
+    37	Johannes Schüth
+     1	Cristi Burcă
+     1	Radovan Smitala
+     1	plugin-master
+writeCapture
+   103	Noah Sloan
+    41	noah
+     3	Adrian Yee
+     3	Matthew Cieplak
+     2	vincejl
+     1	Eric Hankins
+     1	Russ Bradberry
+wro4j
+  1755	Alex Objelean
+   252	alex.objelean
+    45	Ivar Conradi Østhus
+    19	Filirom1
+    12	eivindw
+    11	Simon van der Sluis
+     8	ovi2004
+     7	Romain
+     6	Neil Gentleman
+     5	lltyk
+     5	unknown
+     4	Dmitry
+     4	Nayan Hajratwala
+     3	Dmitry Erman
+     3	Heath Eldeen
+     3	Michael J. Simons
+     3	sebastian.cotarla
+     2	martin-g
+     1	(no author)
+     1	Alexey Filippov
+     1	Garrett Conaty
+     1	Julien Wajsberg
+     1	Romain Philibert
+     1	Thilo-Alexander Ginkel
+     1	bogdan.csoregi
+     1	meri
+wtfjs
+    76	Brian LeRoux
+    19	brianleroux
+     4	Bradley Meck
+     4	DTrejo
+     4	Luke Andrews
+     3	Allen Pike
+     3	Oleg Slobodskoi
+     3	Rick Waldron
+     2	Dan Beam
+     2	Diogo Baeder de Paula Pinto
+     1	AJ ONeal
+     1	Arnout Kazemier
+     1	Bodo Tasche
+     1	David Trejo
+     1	Jakub Vrana
+     1	Johan Sundström
+     1	Kambfhase
+     1	Mathias Bynens
+     1	Peter Galiba
+     1	Rémi Prévost
+     1	Thomas Fuchs
+     1	airportyh
+     1	qfox
+     1	rwldrn
+wu.js
+   159	Nick Fitzgerald
+     3	Ionut G. Stan
+     2	Kaleb Hornsby
+wymeditor
+   399	Jean-Francois Hovinne
+   225	winhamwr
+    64	Jonatan Lundin
+    50	Daniel Reszka
+    45	Wes Winham
+    16	Samuel Cole
+    14	Bermi Ferrer
+     9	Michael Bishop
+     9	jfh
+     8	Jakub Krčma
+     8	Serena Li
+     7	Gellért Gyuris
+     4	Sam Cole
+     4	marijn
+     3	Jorge Salinas
+     3	jfhovinne
+     2	Jean-François Hovinne
+     2	Steven Bufton
+     2	Volker Mische
+     1	Jakub Vrana
+     1	Miroslav Bendík
+     1	Nick Hammond
+     1	Roger Hu
+     1	Scott Lewis
+     1	Scott Nixon
+     1	anze555
+     1	corphi
+wysihat
+   254	Joshua Peek
+    16	Jeff Kreeftmeijer
+    13	Joseph Pearson
+     7	glytch
+     4	Dan Dorman
+     4	Sam Stephenson
+     3	David Badley
+     3	Richard Taylor
+     3	jeffkreeftmeijer
+     2	Jamis Buck
+     1	Andrei Bocan
+     1	M. Scott Ford
+     1	Stephen Bartholomew
+wysihtml5
+    78	Christopher Blum
+    24	tiff
+     4	Martin H. Normark
+     4	Matthew Beale
+     2	Boban Jovanoski
+     2	James Hollingworth
+     2	Jeffrey Hardy
+     2	Samuel Frémondière
+     1	Arthur Corenzan
+     1	Bradly Feeley
+     1	Christoph Schiessl
+     1	Daniel Schierbeck
+     1	David Persson
+     1	Eric J. Holmes
+     1	Greg Tangey (Ruxton)
+     1	Sven Slootweg
+     1	Tobias Otte
+     1	Xavier Spriet
+xauth
+     4	Jian Shen
+xdate
+    14	Adam Shaw
+     3	Esa-Matti Suuronen
+     1	Terin Stock
+XRegExp
+   245	Steven Levithan
+    13	Mathias Bynens
+     5	Bjarke Walling
+xstats.js
+    45	Mr.doob
+    34	jdalton
+    22	John-David Dalton
+     7	Mathias Bynens
+yabble
+     8	James Brantly
+yeoman.io
+    12	addyosmani
+     7	Karl Ringman
+     2	Paul Irish
+     1	Addy Osmani
+yepnope.js
+   205	Alex Sexton
+    62	Ralph Holzmann
+     4	Kenneth Powers
+     3	Patrick Moore
+     3	Robin Wallar
+     3	mikeycgto
+     2	skaurus
+     1	Aleksey V. Zapparov
+     1	Colin Kirby
+     1	David Padbury
+     1	Dmitry Baranovskiy
+     1	Kenneth Kufluk
+     1	Tim Oxley
+     1	bugdebugger
+     1	jamesstephenson
+ymacs
+   270	Mihai Bazon
+yui3
+  3016	Dav Glass
+  2106	Matt Sweeney
+  2086	YUI Builder
+  1894	Luke Smith
+  1665	Satyen Desai
+  1503	Adam Moore
+  1453	Ryan Grove
+   861	Eric Ferraiuolo
+   755	Tripp
+   461	Todd Kloots
+   369	Derek Gathright
+   329	Jeff Conniff
+   230	Tilo Mitra
+   190	Allen Rabinovich
+   173	Jenny Han Donnelly
+   165	Jenny Donnelly
+   151	TSHA
+   131	Nate Koechley
+   110	tsha
+   109	Nicholas
+    81	isaacs
+    58	Eric Miraglia
+    54	Matt Mlinac
+    50	Reid Burke
+    46	Thomas Sha
+    43	jconniff
+    43	tripp
+    33	Nicholas C. Zakas
+    30	Eduardo Lundgren
+    29	george puckett
+    28	Nicholas C Zakas
+    26	Ryuichi Okumura
+    22	Pat Cavit
+    20	Julien Lecomte
+    18	AU - prod-ops - yui-team
+    17	TSha
+    16	Isaac Schlueter
+    13	gmoothart
+    11	Adam
+    11	Clarence Leung
+     9	Nate
+     9	Philip Tellis
+     8	Juan Ignacio Dopazo
+     8	Michael Johnston
+     7	Gabe Moothart
+     6	Evan Goer
+     6	yui-plug
+     5	Jeff Craig
+     5	John Lindal
+     5	Norbert Lindenberg
+     5	icebox
+     5	unknown
+     4	Benedikt Arnold
+     4	Iliyan Peychev
+     4	Tobion
+     4	stlsmiths
+     3	Caridy
+     3	Dmitry Savintsev
+     3	Marcel Köppen
+     3	Stuart Colville
+     2	Alexander Shusta
+     2	Andrew Wooldridge
+     2	Arnaud Didry
+     2	Brian J. Miller
+     2	Colin Frei
+     2	Daniel Barreiro
+     2	Daniel Stockman
+     2	Dav
+     2	Erik Vold
+     2	George Puckett
+     2	Greg Hinch
+     2	Nick Husher
+     2	Scott Schiller
+     2	Steven Olmsted
+     2	lexander
+     2	mattsnider
+     1	Ben Joffe
+     1	Curtis Harvey
+     1	David Miller
+     1	Fabian Frank
+     1	Ian Henshaw
+     1	Jakub Kuźma
+     1	Jay Shirley
+     1	Leonardo Martins
+     1	Michael Leibenson
+     1	Michael Matuzak
+     1	Ray Wen
+     1	Ryan Cannon
+     1	Shawn M Moore
+     1	Simon Højberg
+     1	Stephen Woods
+     1	Wayne Fincher
+     1	adamoore
+     1	davidtsadler
+     1	demo
+     1	elHornair
+     1	osmestad
+     1	trippb
+yui3-gallery
+  1168	YUI Builder
+    19	Dav Glass
+     4	Adam Moore
+     2	Luke Smith
+yui-functional
+     6	Christian Romney
+     6	gmoothart
+yui_toolbar
+    21	Michał Łowicki
+yui-twitter
+    28	Derek Gathright
+yui-yql
+    15	Dav Glass
+     2	Eric Ferraiuolo
+     1	Mikael Abrahamsson
+zen-coding
+   402	Sergey Chikuyonok
+     1	Ian Beck
+zepto
+   322	Thomas Fuchs
+   124	Mislav Marohnić
+    99	Sasha Koss
+    31	Sam Stephenson
+    23	ekhaled
+    22	Mario Estrada
+    13	Mislav Marohnić
+    10	Joao Paulo Dubas
+    10	John Boxall
+    10	errorhandler
+     8	Hunter Loftis
+     8	deepsweet
+     8	johanbrook
+     7	Alex Wilson
+     7	slavic
+     6	Aeron Glemann
+     6	Edward Tsech
+     6	Matt
+     5	Drazen Mokic
+     5	Pamela Fox
+     5	Thijs van der Vossen
+     4	Arne Martin Aurlien
+     4	Joe Lambert
+     4	Yehor Lvivski
+     3	Ben Gourley
+     3	Felix Gnass
+     3	Kir
+     3	Lindsey Simon
+     3	Mathias Bynens
+     3	Tom Melamed
+     3	cs
+     3	drewlesueur
+     3	mstffn
+     2	A. Jesse Jiryu Davis
+     2	Bjoern Wibben
+     2	BradBirdsall
+     2	Charles Stuart
+     2	Claudius Coenen
+     2	Clint Ecker
+     2	David Brockman Smoliansky
+     2	David Lindkvist
+     2	Gobhi Theivendran
+     2	Jakub Nesetril
+     2	Jakub Nešetřil
+     2	Kit Cambridge
+     2	Leonardo Dutra
+     2	Mauvis Ledford
+     2	Mike Breen
+     2	Mike Kelly
+     2	Paul Miller
+     2	Ramin B
+     2	Romain Ruetschi
+     2	Ron Derksen
+     2	Ross Hale
+     2	Simon Russell
+     2	johannburkard
+     1	Andre Goncalves
+     1	Andrew Hedges
+     1	Andrew Nesbitt
+     1	Arnout Kazemier
+     1	Charles Fulnecky
+     1	Chris Williams
+     1	Daniel Jordan
+     1	David Kaneda
+     1	Drew Stokes
+     1	Filippo Diotalevi
+     1	Gregory Mostizky
+     1	Josh Faul
+     1	Josh Perez
+     1	Joshua Peek
+     1	Juan Ignacio Dopazo
+     1	Leonid Bugaev
+     1	Léo Renaud Allaire
+     1	Linus Unnebäck
+     1	Matt Powell
+     1	Matthew O'Riordan
+     1	Matthias Kertal
+     1	Max Power
+     1	Messiahs
+     1	Michael Pearson
+     1	Nick Moore
+     1	Oliver Morgan
+     1	Oliver Schrenk
+     1	Parker Selbert
+     1	Patrick Walton
+     1	Phred
+     1	RStankov
+     1	Ramin B.
+     1	Ran Ben Aharon
+     1	Richard Herrera
+     1	Sean Massa
+     1	Sébastien Gruhier
+     1	Thomas R. Koll
+     1	Thomas Stachl
+     1	Tom Germeau
+     1	Tristan Dunn
+     1	Yuri Buyanov
+     1	adamsilver
+     1	bjrn
+     1	karolk
+     1	khaled
+     1	peutetre
+     1	philnash
+     1	riklomas
+     1	romanrudenko
+     1	skue
+     1	unknown
+     1	zoz
+     1	宇蠢Yuest
+zoomooz
+   117	jaukia
+     7	Janne Aukia
+     3	Daniel Ruf
+     1	seva
+     1	tammi
