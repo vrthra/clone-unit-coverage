@@ -7,5 +7,5 @@ ls = $(shell cd $(base); ls src)
 
 %.report: Makefile.%
 	echo $* + $^ + $@
-	$(MAKE) -f $^ run-report base=.. 
+	$(MAKE) -f $^ run-report
 

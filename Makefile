@@ -33,7 +33,7 @@ simopts= -reportDuplicateText \
          -ignoreSubtypeNames \
          -ignoreVariableNames 
 
-java=java -Xss24m -Xmx1700m 
+java=java -Xss16m -Xmx1700m 
 
 ls = $(shell ls src)
 
@@ -45,7 +45,14 @@ log/run.pmd.log:
 	$(java) -cp $(pmdjars) $(pmdrunner) \
              --files src --language ecmascript --minimum-tokens $(T) > log/run.pmd.log
 log/run.simian.log: 
-	find src -name \*.js |./bin/xa java -jar $(simian) $(simopts) > log/run.simian.log
+	find x/src -name \*.js |./bin/xa $(java) -XX:-UseConcMarkSweepGC -jar $(simian) $(simopts) > log/run.simian.log
+
+z:
+	s=`date`;for i in x/src/*; do \
+	echo $i;\
+	find x/src/$i -name \*.js |./bin/xa $(java) -XX:-UseConcMarkSweepGC -jar $(simian) $(simopts) ;\
+	done; \
+	echo $$s; date
 
 run-pmd: log/run.pmd.log
 
@@ -63,11 +70,39 @@ dup-tctoolkit: log/run.tctoolkit.log
 	echo "This finds duplications across projects"
 	cat log/run.tctoolkit.log | ./bin/analyze/tctoolkit.rb -all
 
-reports = $(shell cd reports; ls Makefile.*)
-run-report: $(reports)
+#reports = $(shell cd reports; ls Makefile.*)
+#run-report: $(reports)
+
+save/%-projects.txt:
+	find ./github/db/cache/ -name .\* | while read a; \
+		do if [ `cat $${a} | grep '/$*/' | grep '\.html$$'| wc -l`  -gt 0 ] ; \
+	     then	cat $${a} | head -1 | awk -F\/ '{print "/"$$2"/"$$3}' ; \
+			 fi ; \
+		done | sort -u | tee save/$*-projects.txt
+
+src/%/.checkedout: list-gen
+	echo checkout $*
+	cat save/*-projects.txt |grep '/$*$$' |while read a; do \
+ 	(cd src; [ -d src/$* ] || git clone git://github.com$${a}; touch `pwd`/$*/.checkedout; ) \
+	done
+
+log/%-report.log: src/%/.checkedout
+	cat save/spec-projects.txt |grep '$*$$' | while read a; do \
+	  (cd reports; $(MAKE) -f Makefile.spec run-report comp=$*; ) \
+		done
+	cat save/test-projects.txt |grep '$*$$' | while read a; do \
+	  (cd reports; $(MAKE) -f Makefile.test run-report comp=$*; ) \
+		done
+	if [ `find reports/$*.results -name \*.html | wc -l` -lt 1 ]; then \
+	  rm -rf src/$*; touch src/$*/.spec; touch src/$*/.test; \
+		rm -rf reports/$*.result; rm -f log/$*-report.log; \
+	fi
+
+list-gen: save/spec-projects.txt save/test-projects.txt
+
 Makefile.%:
 	echo > log/$*-report.log
-	cd reports; $(MAKE) -f $@ run-report base=..
+	cd reports; $(MAKE) -f $@ run-report
 
 # entry
 report:
@@ -101,8 +136,8 @@ run-once-tctoolkit:
 	python cdd.py -f $${pwd}/log/tctoolkit.out ~/research/clone-unit-coverage/src )
 
 
-# target = $@ source = $^
-type=pmd
+# target = $@ source = $^ stem = $*
+type=simian
 %.js: check/%.js
 	echo > log/$(type)-$@.log
 	echo > log/$(type)-$@-original.log
@@ -116,3 +151,6 @@ type=pmd
 	done | tee log/text-similar-$*.log | nl
 
 
+copy:
+	find ./src -name \*.js | grep -v spec | grep -v test | cpio -ov > x.cpio
+	cat x.cpio | (cd x; cpio -div)

@@ -1,20 +1,21 @@
 include common.mk
 
-comp=yui-yql
+comp=test
+base=$(shell dirname `pwd`)
 
-tstls = $(shell cd $(base)/src/${comp}/tests/; ls *.html)
-
+tstls = $(shell cd $(base)/src/${comp}/ && find . -name \*.html | grep test)
 
 run-report: $(tstls)
-	echo $(tstls)
+	cat $(base)/log/$(comp)-report.log
 
 %.html:
 	mkdir -p $(comp).results
 	echo "$@---------------------------" >> $(base)/log/saga.log
-	$(sagacmd) -b $(base)/src/$(comp)/ -i tests/$@ \
+	$(sagacmd) -b $(base)/src/$(comp)/ -i $@ \
                -o $(comp).results -s PER_TEST -n '.*test.*js$$' 2>&1 \
                |tee -a $(base)/log/saga.log
-	$(base)/bin/analyze/saga.rb $(comp).results/tests/$@-report.html |\
+	find $(comp).results/ -name \*.html | while read a; \
+	do $(base)/bin/analyze/saga.rb $${a}; done|\
                tee -a $(base)/log/$(comp)-report.log
 
 help:
