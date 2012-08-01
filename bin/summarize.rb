@@ -1,3 +1,4 @@
+#!/usr/bin/ruby
 i = 0
 j = 0
 STDIN.readlines.each do |l|
