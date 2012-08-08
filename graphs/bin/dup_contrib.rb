@@ -1,6 +1,6 @@
 #!/usr/bin/ruby
 require 'rubygems'
-require 'SVG/Graph/Plot'
+#require 'SVG/Graph/Plot'
 
 project = {}
 
@@ -51,7 +51,7 @@ File.open('summary/coverage-data.txt').each_line do |l|
     project[name][:coverage] = coverage
     project[name][:total] = total
   else
-    raise l
+    #raise l
   end
 end
 
@@ -69,6 +69,8 @@ end
 
 all = {}
 
+puts "#project\tdups(files)\tcode(lines)\ttest(lines)\tcontributors\tcoverage%\tfiles"
+puts "#-------------------------------------------------"
 project.keys.each do |k|
   next unless project[k][:knowndups] 
   next unless project[k][:code] 
@@ -78,11 +80,11 @@ project.keys.each do |k|
   next unless project[k][:total] 
   next if project[k][:total] == 0
   next if project[k][:code] == 0
-  #puts "%s: dups: %s code: %s test: %s contributors: %s coverage: %s" % [k, project[k][:knowndups], project[k][:code],  project[k][:test], project[k][:contributors], project[k][:coverage] * 100 / project[k][:total]]
+  puts "%s\t%s\t%s\t%s\t%s\t%s\t%s" % [k, project[k][:knowndups], project[k][:code],  project[k][:test], project[k][:contributors], project[k][:coverage] * 100 / project[k][:total], project[k][:filecount]]
   all[k] = project[k]
 end
 
-
+exit 0
 
 # Data sets are x,y pairs
 # Note that multiple data sets can differ in length, and that the
