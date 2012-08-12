@@ -1,343 +1,342 @@
-#project	dups	code	test	contributors	coverage
-#-------------------------------------------------
-geo	28	25310	25	4	24
-jquery-ui-bootstrap	7	2020	1624	14	79
-bootstrap	39	5516	9210	132	39
-android-actionbarstylegenerator	17	7870	939	1	79
-vexflow	10	11324	9331	18	42
-nimble	0	209	3704	3	55
-javascript-state-machine	0	180	2068	4	78
-fuckitjs	0	49	0	5	40
-pusher-js	1	1196	2436	15	22
-yabble	0	562	1480	1	64
-bootstrap-tour	25	6966	1757	4	37
-nwm	16	1176	243	2	28
-backbone-deep-model	0	155	3795	8	97
-jquery-validation	35	27819	3968	33	52
-stapes	24	7557	1483	3	68
-role	0	71	40	6	28
-olelo	34	13018	0	12	100
-backbone-express-mongoose-socketio	9	11700	2202	4	24
-strophejs	0	2656	1142	25	35
-fontello	52	22382	0	5	100
-wymeditor	8	9356	5934	25	16
-humane-js	0	192	0	8	78
-quote-stream	141	44775	11132	1	3
-persist-js	2	1608	37	8	31
-loadrunner	21	5386	780	7	54
-rainbow	0	1499	1629	20	91
-backbone-nested	8	1752	5359	5	57
-screw-unit	11	5613	1820	15	16
-mailcheck	0	162	1927	6	94
-tinymce	71	29263	2722	55	21
-zepto	0	2267	92	95	58
-promptu-menu	0	371	0	1	0
-ansuz	110	54135	10678	11	16
-protolicious	17	5245	0	4	27
-bookreader	2	4179	538	11	31
-jquery-timeago	0	843	1119	20	89
-backbone-boilerplate	38	10794	3028	27	27
-sizzle	27	14811	7071	28	15
-chai	4	2501	1612	16	39
-selectivizr	0	372	33	3	0
-html5-game-template	59	26390	4528	7	46
-jasmine	37	6405	4377	44	93
-filtrr	7	1968	349	1	30
-data	18	10149	14281	42	16
-growl-prototype	16	6344	0	1	16
-javascript-astar	0	917	25	5	8
-klass	0	154	331	2	31
-recurly-js	24	9778	0	10	30
-collusion	16	6915	1199	10	29
-jquery-metadata	0	46	2429	7	96
-lazyload	1	4	3991	1	100
-persistencejs	0	4843	5452	32	5
-javascript-book	6	9385	1160	5	41
-spidernode	5	45394	388107	145	100
-env-js	77	81018	21069	9	23
-openbadges	8	6618	3676	11	5
-wp-front-end-editor	131	171125	0	5	12
-instiki	76	61909	776	11	9
-mindmaps	12	10260	2855	3	64
-headjs	0	822	1258	6	54
-mochikit	19	19453	2160	20	29
-pagedown-bootstrap	41	6356	8909	2	76
-jstree	30	16860	36	2	39
-pavlov	4	1880	1049	6	52
-skrollr	0	578	1571	3	44
-openwebapps	7	11436	2037	19	10
-yui-yql	0	74	0	3	75
-twitterlib	0	551	11	3	16
-emscripten	66	364838	886	31	10
-timeline-setter	26	8234	0	6	39
-jquery_jeditable	17	13431	301	7	76
-backbone-prototype	4	888	14254	47	53
-jquery-smartresize	0	66	0	3	55
-jaws	0	3375	1574	11	31
-backbone-tastypie	0	85	10046	4	94
-core	636	832363	15045	80	100
-jquery-ui	36	9086	350	146	10
-jqfundamentals	26	19344	117	22	25
-backbone_query	0	301	2152	2	94
-list	0	1131	1183	17	56
-scroller	0	1003	1790	9	79
-chromeless	7	8469	8690	39	93
-sylvester	0	8732	740	1	42
-jquerypp	15	12315	895	45	58
-ninja	156	125338	196	23	7
-redmine_backlogs	23	25855	0	68	1
-adapt	0	62	0	1	100
-unveil	45	34104	4495	2	27
-lernanta	75	100095	2114	55	28
-jquery-address	19	2374	1093	11	100
-windmill	11	17016	18754	28	63
-biwascheme	1	7946	4669	7	29
-nodeclub	18	8734	2264	17	72
-knockout-sortable	4	3344	2790	3	45
-low-pro	0	811	27392	6	20
-bootbox	0	405	5698	10	8
-shining	0	398	61	1	0
-blue-ridge	64	22565	1135	9	37
-kissy	39	151861	21120	30	32
-js-imagediff	11	2674	366	2	62
-locache	0	1364	5069	3	29
-nodeunit	60	26427	8080	42	28
-video-js	3	4054	3439	23	21
-bootstrap-sass-scss-compass	36	4345	8912	114	76
-supermodel	0	357	10010	3	98
-cufon	0	1360	0	4	19
-jquery-cluetip	15	10909	1284	3	41
-xauth	0	237	0	1	85
-mousetrap	0	342	94	5	41
-wysihat	21	17635	13370	13	24
-raty	0	353	3775	10	91
-jwysiwyg	31	21516	214	69	29
-cohorts	0	358	134	2	68
-jquery-mobile	75	37256	6017	186	31
-twitter-text-js	11	21925	239	29	20
-node-websocket-server	0	664	249	7	56
-philogl	74	26871	941	8	35
-almond	1	194	3324	3	47
-envisionjs	111	62175	2939	3	23
-rightjs-core	29	10902	4801	8	28
-jquery-hive	4	7105	53446	2	30
-emailjs	2	1464	300	9	31
-jquery-waypoints	0	233	2462	3	83
-gaia	28	63665	8669	110	8
-jmapping	4	5764	1325	4	47
-trident-js	0	1167	315	1	26
-html2canvas	7	9008	1659	11	15
-documentjs	0	3585	95	13	100
-livereload	0	757	1209	11	30
-sausage	10	7400	15	2	26
-javascript-stacktrace	0	263	4595	12	22
-node-uuid	1	203	222	6	89
-datacouch	89	32456	3273	6	56
-jquery-mousewheel	0	52	0	5	20
-liquidmetal	1	504	130	3	59
-ace	175	94392	1143	101	18
-rivets	0	312	2428	8	78
-backbone-fundamentals	53	29465	981	57	15
-jwerty	0	231	348	4	26
-creditcard_js	0	41	3850	2	92
-tombloo	12	18930	7384	18	17
-html5please	0	907	67	61	45
-node-readability	2	4043	191	3	55
-raphael-svg-import	0	150	1203	3	3
-jquery-hashchange	31	17292	0	1	45
-transform	19	3715	210	3	15
-soundcloud-custom-player	0	648	1469	2	34
-todos	30	17111	1542	3	40
-syntaxhighlighter	4	15	7688	12	100
-jsmidi	0	289	0	1	78
-es6-shim	0	259	452	4	48
-selectorgadget	7	5566	0	4	18
-emile	0	46	900	6	78
-dygraphs	69	24435	10152	39	16
-livevalidation	11	6757	0	2	19
-glow1	0	11323	7252	15	28
-kindeditor	103	97764	2091	4	31
-phpjs	17	345059	1198	24	40
-selector-queries	0	148	10	2	42
-pouchdb	0	1792	2456	13	19
-jester	0	627	1170	9	1
-backbone	2	1230	13306	121	86
-nodechat-tutorial	37	12737	4175	1	3
-seajs	0	2836	1914	8	94
-domnode	7	20728	1951	5	89
-phantom-limb	0	238	95	2	6
-ice	84	58454	1868	6	7
-jquery-carousel-lite	24	7518	1114	2	65
-shapesmith	15	11872	347	6	41
-jspp	1	5521	1200	3	0
-iviewer	0	656	610	4	53
-jquery	163	87242	40876	131	29
-wax	23	26315	4436	18	30
-akihabara	0	4726	1925	5	4
-grunt	33	10742	753	9	21
-jscex	46	19100	512	5	46
-fathom	0	312	3	3	46
-wtfjs	75	35525	9510	24	24
-popcorn-js	19	14518	10806	40	16
-coweb	1	8252	4744	8	9
-openmind	122	60423	3782	4	17
-html5shiv	2	408	4338	8	28
-jcarousel	30	16588	74	7	32
-brequire	0	316	209	4	27
-ui	0	1049	2107	8	10
-livepipe-ui	11	9719	190	14	15
-knockout	7	5515	6400	26	64
-github-badges	0	176	749	4	57
-yui-twitter	0	237	39	1	41
-khan-exercises	101	50183	538	96	18
-yui3	0	235941	98088	85	39
-qooxdoo	99	210251	66646	63	82
-firebug	17	92060	66724	26	100
-javelin	0	7261	2621	36	38
-polypage	0	402	2795	2	90
-dmv	240	88769	33503	3	32
-common-node	7	7002	998	4	20
-backbone-aura	56	18823	4768	14	17
-date_input	0	388	555	1	63
-countly-server	84	64757	28006	5	27
-infinite-scroll	0	1023	5917	22	25
-fixie	0	185	131	9	60
-lodash	83	35156	19619	79	56
-paging_keys_js	0	588	1192	1	37
-imgareaselect	0	535	3286	1	18
-todomvc	153	95593	23166	59	48
-etherpad-lite	32	29452	45	57	27
-studio3	22	13626	361056	19	57
-jquery_example	0	119	1554	3	76
-jquery-week-calendar	8	4745	1353	26	43
-sammy	44	20177	3132	44	26
-phonegap-samples	18	9570	827	2	18
-html5-boilerplate-for-wordpress	2	505	2191	2	64
-montage	113	57366	29077	24	27
-ico	18	5917	1303	5	15
-jquery-tmpl	4	2155	1305	7	58
-fbootstrapp	2	737	1624	42	76
-simplecart-js	0	1464	6862	8	46
-bootstrap-datepicker	0	976	2573	42	92
-sass-twitter-bootstrap	39	5516	9210	28	40
-boomerang	0	1176	0	16	49
-tufte-graph	0	1908	0	2	8
-low-pro-for-jquery	0	176	2238	5	57
-jquery-bbq	61	22975	0	1	45
-canjs	60	24762	3764	46	43
-backbone-boilerplates	17	10152	981	6	15
-fullcalendar	0	4219	3511	9	41
-dustjs	96	38616	8428	15	63
-syn	16	11405	863	6	38
-backbone-forms	0	3831	7766	15	56
-wro4j	214	140466	2466	24	100
-appengine-boilerplate	36	21639	981	3	69
-tiddlywiki	24	8926	5435	18	0
-requirejs	3	1490	16531	27	53
-babilu	0	70	1245	3	92
-satisfy	0	127	871	1	95
-mwf	6	47009	3641	12	100
-superagent	0	1215	7275	10	56
-keymaster	0	136	900	13	50
-async	9	1841	1444	26	57
-mojito	13	22071	22531	25	100
-tquery	140	55961	11819	2	28
-scriptaculous	21	8496	1	13	21
-wysihtml5	7	34510	2112	18	18
-tile5	72	57970	6879	2	22
-prototype	11	16407	18640	29	38
-zoomooz	0	2027	0	5	100
-steal	110	35795	7826	33	46
-primer	0	306	21	1	32
-butter	2	13570	4528	19	7
-soca	27	8271	10819	16	100
-jasmine-ajax	7	9328	2534	7	22
-dataset	4	17742	4573	5	44
-globalize	7	55932	1402	18	33
-livequery	0	136	4199	3	70
-swagger-ui	90	30745	2555	11	100
-jelly	10	3109	8227	7	29
-modestmaps-js	1	8524	4254	11	65
-chrome-app-samples	204	67550	1935	10	35
-chico	87	22453	162667	13	85
-funcunit	16	11149	6943	21	16
-jquery-color	3	778	66101	10	11
-d3	34	25381	13133	38	16
-sticky	0	623	510	4	39
-create	0	4397	1452	13	9
-thorax	49	3752	8527	6	68
-treesaver	8	12503	3205	4	32
-es5-shim	1	636	3226	29	66
-weld	0	364	7169	11	38
-mofo	0	181	0	5	30
-timeframe	12	3793	524	4	36
-node-htmlparser	2	1214	1380	5	91
-curl	1	2621	1568	10	63
-nwmatcher	0	3813	17337	8	40
-jquery-cookie	0	160	0	10	44
-dreadnot	127	36503	22162	11	54
-q	0	1777	3005	12	60
-js-model	0	8037	4964	10	96
-jquery-mockjax	42	27652	835	20	42
-skywriter	30	29287	3216	15	49
-uni-form	0	710	517	13	52
-jquerymx	41	18102	5666	41	100
-uki	0	4367	2251	16	42
-jquip	17	8559	23780	13	28
-wire	1	2312	9196	5	16
-jasmine-reporters	57	11387	330	5	59
-laconic	0	130	8571	2	68
-tempo	0	761	0	3	58
-flexie	0	1523	0	1	23
-gladius-core	167	71369	10513	12	43
-scripty2	15	9177	479	17	23
-pebbles	0	151	1275	4	51
-jquery-jsonp	0	150	147	2	15
-substance	23	18725	3972	9	57
-agility	0	101	4160	5	17
-streamlinejs	2	7635	4192	10	41
-yui3-gallery	46	259277	7878	4	43
-qwery	5	4029	464	13	38
-spine	0	1685	9404	38	62
-jsts	0	19016	3065	7	25
-brackets	12	16241	16754	35	9
-calendar_date_select	1	742	3782	41	20
-jquery-autocomplete	0	737	21	8	33
-jam	117	47779	13899	6	43
-jo	0	7883	0	15	35
-jribbble	0	155	2758	2	2
-js-signals	11	6157	1557	4	96
-json3	7	6121	366	1	11
-yui-functional	0	18148	951	2	100
-fusebox	11	5487	31	2	27
-ymacs	0	6356	294	1	34
-gas	0	939	1631	2	100
-amplify	98	89999	1825	14	55
-jquery-scrolldepth	0	75	0	1	45
-yui_toolbar	234	119063	1729	1	68
-jquerytools	25	9426	2	31	28
-underscore	3	746	9641	85	61
-scopeleaks	0	39	12	2	62
-zen-coding	55	19144	2378	2	50
-text	6	3557	8	8	7
-svarx	0	803	0	1	77
-protovis	54	15805	2070	11	24
-xdate	0	606	1138	3	51
-recline	81	31088	5151	19	16
-esprima	15	6861	72399	11	26
-jquery-flexselect	0	327	0	4	59
-i18next	0	521	6416	8	18
-openlayers	153	48577	9256	59	3
-backbone-ui	32	12870	1202	6	22
-rbdb	22	7769	8591	4	20
-phonegap-start	5	1772	827	5	18
-context-blender	0	135	0	2	40
-qunit	2	2011	1899	59	33
-synapse	31	18565	1475	2	35
-jsrender	0	653	3468	3	24
-eventproxy	0	202	370	3	18
-gl-matrix	114	33363	2790	7	59
-enyo	75	29394	1419	29	28
-suggest	11	7790	254	4	41
-audiojs	1	586	0	7	38
-put-selector	0	358	106	3	44
+	total_files	dup_files	code_lines	test_lines	contributors	coverage_percent
+unveil	41	45	34104	4495	2	27
+lernanta	418	75	100095	2114	55	28
+jquery-address	28	19	2374	1093	11	100
+windmill	192	11	17016	18754	28	63
+biwascheme	64	1	7946	4669	7	29
+nodeclub	96	18	8734	2264	17	72
+knockout-sortable	11	4	3344	2790	3	45
+shining	13	0	398	61	1	0
+low-pro	52	0	811	27392	6	20
+bootbox	14	0	405	5698	10	8
+blue-ridge	31	64	22565	1135	9	37
+kissy	937	39	151861	21120	30	32
+js-imagediff	8	11	2674	366	2	62
+locache	22	0	1364	5069	3	29
+nodeunit	548	60	26427	8080	42	28
+video-js	33	3	4054	3439	23	21
+bootstrap-sass-scss-compass	66	36	4345	8912	114	76
+cufon	3	0	1360	0	4	19
+supermodel	10	0	357	10010	3	98
+jquery-cluetip	17	15	10909	1284	3	41
+xauth	3	0	237	0	1	85
+mousetrap	4	0	342	94	5	41
+wysihat	120	21	17635	13370	13	24
+raty	7	0	353	3775	10	91
+jwysiwyg	78	31	21516	214	69	29
+data	44	18	10149	14281	42	16
+cohorts	2	0	358	134	2	68
+jquery-mobile	131	75	37256	6017	186	31
+twitter-text-js	31	11	21925	239	29	20
+node-websocket-server	13	0	664	249	7	56
+philogl	118	74	26871	941	8	35
+almond	23	1	194	3324	3	47
+envisionjs	228	111	62175	2939	3	23
+rightjs-core	114	29	10902	4801	8	28
+jquery-hive	38	4	7105	53446	2	30
+jquery-waypoints	7	0	233	2462	3	83
+emailjs	10	2	1464	300	9	31
+gaia	267	28	63665	8669	110	8
+jmapping	18	4	5764	1325	4	47
+trident-js	5	0	1167	315	1	26
+html2canvas	20	7	9008	1659	11	15
+livereload	15	0	757	1209	11	30
+documentjs	59	0	3585	95	13	100
+sausage	8	10	7400	15	2	26
+javascript-stacktrace	14	0	263	4595	12	22
+node-uuid	4	1	203	222	6	89
+datacouch	115	89	32456	3273	6	56
+jquery-mousewheel	1	0	52	0	5	20
+liquidmetal	5	1	504	130	3	59
+ace	321	175	94392	1143	101	18
+rivets	10	0	312	2428	8	78
+backbone-fundamentals	91	53	29465	981	57	15
+jwerty	5	0	231	348	4	26
+creditcard_js	4	0	41	3850	2	92
+tombloo	115	12	18930	7384	18	17
+node-readability	10	2	4043	191	3	55
+raphael-svg-import	6	0	150	1203	3	3
+html5please	15	0	907	67	61	45
+jquery-hashchange	36	31	17292	0	1	45
+transform	14	19	3715	210	3	15
+soundcloud-custom-player	4	0	648	1469	2	34
+todos	8	30	17111	1542	3	40
+syntaxhighlighter	62	4	15	7688	12	100
+list	15	0	1131	1183	17	56
+jsmidi	1	0	289	0	1	78
+es6-shim	8	0	259	452	4	48
+selectorgadget	14	7	5566	0	4	18
+emile	4	0	46	900	6	78
+dygraphs	197	69	24435	10152	39	16
+livevalidation	8	11	6757	0	2	19
+glow1	56	0	11323	7252	15	28
+kindeditor	75	103	97764	2091	4	31
+phpjs	925	17	345059	1198	24	40
+backbone	21	2	1230	13306	121	86
+selector-queries	3	0	148	10	2	42
+pouchdb	26	0	1792	2456	13	19
+jester	6	0	627	1170	9	1
+nodechat-tutorial	187	37	12737	4175	1	3
+seajs	300	0	2836	1914	8	94
+domnode	138	7	20728	1951	5	89
+phantom-limb	3	0	238	95	2	6
+ice	130	84	58454	1868	6	7
+jquery-carousel-lite	9	24	7518	1114	2	65
+shapesmith	85	15	11872	347	6	41
+iviewer	9	0	656	610	4	53
+jspp	8	1	5521	1200	3	0
+jquery	758	163	87242	40876	131	29
+wax	81	23	26315	4436	18	30
+akihabara	37	0	4726	1925	5	4
+grunt	60	33	10742	753	9	21
+jscex	62	46	19100	512	5	46
+fathom	3	0	312	3	3	46
+wtfjs	1169	75	35525	9510	24	24
+popcorn-js	109	19	14518	10806	40	16
+coweb	225	1	8252	4744	8	9
+openmind	458	122	60423	3782	4	17
+html5shiv	14	2	408	4338	8	28
+jcarousel	9	30	16588	74	7	32
+ui	13	0	1049	2107	8	10
+brequire	34	0	316	209	4	27
+livepipe-ui	29	11	9719	190	14	15
+knockout	62	7	5515	6400	26	64
+yui-twitter	2	0	237	39	1	41
+github-badges	8	0	176	749	4	57
+khan-exercises	317	101	50183	538	96	18
+yui3	2026	0	235941	98088	85	39
+qooxdoo	2235	99	210251	66646	63	82
+firebug	746	17	92060	66724	26	100
+polypage	20	0	402	2795	2	90
+javelin	63	0	7261	2621	36	38
+dmv	1561	240	88769	33503	3	32
+common-node	65	7	7002	998	4	20
+backbone-aura	42	56	18823	4768	14	17
+date_input	29	0	388	555	1	63
+countly-server	755	84	64757	28006	5	27
+infinite-scroll	13	0	1023	5917	22	25
+fixie	3	0	185	131	9	60
+lodash	45	83	35156	19619	79	56
+paging_keys_js	4	0	588	1192	1	37
+imgareaselect	15	0	535	3286	1	18
+todomvc	748	153	95593	23166	59	48
+etherpad-lite	95	32	29452	45	57	27
+studio3	384	22	13626	361056	19	57
+jquery_example	6	0	119	1554	3	76
+jquery-week-calendar	9	8	4745	1353	26	43
+sammy	103	44	20177	3132	44	26
+phonegap-samples	35	18	9570	827	2	18
+html5-boilerplate-for-wordpress	9	2	505	2191	2	64
+montage	640	113	57366	29077	24	27
+ico	25	18	5917	1303	5	15
+jquery-tmpl	10	4	2155	1305	7	58
+bootstrap-datepicker	41	0	976	2573	42	92
+fbootstrapp	22	2	737	1624	42	76
+simplecart-js	7	0	1464	6862	8	46
+sass-twitter-bootstrap	72	39	5516	9210	28	40
+low-pro-for-jquery	3	0	176	2238	5	57
+boomerang	8	0	1176	0	16	49
+tufte-graph	3	0	1908	0	2	8
+jquery-bbq	37	61	22975	0	1	45
+canjs	131	60	24762	3764	46	43
+backbone-boilerplates	50	17	10152	981	6	15
+fullcalendar	41	0	4219	3511	9	41
+dustjs	152	96	38616	8428	15	63
+syn	19	16	11405	863	6	38
+backbone-forms	43	0	3831	7766	15	56
+wro4j	578	214	140466	2466	24	100
+appengine-boilerplate	15	36	21639	981	3	69
+tiddlywiki	108	24	8926	5435	18	0
+requirejs	351	3	1490	16531	27	53
+satisfy	4	0	127	871	1	95
+babilu	4	0	70	1245	3	92
+mwf	194	6	47009	3641	12	100
+superagent	32	0	1215	7275	10	56
+keymaster	4	0	136	900	13	50
+async	5	9	1841	1444	26	57
+mojito	785	13	22071	22531	25	100
+tquery	465	140	55961	11819	2	28
+scriptaculous	10	21	8496	1	13	21
+wysihtml5	111	7	34510	2112	18	18
+tile5	181	72	57970	6879	2	22
+prototype	119	11	16407	18640	29	38
+zoomooz	13	0	2027	0	5	100
+steal	194	110	35795	7826	33	46
+butter	154	2	13570	4528	19	7
+primer	2	0	306	21	1	32
+soca	18	27	8271	10819	16	100
+jasmine-ajax	27	7	9328	2534	7	22
+dataset	51	4	17742	4573	5	44
+globalize	369	7	55932	1402	18	33
+livequery	2	0	136	4199	3	70
+swagger-ui	191	90	30745	2555	11	100
+jelly	21	10	3109	8227	7	29
+modestmaps-js	63	1	8524	4254	11	65
+chrome-app-samples	436	204	67550	1935	10	35
+chico	804	87	22453	162667	13	85
+funcunit	59	16	11149	6943	21	16
+jquery-color	18	3	778	66101	10	11
+d3	377	34	25381	13133	38	16
+create	33	0	4397	1452	13	9
+sticky	5	0	623	510	4	39
+thorax	17	49	3752	8527	6	68
+treesaver	88	8	12503	3205	4	32
+mofo	3	0	181	0	5	30
+es5-shim	13	1	636	3226	29	66
+weld	9	0	364	7169	11	38
+timeframe	3	12	3793	524	4	36
+nwmatcher	31	0	3813	17337	8	40
+jquery-cookie	3	0	160	0	10	44
+node-htmlparser	9	2	1214	1380	5	91
+curl	65	1	2621	1568	10	63
+dreadnot	518	127	36503	22162	11	54
+js-model	70	0	8037	4964	10	96
+q	17	0	1777	3005	12	60
+jquery-mockjax	14	42	27652	835	20	42
+skywriter	163	30	29287	3216	15	49
+uni-form	15	0	710	517	13	52
+jquerymx	122	41	18102	5666	41	100
+uki	74	0	4367	2251	16	42
+jquip	162	17	8559	23780	13	28
+wire	46	1	2312	9196	5	16
+jasmine-reporters	10	57	11387	330	5	59
+tempo	5	0	761	0	3	58
+laconic	5	0	130	8571	2	68
+flexie	2	0	1523	0	1	23
+gladius-core	527	167	71369	10513	12	43
+scripty2	64	15	9177	479	17	23
+pebbles	5	0	151	1275	4	51
+jquery-jsonp	5	0	150	147	2	15
+substance	144	23	18725	3972	9	57
+agility	11	0	101	4160	5	17
+streamlinejs	55	2	7635	4192	10	41
+yui3-gallery	2357	46	259277	7878	4	43
+qwery	18	5	4029	464	13	38
+spine	21	0	1685	9404	38	62
+jsts	247	0	19016	3065	7	25
+brackets	153	12	16241	16754	35	9
+calendar_date_select	28	1	742	3782	41	20
+jquery-autocomplete	3	0	737	21	8	33
+jam	696	117	47779	13899	6	43
+jo	89	0	7883	0	15	35
+jribbble	8	0	155	2758	2	2
+js-signals	102	11	6157	1557	4	96
+json3	7	7	6121	366	1	11
+yui-functional	83	0	18148	951	2	100
+fusebox	9	11	5487	31	2	27
+gas	19	0	939	1631	2	100
+ymacs	31	0	6356	294	1	34
+amplify	34	98	89999	1825	14	55
+jquery-scrolldepth	2	0	75	0	1	45
+yui_toolbar	162	234	119063	1729	1	68
+jquerytools	21	25	9426	2	31	28
+underscore	14	3	746	9641	85	61
+scopeleaks	3	0	39	12	2	62
+zen-coding	94	55	19144	2378	2	50
+text	8	6	3557	8	8	7
+svarx	6	0	803	0	1	77
+protovis	127	54	15805	2070	11	24
+xdate	15	0	606	1138	3	51
+recline	68	81	31088	5151	19	16
+esprima	42	15	6861	72399	11	26
+jquery-flexselect	2	0	327	0	4	59
+i18next	11	0	521	6416	8	18
+openlayers	403	153	48577	9256	59	3
+backbone-ui	36	32	12870	1202	6	22
+rbdb	62	22	7769	8591	4	20
+phonegap-start	14	5	1772	827	5	18
+context-blender	1	0	135	0	2	40
+qunit	17	2	2011	1899	59	33
+synapse	34	31	18565	1475	2	35
+jsrender	7	0	653	3468	3	24
+eventproxy	4	0	202	370	3	18
+gl-matrix	80	114	33363	2790	7	59
+enyo	199	75	29394	1419	29	28
+suggest	5	11	7790	254	4	41
+audiojs	2	1	586	0	7	38
+put-selector	6	0	358	106	3	44
+geo	36	28	25310	25	4	24
+jquery-ui-bootstrap	28	7	2020	1624	14	79
+bootstrap	72	39	5516	9210	132	39
+android-actionbarstylegenerator	51	17	7870	939	1	79
+vexflow	93	10	11324	9331	18	42
+pusher-js	30	1	1196	2436	15	22
+yabble	146	0	562	1480	1	64
+nimble	10	0	209	3704	3	55
+javascript-state-machine	10	0	180	2068	4	78
+fuckitjs	3	0	49	0	5	40
+bootstrap-tour	10	25	6966	1757	4	37
+nwm	27	16	1176	243	2	28
+backbone-deep-model	7	0	155	3795	8	97
+jquery-validation	73	35	27819	3968	33	52
+stapes	20	24	7557	1483	3	68
+role	5	0	71	40	6	28
+olelo	406	34	13018	0	12	100
+backbone-express-mongoose-socketio	33	9	11700	2202	4	24
+strophejs	15	0	2656	1142	25	35
+fontello	65	52	22382	0	5	100
+wymeditor	72	8	9356	5934	25	16
+humane-js	2	0	192	0	8	78
+quote-stream	415	141	44775	11132	1	3
+persist-js	8	2	1608	37	8	31
+loadrunner	140	21	5386	780	7	54
+rainbow	32	0	1499	1629	20	91
+backbone-nested	11	8	1752	5359	5	57
+screw-unit	47	11	5613	1820	15	16
+mailcheck	5	0	162	1927	6	94
+tinymce	183	71	29263	2722	55	21
+promptu-menu	2	0	371	0	1	0
+zepto	17	0	2267	92	95	58
+ansuz	671	110	54135	10678	11	16
+protolicious	49	17	5245	0	4	27
+jquery-timeago	40	0	843	1119	20	89
+bookreader	15	2	4179	538	11	31
+backbone-boilerplate	16	38	10794	3028	27	27
+sizzle	12	27	14811	7071	28	15
+chai	33	4	2501	1612	16	39
+selectivizr	2	0	372	33	3	0
+html5-game-template	211	59	26390	4528	7	46
+jasmine	60	37	6405	4377	44	93
+filtrr	14	7	1968	349	1	30
+growl-prototype	10	16	6344	0	1	16
+javascript-astar	13	0	917	25	5	8
+klass	6	0	154	331	2	31
+recurly-js	17	24	9778	0	10	30
+collusion	21	16	6915	1199	10	29
+lazyload	66	1	4	3991	1	100
+persistencejs	44	0	4843	5452	32	5
+jquery-metadata	4	0	46	2429	7	96
+javascript-book	47	6	9385	1160	5	41
+spidernode	6933	5	45394	388107	145	100
+env-js	362	77	81018	21069	9	23
+openbadges	95	8	6618	3676	11	5
+wp-front-end-editor	216	131	171125	0	5	12
+instiki	726	76	61909	776	11	9
+mindmaps	152	12	10260	2855	3	64
+headjs	12	0	822	1258	6	54
+mochikit	60	19	19453	2160	20	29
+pagedown-bootstrap	71	41	6356	8909	2	76
+jstree	36	30	16860	36	2	39
+pavlov	6	4	1880	1049	6	52
+skrollr	7	0	578	1571	3	44
+openwebapps	141	7	11436	2037	19	10
+yui-yql	3	0	74	0	3	75
+twitterlib	3	0	551	11	3	16
+emscripten	181	66	364838	886	31	10
+timeline-setter	10	26	8234	0	6	39
+jquery_jeditable	31	17	13431	301	7	76
+backbone-prototype	19	4	888	14254	47	53
+jquery-smartresize	2	0	66	0	3	55
+jaws	32	0	3375	1574	11	31
+backbone-tastypie	7	0	85	10046	4	94
+core	2535	636	832363	15045	80	100
+jquery-ui	15	36	9086	350	146	10
+jqfundamentals	52	26	19344	117	22	25
+backbone_query	7	0	301	2152	2	94
+scroller	8	0	1003	1790	9	79
+chromeless	202	7	8469	8690	39	93
+sylvester	72	0	8732	740	1	42
+jquerypp	129	15	12315	895	45	58
+ninja	578	156	125338	196	23	7
+redmine_backlogs	95	23	25855	0	68	1
+adapt	2	0	62	0	1	100
