@@ -1,6 +1,5 @@
 #!/usr/bin/ruby
 require 'rubygems'
-#require 'SVG/Graph/Plot'
 
 project = {}
 
@@ -69,8 +68,8 @@ end
 
 all = {}
 
-puts "#project\tdups(files)\tcode(lines)\ttest(lines)\tcontributors\tcoverage%\tfiles"
-puts "#-------------------------------------------------"
+# In r format
+puts "\ttotal_files\tdup_files\tcode_lines\ttest_lines\tcontributors\tcoverage_percent"
 project.keys.each do |k|
   next unless project[k][:knowndups] 
   next unless project[k][:code] 
@@ -80,37 +79,6 @@ project.keys.each do |k|
   next unless project[k][:total] 
   next if project[k][:total] == 0
   next if project[k][:code] == 0
-  puts "%s\t%s\t%s\t%s\t%s\t%s\t%s" % [k, project[k][:knowndups], project[k][:code],  project[k][:test], project[k][:contributors], project[k][:coverage] * 100 / project[k][:total], project[k][:filecount]]
+  puts "%s\t%s\t%s\t%s\t%s\t%s\t%s" % [k, project[k][:filecount], project[k][:knowndups], project[k][:code],  project[k][:test], project[k][:contributors], project[k][:coverage] * 100 / project[k][:total]]
   all[k] = project[k]
 end
-
-exit 0
-
-# Data sets are x,y pairs
-# Note that multiple data sets can differ in length, and that the
-# data in the datasets needn't be in order; they will be ordered
-# by the plot along the X-axis.
-projection = []
-
-# plot between known dups and cloc:code
-all.each do |k, v|
-  projection << v[:knowndups]
-  projection << v[:contributors]
-end
-
-graph = SVG::Graph::Plot.new({
-   :height => 500,
-   :width => 800,
-   :key => true,
-   :scale_x_integers => true,
-   :scale_y_integerrs => true,
-   :show_data_values => false,
-   :show_data_points => true
-})
-
-graph.add_data({
-   :data => projection,
-   :title => 'KnownDups(files)/contributors',
-})
-
-print graph.burn()
