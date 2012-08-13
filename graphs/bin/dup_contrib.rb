@@ -1,5 +1,6 @@
 #!/usr/bin/ruby
 require 'rubygems'
+require 'yaml'
 
 project = {}
 
@@ -59,7 +60,7 @@ File.open('summary/filecount.summary').each_line do |l|
   when /(\d+) ([^ ]+)$/
     name = $2.downcase.to_sym
     next unless project[name]
-    project[name][:filecount] = $1
+    project[name][:filecount] = $1.to_i
   else
     raise l
   end
@@ -79,6 +80,9 @@ project.keys.each do |k|
   next unless project[k][:total] 
   next if project[k][:total] == 0
   next if project[k][:code] == 0
+
+  raise k.to_yaml if project[k][:knowndups] > project[k][:filecount]
   puts "%s\t%s\t%s\t%s\t%s\t%s\t%s" % [k, project[k][:filecount], project[k][:knowndups], project[k][:code],  project[k][:test], project[k][:contributors], project[k][:coverage] * 100 / project[k][:total]]
   all[k] = project[k]
 end
+

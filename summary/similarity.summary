@@ -285,7 +285,6 @@
 0 result/server-configs.sim
 0 result/session.js.sim
 0 result/shining.sim
-0 result/similarity.summary
 0 result/simplecart-js.sim
 0 result/sisyphus.sim
 0 result/skrollr.sim
@@ -673,5 +672,4 @@
 222 result/NewsBlur.sim
 234 result/yui_toolbar.sim
 240 result/dmv.sim
-538 result/filecount.summary
 636 result/core.sim
