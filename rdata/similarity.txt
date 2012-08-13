@@ -581,7 +581,6 @@ sylvester	0
 syn	16
 synapse	31
 syntaxhighlighter	3
-syntaxhighlighter	4
 tangram-base	29
 tangram-component	29
 tapestry5-jquery	77
