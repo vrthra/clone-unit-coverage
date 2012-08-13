@@ -1,0 +1,27 @@
+-> Find Javascript EXE papers
+  ICSE 2007: Ajaxifying Classic web applications
+  ICSE 2009: Invariant-based automatic testing of AJAX user interfaces
+  ICSE 2011: Automated cross-browser compatibility testing
+  ICSE 2011: A framework for automated testing of javascript web applications
+  ICSE 2011: Coalescing executions for fast uncertainty analysis. 
+
+-> Find Correlation between Lot of reuse and Lot of Coverage
+  | cor(x$dup_files/x$total_files, x$coverage_p)
+  [1] -0.1070348
+
+-> Recommendations
+       Statistics for Migration of Tests
+       -> Find 50 high tested ness projects
+       -> Find similarities with 50 low tested ness projects
+       -> Can N number of instances be reused?
+
+Regression analysis, Scatter plot (jen)
+
+ total_files     dup_files        code_lines       test_lines      contributors    coverage_percent
+ Min.   :   1   Min.   :  0.00   Min.   :     4   Min.   :     0   Min.   :  1.00   Min.   :  0.0   
+ 1st Qu.:   9   1st Qu.:  0.00   1st Qu.:   710   1st Qu.:   348   1st Qu.:  3.00   1st Qu.: 22.0   
+ Median :  31   Median :  6.00   Median :  5566   Median :  1729   Median :  8.00   Median : 39.0   
+ Mean   : 148   Mean   : 26.01   Mean   : 21120   Mean   :  7653   Mean   : 16.82   Mean   : 43.7   
+ 3rd Qu.:  96   3rd Qu.: 30.00   3rd Qu.: 18565   3rd Qu.:  4801   3rd Qu.: 18.00   3rd Qu.: 60.0   
+ Max.   :6933   Max.   :636.00   Max.   :832363   Max.   :388107   Max.   :186.00   Max.   :100.0   
+
