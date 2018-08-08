@@ -24,7 +24,7 @@ Needs Firefox
 - JSSpec
 - JSpec
 
-- [Jasmine](http://pivotal.github.com/jasmine/)
+- [Jasmine](https://jasmine.github.io/)
 ````Javascript
 describe("A suite", function() {
   it("contains spec with an expectation", function() {
